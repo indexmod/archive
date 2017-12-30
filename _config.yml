@@ -1,7 +1,7 @@
 ---
 title: Indexmod
-timezone: UTC
-collections:
+timezone: Moscow
+collections: 
   posts:
     title: Posts
     output: true
