@@ -16,6 +16,6 @@ description: Indexmod (2006, Moscow) website and brand based a concept which ori
   (Indexmod Encyclopedia) on the one hand, as rating engine (Indexmod) on the other
   hand. The aim of the project is to create an elegant looking, alternative software
   based on the idea of an anonymous real-time wiki editing and semantic markup integration.
-show_downloads: true
+show_downloads: false
 google_analytics: 
 theme: jekyll-theme-minimal
