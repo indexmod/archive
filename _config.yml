@@ -14,7 +14,7 @@ description: '123'
 twitter_username: 
 github_username: 
 minima:
-  date_format:
+  date_format: 
 markdown: 
 theme: minima
 exclude:
