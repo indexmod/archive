@@ -17,5 +17,7 @@ description: Indexmod (2006, Moscow) website and brand based a concept which ori
   hand. The aim of the project is to create an elegant looking, alternative software
   based on the idea of an anonymous real-time wiki editing and semantic markup integration.
 show_downloads: false
-google_analytics: 
+google_analytics: 'UA-111762431-1
+
+'
 theme: jekyll-theme-minimal
