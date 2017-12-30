@@ -3,6 +3,13 @@ title: Editing
 date: 2017-12-30 14:49:00 Z
 ---
 
+---
+layout: page
+title: Editing
+---
+
+
+
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 [Link to another page](another-page).
