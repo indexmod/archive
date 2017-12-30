@@ -1,5 +1,5 @@
 ---
-title: Tale
+title: Indexmod Pipi
 timezone: UTC
 collections:
   posts:
@@ -10,18 +10,19 @@ collections:
     output: true
 permalink: "/:year-:month-:day/:title"
 paginate: 5
-baseurl: "/tale"
-url: https://chesterhow.github.io
+baseurl: "/indexmod"
+url: https://indexmod.github.io
 sass:
   sass_dir: _sass
-  style: :compressed
+  style: compressed
 markdown: kramdown
 author:
-  name: Chester How
-  url: http://chester.how
-  email: chesterhow@gmail.com
+  name: 
+  url: 
+  email: 
 version: 3.4.1
 github:
-  repo: https://github.com/chesterhow/tale
+  repo: 
 plugins:
 - jekyll-paginate
+remote_theme: paginate
