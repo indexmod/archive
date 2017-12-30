@@ -1,22 +1,18 @@
 ---
-title: Your awesome title
+title: ABC
 timezone: UTC
 collections:
   posts:
-    title: Posts
+    title: DEF
     output: true
   uploads:
-    title: Uploads
+    title: GHJ
     output: true
-author: GitHub User
-email: your-email@domain.com
-description: 'Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for Google search
-  results) and in your feed.xml site description.
-
-'
-twitter_username: jekyllrb
-github_username: jekyll
+author:
+email:
+description: '123'
+twitter_username: 
+github_username: 
 minima:
   date_format: "%b %-d, %Y"
 markdown: kramdown
