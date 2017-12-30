@@ -1,5 +1,5 @@
 ---
-title: Hagura - Light!
+title: Indexmod Pedia!
 timezone: UTC
 collections:
   posts:
@@ -12,8 +12,8 @@ baseurl: "/hagura"
 email: your@email.com
 highlighter: rouge
 markdown: kramdown
-analytics: UA-83979019-1
-disqus-shortname: webjeda-demo
+analytics: 
+disqus-shortname:
 compress_html:
   clippings:
   - html
