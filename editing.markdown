@@ -97,11 +97,11 @@ end
 
 ### Small image
 
-![](https://assets-cdn.github.com/images/icons/emoji/octocat.png)
+![](https://upload.wikimedia.org/wikipedia/commons/e/e7/G%C3%A9ode_V_3_1_duale.gif)
 
 ### Large image
 
-![](https://guides.github.com/activities/hello-world/branching.png)
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Sphere_-_monochrome_simple.svg/2000px-Sphere_-_monochrome_simple.svg.png)
 
 
 ### Definition lists can be used with HTML syntax.
