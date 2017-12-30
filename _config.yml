@@ -13,7 +13,7 @@ email: your@email.com
 highlighter: rouge
 markdown: kramdown
 analytics: 
-disqus-shortname:
+disqus-shortname: 
 compress_html:
   clippings:
   - html
