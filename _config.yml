@@ -14,8 +14,8 @@ description: '123'
 twitter_username: 
 github_username: 
 minima:
-  date_format: "%b %-d, %Y"
-markdown: kramdown
+  date_format:
+markdown: 
 theme: minima
 exclude:
 - Gemfile
