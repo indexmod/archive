@@ -8,8 +8,8 @@ collections:
   uploads:
     title: GHJ
     output: true
-author:
-email:
+author: 
+email: 
 description: '123'
 twitter_username: 
 github_username: 
