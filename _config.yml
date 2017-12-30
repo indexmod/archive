@@ -1,28 +1,31 @@
----
-title: Indexmod Pipi
-timezone: UTC
-collections:
-  posts:
-    title: Posts
-    output: true
-  uploads:
-    title: Uploads
-    output: true
-permalink: "/:year-:month-:day/:title"
-paginate: 5
-baseurl: "/indexmod"
-url: https://indexmod.github.io
+# Permalinks
+permalink:      /:year-:month-:day/:title
+
+# Setup
+title:          Tale
+paginate:       5
+baseurl:        "/tale"
+url:            "https://chesterhow.github.io"
+
+# Assets
 sass:
-  sass_dir: _sass
-  style: compressed
-markdown: kramdown
+  sass_dir:     _sass
+  style:        :compressed
+
+# Build settings
+markdown:       kramdown
+
+# About
 author:
-  name: 
-  url: 
-  email: 
-version: 3.4.1
+  name:         Chester How
+  url:          http://chester.how
+  email:        chesterhow@gmail.com
+
+# Custom vars
+version:        3.4.1
 github:
-  repo: 
+  repo:         https://github.com/chesterhow/tale
+
+# Gems
 plugins:
-- jekyll-paginate
-remote_theme: paginate
+  - jekyll-paginate
