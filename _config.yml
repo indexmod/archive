@@ -13,4 +13,4 @@ show_downloads: true
 google_analytics: 'UA-111762431-1
 
 '
-theme: jekyll-theme-minima
+theme: jekyll-theme-minimal
