@@ -25,4 +25,3 @@ github:
   repo: 
 plugins:
 - jekyll-paginate
-remote_theme: paginate
