@@ -14,12 +14,12 @@ baseurl: "/indexmod"
 url: https://indexmod.github.io
 sass:
   sass_dir: _sass
-  style: :compressed
+  style: compressed
 markdown: kramdown
 author:
-  name: Chester How
-  url: http://chester.how
-  email: chesterhow@gmail.com
+  name: 
+  url: 
+  email: 
 version: 3.4.1
 github:
   repo: 
