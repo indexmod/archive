@@ -1,0 +1,20 @@
+---
+title: INXMD
+timezone: UTC
+collections:
+  uploads:
+    title: GHJ
+    output: true
+  posts:
+    title: Posts
+    output: true
+description: 'La-la-la
+
+'
+minima:
+  date_format: "%b %-d, %Y"
+markdown: kramdown
+theme: minima
+exclude:
+- Gemfile
+- Gemfile.lock
