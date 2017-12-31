@@ -1,0 +1,20 @@
+---
+title: IE
+timezone: Europe/Moscow
+collections:
+  posts:
+    title: Posts
+    output: true
+  uploads:
+    title: Uploads
+    output: true
+description: 
+show_downloads: true
+git_branch: master
+google_analytics: UA-111762431-1
+theme: 
+wiki_folder: wiki
+use_github_wiki: true
+custom_head: true
+custom_sidebar: true
+custom_footer: true
