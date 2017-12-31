@@ -1,65 +1,10 @@
 <!DOCTYPE html>
 <html>
-<head>
-<style>
-body {
-  margin: 0;
-  font-family: Arial;
-}
-
-.top-container {
-  background-color: white;
-  padding: 30px;
-  text-align: center;
-}
-
-.header {
-  padding: 10px 16px;
-  background: white;
-  color: black;
-}
-
-.content {
-  padding: 16px;
-}
-
-.sticky {
-  position: fixed;
-  top: 0;
-  width: 100%;
-}
-
-.sticky + .content {
-  padding-top: 102px;
-}
-</style>
-</head>
 <body>
 
-<div class="top-container">
-  <h1>Scroll Down</h1>
-  <p>Scroll down to see the sticky effect.</p>
-</div>
+<h1>Head</h1>
 
-<div class="header" id="myHeader">
-  <h2>My Header</h2>
-</div>
-
-<div class="content">
-<script>
-window.onscroll = function() {myFunction()};
-
-var header = document.getElementById("myHeader");
-var sticky = header.offsetTop;
-
-function myFunction() {
-  if (window.pageYOffset >= sticky) {
-    header.classList.add("sticky");
-  } else {
-    header.classList.remove("sticky");
-  }
-}
-</script>
+<p>Paragraph</p>
 
 </body>
 </html>
