@@ -1,20 +1,5 @@
----
-title: IE
-timezone: Europe/Moscow
-collections:
-  posts:
-    title: Posts
-    output: true
-  uploads:
-    title: Uploads
-    output: true
-description: 
+title: Minimal theme
+description: Minimal is a theme for GitHub Pages.
 show_downloads: true
-git_branch: master
-google_analytics: UA-111762431-1
-theme: 
-wiki_folder: wiki
-use_github_wiki: true
-custom_head: true
-custom_sidebar: true
-custom_footer: true
+google_analytics:
+theme: jekyll-theme-minimal
