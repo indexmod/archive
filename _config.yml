@@ -11,7 +11,7 @@ collections:
 description: 
 show_downloads: true
 git_branch: master
-google_analytics: 
+google_analytics: UA-111762431-1
 theme: 
 wiki_folder: wiki
 use_github_wiki: true
