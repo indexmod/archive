@@ -6,43 +6,43 @@
 
 h1 {
     font-family: 'Georgia', serif;
-    font-size: 25px;
-    font-weight: 300;
+    font-size: 30px;
+    font-weight: 100;
     line-height: 1em;
     color: black;
 }
 p {
     font-family: 'Georgia', serif;
-    font-size: 18px;
+    font-size: 20px;
     line-height: 1em;
-    font-weight: 300;
-    color: grey;
+    font-weight: 100;
+    color: black;
 }
 
 /* unvisited link */
 
 a:link {
     color: green;
-    text-decoration: underline;
+    text-decoration: none;
 }
 /* visited link */
 
 a:visited {
     color: green;
-    text-decoration: underline;
+    text-decoration: none;
 }
 /* mouse over link */
 
 a:hover {
     color: green;
-    text-decoration: underline;
+    text-decoration: none;
 }
 
 /* selected link */
 
 a:active {
     color: green;
-    text-decoration: underline;
+    text-decoration: none;
 }
 
 img {
