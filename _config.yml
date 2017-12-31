@@ -1,26 +1,26 @@
 ---
-title: git-wiki
-timezone: UTC
+title: Indexmod Encyclopedia
+timezone: Moscow
 collections:
   uploads:
-    title: GHJ
+    title: Uploads
     output: true
-  posts:
+  posts: 
     title: Posts
     output: true
 description: git-wiki is a jekyll theme originally based on jekyll-theme-minimal
-show_downloads: true
+show_downloads: true 
 git_branch: master
 logo_url: 
 google_analytics: 
 theme: 
 wiki_folder: wiki
 use_github_wiki: false
-use_prose_io: true
+use_prose_io: false
 google_cse_token: 
-custom_head: false
-custom_sidebar: false
-custom_footer: false
+custom_head: true
+custom_sidebar: true
+custom_footer: true
 gems:
 - jekyll-sitemap
 - jekyll-mentions
