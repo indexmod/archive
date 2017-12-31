@@ -1,5 +1,5 @@
 ---
-title: IE
+title: Indexmod Encyclopedia
 timezone: UTC
 collections:
   posts:
@@ -8,7 +8,7 @@ collections:
   uploads:
     title: Uploads
     output: false
-description: 123
+description: 'Alternative wiki '
 show_sidebar: false
 show_downloads: false
 google_analytics: 'UA-111762431-1
