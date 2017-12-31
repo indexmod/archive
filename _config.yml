@@ -1,6 +1,6 @@
 ---
 title: Indexmod Encyclopedia
-timezone: Moscow
+timezone: Europe/Moscow
 collections:
   posts:
     title: Posts
@@ -8,10 +8,9 @@ collections:
   uploads:
     title: Uploads
     output: true
-description: git-wiki is a jekyll theme originally based on jekyll-theme-minimal
+description: Hello! Hello...
 show_downloads: true
 git_branch: master
-logo_url: 
 google_analytics: 
 theme: 
 wiki_folder: wiki
