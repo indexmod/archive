@@ -1,9 +1,18 @@
+---
 title: git-wiki
+timezone: UTC
+collections:
+  uploads:
+    title: GHJ
+    output: true
+  posts:
+    title: Posts
+    output: true
 description: git-wiki is a jekyll theme originally based on jekyll-theme-minimal
 show_downloads: true
 git_branch: master
-logo_url:
-google_analytics:
+logo_url: 
+google_analytics: 
 theme: 
 wiki_folder: wiki
 use_github_wiki: false
@@ -13,8 +22,8 @@ custom_head: false
 custom_sidebar: false
 custom_footer: false
 gems:
-  - jekyll-sitemap
-  - jekyll-mentions
-  - jemoji
-  - jekyll-redirect-from
-  - jekyll-feed
+- jekyll-sitemap
+- jekyll-mentions
+- jemoji
+- jekyll-redirect-from
+- jekyll-feed
