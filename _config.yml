@@ -1,14 +1,14 @@
 ---
-title: Minimal theme
+title: IE
 timezone: UTC
 collections:
   posts:
     title: Posts
-    output: true
+    output: false
   uploads:
     title: Uploads
-    output: true
-description: Minimal is a theme for GitHub Pages.
-show_downloads: true
+    output: false
+description: 123
+show_downloads: false
 google_analytics: 
-theme: jekyll-theme-minimal
+theme: tale
