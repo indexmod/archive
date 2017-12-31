@@ -1,20 +1,20 @@
----
-title: Inxmd
-timezone: UTC
-collections:
-  uploads:
-    title: GHJ
-    output: true
-  posts:
-    title: Posts
-    output: true
-description: 'La-la-la
-
-'
-minima:
-  date_format: "%b %-d, %Y"
-markdown: kramdown
-theme: minima
-exclude:
-- Gemfile
-- Gemfile.lock
+title: git-wiki
+description: git-wiki is a jekyll theme originally based on jekyll-theme-minimal
+show_downloads: true
+git_branch: master
+logo_url:
+google_analytics:
+theme: 
+wiki_folder: wiki
+use_github_wiki: false
+use_prose_io: true
+google_cse_token: 
+custom_head: false
+custom_sidebar: false
+custom_footer: false
+gems:
+  - jekyll-sitemap
+  - jekyll-mentions
+  - jemoji
+  - jekyll-redirect-from
+  - jekyll-feed
