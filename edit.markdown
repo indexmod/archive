@@ -27,7 +27,7 @@ This is a normal paragraph following a header. GitHub is a code hosting platform
 
 * This is an unordered list following a header.
 
-## Tables 
+## Tables
 
 | Year           | City              | Prise    |
 |:---------------|:------------------|:------   |
@@ -64,5 +64,4 @@ This is a normal paragraph following a header. GitHub is a code hosting platform
 
 ![](/indexmod.png)
 
-    
 The final element.
