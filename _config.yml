@@ -8,7 +8,7 @@ collections:
   uploads:
     title: Uploads
     output: false
-description: 'Alternative wiki '
+description: 'This is alterwikipedia '
 show_sidebar: false
 show_downloads: false
 google_analytics: 'UA-111762431-1
