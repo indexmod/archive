@@ -3,9 +3,6 @@ title: Edit
 date: 2017-12-31 18:49:00 Z
 ---
 
-
-
-
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 [Link to another page](another-page).
