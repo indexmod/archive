@@ -2,30 +2,6 @@
 ---
 
 @import "jekyll-theme-minimal";
-
-h1 {
-    font-family: "Georgia", Times, serif;
-    color: green;
-}
-
-p {
-    font-family: "Georgia", Times, serif;
-    color: black;
-}
-
-
-
-.likebtn-wrapper
-
-{   
-    font-family: 'Helvetica Neue', sans-serif;
-    font-size: 30px;
-    line-height: 1.7em;
-    font-weight: 900;
-    letter-spacing: 2px;
-}
-
-
 body {
     display: block;
     width: 100%;
@@ -84,6 +60,7 @@ a:hover {
     color: green;
     text-decoration: underline;
 }
+
 /* selected link */
 
 a:active {
