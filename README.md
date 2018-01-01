@@ -1,6 +1,8 @@
-# This is lightest alterwikipedia with Siteleaf admin
+# Indexmod Encyclopedia is the alterwikipedia 
 
-![Hello](/indexmod.png)
+A ightest open wiki that hosted on GitHub with Siteleaf admin with the beautiful aim
+
+!(/indexmod.png)
 
 
     
