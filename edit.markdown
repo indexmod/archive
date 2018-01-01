@@ -63,5 +63,3 @@ This is a normal paragraph following a header. GitHub is a code hosting platform
 ### Image
 
 ![](/indexmod.png)
-
-The final element.
