@@ -1,5 +1,5 @@
 ---
-title: IE
+title:
 timezone: UTC
 collections:
   posts:
@@ -8,7 +8,8 @@ collections:
   uploads:
     title: Uploads
     output: false
-description: Indexmod Encyclopedia
+description: 
+include: ['.htaccess']
 show_sidebar: false
 show_downloads: false
 google_analytics: 'UA-111762431-1
