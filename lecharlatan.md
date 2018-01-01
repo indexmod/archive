@@ -17,7 +17,7 @@ layout: default
 
 # Footnotes
 
-1. <span id="f1"></span> This is a footnote-1. [http://calvertjournal.com/articles/show/6278/cyrillic-slogan-streetwear-clothing-rubchinskiy-vetements](#a1)
+[1](#a1) <span id="f1"></span> (http://example.com/ "Spelling it out: why Cyrillic slogan streetwear is the new punk uniform for post-Soviet teens (Sasha Raspopina, The Calvert Journal)")
 
 2. <span id="f2"></span> This is a footnote-2. [ссылка-2](#a2)
 
