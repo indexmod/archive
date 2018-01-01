@@ -66,7 +66,8 @@ table {
 		color: green;
 		text-decoration: none;
 	}
-	img {
+
+	img + em  {
 		max-width: 50%;
 		min-width: 5%;
 		height: auto;
@@ -74,16 +75,15 @@ table {
 		-webkit-filter: grayscale(100%);
 
 		filter: grayscale(100%);
-	}
-
-img + em {
-	
-	        font-family: 'Georgia', serif;
+		
+		font-family: 'Georgia', serif;
 		font-size: 20px;
 		line-height: 1.6em;
 		font-weight: 200;
 		color: black; 
-}
+	}
+
+
 
 	footer {
 		font-family: 'Georgia', serif;
