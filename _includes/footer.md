@@ -1,1 +1,1 @@
-[edit](Edit)
+[Edit](edit)
