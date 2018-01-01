@@ -16,12 +16,6 @@ h6 {
 	color: black;
 }
 
-message {
-	font-family: 'Georgia', serif;
-	font-size: 40px;
-	font-weight: 100;
-	line-height: 1.2em;
-	color: green;
 	p {
 		font-family: 'Georgia', serif;
 		font-size: 20px;
@@ -36,22 +30,22 @@ message {
 		font-weight: 200;
 		color: black;
 	}
-	/* unvisited link */
+
 	a:link {
 		color: green;
 		text-decoration: none;
 	}
-	/* visited link */
+
 	a:visited {
 		color: green;
 		text-decoration: none;
 	}
-	/* mouse over link */
+
 	a:hover {
 		color: green;
 		text-decoration: none;
 	}
-	/* selected link */
+
 	a:active {
 		color: green;
 		text-decoration: none;
@@ -62,9 +56,10 @@ message {
 		height: auto;
 		margin: 1em 0em 0em 0em;
 		-webkit-filter: grayscale(100%);
-		/* Safari 6.0 - 9.0 */
+
 		filter: grayscale(100%);
 	}
+
 	footer {
 		font-family: 'Georgia', serif;
 		font-size: 20px;
@@ -72,4 +67,3 @@ message {
 		font-weight: 200;
 		color: black;
 	}
-
