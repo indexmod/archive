@@ -19,12 +19,7 @@ layout: default
 
 [[1]](#a1) <span id="f1"></span> [Spelling it out: why Cyrillic slogan streetwear is the new punk uniform for post-Soviet teens (Sasha Raspopina, The Calvert Journal)](http://calvertjournal.com/articles/show/6278/cyrillic-slogan-streetwear-clothing-rubchinskiy-vetements)
 
+[2](#a2) <span id="f2"></span> [This link](http://example.net/)
 
+[3](#a3) <span id="f3"></span> [This link](http://example.net/)
 
-2. <span id="f2"></span> This is a footnote-2. [ссылка-2](#a2)
-
-3. <span id="f3"></span> This is a footnote-3. [ссылка-3](#a3)
-
-This is [an example](http://example.com/ "Title") inline link.
-
-[This link](http://example.net/) has no title attribute.
