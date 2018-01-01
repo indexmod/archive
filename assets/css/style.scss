@@ -67,7 +67,7 @@ table {
 		text-decoration: none;
 	}
 
-	img + em  {
+	img  {
 		max-width: 50%;
 		min-width: 5%;
 		height: auto;
@@ -80,11 +80,20 @@ table {
 		font-size: 20px;
 		line-height: 1.6em;
 		font-weight: 200;
-		color: black; 
+		color: black;	
+		
 	}
 
 
+em {
 
+                font-family: 'Georgia', serif;
+		font-size: 20px;
+		line-height: 1.6em;
+		font-weight: 200;
+		color: black; 
+
+}
 	footer {
 		font-family: 'Georgia', serif;
 		font-size: 20px;
