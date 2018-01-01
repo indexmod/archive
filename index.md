@@ -1,6 +1,5 @@
 ---
 title: Index
-published: false
 layout: default
 ---
 
