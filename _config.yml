@@ -13,6 +13,9 @@ include:
 - ".htaccess"
 show_sidebar: false
 show_downloads: false
+show_title: false
+show_description: false
+
 google_analytics: 'UA-111762431-1
 
 '
