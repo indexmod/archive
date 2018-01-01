@@ -2,7 +2,7 @@
 
 A ightest open wiki that hosted on GitHub with Siteleaf admin and the beautiful aim
 
-!(/indexmod.png)
+![1](/indexmod.png)
 
 
     
