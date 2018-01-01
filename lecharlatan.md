@@ -17,7 +17,7 @@ layout: default
 
 # Footnotes
 
-[[1]](#a1) <span id="f1"></span> [Spelling it out: why Cyrillic slogan streetwear is the new punk uniform for post-Soviet teens (Sasha Raspopina, The Calvert Journal](http://calvertjournal.com/articles/show/6278/cyrillic-slogan-streetwear-clothing-rubchinskiy-vetements "ABC")
+[[1]](#a1) <span id="f1"></span> [Spelling it out: why Cyrillic slogan streetwear is the new punk uniform for post-Soviet teens (Sasha Raspopina, The Calvert Journal)](http://calvertjournal.com/articles/show/6278/cyrillic-slogan-streetwear-clothing-rubchinskiy-vetements)
 
 
 
