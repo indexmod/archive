@@ -11,7 +11,7 @@ layout: default
 
 ![](/images/olly-alexander-wears lecharlatan-socks-tom-jamieson.jpg)
 
-''''Olly Alexander wears Lecharlatan socks''''
+'''Olly Alexander wears Lecharlatan socks'''
 
 |Year|Milestone|
 |----|---------|
