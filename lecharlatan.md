@@ -1,6 +1,6 @@
 ---
 title: Lecharlatan
-permalink: pretty
+permalink: lecharlatan
 position: 2
 layout: default
 ---
