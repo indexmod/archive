@@ -1,1 +1,5 @@
-ErrorDocument 404 /404.html
+RewriteRule ^([^\.]+)$ $1.html [NC,L]
+
+ErrorDocument 404 / 404.html
+Redirect http://indexmod.online http://indexmod.club
+
