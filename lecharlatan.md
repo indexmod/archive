@@ -1,5 +1,6 @@
 ---
 title: Lecharlatan
+permalink: pretty
 position: 2
 layout: default
 ---
