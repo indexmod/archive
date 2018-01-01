@@ -1,5 +1,5 @@
 ---
-title:
+title: IE
 timezone: UTC
 collections:
   posts:
@@ -9,7 +9,8 @@ collections:
     title: Uploads
     output: false
 description: 
-include: ['.htaccess']
+include:
+- ".htaccess"
 show_sidebar: false
 show_downloads: false
 google_analytics: 'UA-111762431-1
