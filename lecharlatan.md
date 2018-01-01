@@ -15,6 +15,8 @@ layout: default
 
 >Photo: [Tom Jamieson](http://example.net/) / [The New York Times](http://example.net/)
 
+# Conspectus
+
 |Year|Milestone|
 |----|---------|
 |2014|Purchasing from co-founder|
