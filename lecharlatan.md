@@ -17,7 +17,9 @@ layout: default
 
 # Footnotes
 
-[1](#a1) <span id="f1"></span> (http://example.com/ "Spelling it out: why Cyrillic slogan streetwear is the new punk uniform for post-Soviet teens (Sasha Raspopina, The Calvert Journal)")
+[[1]](#a1) <span id="f1"></span> [an example](http://example.com/ "Title")
+
+(http://example.com/ "Spelling it out: why Cyrillic slogan streetwear is the new punk uniform for post-Soviet teens (Sasha Raspopina, The Calvert Journal)")
 
 2. <span id="f2"></span> This is a footnote-2. [ссылка-2](#a2)
 
