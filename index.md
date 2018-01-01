@@ -1,5 +1,6 @@
 ---
 title: Index
+position: 1
 layout: default
 ---
 
