@@ -12,9 +12,9 @@ Here is a paragraph with a footnote <span id="a1">[[1]](#f1)</span>.
 
 # Footnotes
 
-1. <span id="f1"></span> This is a footnote. [ссылка-1](#a1)
-1. <span id="f2"></span> This is a footnote. [ссылка-2](#a2)
-1. <span id="f3"></span> This is a footnote. [ссылка-3](#a3)
+1. <span id="f1"></span> This is a footnote-1. [ссылка-1](#a1)
+1. <span id="f2"></span> This is a footnote-2. [ссылка-2](#a2)
+1. <span id="f3"></span> This is a footnote-3. [ссылка-3](#a3)
 
 
 
