@@ -2,81 +2,69 @@
 ---
 
 @import "jekyll-theme-minimal";
-
-
 h1, h2, h3, h4, h5, h6 {
-    font-family: 'Georgia', serif;
-    font-size: 40px;
-    font-weight: 100;
-    line-height: 1.2em;
-    color: black;
+     font-family: 'Georgia', serif;
+     font-size: 40px;
+     font-weight: 100;
+     line-height: 1.2em;
+     color: black;
 }
+ message {
+     font-family: 'Georgia', serif;
+     font-size: 40px;
+     font-weight: 100;
+     line-height: 1.2em;
+     color: green;
+     p {
+         font-family: 'Georgia', serif;
+         font-size: 20px;
+         line-height: 1.6em;
+         font-weight: 200;
+         color: black;
+    }
+     ul {
+         font-family: 'Georgia', serif;
+         font-size: 20px;
+         line-height: 1.6em;
+         font-weight: 200;
+         color: black;
+    }
+    /* unvisited link */
+     a:link {
+         color: green;
+         text-decoration: none;
+    }
+    /* visited link */
+     a:visited {
+         color: green;
+         text-decoration: none;
+    }
+    /* mouse over link */
+     a:hover {
+         color: green;
+         text-decoration: none;
+    }
+    /* selected link */
+     a:active {
+         color: green;
+         text-decoration: none;
+    }
+     img {
+         max-width: 50%;
+         min-width: 5%;
+         height: auto;
+         margin: 1em 0em 0em 0em;
+         -webkit-filter: grayscale(100%);
+        /* Safari 6.0 - 9.0 */
+         filter: grayscale(100%);
+    }
+     footer {
+         font-family: 'Georgia', serif;
+         font-size: 20px;
+         line-height: 1.6em;
+         font-weight: 200;
+         color: black;
+    }
+     
 
-message 
 
-{
-    font-family: 'Georgia', serif;
-    font-size: 40px;
-    font-weight: 100;
-    line-height: 1.2em;
-    color: green;
-
-p {
-    font-family: 'Georgia', serif;
-    font-size: 20px;
-    line-height: 1.6em;
-    font-weight: 200;
-    color: black;
-}
-
-ul {
-    font-family: 'Georgia', serif;
-    font-size: 20px;
-    line-height: 1.6em;
-    font-weight: 200;
-    color: black;
-}
-
-/* unvisited link */
-
-a:link {
-    color: green;
-    text-decoration: none;
-}
-/* visited link */
-
-a:visited {
-    color: green;
-    text-decoration: none;
-}
-/* mouse over link */
-
-a:hover {
-    color: green;
-    text-decoration: none;
-}
-
-/* selected link */
-
-a:active {
-    color: green;
-    text-decoration: none;
-}
-
-img {
-    max-width: 50%;
-    min-width: 5%;
-    height: auto;
-    margin: 1em 0em 0em 0em;
-    -webkit-filter: grayscale(100%); /* Safari 6.0 - 9.0 */
-    filter: grayscale(100%);
-}
-
-footer {
-    font-family: 'Georgia', serif;
-    font-size: 20px;
-    line-height: 1.6em;
-    font-weight: 200;
-    color: black;
-    {
-    
