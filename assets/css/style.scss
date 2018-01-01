@@ -76,6 +76,15 @@ table {
 		filter: grayscale(100%);
 	}
 
+img + em {
+	
+	        font-family: 'Georgia', serif;
+		font-size: 20px;
+		line-height: 1.6em;
+		font-weight: 200;
+		color: black; 
+}
+
 	footer {
 		font-family: 'Georgia', serif;
 		font-size: 20px;
