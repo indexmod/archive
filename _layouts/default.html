@@ -33,12 +33,7 @@
     <div class="wrapper">
       <header>
         
-
-        {% if site.github.is_project_page %}
-        {% endif %}
-
-        {% if site.github.is_user_page %}
-        {% endif %}
+        <p>{{ site.time | date_to_long_string }}</p>
 
       </header>
       <section>
@@ -49,7 +44,7 @@
       <footer>
         <a href="{{ site.github.url }}"> <img src="indexmod.png" alt="Indexmod Encyclopedia" width="50" height="50"> </a>
         {% include footer.html %}
-           <p>{{ site.time | date_to_long_string }}   </p>
+      
       </footer>
     </div>
     <script src="{{ '/assets/js/scale.fix.js' | relative_url }}"></script>
