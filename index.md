@@ -12,3 +12,5 @@ layout: default
   {% endfor %}
 
 </ul>
+
+{{site.pages}}
