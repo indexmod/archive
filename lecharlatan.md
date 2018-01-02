@@ -27,7 +27,7 @@ layout: default
 
 [[1]](#a1) <span id="f1"></span> [Spelling it out: why Cyrillic slogan streetwear is the new punk uniform for post-Soviet teens (Sasha Raspopina, The Calvert Journal)](http://calvertjournal.com/articles/show/6278/cyrillic-slogan-streetwear-clothing-rubchinskiy-vetements)
 
-[2](#a2) <span id="f2"></span> [Молодая кровь: LECHARLATAN (Лена Нагаева, Be in)](http://www.be-in.ru/people/35783-lecharlatan)
+[[2]](#a2) <span id="f2"></span> [Молодая кровь: LECHARLATAN (Лена Нагаева, Be in)](http://www.be-in.ru/people/35783-lecharlatan)
 
-[3](#a3) <span id="f3"></span> [Le Charlatan: Носки и гольфы родом из Москвы (Олеся Ива, Wonderzine)](http://www.wonderzine.com/wonderzine/style/new_faces/200619-le-charlatan-socks)
+[[3]](#a3) <span id="f3"></span> [Le Charlatan: Носки и гольфы родом из Москвы (Олеся Ива, Wonderzine)](http://www.wonderzine.com/wonderzine/style/new_faces/200619-le-charlatan-socks)
 
