@@ -1,5 +1,6 @@
 ---
 title: Index
+permalink: index
 position: 0
 layout: default
 ---
