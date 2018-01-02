@@ -13,4 +13,4 @@ layout: default
 
 </ul>
 
-{{site.pages}}
+{{site.posts}}
