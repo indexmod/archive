@@ -1,7 +1,9 @@
 ---
 title: Future pages
 date: 2018-01-01 16:21:00 Z
+permalink: future-pages
 Field name: 
+layout: default
 ---
 
 # Future pages
