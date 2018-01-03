@@ -1,5 +1,5 @@
 ---
-title: Indexmod Alterpedia
+title: Indexmod Encyclopedia
 timezone: UTC
 collections:
   posts:
@@ -8,8 +8,7 @@ collections:
   uploads:
     title: Uploads
     output: false
-description: Indexmod Alterpedia — is an alternative wiki encyclopedia with pretty
-  syntax
+description: Indexmod Encyclopedia — is an alternative wiki with pretty syntax
 include:
 - ".htaccess"
 show_sidebar: false
