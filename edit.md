@@ -6,7 +6,7 @@ layout: default
 
 # How to edit 
 
-The aim of Indexmod Encyclopedia to simplfy wiki syntax for preaty and light format. Following checklist explains few steps of creating and editing beautiful articles in Indexmod Encyclopedia
+The aim of Indexmod Encyclopedia to simplify wiki syntax for a pretty and light format. Following checklist explains few steps of creating and editing beautiful articles in Indexmod Encyclopedia.
 
 # Page structure 
 
