@@ -1,7 +1,6 @@
 ---
 title: Acid Noodles
 permalink: acid-noodles
-position:
 layout: default
 ---
 

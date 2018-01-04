@@ -1,7 +1,6 @@
 ---
 title: Adjara Fashion Week
 permalink: adjara-fashion-week
-position:
 layout: default
 ---
 

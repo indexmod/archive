@@ -1,7 +1,6 @@
 ---
 title: AES+F
 permalink: aes+f
-position:
 layout: default
 ---
 
