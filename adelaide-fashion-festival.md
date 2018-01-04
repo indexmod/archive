@@ -1,6 +1,7 @@
 ---
-title: Aberdeen Fashion Week
-permalink: aberdeen-fashion-week
+title: Adelaide Fashion Festival
+permalink: adelaide-fashion-festival
+position:
 layout: default
 ---
 

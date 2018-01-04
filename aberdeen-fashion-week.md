@@ -1,6 +1,6 @@
 ---
-title: Acid Noodles
-permalink: acid-noodles
+title: Aberdeen Fashion Week
+permalink: aberdeen-fashion-week
 position:
 layout: default
 ---
