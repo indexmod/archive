@@ -1,7 +1,6 @@
 ---
 title: New York
 permalink: new-york
-position:
 layout: default
 ---
 

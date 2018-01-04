@@ -1,7 +1,6 @@
 ---
 title: Nantes Fashion Week
 permalink: nantes-fashion-week
-position:
 layout: default
 ---
 

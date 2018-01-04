@@ -1,7 +1,6 @@
 ---
 title: Oslo Fashion Week
 permalink: oslo-fashion-week
-position:
 layout: default
 ---
 

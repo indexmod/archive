@@ -1,7 +1,6 @@
 ---
 title: Ottawa Fashion Week
 permalink: ottawa-fashion-week
-position:
 layout: default
 ---
 

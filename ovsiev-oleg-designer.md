@@ -1,7 +1,6 @@
 ---
 title: Ovsiev, Oleg (designer)
 permalink: ovsiev-oleg-designer
-position:
 layout: default
 ---
 

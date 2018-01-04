@@ -1,7 +1,6 @@
 ---
 title: Novosibirsk Fashion Week
 permalink: novosibirsk-fashion-week
-position:
 layout: default
 ---
 

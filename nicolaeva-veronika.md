@@ -1,7 +1,6 @@
 ---
 title: Nicolaeva, Veronika
 permalink: nicolaeva-veronika
-position:
 layout: default
 ---
 

@@ -1,7 +1,6 @@
 ---
 title: NZ Fashion Week
 permalink: nz-fashion-week
-position:
 layout: default
 ---
 

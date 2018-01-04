@@ -1,7 +1,6 @@
 ---
 title: Oxford Fashion Week
 permalink: oxford-fashion-week
-position:
 layout: default
 ---
 

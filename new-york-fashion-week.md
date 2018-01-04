@@ -1,7 +1,6 @@
 ---
 title: New York Fashion Week
 permalink: new-york-fashion-week
-position:
 layout: default
 ---
 

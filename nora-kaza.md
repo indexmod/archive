@@ -1,7 +1,6 @@
 ---
 title: Nora Kaza
 permalink: nora-kaza
-position:
 layout: default
 ---
 

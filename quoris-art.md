@@ -1,7 +1,6 @@
 ---
 title: Quoris Art
 permalink: quoris-art
-position:
 layout: default
 ---
 

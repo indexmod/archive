@@ -1,7 +1,6 @@
 ---
 title: North India Fashion Week
 permalink: north-india-fashion-week
-position:
 layout: default
 ---
 

@@ -1,7 +1,6 @@
 ---
 title: Nocuous Rift
 permalink: nocuous-rift
-position:
 layout: default
 ---
 

@@ -1,7 +1,6 @@
 ---
 title: Neretina, Nina
 permalink: neretina-nina
-position:
 layout: default
 ---
 

@@ -1,7 +1,6 @@
 ---
 title: Quebec Fashion Week
 permalink: quebec-fashion-week
-position:
 layout: default
 ---
 

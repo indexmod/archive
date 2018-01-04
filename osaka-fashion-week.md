@@ -1,7 +1,6 @@
 ---
 title: Osaka Fashion Week
 permalink: osaka-fashion-week
-position:
 layout: default
 ---
 

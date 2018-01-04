@@ -1,7 +1,6 @@
 ---
 title: Nagoya Fashion Week
 permalink: nagoya-fashion-week
-position:
 layout: default
 ---
 

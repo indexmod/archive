@@ -1,7 +1,6 @@
 ---
 title: Nipstick (stickers)
 permalink: nipstick-stickers
-position:
 layout: default
 ---
 

@@ -1,7 +1,6 @@
 ---
 title: Norsoyan, Lyudmila (designer)
 permalink: norsoyan-lyudmila-designer
-position:
 layout: default
 ---
 

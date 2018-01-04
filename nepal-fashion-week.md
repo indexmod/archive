@@ -1,7 +1,6 @@
 ---
 title: Nepal Fashion Week
 permalink: nepal-fashion-week
-position:
 layout: default
 ---
 

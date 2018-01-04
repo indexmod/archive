@@ -1,7 +1,6 @@
 ---
 title: Otokomae (art-space)
 permalink: otokomae-art-space
-position:
 layout: default
 ---
 

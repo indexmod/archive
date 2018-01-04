@@ -1,7 +1,6 @@
 ---
 title: New Delhi
 permalink: new-delhi
-position:
 layout: default
 ---
 

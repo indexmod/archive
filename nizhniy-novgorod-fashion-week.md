@@ -1,7 +1,6 @@
 ---
 title: Nizhniy Novgorod Fashion Week
 permalink: nizhniy-novgorod-fashion-week
-position:
 layout: default
 ---
 
