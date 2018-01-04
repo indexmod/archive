@@ -1,7 +1,6 @@
 ---
 title: Yellow Korner (gallery)
 permalink: yellow-korner-gallery
-position:
 layout: default
 ---
 

@@ -1,7 +1,6 @@
 ---
 title: Yekaterinburg Ural Fashion Week
 permalink: yekaterinburg-ural-fashion-week
-position:
 layout: default
 ---
 

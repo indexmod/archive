@@ -1,7 +1,6 @@
 ---
 title: Zaragoza Fashion Week
 permalink: zaragoza-fashion-week
-position:
 layout: default
 ---
 

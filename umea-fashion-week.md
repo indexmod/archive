@@ -1,7 +1,6 @@
 ---
 title: Umeå Fashion Week
 permalink: umea-fashion-week
-position:
 layout: default
 ---
 

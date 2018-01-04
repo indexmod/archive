@@ -1,7 +1,6 @@
 ---
 title: Zelenkova, Anastasiya
 permalink: azelenkova-anastasiya
-position:
 layout: default
 ---
 

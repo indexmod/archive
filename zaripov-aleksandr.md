@@ -1,7 +1,6 @@
 ---
 title: Zaripov, Aleksandr
 permalink: zaripov-aleksandr
-position:
 layout: default
 ---
 

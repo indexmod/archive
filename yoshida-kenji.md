@@ -1,7 +1,6 @@
 ---
 title: Yoshida, Kenji
 permalink: yoshida-kenji
-position:
 layout: default
 ---
 

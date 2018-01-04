@@ -1,7 +1,6 @@
 ---
 title: Zagreb Fashion Week
 permalink: zagreb-fashion-week
-position:
 layout: default
 ---
 

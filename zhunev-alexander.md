@@ -1,7 +1,6 @@
 ---
 title: Zhunev, Alexander
 permalink: zhunev-alexander
-position:
 layout: default
 ---
 

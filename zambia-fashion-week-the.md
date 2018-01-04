@@ -1,7 +1,6 @@
 ---
 title: Zambia Fashion Week, The
 permalink: azambia-fashion-week-the
-position:
 layout: default
 ---
 

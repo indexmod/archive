@@ -1,7 +1,6 @@
 ---
 title: Zlye (art group)
 permalink: azlye-art-group
-position:
 layout: default
 ---
 

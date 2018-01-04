@@ -1,7 +1,6 @@
 ---
 title: Zaiets, Dmytro
 permalink: zaiets-dmytro
-position:
 layout: default
 ---
 

@@ -1,7 +1,6 @@
 ---
 title: Yaroshenko, Anna
 permalink: yaroshenko-anna
-position:
 layout: default
 ---
 

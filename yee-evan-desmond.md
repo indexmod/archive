@@ -1,7 +1,6 @@
 ---
 title: Yee, Evan Desmond
 permalink: yee-evan-desmond
-position:
 layout: default
 ---
 

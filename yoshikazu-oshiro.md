@@ -1,7 +1,6 @@
 ---
 title: Aberdeen Fashion Week
 permalink: Yoshikazu, Oshiro
-position:
 layout: default
 ---
 

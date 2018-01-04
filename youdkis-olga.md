@@ -1,7 +1,6 @@
 ---
 title: Youdkis, Olga
 permalink: youdkis-olga
-position:
 layout: default
 ---
 

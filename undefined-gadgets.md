@@ -1,7 +1,6 @@
 ---
 title: Undefined (gadgets)
 permalink: undefined-gadgets
-position:
 layout: default
 ---
 

@@ -1,7 +1,6 @@
 ---
 title: Youdashkin, Valentin
 permalink: youdashkin-valentin
-position:
 layout: default
 ---
 
