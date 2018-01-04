@@ -1,7 +1,6 @@
 ---
 title: 1-Page Template
 permalink: page-link
-position: 
 layout: default
 ---
 
