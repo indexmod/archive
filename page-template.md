@@ -1,5 +1,5 @@
 ---
-title: 1 Page Template
+title: Z-Page Template
 permalink: page-template
 layout: default
 ---
