@@ -1,6 +1,6 @@
 ---
 title: Index
-position: 0
+position: 24
 layout: default
 ---
 

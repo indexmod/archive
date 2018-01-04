@@ -1,6 +1,7 @@
 ---
 title: Z-Page Template
 permalink: page-template
+position: 27
 layout: default
 ---
 
