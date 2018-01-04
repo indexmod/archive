@@ -1,7 +1,7 @@
 ---
-title: Name
+title: 1-Page Template
 permalink: page-link
-position: 2
+position: 
 layout: default
 ---
 
