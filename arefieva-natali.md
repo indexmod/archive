@@ -1,7 +1,6 @@
 ---
 title: Arefieva, Natali
 permalink: arefieva-natali
-position:
 layout: default
 ---
 

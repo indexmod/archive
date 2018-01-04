@@ -1,7 +1,6 @@
 ---
 title: Artcom Media
 permalink: artcom-media
-position:
 layout: default
 ---
 

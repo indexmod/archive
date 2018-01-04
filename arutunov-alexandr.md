@@ -1,7 +1,6 @@
 ---
 title: Arutunov, Alexandr
 permalink: arutunov-alexandr
-position:
 layout: default
 ---
 

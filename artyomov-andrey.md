@@ -1,7 +1,6 @@
 ---
 title: Artyomov, Andrey
 permalink: artyomov-andrey
-position:
 layout: default
 ---
 

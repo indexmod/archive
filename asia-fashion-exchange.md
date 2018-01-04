@@ -1,7 +1,6 @@
 ---
 title: Asia Fashion Exchange
 permalink: asia-fashion-exchange
-position:
 layout: default
 ---
 
