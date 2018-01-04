@@ -9,7 +9,7 @@ is wiki that hosted on GitHub with Siteleaf admin and the beautiful syntax
 
 ![](/images/image-name.jpg)
 
-*Olly Alexander wears Lecharlatan socks*
+*Image caption*
 
 *Photo: [Photographer name](http://example.net/) / [Source name](http://example.net/)*
 
