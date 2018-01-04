@@ -23,6 +23,12 @@ layout: default
 |2015|Moscow|
 |2017|Kiev|
 
+# See also
+
+- [Source name](http://example.net/)
+- [Source name](http://example.net/)
+- [Source name](http://example.net/)
+
 # Footnotes
 
 [[1]](#a1) <span id="f1"></span> [Article name (Author name)](http://example.net/article)
