@@ -11,9 +11,9 @@ layout: default
 
 ![](/images/olly-alexander-wears lecharlatan-socks-tom-jamieson.jpg)
 
->Olly Alexander wears Lecharlatan socks
+*Olly Alexander wears Lecharlatan socks*
 
->Photo: [Tom Jamieson](http://example.net/) / [The New York Times](http://example.net/)
+*Photo: [Tom Jamieson](http://example.net/) / [The New York Times](http://example.net/)*
 
 # Conspectus
 
