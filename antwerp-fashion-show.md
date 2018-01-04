@@ -1,7 +1,6 @@
 ---
 title: Aberdeen Fashion Week
 permalink: aberdeen-fashion-week
-position:
 layout: default
 ---
 
