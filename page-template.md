@@ -1,6 +1,6 @@
 ---
-title: 1-Page Template
-permalink: page-link
+title: 1 Page Template
+permalink: page-template
 layout: default
 ---
 
