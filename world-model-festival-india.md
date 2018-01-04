@@ -1,7 +1,6 @@
 ---
 title: World Model Festival India
 permalink: world-model-festival-india
-position:
 layout: default
 ---
 

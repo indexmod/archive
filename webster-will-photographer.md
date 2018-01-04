@@ -1,7 +1,6 @@
 ---
 title: Webster, Will (photographer)
 permalink: webster-will-photographer
-position:
 layout: default
 ---
 

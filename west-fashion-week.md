@@ -1,7 +1,6 @@
 ---
 title: AWest Fashion Week
 permalink: west-fashion-week
-position:
 layout: default
 ---
 

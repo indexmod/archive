@@ -1,7 +1,6 @@
 ---
 title: Western Canada Fashion Week
 permalink: western-canada-fashion-week
-position:
 layout: default
 ---
 

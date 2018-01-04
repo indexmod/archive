@@ -1,7 +1,6 @@
 ---
 title: Wills Lifestyle Fashion Week
 permalink: wills-lifestyle-fashion-week
-position:
 layout: default
 ---
 

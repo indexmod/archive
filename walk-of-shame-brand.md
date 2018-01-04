@@ -1,7 +1,6 @@
 ---
 title: Walk of Shame (brand)
 permalink: walk-of-shame-brand
-position:
 layout: default
 ---
 

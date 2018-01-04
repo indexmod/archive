@@ -1,7 +1,6 @@
 ---
 title: Wild Orchid (lingerie)
 permalink: wild-orchid-lingerie
-position:
 layout: default
 ---
 

@@ -1,7 +1,6 @@
 ---
 title: Wood Mem
 permalink: wood-mem
-position:
 layout: default
 ---
 

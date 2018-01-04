@@ -1,7 +1,6 @@
 ---
 title: Wacher, Brit
 permalink: wacher-brit
-position:
 layout: default
 ---
 

@@ -1,7 +1,6 @@
 ---
 title: Washington
 permalink: washington
-position:
 layout: default
 ---
 

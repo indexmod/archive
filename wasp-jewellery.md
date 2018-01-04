@@ -1,7 +1,6 @@
 ---
 title: WASP Jewellery
 permalink: wasp-jewellery
-position:
 layout: default
 ---
 
