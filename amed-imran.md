@@ -1,7 +1,6 @@
 ---
 title: Amed, Imran
 permalink: amed-imran
-position:
 layout: default
 ---
 

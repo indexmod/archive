@@ -1,7 +1,6 @@
 ---
 title: Amsterdam Street Art
 permalink: amsterdam-street-art
-position:
 layout: default
 ---
 

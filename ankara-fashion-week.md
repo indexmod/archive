@@ -1,7 +1,6 @@
 ---
 title: Ankara Fashion Week
 permalink: ankara-fashion-week
-position:
 layout: default
 ---
 

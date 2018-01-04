@@ -1,7 +1,6 @@
 ---
 title: Baku
 permalink: baku
-position:
 layout: default
 ---
 

@@ -1,7 +1,6 @@
 ---
 title: Al-Numan, Leila
 permalink: al-numan-leila
-position:
 layout: default
 ---
 

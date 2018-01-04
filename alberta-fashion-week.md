@@ -1,7 +1,6 @@
 ---
 title: Alberta Fashion Week
 permalink: alberta-fashion-week
-position:
 layout: default
 ---
 

@@ -1,7 +1,6 @@
 ---
 title: Anton Lisin (brand)
 permalink: anton-lisin-brand
-position:
 layout: default
 ---
 

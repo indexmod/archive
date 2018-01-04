@@ -1,7 +1,6 @@
 ---
 title: Africa Fashion Week Dubai
 permalink: africa-fashion-week-dubai
-position:
 layout: default
 ---
 

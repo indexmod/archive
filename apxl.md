@@ -1,7 +1,6 @@
 ---
 title: Apxl (APXL)
 permalink: aberdeen-fashion-week
-position:
 layout: default
 ---
 

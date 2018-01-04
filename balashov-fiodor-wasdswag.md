@@ -1,7 +1,6 @@
 ---
 title: Balashov, Fiodor (Wasdswag)
 permalink: abalashov-fiodor-wasdswag
-position:
 layout: default
 ---
 

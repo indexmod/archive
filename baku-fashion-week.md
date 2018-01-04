@@ -1,7 +1,6 @@
 ---
 title: Baku Fashion Week
 permalink: baku-fashion-week
-position:
 layout: default
 ---
 

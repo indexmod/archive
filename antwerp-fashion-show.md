@@ -1,7 +1,6 @@
 ---
 title: Antwerp Fashion Show
 permalink: antwerp-fashion-show
-position:
 layout: default
 ---
 

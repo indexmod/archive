@@ -1,7 +1,6 @@
 ---
 title: Afisha (magazine)
 permalink: aberdeen-fashion-week
-position:
 layout: default
 ---
 

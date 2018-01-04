@@ -1,7 +1,6 @@
 ---
 title: Alexander Arutyunov (brand)
 permalink: alexander-arutyunov-brand
-position:
 layout: default
 ---
 

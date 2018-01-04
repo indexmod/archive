@@ -1,7 +1,6 @@
 ---
 title: Alexander Terekhov (brand)
 permalink: alexander-terekhov-brand
-position:
 layout: default
 ---
 

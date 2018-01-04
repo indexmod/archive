@@ -1,7 +1,6 @@
 ---
 title: Akhmadullina, Alena (designer)
 permalink: akhmadullina-alena-designer
-position:
 layout: default
 ---
 

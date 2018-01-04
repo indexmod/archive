@@ -1,7 +1,6 @@
 ---
 title: Bahrain International Design Week
 permalink: bahrain-international-design-week
-position:
 layout: default
 ---
 

@@ -1,7 +1,6 @@
 ---
 title: Africa Fashion Week Paris
 permalink: africa-fashion-week-paris
-position:
 layout: default
 ---
 

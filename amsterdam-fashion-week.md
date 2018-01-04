@@ -1,7 +1,6 @@
 ---
 title: Amsterdam Fashion Week
 permalink: amsterdam-fashion-week
-position:
 layout: default
 ---
 

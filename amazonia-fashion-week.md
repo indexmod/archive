@@ -1,7 +1,6 @@
 ---
 title: Amazônia Fashion Week
 permalink: amazonia-fashion-week
-position:
 layout: default
 ---
 

@@ -1,7 +1,6 @@
 ---
 title: Antarctic Biennale
 permalink: antarctic-biennale
-position:
 layout: default
 ---
 

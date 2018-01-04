@@ -1,7 +1,6 @@
 ---
 title: Alexander Arutyunov Jewelry
 permalink: alexander-arutyunov-jewelry
-position:
 layout: default
 ---
 

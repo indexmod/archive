@@ -1,7 +1,6 @@
 ---
 title: Alaverdian, Natalia
 permalink: alaverdian-natalia
-position:
 layout: default
 ---
 

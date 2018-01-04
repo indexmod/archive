@@ -1,7 +1,6 @@
 ---
 title: Babushkin, Dmitry
 permalink: babushkin-dmitry
-position:
 layout: default
 ---
 

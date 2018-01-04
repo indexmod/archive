@@ -1,7 +1,6 @@
 ---
 title: Africa Fashion Week London
 permalink: africa-fashion-week-london
-position:
 layout: default
 ---
 

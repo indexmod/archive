@@ -1,7 +1,6 @@
 ---
 title: Bali
 permalink: bali
-position:
 layout: default
 ---
 
