@@ -1,11 +1,11 @@
 ---
-title: Artyomov, Andrey
-permalink: artyomov-andrey
+title: House of Artists on Vavilov 65
+permalink: house-of-artists-on-vavilov-65
 position:
 layout: default
 ---
 
-# Artyomov, Andrey
+# House of Artists on Vavilov 65
 
 (Est. 2013, city) is a subject, description-one <span id="a1">[\[1\]](#f1)</span>, description-two <span id="a2">[\[2\]](#f2)</span> description-3 <span id="a3">[\[3\]](#f3)</span>, extra text.
 

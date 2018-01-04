@@ -1,6 +1,7 @@
 ---
 title: Artfido
 permalink: artfido
+position:
 layout: default
 ---
 

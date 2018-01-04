@@ -1,6 +1,7 @@
 ---
 title: Art-Athina
 permalink: art-athina
+position:
 layout: default
 ---
 

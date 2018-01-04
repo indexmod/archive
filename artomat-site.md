@@ -1,6 +1,7 @@
 ---
 title: Artomat (site)
 permalink: artomat-site
+position:
 layout: default
 ---
 

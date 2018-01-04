@@ -1,11 +1,11 @@
 ---
-title: Artyomov, Andrey
-permalink: artyomov-andrey
+title: Hong Kong Fashion Week for Fall/Winter
+permalink: hong-kong-fashion-week-for-fall-winter
 position:
 layout: default
 ---
 
-# Artyomov, Andrey
+# Hong Kong Fashion Week for Fall/Winter
 
 (Est. 2013, city) is a subject, description-one <span id="a1">[\[1\]](#f1)</span>, description-two <span id="a2">[\[2\]](#f2)</span> description-3 <span id="a3">[\[3\]](#f3)</span>, extra text.
 

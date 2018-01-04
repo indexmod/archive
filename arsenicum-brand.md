@@ -1,6 +1,7 @@
 ---
 title: Arsenicum (brand)
 permalink: arsenicum-brand
+position:
 layout: default
 ---
 
