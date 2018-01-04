@@ -1,7 +1,6 @@
 ---
 title: How to edit
 permalink: edit
-position: 
 layout: default
 ---
 
