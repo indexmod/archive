@@ -1,6 +1,6 @@
 # Indexmod Encyclopedia
 
-is wiki that hosted on GitHub with Siteleaf admin and the beautiful syntax
+is wiki that hosted on GitHub with Prose admin and the beautiful syntax
 
 
 # This is page template
