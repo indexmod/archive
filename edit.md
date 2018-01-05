@@ -36,9 +36,6 @@ The aim of Indexmod Encyclopedia to simplify wiki syntax for a pretty and light 
 
 - Section Will be added soon
 
-# Siteleaf admin panel 
-
-- Section Will be added soon
 
 # Prose editor 
 
