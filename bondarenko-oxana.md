@@ -1,11 +1,11 @@
 ---
-title: Bali
-permalink: bali
+title: Bondarenko, Oxana
+permalink: bondarenko-oxana
 position:
 layout: default
 ---
 
-# Bali
+# Bondarenko, Oxana
 
 (Est. 2013, city) is a subject, description-one <span id="a1">[\[1\]](#f1)</span>, description-two <span id="a2">[\[2\]](#f2)</span> description-3 <span id="a3">[\[3\]](#f3)</span>, extra text.
 
