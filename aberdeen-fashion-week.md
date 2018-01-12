@@ -22,7 +22,7 @@ layout: default
 |2013|Founded by Lydia Cutler|
 |2018|Transforming to Aberdeen Fashion & Art Week|
 
-![] (https://scontent-arn2-1.xx.fbcdn.net/v/t1.0-9/10500384_517588481728517_7956227397375379096_n.jpg)
+![] (https://scontent-arn2-1.xx.fbcdn.net/v/t1.0-9/10500384_517588481728517_7956227397375379096_n.jpg?oh=cba05fc0d0c5da7c94f95d5d1c19877f&oe=5AF2A604)
 
 **Entrance of Copthorne Hotel Aberdeen**
 
