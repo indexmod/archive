@@ -1,7 +1,6 @@
 ---
-title: Z-Page Template
+title: Page Template
 permalink: page-template
-position: 27
 layout: default
 ---
 
@@ -11,7 +10,7 @@ layout: default
 
 ![](/images/image-name.jpg)
 
-*Image caption*
+**Image captin**
 
 *Photo: [Photographer name](http://example.net/) / [Source name](http://example.net/)*
 
@@ -21,7 +20,7 @@ layout: default
 |----|---------|
 |2014|Tokyo|
 |2015|Moscow|
-|2017|Kiev|
+|2017|Paris|
 
 # See also
 
@@ -31,8 +30,6 @@ layout: default
 
 # Footnotes
 
-[[1]](#a1) <span id="f1"></span> [Article name (Author name)](http://example.net/article)
-
-[[2]](#a2) <span id="f2"></span> [Article name (Author name)](http://example.net/article)
-
-[[3]](#a3) <span id="f3"></span> [Article name (Author name)](http://example.net/article)
+[[1]](#a1) <span id="f1"></span> [Article name short (Author name)](http://example.net/article)
+[[2]](#a2) <span id="f2"></span> [Article name little longer (Author name longer)](http://example.net/article)
+[[3]](#a3) <span id="f3"></span> [Article name longer so far (Author name too long and much longer)](http://example.net/article)
