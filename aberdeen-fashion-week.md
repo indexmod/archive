@@ -22,11 +22,11 @@ layout: default
 |2013|Founded by Lydia Cutler|
 |2018|Transforming to Aberdeen Fashion & Art Week|
 
-![] (https://scontent-arn2-1.xx.fbcdn.net/v/t1.0-9/10500384_517588481728517_7956227397375379096_n.jpg?oh=cba05fc0d0c5da7c94f95d5d1c19877f&oe=5AF2A604)
+![] (https://media-cdn.tripadvisor.com/media/photo-s/0f/6d/1d/98/outside-of-hotel-copthorne.jpg)
 
 **Entrance of Copthorne Hotel Aberdeen**
 
-*Photo: [Copthorne Hotel Aberdeen](copthorne-hotel-aberdeen.md) / [Facebook](facebook.md)*
+*Photo: [Ola T. K](https://www.tripadvisor.co.uk/members/olatk) / [Tripadvisor](tripadvisor.md)*
 
 # See also
 
