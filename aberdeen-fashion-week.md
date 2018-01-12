@@ -7,32 +7,27 @@ layout: default
 
 # Aberdeen Fashion Week
 
-(Est. 2013, city) is a subject, description-one <span id="a1">[\[1\]](#f1)</span>, description-two <span id="a2">[\[2\]](#f2)</span> description-3 <span id="a3">[\[3\]](#f3)</span>, extra text.
+(est. 2013, Aberdeen) is a fashion event in Scotland founded by Lydia Cutler, the world’s only platform promoting and showcasing Kids Wear collections, hosted in Aberdeen, once a year in April followed by AFW sponsored fashion show. In 2018 anounced as Aberdeen Fashion & Art Week <span id="a1">[\[1\]](#f1)</span>.
 
-![](/images/image-name.jpg)
+![](http://3.bp.blogspot.com/-_8vKuScmNIw/VGjKjAuSm3I/AAAAAAAAAm8/kniQgV0Lp-Y/s1600/sooz%2B1636.jpg)
 
-**Image caption**
+**Sooz / Candy Belle Vintiques Festive Frolics at St Mark's Church, Aberdeen**
 
-*Photo: [Photographer name](http://example.net/) / [Source name](http://example.net/)*
+*Photo: [Aberdeen Street Fashion](aberdeen-street-fashion.md) / [Blogspot](blogspot.md)*
 
 # Conspectus
 
-|Year|City|
+|Year|Milestone|
 |----|---------|
-|2014|Tokyo|
-|2015|Moscow|
-|2017|Kiev|
+|2013|Founded by Lydia Cutler|
+|2018|Transforming to Aberdeen Fashion & Art Week|
 
 # See also
 
-- [Source name](http://example.net/)
-- [Source name](http://example.net/)
-- [Source name](http://example.net/)
+- [Lydia Cutler](lydia-cutler.md)
+- [London Fashion Week](london-fashion-week.md)
+- [London](london.md)
 
 # Footnotes
 
-[[1]](#a1) <span id="f1"></span> [Article name (Author name)](http://example.net/article)
-
-[[2]](#a2) <span id="f2"></span> [Article name (Author name)](http://example.net/article)
-
-[[3]](#a3) <span id="f3"></span> [Article name (Author name)](http://example.net/article)
+[[1]](#a1) <span id="f1"></span> [Facebook event Aberdeen Fashion & Art Week (AFAW)](https://www.facebook.com/events/1345062792287801/)
