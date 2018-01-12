@@ -10,7 +10,7 @@ The aim of Indexmod Encyclopedia to simplify wiki syntax for a pretty and light 
 
 # Page structure 
 
-See [Page template](page-template.md) for details. Every page written with [Markdowm](https://daringfireball.net/projects/markdown/syntax) and must have *front matter* area set with triple-dashed lines. Afront matter may contain page title, some meta and permalink of the page. Visible area of the page contain page title, top block, image with captions and credits, *Conspectus*, *See also* links and footnote section.
+See [Page template](page-template.md) for details. Every page written with [Markdown](https://daringfireball.net/projects/markdown/syntax) and must have *front matter* area set with triple-dashed lines. Afront matter may contain page title, some meta and permalink of the page. Visible area of the page contain page title, top block, image with captions and credits, *Conspectus*, *See also* links and footnote section.
 
 # Title  
 
