@@ -30,6 +30,6 @@ layout: default
 
 # Footnotes
 
-[[1]](#a1) <span id="f1"></span> [Article name short (Author name)](http://example.net/article)
-[[2]](#a2) <span id="f2"></span> [Article name little longer (Author name longer)](http://example.net/article)
-[[3]](#a3) <span id="f3"></span> [Article name longer so far (Author name too long and much longer)](http://example.net/article)
++ [[1]](#a1) <span id="f1"></span> [Article name short (Author name)](http://example.net/article)
++ [[2]](#a2) <span id="f2"></span> [Article name little longer (Author name longer)](http://example.net/article)
++ [[3]](#a3) <span id="f3"></span> [Article name longer so far (Author name too long and much longer)](http://example.net/article)
