@@ -1,6 +1,6 @@
 ---
 title: Apxl (APXL)
-permalink: aberdeen-fashion-week
+permalink: apxl
 layout: default
 ---
 
