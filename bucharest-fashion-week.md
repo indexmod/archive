@@ -1,7 +1,7 @@
 ---
 title: Bucharest Fashion Week
 permalink: bucharest-fashion-week
-position:
+position: null
 layout: default
 ---
 
