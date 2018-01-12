@@ -1,6 +1,6 @@
 ---
 title: Afisha (magazine)
-permalink: aberdeen-fashion-week
+permalink: afisha-magazine
 layout: default
 ---
 
