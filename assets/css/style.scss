@@ -80,13 +80,13 @@ tc:hover {background-color:#f5f5f5;}
 	}
 
 	img  {
-		max-width: 50%;
-		min-width: 5%;
+		max-width: 90%;
+		min-width: 50%;
 		height: auto;
-		margin: 1em 0em 0em 0em;
-		-webkit-filter: grayscale(100%);
+		margin: 1em 1em 1em 1em;
+		-webkit-filter: grayscale(90%);
 
-		filter: grayscale(100%);
+		filter: grayscale(90%);
 		
 		font-family: 'Georgia', serif;
 		font-size: 20px;
@@ -102,7 +102,7 @@ em {
                 font-family: 'Georgia', serif;
 		font-size: 20px;
 	        line-height: 1.1em;
-		font-weight: 100;
+		font-weight: 200;
 		color: grey; 
 
 }
