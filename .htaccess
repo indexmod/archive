@@ -3,6 +3,6 @@ RewriteCond %{REQUEST_FILENAME} !-d
 RewriteCond %{REQUEST_FILENAME}\.html -f
 RewriteRule ^(.*)$ $1.html
 
-ErrorDocument 404 / 404.md
+ErrorDocument 404 /error_pages/404.html
 Redirect http://indexmod.online http://indexmod.club
 
