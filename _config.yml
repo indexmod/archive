@@ -9,8 +9,7 @@ collections:
     title: Uploads
     output: false
 description: Indexmod Encyclopedia — is an alternative wiki with pretty syntax
-include:
-- ".htaccess"
+include: ".htaccess"
 show_sidebar: false
 show_downloads: false
 show_title: false
