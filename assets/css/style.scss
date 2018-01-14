@@ -78,30 +78,31 @@
      text-decoration: none;
 }
  img {
-     max-width: 60%;
-     min-width: 20%;
+     max-width: 100%;
+     min-width: 50%;
      height: auto;
      margin: 0em 0em 0em 0em;
      -webkit-filter: grayscale(90%);
      filter: grayscale(90%);
-     font-family: 'Georgia', serif;
-     font-size: 20px;
-     line-height: 1.6em;
-     font-weight: 200;
+  
+     font-family: 'Monaco', serif;
+     font-size: 19px;
+     line-height: 0.1em;
+     font-weight: 100;
      color: black;
 }
  em {
-     font-family: 'Georgia', serif;
-     font-size: 20px;
-     line-height: 1.1em;
-     font-weight: 200;
-     color: grey;
+     font-family: 'Monaco', serif;
+     font-size: 19px;
+     line-height: 0.1em;
+     font-weight: 100;
+     color: black;
 }
  footer {
      font-family: 'Georgia', serif;
      font-size: 20px;
      line-height: 1.6em;
      font-weight: 200;
-     color: grey;
+     color: black;
 }
  
