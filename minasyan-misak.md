@@ -5,7 +5,8 @@ layout: default
 ---
 
 # Minasyan, Misak
-(Rus. Мисак Минасян, Самоктьян born. in 1983, Stanitsa Marianskaya) is a Russian visual artist student of Rodchenko School <span id="a1">[\[1\]](#f1)</span>, founder of [Proun](proun-movement) living and working in Moscow. Also known as Самоктьян <span id="a2">[\[2\]](#f2)</span> the transcendental person, does not exist in the consciousness of being-for-itself. The phenomenon of the phenomenon. Existential emanation of self. Ontological accident. Escapist technocracy. Minimalism. Nichtozhenie structuralism. Intelligent Dadaism. Scholastic sabotage. Techno Mannerism. The Catechism of the absurd <span id="a3">[\[3\]](#f3)</span>.
+
+(Rus. Мисак Минасян, born. in 1983, Stanitsa Marianskaya) is a Russian visual artist student of Rodchenko School <span id="a1">[\[1\]](#f1)</span>, founder of [Proun](proun-movement) living and working in Moscow. Also known as Самоктьян <span id="a2">[\[2\]](#f2)</span> the transcendental person, does not exist in the consciousness of being-for-itself. The phenomenon of the phenomenon. Existential emanation of self. Ontological accident. Escapist technocracy. Minimalism. Nichtozhenie structuralism. Intelligent Dadaism. Scholastic sabotage. Techno Mannerism. The Catechism of the absurd <span id="a3">[\[3\]](#f3)</span>.
 
 ![](http://plumsfest.ru/img/artists/2013/misak.jpg)
 
@@ -31,6 +32,6 @@ Photo: [Photographer name](http://example.net/) / [Plums Fest](http://plumsfest.
 
 [[1]](#a1) <span id="f1"></span> [Samokatyan, Misak (Indexmod Encyclopedia, 2016](https://sites.google.com/site/indexmodencyclopedia/samokatyan-misak)
 
-[[2]](#a2) <span id="f2"></span> [Article name little longer (Author name longer)](https://readymag.com/proun/misak/)
+[[2]](#a2) <span id="f2"></span> [Proun artists Misak Minasyan (Readymag)](https://readymag.com/proun/misak/)
 
 [[3]](#a3) <span id="f3"></span> [Мисак Самокатьян (Facebook)](https://www.facebook.com/misak.samokatyan)
