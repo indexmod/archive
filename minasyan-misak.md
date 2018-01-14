@@ -10,8 +10,9 @@ layout: default
 
 ![](http://plumsfest.ru/img/artists/2013/misak.jpg)
 
-{:.image-caption} Misak Minasyan is posing for Plums Fest in 2013 
-{:.image-caption} *Photo: [Photographer name](http://example.net/) / [Plums Fest](http://plumsfest.ru/samokatyan/)*
+{:.image-caption} 
+Misak Minasyan is posing for Plums Fest in 2013 
+*Photo: [Photographer name](http://example.net/) / [Plums Fest](http://plumsfest.ru/samokatyan/)*
 
 # Conspectus
 
