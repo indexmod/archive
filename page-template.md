@@ -10,9 +10,8 @@ layout: default
 
 ![](/images/image-name.jpg)
 
-**Image captin**
-
-*Photo: [Photographer name](http://example.net/) / [Source name](http://example.net/)*
+*Image caption <br>
+Photo: [Photographer name](/photographer-name-page) / [Source name](/source-name-page)*
 
 # Conspectus
 
@@ -24,9 +23,9 @@ layout: default
 
 # See also
 
-- [Source name](http://example.net/)
-- [Source name](http://example.net/)
-- [Source name](http://example.net/)
+- [See also page title](/source-name-page)
+- [See also page title](/source-name-page)
+- [See also page title](/source-name-page)
 
 # Footnotes
 
