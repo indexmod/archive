@@ -9,14 +9,13 @@ is wiki that hosted on GitHub with Prose admin and the beautiful syntax
 
 ![](/images/image-name.jpg)
 
-*Image caption*
-
-*Photo: [Photographer name](http://example.net/) / [Source name](http://example.net/)*
+*Image caption<br>
+Photo: [Photographer name](http://example.net/) / [Source name](http://example.net/)*
 
 # Conspectus
 
 |Year|City|
-|----|---------|
+|----|----|
 |2014|Tokyo|
 |2015|Moscow|
 |2017|Kiev|
