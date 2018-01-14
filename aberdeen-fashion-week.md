@@ -20,11 +20,6 @@ Photo: [Aberdeen Street Fashion](aberdeen-street-fashion.md) / [Blogspot](blogsp
 |2013|Founded by Lydia Cutler|
 |2018|Transforming to Aberdeen Fashion & Art Week|
 
-![] (https://media-cdn.tripadvisor.com/media/photo-s/0f/6d/1d/98/outside-of-hotel-copthorne.jpg)
-
-**Entrance of Copthorne Hotel Aberdeen**
-
-*Photo: [Ola T. K](https://www.tripadvisor.co.uk/members/olatk) / [Tripadvisor](tripadvisor.md)*
 
 # See also
 
