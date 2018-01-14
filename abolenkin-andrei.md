@@ -8,7 +8,7 @@ published: true
 
 # Abolenkin, Andrei
 
-(Rus. Андрей Аболенкин, born 1972, Moscow) is a Russian style and fashion expert <span id="a1">[\[1\]](#f1)</span>, consultant and promoter. Andrei working and living in Moscow. [Edit](http://prose.io/#indexmod/{{ site.repo }}/edit/master/{{ page.path }})
+(Rus. Андрей Аболенкин, born 1972, Moscow) is a Russian style and fashion expert <span id="a1">[\[1\]](#f1)</span>, consultant and promoter. Andrei working and living in Moscow. [Edit this page](http://prose.io/#indexmod/indexmod/edit/master/{{ page.path }})
 
 ![Andrei Abolenkin in 2014](/images/andrei-abolenkin-by-igor-vasiliadis-2014.jpg)
 
