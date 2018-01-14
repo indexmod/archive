@@ -2,11 +2,12 @@
 title: Lecharlatan (socks)
 permalink: lecharlatan
 layout: default
+published: true
 ---
 
 # Lecharlatan (socks)
 
-(Est. 2013, Moscow) is a clothing brand, Russian streetwear brand <span id="a1">[\[1\]](#f1)</span>, an independent label providing high quality socks founded Le Charlatan by Andrey Bozhyev <span id="a2">[\[2\]](#f2)</span> and Maria Aldarova <span id="a3">[\[3\]](#f3)</span>, later purchased from co-founder and registered as Lecharlatan by Andrey Bozhyev (2015). Participant of the TEDxSadovoeRing <span id="a4">[\[4\]](#f4)</span>. [Edit this page](http://prose.io/#indexmod/indexmod/edit/master/lecharlatan.md)
+(Est. 2013, Moscow) is a clothing brand, Russian streetwear brand <span id="a1">[\[1\]](#f1)</span>, an independent label providing high quality socks founded Le Charlatan by Andrey Bozhyev <span id="a2">[\[2\]](#f2)</span> and Maria Aldarova <span id="a3">[\[3\]](#f3)</span>, later purchased from co-founder and registered as Lecharlatan by Andrey Bozhyev (2015). Participant of the TEDxSadovoeRing <span id="a4">[\[4\]](#f4)</span>. [Edit this page](http://prose.io/#indexmod/encyclopedia/edit/master/lecharlatan.md)
 
 ![](/images/olly-alexander-wears lecharlatan-socks-tom-jamieson.jpg)
 
@@ -44,5 +45,3 @@ Photo: [Jurij Treskow](/jurij-treskow) / [Wikipedia](https://en.wikipedia.org/wi
 [[3]](#a3) <span id="f3"></span> [Le Charlatan: Носки и гольфы родом из Москвы (Олеся Ива, Wonderzine)](http://www.wonderzine.com/wonderzine/style/new_faces/200619-le-charlatan-socks)
 
 [[4]](#a4) <span id="f4"></span> [Основной нюанс в развитии бренда — это донести собственное видение до окружающих и не расплескать его, сформировать вокруг себя новую культуру (Андрей Божьев, Ditelegraph)](http://ditelegraph.ru/members/news/37)
-
-[Edit this page](http://prose.io/#indexmod/indexmod/edit/master/lecharlatan.md)
