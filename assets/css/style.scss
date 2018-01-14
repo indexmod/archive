@@ -30,7 +30,7 @@ th, td {
     border-bottom: 0.1px solid #ddd;
 }
 
-tr:hover {background-color:linear-gradient(white, green)}
+tr:hover {linear-gradient(white, green)}
 
 	p {
 		font-family: 'Georgia', serif;
@@ -96,9 +96,9 @@ tr:hover {background-color:linear-gradient(white, green)}
 
 em {
 
-                font-family: 'Helvetica Neue',  sans serif;
+                font-family: 'Helvetica Neue', sans serif;
 		font-size: 20px;
-	        style: normal
+	        style: normal;
 		line-height: 1.6em;
 		font-weight: 200;
 		color: grey; 
