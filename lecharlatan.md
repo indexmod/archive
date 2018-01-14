@@ -29,12 +29,11 @@ Photo: [Jurij Treskow](/jurij-treskow) / [Wikipedia](https://en.wikipedia.org/wi
 
 # Stores
 
-|Year|Milestone|
-|----|---------|
-|2014|Purchasing from co-founder|
-|2015|Registering of Lecharlatan|
-|2016|Launching of Строгий юноша|
-|2017|Launching of Русский успех by Vika Rynski|
+|Year|Store|Country|
+|----|---------|---|
+|2014|Tsvetnoy Central Market|Russia|
+|2015|Podium Market|Russia|
+|2016|Uggla|Japan|
 
 # Footnotes
 
