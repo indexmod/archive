@@ -25,7 +25,9 @@ table {
 	        border-collapse: collapse;
 }
 
-th, td {
+th {
+    background-color: white;
+    color: black;
     padding: 10px;
     text-align: left;
     height: auto;
@@ -33,7 +35,16 @@ th, td {
     border: 0.1px solid #ddd;
 }
 
-tc:hover {background-color:#f5f5f5;}
+
+td {
+    padding: 10px;
+    text-align: left;
+    height: auto;
+    vertical-align: top;
+    border: 0.1px solid #ddd;
+}
+
+tr:hover {background-color:#f5f5f5;}
 
 	p {
 		font-family: 'Georgia', serif;
