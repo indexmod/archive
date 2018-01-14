@@ -5,7 +5,7 @@ layout: default
 ---
 
 # Minasyan, Misak
-(Rus. Мисак Минасян, Самоктьян born. in 1983, Stanitsa Marianskaya) is a Russian visual artist student of Rodchenko School <span id="a2"> [\[2\]] </span>, founder of [Proun](proun-movement) living and working in Moscow. Also known as Самоктьян <span id="a1">[\[1\]] </span> the transcendental person, does not exist in the consciousness of being-for-itself. The phenomenon of the phenomenon. Existential emanation of self. Ontological accident. Escapist technocracy. Minimalism. Nichtozhenie structuralism. Intelligent Dadaism. Scholastic sabotage. Techno Mannerism. The Catechism of the absurd. <span id="a3"> [\[3\]] </span>.
+(Rus. Мисак Минасян, Самоктьян born. in 1983, Stanitsa Marianskaya) is a Russian visual artist student of Rodchenko School <span id="a2">[\[2\]]</span>, founder of [Proun](proun-movement) living and working in Moscow. Also known as Самоктьян <span id="a1">[\[1\]]</span> the transcendental person, does not exist in the consciousness of being-for-itself. The phenomenon of the phenomenon. Existential emanation of self. Ontological accident. Escapist technocracy. Minimalism. Nichtozhenie structuralism. Intelligent Dadaism. Scholastic sabotage. Techno Mannerism. The Catechism of the absurd. <span id="a3">[\[3\]] </span>.
 
 ![](http://plumsfest.ru/img/artists/2013/misak.jpg)
 
