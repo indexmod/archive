@@ -12,7 +12,7 @@ layout: default
 
 {:.image-caption}
 Misak Minasyan is posing for Plums Fest in 2013
-{:.image-credit}
+{:.image-caption}
 Photo: [Photographer name](http://example.net/) / [Plums Fest](http://plumsfest.ru/samokatyan/)
 
 # Conspectus
