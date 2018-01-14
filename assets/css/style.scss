@@ -78,6 +78,7 @@
      text-decoration: none;
 }
  img {
+     align: center;
      max-width: 50%;
      min-width: 5%;
      height: auto;
@@ -86,13 +87,25 @@
      filter: grayscale(100%);
 }
 
- em {
-     font-family: 'Georgia', serif;
-     font-size: 15px;
+
+.image-caption {
+  text-align: center;
+  font-family: 'Georgia', serif;
+     font-size: 20px;
      line-height: 0.1em;
      font-weight: 100;
-     color: black;
-}
+     color: silver;
+ }
+
+.image-credit {
+  text-align: center;
+  font-family: 'Georgia', serif;
+     font-size: 20px;
+     line-height: 0.1em;
+     font-weight: 100;
+     color: silver;
+ }
+ 
  footer {
      font-family: 'Georgia', serif;
      font-size: 15px;
