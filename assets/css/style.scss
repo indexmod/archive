@@ -8,14 +8,14 @@
      font-size: 40px;
      font-weight: 100;
      line-height: 1.2em;
-     color: grey;
+     color: black;
 }
  table {
      font-family: 'Georgia', serif;
      font-size: 20px;
      line-height: 1.6em;
      font-weight: 200;
-     color: grey
+     color:  black;
      border-collapse: collapse;
 }
  th {
@@ -26,14 +26,14 @@
      text-align: left;
      height: auto;
      vertical-align: top;
-     border: 0.1px solid black;
+     border: 0.1px solid grey;
 }
  td {
      padding: 10px;
      text-align: left;
      height: auto;
      vertical-align: top;
-     border: 0.1px solid black;
+     border: 0.1px solid grey;
 }
  tr:hover {
     background-color:#f5f5f5;
