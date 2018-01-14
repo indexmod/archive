@@ -24,7 +24,7 @@ Photo: [Tom Jamieson](/tom-jamieson) / [The New York Times](/the-new-york-times)
 
 ![](https://upload.wikimedia.org/wikipedia/commons/1/16/%D0%98%D0%B2%D0%B0%D0%BD_%D0%94%D0%BE%D1%80%D0%BD_%D1%84%D0%BE%D1%82%D0%BE%D1%81%D0%B5%D1%81%D1%81%D0%B8%D1%8F.png)
 
-*Olly Alexander wears Lecharlatan socks <br>
+*Russian-Ukrainian raper Ivan Dorn wears Lecharlatan socks <br>
 Photo: [Jurij Treskow](/jurij-treskow) / [Wikipedia](https://en.wikipedia.org/wiki/Ivan_Dorn)*
 
 # Stores
