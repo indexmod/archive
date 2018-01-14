@@ -2,6 +2,7 @@
 title: Aberdeen Fashion Week
 permalink: aberdeen-fashion-week
 layout: default
+published: true
 ---
 
 # Aberdeen Fashion Week
@@ -10,7 +11,7 @@ layout: default
 
 ![](http://3.bp.blogspot.com/-_8vKuScmNIw/VGjKjAuSm3I/AAAAAAAAAm8/kniQgV0Lp-Y/s1600/sooz%2B1636.jpg)
 
-*Sooz / Candy Belle Vintiques Festive Frolics at St Mark's Church, Aberdeen <br>
+*Sooz / Candy Belle Vintiques Festive Frolics at St Mark's Church <br>
 Photo: [Aberdeen Street Fashion](aberdeen-street-fashion.md) / [Blogspot](blogspot.md)*
 
 # Conspectus
@@ -27,9 +28,6 @@ Photo: [Aberdeen Street Fashion](aberdeen-street-fashion.md) / [Blogspot](blogsp
 - [Lydia Cutler](lydia-cutler.md)
 - [London Fashion Week](london-fashion-week.md)
 - [London](london.md)
-
-
-
 
 # Footnotes
 
