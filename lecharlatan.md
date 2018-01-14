@@ -9,7 +9,7 @@ published: true
 
 (Est. 2013, Moscow) is a clothing brand, Russian streetwear brand <span id="a1">[\[1\]](#f1)</span>, an independent label providing high quality socks founded Le Charlatan by Andrey Bozhyev <span id="a2">[\[2\]](#f2)</span> and Maria Aldarova <span id="a3">[\[3\]](#f3)</span>, later purchased from co-founder and registered as Lecharlatan by Andrey Bozhyev (2015). Participant of the TEDxSadovoeRing <span id="a4">[\[4\]](#f4)</span>. [Edit this page](http://prose.io/#indexmod/encyclopedia/edit/master/lecharlatan.md)
 
-![](encyclopedia/images/olly-alexander-wears lecharlatan-socks-tom-jamieson.jpg)
+![](/images/olly-alexander-wears-lecharlatan-socks-tom-jamieson.jpg)
 
 *Olly Alexander wears Lecharlatan socks <br>
 Photo: [Tom Jamieson](/tom-jamieson) / [The New York Times](/the-new-york-times)*
