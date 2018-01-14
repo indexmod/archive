@@ -11,7 +11,7 @@ layout: default
 
 **Misak Minasyan in 2013**
 
-**Photo: [Photographer name](http://example.net/) / [Plums Fest](http://plumsfest.ru/samokatyan/)*+
+**Photo: [Photographer name](http://example.net/) / [Plums Fest](http://plumsfest.ru/samokatyan/)**
 
 # Conspectus
 
