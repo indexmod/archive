@@ -1,6 +1,6 @@
 ---
 title: Minasyan, Misak
-permalink: samokatjan-misak
+permalink: minasyan-misak
 layout: default
 ---
 
