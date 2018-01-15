@@ -14,7 +14,7 @@ show_sidebar: false
 show_downloads: false
 show_title: false
 show_description: false
-google_analytics: ''
+google_analytics: 'UA-112478299-1'
 
 gems:
 plugins:
