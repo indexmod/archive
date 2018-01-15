@@ -21,6 +21,7 @@ plugins:
   - jekyll-toc
 
 theme: jekyll-theme-minimal
+include: ['.htaccess']
 
 
 
