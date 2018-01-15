@@ -9,15 +9,18 @@ collections:
     title: Uploads
     output: false
 description: Indexmod Encyclopedia — is an alternative wiki with pretty syntax
-include: ".htaccess"
+
 show_sidebar: false
 show_downloads: false
 show_title: false
 show_description: false
-google_analytics: 'UA-111762431-1'
-site_repo: indexmod
-site_branch: master
+google_analytics: ''
+
+gems:
+plugins:
+  - jekyll-toc
+
 theme: jekyll-theme-minimal
-exclude: [404.md]
+
 
 
