@@ -1,1 +1,5 @@
-
+<IfModule mod_rewrite.c>
+RewriteEngine On
+RewriteBase /
+# rewrite rules go here
+</IfModule>
