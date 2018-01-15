@@ -10,7 +10,7 @@ layout: default
 
 ![](/images/image-name.jpg)
 
-*Image caption
+*Image caption <br>
 Photo: [Photographer name](http://example.net/) / [Source name](http://example.net/)*
 
 # Conspectus
