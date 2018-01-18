@@ -8,10 +8,10 @@ layout: default
 
 (Born 1942, Kansas City) American black-and-white photographer, as a child, he spent most of his time drawing boat designs and crafting ship prototypes from scrap metal. Some of the photographer's works are in the collection and exhibited at Gallery of Classic Photography of Moscow <span id="a1">[\[1\]](#f1)</span>.
 
-![](/images/butcher-clyde.jpg)
+![](http://ppmag.s3.amazonaws.com/images/made/images/profiles/15100/201508_butcher04_apalachicola-river1__large_800_539_75_8d0fd1ea4061947d.jpg)
 
 *Photography made on Apalachicola River, hand printed in darkroom <br>
-Photo: [Clyde Butcher](butcher-clyde) / [ClydeButcher.com](https://clydebutcher.com/)*
+Photo: [Clyde Butcher](butcher-clyde) / [Professional Photographer magazine](http://ppmag.com/profiles/clyde-butcher-force-of-life)*
 
 # Conspectus
 
