@@ -1,38 +1,32 @@
 ---
 title: Butcher, Clyde
 permalink: butcher-clyde
-position:
 layout: default
 ---
 
 # Butcher, Clyde
 
-(Est. 2013, city) is a subject, description-one <span id="a1">[\[1\]](#f1)</span>, description-two <span id="a2">[\[2\]](#f2)</span> description-3 <span id="a3">[\[3\]](#f3)</span>, extra text.
+(Born 1942, Kansas City) American black-and-white photographer, as a child, he spent most of his time drawing boat designs and crafting ship prototypes from scrap metal. Some of the photographer's works are in the collection and exhibited at Gallery of Classic Photography of Moscow <span id="a1">[\[1\]](#f1)</span>.
 
-![](/images/image-name.jpg)
+![](/images/butcher-clyde.jpg)
 
-*Image caption*
-
-*Photo: [Photographer name](http://example.net/) / [Source name](http://example.net/)*
+*Photography made on Apalachicola River, hand printed in darkroom <br>
+Photo: [Clyde Butcher](butcher-clyde) / [ClydeButcher.com](https://clydebutcher.com/)*
 
 # Conspectus
 
-|Year|City|
-|----|---------|
-|2014|Tokyo|
-|2015|Moscow|
-|2017|Kiev|
+|Year|City|Gallery|Exhibition|
+|----|---------|---|---|
+|2015|Moscow|Gallery of Classic Photography|Wide open space|
+|2017|Moscow|Gallery of Classic Photography|Presence effect|
+
 
 # See also
 
-- [Source name](http://example.net/)
-- [Source name](http://example.net/)
-- [Source name](http://example.net/)
+- [Gallery of Classic Photography (Moscow)](gallery-of-classic-photography-moscow)
+- [Rozanov, Mikhail](rozanov-mikhail)
+
 
 # Footnotes
 
-[[1]](#a1) <span id="f1"></span> [Article name (Author name)](http://example.net/article)
-
-[[2]](#a2) <span id="f2"></span> [Article name (Author name)](http://example.net/article)
-
-[[3]](#a3) <span id="f3"></span> [Article name (Author name)](http://example.net/article)
+[[1]](#a1) <span id="f1"></span> [Выставка фотографий Клайда Батчера «Широко открытое пространство» (Галерея Классической Фотографии, 2015)](http://classicgallery.ru/fotovystavki-v-moskve/vystavka-fotografiy-klayda-batchera-shiroko-otkrytoe-prostranstvo)
