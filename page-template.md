@@ -37,6 +37,6 @@ layout: default
 [[3]](#a3) <span id="f3"></span> [Article name longer so far (Author name too long and much longer)](http://example.net/article)
 
 
-`!Note`
+`Note and code`
 
-!Note
+
