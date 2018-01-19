@@ -1,4 +1,6 @@
 ---
+
+title: How to edit 
 permalink: edit
 layout: default
 ---
@@ -9,7 +11,15 @@ The aim of Indexmod Encyclopedia to simplify wiki syntax for a pretty and light 
 
 # Page structure 
 
-See [Page template](page-template.md) for details. Every page is written with [Markdown](https://daringfireball.net/projects/markdown/syntax) and must have **Front matter** area set with triple-dashed lines. A Front matter may contain Page title, some meta, and permalink of the page. The visible area of the page contains **Page title**, top block, an image with captions and credits, **Conspectus**, **See also** links and **Footnote section**.
+See [Page template](page-template.md) for details. Every page is written with [Markdown](https://daringfireball.net/projects/markdown/syntax) and must have **front matter** area set with triple-dashed lines. 
+
+`---
+title: How to edit 
+permalink: edit
+layout: default
+---`
+
+Above sample points a **front matter** of the page **How to edit**. A **front matter** may contain **page title**, **permalink**, **layout** and other meta data. The visible area of the page contains **Title** and **Front** section, an image with captions and credits, **Conspectus** section, **See also** section with links to another pages and **Footnotes** section, **Edit this page** link.
 
 # Title  
 
@@ -77,22 +87,38 @@ Conspectus is a way to style some data and lists like events or places in table.
 This section connects your page with others pages in Indexmod Encyclopedia. Use following template combining list and link styling syntax. 
 
 `+ [See also title one](page-template-1)`
+
 `+ [See also title two](page-template-2)`
+
 `+ [See also title three](page-template-3)`
 
 + [See also title one](page-template-1)
+
 + [See also title two](page-template-2)
+
 + [See also title three](page-template-3)
 
 # Footnotes 
 
-`+ [See also title one](page-template-1)`
-`+ [See also title two](page-template-2)`
-`+ [See also title three](page-template-3)`
+`[[1]](#a1) <span id="f1"></span> [Article 1 (Author 1)](http://example.net/article)`
+
+`[[2]](#a2) <span id="f2"></span> [Article 2 (Author 2)](http://example.net/article)`
+
+`[[3]](#a3) <span id="f3"></span> [Article 3 (Author 3)](http://example.net/article)`
+
+[[1]](#a1) <span id="f1"></span> [Article 1 (Author 1)](http://example.net/article)
+
+[[2]](#a2) <span id="f2"></span> [Article 2 (Author 2)](http://example.net/article)
+
+[[3]](#a3) <span id="f3"></span> [Article 3 (Author 3)](http://example.net/article)
+
+
 
 Connect some text using short links <span id="a1">[\[1\]](#f1)</span>, <span id="a2">[\[2\]](#f2)</span>, <span id="a3">[\[3\]](#f3)</span> with links and source in **Footnote** edit. Kepp numbering in links organized: [[1]](#a1) <span id="f1"></span> [Article 1 (Author 1)](http://example.net/article) [[2]](#a2) <span id="f2"></span> [Article 2 (Author 2)](http://example.net/article)[[3]](#a3) <span id="f3"></span> [Article 3 (Author 3)](http://example.net/article)
 
 
 # Prose.io editor linking
+
+`[Edit this page] (http://prose.io/#indexmod/encyclopedia/edit/master/edit.md)`
 
 You may edit every page in Prose.io editor following link [Edit this page](http://prose.io/#indexmod/encyclopedia/edit/master/edit.md) To push edit changes you may need authorize as GitHub user.
