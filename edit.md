@@ -69,11 +69,11 @@ Every image must be described as much possible detailed and styled with **bold f
 
 Conspectus is a way to style some data and lists like events or places in table. 
 
-`|Year|City|
-|----|-----|
-|2014|Tokyo|
-|2015|Moscow|
-|2017|Paris|`
+`|Year|City|`
+`|---|---|`
+`|2014|Tokyo|`
+`|2015|Moscow|`
+`|2017|Paris|`
 
 
 |Year|City|
