@@ -85,13 +85,23 @@
 }
 
 
+
+strong {
+  text-align: right;
+  font-family: Monaco;
+     font-size: 20px;
+     line-height: 1.1em;
+     font-weight: 300;
+     color: black;
+ }
+
 em {
-  text-align: left;
-  font-family: 'Georgia', serif;
-     font-size: 17px;
+  text-align: right;
+  font-family: Monaco;
+     font-size: 20px;
      line-height: 1.1em;
      font-weight: 100;
-     color: grey;
+     color: black;
  }
 
  
