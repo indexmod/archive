@@ -48,16 +48,21 @@ Starts with **(Born, Est. 1999, city)** beginner in round brackets. Following on
 
 `<span id="a1">[\[1\]](#f1)</span>` 
 
+Will be rendered:
+
 <span id="a1">[\[1\]](#f1)</span>
 
 
 # Image, caption, and credits
+
+This is image link code:
 
 `![](/encyclopedia/images/image-name.jpg)`
 
 
 `**Image caption**`
 
+Will be rendered:
 
 **Image caption**
 
@@ -66,6 +71,7 @@ Starts with **(Born, Est. 1999, city)** beginner in round brackets. Following on
 
 `/ [Source name](edition-name)*`
 
+Will be rendered:
 
 *Photo: [Photographer name](photographer-name) / [Source name](edition-name)*
 
@@ -85,6 +91,7 @@ Conspectus is a way to style some data and lists like events or places in table.
 
 `|2017|Paris|`
 
+Will be rendered:
 
 |Year|City|
 |----|-----|
@@ -94,11 +101,11 @@ Conspectus is a way to style some data and lists like events or places in table.
 
 # See also 
 
-This section connects your page with others pages in Indexmod Encyclopedia. Use following template combining list and link styling syntax. 
+This section connects your page with others pages in Indexmod Encyclopedia. Use following template combining list and link styling syntax. The code:
 
 `+ [See also title one](page-template-1)`
 
----
+Will be rendered:
 
 + [See also title one](page-template-1)
 
@@ -110,6 +117,7 @@ This section connects your page with others pages in Indexmod Encyclopedia. Use 
 
 `[Article 1 (Author 1)](http://example.net/article)`
 
+Will be rendered:
 
 [[1]](#a1) <span id="f1"></span> [Article 1 (Author 1)](http://example.net/article)
 
@@ -123,5 +131,6 @@ Connect some text using short links <span id="a1">[\[1\]](#f1)</span>, <span id=
 
 `(http://prose.io/#indexmod/encyclopedia/edit/master/edit.md)`
 
+Will be rendered:
 
 You may edit every page in Prose.io editor following link [Edit this page](http://prose.io/#indexmod/encyclopedia/edit/master/edit.md) To push edit changes you may need authorize as GitHub user.
