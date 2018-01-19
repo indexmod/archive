@@ -19,15 +19,25 @@ See [Page template](page-template.md) for details. Every page is written with [M
 
 `# Duma, Miroslava (publisher)` 
 
-Includes the subject's name **Aberdeen Fashion Week**, surname and name **Tailor, Victoria** and may be added with dissimulation with round brackets **Duma, Miroslava (publisher)**. 
-
-
+Includes the subject's name **Aberdeen Fashion Week**, surname and name **Tailor, Victoria** and may be added with dissimulation with round brackets **Tailor, Victoria (designer)**. 
 
 # Top block
 
-Starts with **(Born, Est. line)** in round brackets and one-two sentences of description and footnote links styled with squared brackets [1], [2], [3]. See sample of the active footnote link at [Page template](page-template.md)
+`(Born 1968, Paris)` 
 
-# Images, captions, and credits 
+`(Est. 2012, Moscow)` 
+
+`...text <span id="a1">[\[1\]](#f1)</span>)` 
+
+Starts with **(Born, Est.)** beginner in round brackets. Following one-two sentences of description ends with footnote links styled with squared brackets <span id="a1">[\[1\]](#f1)</span>, <span id="a2">[\[2\]](#f2)</span>, <span id="a3">[\[3\]](#f3)</span>. See sample of the active footnote link at [Page template](page-template.md)
+
+# Images, captions, and credits
+
+`# Duma, Miroslava (publisher)` 
+
+`# Duma, Miroslava (publisher)` 
+
+`# Duma, Miroslava (publisher)` 
 
 Every image must be described as much possible detailed and styled with **bold font**. Credits line starts with **photographer's name** styled italic with  an active link and after slash separator source, edition name. Links may be pointed to **Future pages** with syntax photographer-name.md or edition-name.md
 
