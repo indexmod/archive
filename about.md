@@ -1,6 +1,6 @@
 ---
 title: Indexmod Encyclopedia
-permalink: about
+permalink: indexmod-encyclopedia  
 layout: default
 ---
 
