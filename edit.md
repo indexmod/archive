@@ -31,9 +31,9 @@ Includes the subject's name **Aberdeen Fashion Week**, surname and name **Tailor
 
 `(Est. 2012, Moscow)` 
 
-`...squared brackets <span id="a1">[\[1\]](#f1)</span>)` 
-
 Starts with **(Born, Est. 1999, city)** beginner in round brackets. Following one-two sentences of description front ends with footnote links styled with **squared brackets** <span id="a1">[\[1\]](#f1)</span>, <span id="a2">[\[2\]](#f2)</span>, <span id="a3">[\[3\]](#f3)</span>. See sample of the active footnote link at [Page template](page-template.md)
+
+**+ Squared brackets** <span id="a1">[\[1\]](#f1)</span> `<span id="a1">[\[1\]](#f1)</span>)` 
 
 # Image, caption, and credits
 
