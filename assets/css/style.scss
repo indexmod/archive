@@ -60,19 +60,19 @@
      color: black;
 }
  a:link {
-     color: black;
+     color: #4286f4;
      text-decoration: none;
 }
  a:visited {
-     color: black;
+     color: #4286f4;
      text-decoration: none;
 }
  a:hover {
-     color: green;
+     color: black;
      text-decoration: none;
 }
  a:active {
-     color: black;
+     color: #4286f4;
      text-decoration: none;
 }
 
@@ -118,8 +118,8 @@ em {
      line-height: 1.6em;
      font-weight: 100;     
      color: #616E14;
-     border: solid 1px #BFD62F;
-     background-color: #DAE691;
+     border: solid 1px black;
+     background-color: #4286f4;
      -moz-border-radius: 6px;
      -webkit-border-radius: 6px;
      border-radius: 6px;
