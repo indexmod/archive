@@ -25,19 +25,29 @@ Every image must be described as musch posiible detailed and styled with **bold 
 
 # Conspectus
 
-- Section Will be added soon
+Conspectus is a way to style some data and lists like events or places. 
+
+|Year|City|
+|----|-----|
+|2014|Tokyo|
+|2015|Moscow|
+|2017|Paris|
 
 # See also 
 
-- Section Will be added soon
+This section connects your page with others pages in Indexmod Encyclopedia. Use following template combining lis and link stylyng syntax. 
+
++ [See also title one](page-template)
++ [See also title two](page-template)
++ [See also title three](page-template)
 
 # Footnotes 
 
-- Section Will be added soon
+Add '<span id="a1">[\[1\]](#f1)</span>'
 
 
 # Prose editor 
 
-- Section Will be added soon
+- Section will be added
 
 
