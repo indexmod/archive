@@ -114,8 +114,9 @@ Will be rendered:
 
 `[[1]](#a1) <span id="f1"></span>` 
 
+`[Article 1 (Author 1)]`
 
-`[Article 1 (Author 1)](http://example.net/article)`
+`(http://example.net/article)`
 
 Will be rendered:
 
