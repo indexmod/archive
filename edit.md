@@ -46,11 +46,11 @@ Includes the subject's name **Aberdeen Fashion Week**, surname and name **Tailor
 
 Starts with **(Born, Est. 1999, city)** beginner in round brackets. Following one-two sentences of description front ends with footnote links styled with **squared brackets** <span id="a1">[\[1\]](#f1)</span>, <span id="a2">[\[2\]](#f2)</span>, <span id="a3">[\[3\]](#f3)</span>. 
 
-`<span id="a1">[\[1\]](#f1)</span>)`
+`<span id="a1">[\[1\]](#f1)</span>`
 
 ---
 
-Squared brackets <span id="a1">[\[1\]](#f1)</span>)
+Squared brackets <span id="a1">[\[1\]](#f1)</span>
 
 See sample of the active footnote link at [Page template](page-template.md)
 
@@ -101,34 +101,19 @@ This section connects your page with others pages in Indexmod Encyclopedia. Use 
 
 `+ [See also title one](page-template-1)`
 
-`+ [See also title two](page-template-2)`
-
-`+ [See also title three](page-template-3)`
-
 ---
 
 + [See also title one](page-template-1)
 
-+ [See also title two](page-template-2)
-
-+ [See also title three](page-template-3)
 
 # Footnotes 
 
-`[[1]](#a1) <span id="f1"></span> [Article 1 (Author 1)](http://example.net/article)`
-
-`[[2]](#a2) <span id="f2"></span> [Article 2 (Author 2)](http://example.net/article)`
-
-`[[3]](#a3) <span id="f3"></span> [Article 3 (Author 3)](http://example.net/article)`
+`[[1]](#a1) <span id="f1"></span>` `[Article 1 (Author 1)](http://example.net/article)`
 
 ---
 
-
 [[1]](#a1) <span id="f1"></span> [Article 1 (Author 1)](http://example.net/article)
 
-[[2]](#a2) <span id="f2"></span> [Article 2 (Author 2)](http://example.net/article)
-
-[[3]](#a3) <span id="f3"></span> [Article 3 (Author 3)](http://example.net/article)
 
 
 
@@ -137,7 +122,7 @@ Connect some text using short links <span id="a1">[\[1\]](#f1)</span>, <span id=
 
 # Prose.io editor linking
 
-`[Edit this page] (http://prose.io/#indexmod/encyclopedia/edit/master/edit.md)`
+`[Edit this page]` `(http://prose.io/#indexmod/encyclopedia/edit/master/edit.md)`
 
 
 You may edit every page in Prose.io editor following link [Edit this page](http://prose.io/#indexmod/encyclopedia/edit/master/edit.md) To push edit changes you may need authorize as GitHub user.
