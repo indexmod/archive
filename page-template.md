@@ -41,11 +41,11 @@ layout: default
 
 ---
 
-`Editorial'
+`Editorial`
 
-'Warnings'
+`Warnings`
 
-'Notes`
+`Notes`
 
 
 
