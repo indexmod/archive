@@ -114,6 +114,7 @@ This section connects your page with others pages in Indexmod Encyclopedia. Use 
 
 `[[1]](#a1) <span id="f1"></span>` 
 
+
 `[Article 1 (Author 1)](http://example.net/article)`
 
 ---
