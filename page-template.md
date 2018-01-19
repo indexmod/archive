@@ -10,7 +10,7 @@ layout: default
 
 ![](/encyclopedia/images/image-name.jpg)
 
-`Image caption`
+**Image caption title**
 
 *Photo: [Photographer name](/photographer-name-page) / [Source name](/source-name-page)*
 
@@ -36,9 +36,6 @@ layout: default
 
 [[3]](#a3) <span id="f3"></span> [Article name longer so far (Author name too long and much longer)](http://example.net/article)
 
-
-
-
-`Note and code [Note link](note-link)`
+`Note or code [Note link](note-link)`
 
 
