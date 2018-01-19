@@ -12,6 +12,7 @@ toc: true
 ![](http://3.bp.blogspot.com/-_8vKuScmNIw/VGjKjAuSm3I/AAAAAAAAAm8/kniQgV0Lp-Y/s1600/sooz%2B1636.jpg)
 
 **Sooz / Candy Belle Vintiques Festive Frolics at St Mark's Church**
+
 *Photo: [Aberdeen Street Fashion](aberdeen-street-fashion.md) / [Blogspot](blogspot.md)*
 
 # Conspectus
