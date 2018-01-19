@@ -1,5 +1,4 @@
 ---
-
 title: How to edit 
 permalink: edit
 layout: default
@@ -13,11 +12,15 @@ The aim of Indexmod Encyclopedia to simplify wiki syntax for a pretty and light 
 
 See [Page template](page-template.md) for details. Every page is written with [Markdown](https://daringfireball.net/projects/markdown/syntax) and must have **front matter** area set with triple-dashed lines. 
 
-`---
-title: How to edit 
-permalink: edit
-layout: default
----`
+`---`
+
+`title: How to edit`
+
+`permalink: edit`
+
+`layout: default`
+
+`---`
 
 Above sample points a **front matter** of the page **How to edit**. A **front matter** may contain **page title**, **permalink**, **layout** and other meta data. The visible area of the page contains **Title** and **Front** section, an image with captions and credits, **Conspectus** section, **See also** section with links to another pages and **Footnotes** section, **Edit this page** link.
 
@@ -45,6 +48,8 @@ Starts with **(Born, Est. 1999, city)** beginner in round brackets. Following on
 
 `Squared brackets <span id="a1">[\[1\]](#f1)</span>)`
 
+---
+
 Squared brackets <span id="a1">[\[1\]](#f1)</span>)
 
 See sample of the active footnote link at [Page template](page-template.md)
@@ -53,13 +58,21 @@ See sample of the active footnote link at [Page template](page-template.md)
 
 `![](/encyclopedia/images/image-name.jpg)`
 
+---
+
 ![](/encyclopedia/images/image-name.jpg)
 
 `**Image caption**`
 
+---
+
 **Image caption**
 
+
+
 `*Photo: [Photographer name](photographer-name) / [Source name](edition-name)*`
+
+---
 
 *Photo: [Photographer name](photographer-name) / [Source name](edition-name)*
 
@@ -92,6 +105,8 @@ This section connects your page with others pages in Indexmod Encyclopedia. Use 
 
 `+ [See also title three](page-template-3)`
 
+---
+
 + [See also title one](page-template-1)
 
 + [See also title two](page-template-2)
@@ -105,6 +120,9 @@ This section connects your page with others pages in Indexmod Encyclopedia. Use 
 `[[2]](#a2) <span id="f2"></span> [Article 2 (Author 2)](http://example.net/article)`
 
 `[[3]](#a3) <span id="f3"></span> [Article 3 (Author 3)](http://example.net/article)`
+
+---
+
 
 [[1]](#a1) <span id="f1"></span> [Article 1 (Author 1)](http://example.net/article)
 
@@ -120,5 +138,6 @@ Connect some text using short links <span id="a1">[\[1\]](#f1)</span>, <span id=
 # Prose.io editor linking
 
 `[Edit this page] (http://prose.io/#indexmod/encyclopedia/edit/master/edit.md)`
+
 
 You may edit every page in Prose.io editor following link [Edit this page](http://prose.io/#indexmod/encyclopedia/edit/master/edit.md) To push edit changes you may need authorize as GitHub user.
