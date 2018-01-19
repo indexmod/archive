@@ -1,6 +1,6 @@
 ---
-title: FAQ
-permalink: faq
+title: QA
+permalink: qa
 layout: default
 ---
 
