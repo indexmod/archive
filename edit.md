@@ -13,7 +13,7 @@ See [Page template](page-template.md) for details. Every page is written with [M
 
 # Title  
 
-Includes the subject's name **Aberdeen Fashion Week**, surname and name **Tailor, Victoria** and may be added with dissimulation with round brackets **Duma, Miroslava (publisher)**.  
+Includes the subject's name `**Aberdeen Fashion Week**` **Aberdeen Fashion Week**, surname and name **Tailor, Victoria** and may be added with dissimulation with round brackets **Duma, Miroslava (publisher)**.  
 
 # Top block
 
