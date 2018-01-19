@@ -50,4 +50,4 @@ Connect some text using short links <span id="a1">[\[1\]](#f1)</span>, <span id=
 
 You may dedit every page in Prose.io editor following link [Edit this page](http://prose.io/#indexmod/encyclopedia/edit/master/page-template.md) To push edit changes you may need authorize as GitHub user.
 
-
+`code` 
