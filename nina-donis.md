@@ -1,6 +1,6 @@
 ---
-title: Page template
-permalink: page-template
+title: Nina Donis
+permalink: nina-donis
 layout: default
 ---
 

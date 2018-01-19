@@ -1,6 +1,6 @@
 ---
-title: Page template
-permalink: page-template
+title: Zaitsev, Vyacheslav
+permalink: zaitsev-vyacheslav
 layout: default
 ---
 

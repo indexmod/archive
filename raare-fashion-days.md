@@ -1,6 +1,6 @@
 ---
-title: Page template
-permalink: page-template
+title: Raare Fashion Days 
+permalink: raare-fashion-days
 layout: default
 ---
 

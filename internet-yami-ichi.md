@@ -1,6 +1,6 @@
 ---
-title: Page template
-permalink: page-template
+title: Internet Yami Ichi
+permalink: internet-yami-ichi
 layout: default
 ---
 

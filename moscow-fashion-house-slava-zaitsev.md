@@ -1,6 +1,6 @@
 ---
-title: Page template
-permalink: page-template
+title: Moscow Fashion House Slava Zaitsev
+permalink: moscow-fashion-house-slava-zaitsev
 layout: default
 ---
 

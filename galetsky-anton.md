@@ -1,6 +1,6 @@
 ---
-title: Page template
-permalink: page-template
+title: Galetsky, Anton
+permalink: galetsky-anton
 layout: default
 ---
 

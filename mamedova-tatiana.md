@@ -1,6 +1,6 @@
 ---
-title: Page template
-permalink: page-template
+title: Mamedova, Tatiana
+permalink: mamedova-tatiana
 layout: default
 ---
 

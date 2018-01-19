@@ -1,6 +1,6 @@
 ---
-title: Page template
-permalink: page-template
+title: Gazinskaya Vika
+permalink: gazinskaya-vika
 layout: default
 ---
 

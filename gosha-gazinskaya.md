@@ -1,6 +1,6 @@
 ---
-title: Page template
-permalink: page-template
+title: Gosha Gazinskaya
+permalink: gosha-gazinskaya
 layout: default
 ---
 

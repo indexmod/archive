@@ -1,6 +1,6 @@
 ---
-title: Page template
-permalink: page-template
+title: Galetsky Moscow
+permalink: galetsky-moscow
 layout: default
 ---
 

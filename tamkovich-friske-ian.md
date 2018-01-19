@@ -1,6 +1,6 @@
 ---
-title: Page template
-permalink: page-template
+title: Tamkovich-Friske, Ian
+permalink: tamkovich-friske-ian
 layout: default
 ---
 

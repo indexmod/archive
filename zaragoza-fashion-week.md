@@ -1,6 +1,6 @@
 ---
-title: Page template
-permalink: page-template
+title: Zaragoza Fashion Week
+permalink: zaragoza-fashion-week
 layout: default
 ---
 

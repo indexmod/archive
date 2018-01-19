@@ -1,6 +1,6 @@
 ---
-title: Page template
-permalink: page-template
+title: Vetements
+permalink: vetements
 layout: default
 ---
 
