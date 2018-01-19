@@ -46,7 +46,7 @@ Includes the subject's name **Aberdeen Fashion Week**, surname and name **Tailor
 
 Starts with **(Born, Est. 1999, city)** beginner in round brackets. Following one-two sentences of description front ends with footnote links styled with **squared brackets** <span id="a1">[\[1\]](#f1)</span>, <span id="a2">[\[2\]](#f2)</span>, <span id="a3">[\[3\]](#f3)</span>. 
 
-`Squared brackets <span id="a1">[\[1\]](#f1)</span>)`
+`<span id="a1">[\[1\]](#f1)</span>)`
 
 ---
 
