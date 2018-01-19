@@ -1,10 +1,11 @@
 ---
-title: Western Canada Fashion Week
+title: Aberdeen Fashion Week
 permalink: western-canada-fashion-week
+position:
 layout: default
 ---
 
-# Western Canada Fashion Week
+# Page title
 
 (Est. 2013, city) is a subject, description-one <span id="a1">[\[1\]](#f1)</span>, description-two <span id="a2">[\[2\]](#f2)</span> description-3 <span id="a3">[\[3\]](#f3)</span>, extra text.
 
