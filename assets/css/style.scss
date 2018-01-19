@@ -87,8 +87,8 @@
 
 
 strong {
-  text-align: right;
-  font-family: Monaco;
+  text-align: left;
+  font-family: 'Helvetica Neue';
      font-size: 20px;
      line-height: 1.1em;
      font-weight: 300;
@@ -96,8 +96,8 @@ strong {
  }
 
 em {
-  text-align: right;
-  font-family: Monaco;
+  text-align: left;
+  font-family: 'Helvetica Neue';
      font-size: 20px;
      line-height: 1.1em;
      font-weight: 100;
@@ -112,4 +112,20 @@ em {
      font-weight: 300;
      color: black;
 }
+
+highlighter-rouge
  
+{
+     font-family: 'Monaco';
+     font-size: 20px;
+     line-height: 1.6em;
+     font-weight: 300;     
+     color: #616E14;
+     border: solid 1px #BFD62F;
+     background-color: #DAE691;
+     -moz-border-radius: 6px;
+     -webkit-border-radius: 6px;
+     border-radius: 6px;
+     padding: 14px 20px;
+     mc-auto-number-format: '{b}Note: {/b}';
+}
