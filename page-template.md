@@ -23,9 +23,9 @@ Photo: [Photographer name](/photographer-name-page) / [Source name](/source-name
 
 # See also
 
-- [See also page title](/source-name-page)
-- [See also page title](/source-name-page)
-- [See also page title](/source-name-page)
++ [See also title one](page-template)
++ [See also title two](page-template)
++ [See also title three](page-template)
 
 # Footnotes
 
