@@ -43,7 +43,7 @@ This section connects your page with others pages in Indexmod Encyclopedia. Use 
 
 # Footnotes 
 
-Add '<span id="a1">[\[1\]](#f1)</span>'
+Add '''<span id="a1">[\[1\]](#f1)</span>'''
 
 
 # Prose editor 
