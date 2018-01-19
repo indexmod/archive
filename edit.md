@@ -43,7 +43,7 @@ This section connects your page with others pages in Indexmod Encyclopedia. Use 
 
 # Footnotes 
 
-Connect some text using short links <span id="a1">[\[1\]](#f1)</span>, <span id="a2">[\[2\]](#f2)</span>, <span id="a3">[\[3\]](#f3)</span> with linkes and source in *Footnote* edit. Kepp numberig in links organized: [[1]](#a1) <span id="f1"></span> [Article 1 (Author 1)](http://example.net/article) [[2]](#a2) <span id="f2"></span> [Article 2 (Author 2)](http://example.net/article)[[3]](#a3) <span id="f3"></span> [Article 3 (Author 3)](http://example.net/article)
+Connect some text using short links <span id="a1">[\[1\]](#f1)</span>, <span id="a2">[\[2\]](#f2)</span>, <span id="a3">[\[3\]](#f3)</span> with linkes and source in **Footnote** edit. Kepp numberig in links organized: [[1]](#a1) <span id="f1"></span> [Article 1 (Author 1)](http://example.net/article) [[2]](#a2) <span id="f2"></span> [Article 2 (Author 2)](http://example.net/article)[[3]](#a3) <span id="f3"></span> [Article 3 (Author 3)](http://example.net/article)
 
 
 # Prose.io editor 
