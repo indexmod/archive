@@ -1,10 +1,10 @@
 ---
-title: About Indexmod Encyclopedia
+title: Indexmod Encyclopedia
 permalink: about
 layout: default
 ---
 
-# About  
+# Indexmod Encyclopedia  
 
 The aim of Indexmod Encyclopedia to simplify wiki syntax for a pretty and light format. Following checklist explains few steps of creating and editing beautiful articles in Indexmod Encyclopedia.
 
