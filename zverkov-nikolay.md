@@ -13,7 +13,7 @@ layout: default
 
 ![](http://lamcdn.net/wonderzine.com/post_image-image/OgoKpxiWigfvEY9Eh2301Q-wide.jpg)
 
-**Nikolay Zverkov (4-th from left) as model in fashion story**
+**Nikolay Zverkov (4-th from left) <br> as model in fashion story**
 
 *Photo: [Ivan Kaydash](ivan-kaydash) / [Wonderzine](http://www.wonderzine.com/wonderzine/style/shoots/189019-wedding)*
 
