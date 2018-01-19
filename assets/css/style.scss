@@ -81,11 +81,9 @@
      min-width: 5%;
      height: auto;
      margin: 0em 0em 0em 0em;
-     -webkit-filter: 'grayscale'(100%);
-     filter: 'grayscale'(100%);
+     -webkit-filter: grayscale(100%);
+     filter: grayscale(100%);
 }
-
-
 
 strong {
   text-align: left;
