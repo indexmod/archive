@@ -10,7 +10,7 @@ layout: default
 
 ![](/encyclopedia/images/image-name.jpg)
 
-**Image caption**
+`Image caption`
 
 *Photo: [Photographer name](/photographer-name-page) / [Source name](/source-name-page)*
 
