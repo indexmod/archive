@@ -10,8 +10,9 @@ layout: default
 
 ![](/encyclopedia/images/image-name.jpg)
 
-*Image caption <br>
-Photo: [Photographer name](/photographer-name-page) / [Source name](/source-name-page)*
+**Image caption**
+
+*Photo: [Photographer name](/photographer-name-page) / [Source name](/source-name-page)*
 
 # Conspectus
 
