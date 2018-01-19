@@ -12,8 +12,8 @@ published: true
 
 ![Andrei Abolenkin in 2014](/images/andrei-abolenkin-by-igor-vasiliadis-2014.jpg)
 
-*Andrei Abolenkin in 2014<br>
-Photo: [Igor Vasiliadis](igor-vasiliadis.md) / [Indexmod Encyclopedia](indexmod.club)*
+**Andrei Abolenkin in 2014**
+`Photo: [Igor Vasiliadis](igor-vasiliadis.md) / [Indexmod Encyclopedia](indexmod.club)` 
 
 
 # See also
