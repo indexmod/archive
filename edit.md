@@ -134,4 +134,6 @@ Connect some text using short links <span id="a1">[\[1\]](#f1)</span>, <span id=
 
 Will be rendered:
 
-You may edit every page in Prose.io editor following link [Edit this page](http://prose.io/#indexmod/encyclopedia/edit/master/edit.md) To push edit changes you may need authorize as GitHub user.
+[Edit this page](http://prose.io/#indexmod/encyclopedia/edit/master/edit.md)
+
+You may edit every page in Prose.io editor using above sample link with **/page-name.md**. To push edit changes you may need authorize as [GitHub](https://github.com/join) user.
