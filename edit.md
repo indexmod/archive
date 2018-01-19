@@ -9,19 +9,19 @@ The aim of Indexmod Encyclopedia to simplify wiki syntax for a pretty and light 
 
 # Page structure 
 
-See [Page template](page-template.md) for details. Every page written with [Markdown](https://daringfireball.net/projects/markdown/syntax) and must have **Front matter** area set with triple-dashed lines. A Front matter may contain Page title, some meta and permalink of the page. Visible area of the page contain page title, top block, image with captions and credits, **Conspectus**, **See also** links and footnote section.
+See [Page template](page-template.md) for details. Every page is written with [Markdown](https://daringfireball.net/projects/markdown/syntax) and must have **Front matter** area set with triple-dashed lines. A Front matter may contain Page title, some meta, and permalink of the page. The visible area of the page contains **Page title**, top block, an image with captions and credits, **Conspectus**, **See also** links and **Footnote section**.
 
 # Title  
 
-Includes the Subject's name — **Abberdin Fashion Week**, Surname and Name — **Tailor, Victoria** and may be addded with disambulation with round brackets **Duma, Miroslava (publisher)**.  
+Includes the subject's name **Aberdeen Fashion Week**, surname and name **Tailor, Victoria** and may be added with dissimulation with round brackets **Duma, Miroslava (publisher)**.  
 
 # Top block
 
-Starts with **(Born, Est. line)** in round brackets and one-two sentences of description and footnote links styled with squared braskets [1], [2], [3]. See semple of the active footnote link at [Page template](page-template.md)
+Starts with **(Born, Est. line)** in round brackets and one-two sentences of description and footnote links styled with squared brackets [1], [2], [3]. See sample of the active footnote link at [Page template](page-template.md)
 
-# Images, captions and credits 
+# Images, captions, and credits 
 
-Every image must be described as musch posiible detailed and styled with **bold font**. Credits line starts with **photographer's name** styled italic with active link, and after slash separator **Sourse, edition name**. Links may be pointed to **Future pages** with syntax photographer-name.md or edition-name.md
+Every image must be described as much possible detailed and styled with **bold font**. Credits line starts with **photographer's name** styled italic with  an active link and after slash separator source, edition name. Links may be pointed to **Future pages** with syntax photographer-name.md or edition-name.md
 
 # Conspectus
 
@@ -35,7 +35,7 @@ Conspectus is a way to style some data and lists like events or places.
 
 # See also 
 
-This section connects your page with others pages in Indexmod Encyclopedia. Use following template combining lis and link stylyng syntax. 
+This section connects your page with others pages in Indexmod Encyclopedia. Use following template combining list and link styling syntax. 
 
 + [See also title one](page-template)
 + [See also title two](page-template)
@@ -43,11 +43,11 @@ This section connects your page with others pages in Indexmod Encyclopedia. Use 
 
 # Footnotes 
 
-Connect some text using short links <span id="a1">[\[1\]](#f1)</span>, <span id="a2">[\[2\]](#f2)</span>, <span id="a3">[\[3\]](#f3)</span> with linkes and source in **Footnote** edit. Kepp numberig in links organized: [[1]](#a1) <span id="f1"></span> [Article 1 (Author 1)](http://example.net/article) [[2]](#a2) <span id="f2"></span> [Article 2 (Author 2)](http://example.net/article)[[3]](#a3) <span id="f3"></span> [Article 3 (Author 3)](http://example.net/article)
+Connect some text using short links <span id="a1">[\[1\]](#f1)</span>, <span id="a2">[\[2\]](#f2)</span>, <span id="a3">[\[3\]](#f3)</span> with links and source in **Footnote** edit. Kepp numbering in links organized: [[1]](#a1) <span id="f1"></span> [Article 1 (Author 1)](http://example.net/article) [[2]](#a2) <span id="f2"></span> [Article 2 (Author 2)](http://example.net/article)[[3]](#a3) <span id="f3"></span> [Article 3 (Author 3)](http://example.net/article)
 
 
 # Prose.io editor 
 
-You may dedit every page in Prose.io editor following link [Edit this page](http://prose.io/#indexmod/encyclopedia/edit/master/page-template.md) To push edit changes you may need authorize as GitHub user.
+You may edit every page in Prose.io editor following link [Edit this page](http://prose.io/#indexmod/encyclopedia/edit/master/page-template.md) To push edit changes you may need authorize as GitHub user.
 
 `code` 
