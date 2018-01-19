@@ -1,5 +1,5 @@
 ---
-title: Page Template
+title: 
 permalink: page-template
 layout: default
 ---
