@@ -8,19 +8,19 @@
      font-size: 40px;
      font-weight: 100;
      line-height: 1.2em;
-     color: black;
+     color: 'black';
 }
  table {
      font-family: 'Georgia', serif;
      font-size: 20px;
      line-height: 1.6em;
      font-weight: 200;
-     color:  black;
+     color:  'black';
      border-collapse: collapse;
 }
  th {
      background-color: #f5f5f5;
-     color: black;
+     color: 'black';
      font-weight: normal;
      padding: 10px;
      text-align: left;
@@ -43,65 +43,66 @@
      font-size: 20px;
      line-height: 1.6em;
      font-weight: 200;
-     color: black;
+     color: 'black';
 }
  li {
      font-family: 'Georgia', serif;
      font-size: 20px;
      line-height: 1.6em;
      font-weight: 200;
-     color: black;
+     color: 'black';
 }
  ul {
      font-family: 'Georgia', serif;
      font-size: 20px;
      line-height: 1.6em;
      font-weight: 200;
-     color: black;
+     color: 'black';
 }
  a:link {
-     color: green;
+     color: 'black';
      text-decoration: none;
 }
  a:visited {
-     color: green;
+     color: 'black';
      text-decoration: none;
 }
  a:hover {
-     color: green;
+     color: 'green';
      text-decoration: underline;
 }
  a:active {
-     color: green;
+     color: 'black';
      text-decoration: none;
 }
+
  img {
      max-width: 50%;
      min-width: 5%;
      height: auto;
      margin: 0em 0em 0em 0em;
-     -webkit-filter: grayscale(100%);
-     filter: grayscale(100%);
+     -webkit-filter: 'grayscale'(100%);
+     filter: 'grayscale'(100%);
 }
 
 
 
 strong {
   text-align: left;
-  font-family: 'Helvetica Neue';
+  font-family: 'Georgia';
      font-size: 20px;
      line-height: 1.1em;
-     font-weight: 300;
-     color: black;
+     font-weight: 400;
+     color: 'black';
  }
 
 em {
   text-align: left;
-  font-family: 'Helvetica Neue';
+  font-family: 'Georgia';
      font-size: 20px;
      line-height: 1.1em;
      font-weight: 100;
-     color: black;
+     color: 'black';
  }
 
  
@@ -110,7 +111,7 @@ em {
      font-size: 20px;
      line-height: 1.6em;
      font-weight: 300;
-     color: black;
+     color: 'black';
 }
 
 highlighter-rouge {
