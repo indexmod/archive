@@ -8,19 +8,19 @@
      font-size: 40px;
      font-weight: 100;
      line-height: 1.2em;
-     color: 'black';
+     color: black;
 }
  table {
      font-family: 'Georgia', serif;
      font-size: 20px;
      line-height: 1.6em;
      font-weight: 200;
-     color:  'black';
+     color:  black;
      border-collapse: collapse;
 }
  th {
      background-color: #f5f5f5;
-     color: 'black';
+     color: black;
      font-weight: normal;
      padding: 10px;
      text-align: left;
@@ -43,36 +43,36 @@
      font-size: 20px;
      line-height: 1.6em;
      font-weight: 200;
-     color: 'black';
+     color: black;
 }
  li {
      font-family: 'Georgia', serif;
      font-size: 20px;
      line-height: 1.6em;
      font-weight: 200;
-     color: 'black';
+     color: black;
 }
  ul {
      font-family: 'Georgia', serif;
      font-size: 20px;
      line-height: 1.6em;
      font-weight: 200;
-     color: 'black';
+     color: black;
 }
  a:link {
-     color: 'black';
+     color: black;
      text-decoration: none;
 }
  a:visited {
-     color: 'black';
+     color: black;
      text-decoration: none;
 }
  a:hover {
-     color: 'green';
-     text-decoration: underline;
+     color: green;
+     text-decoration: none;
 }
  a:active {
-     color: 'black';
+     color: black;
      text-decoration: none;
 }
 
@@ -91,7 +91,7 @@ strong {
      font-size: 20px;
      line-height: 1.1em;
      font-weight: 400;
-     color: 'black';
+     color: black;
  }
 
 em {
@@ -100,7 +100,7 @@ em {
      font-size: 20px;
      line-height: 1.1em;
      font-weight: 100;
-     color: 'black';
+     color: black;
  }
 
  
@@ -109,19 +109,19 @@ em {
      font-size: 20px;
      line-height: 1.6em;
      font-weight: 300;
-     color: 'black';
+     color: black;
 }
 
 .highlighter-rouge {
-     font-family: 'Monaco';
-     font-size: 20px;
+     font-family: 'Georgia';
+     font-size: 17px;
      line-height: 1.6em;
-     font-weight: 300;     
+     font-weight: 100;     
      color: #616E14;
      border: solid 1px #BFD62F;
      background-color: #DAE691;
      -moz-border-radius: 6px;
      -webkit-border-radius: 6px;
      border-radius: 6px;
-     padding: 14px 20px;
+     padding: 14px 14px;
 }
