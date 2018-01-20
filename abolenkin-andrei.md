@@ -1,9 +1,7 @@
 ---
-title: 'Abolenkin, Andrei'
+title: Abolenkin, Andrei
 permalink: abolenkin-andrei
-position: null
 layout: default
-published: true
 ---
 
 # Abolenkin, Andrei
