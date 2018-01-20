@@ -1,6 +1,6 @@
 ---
 title: Kiev
-permalink: {{page.title}}
+permalink: kiev
 layout: default
 ---
 
