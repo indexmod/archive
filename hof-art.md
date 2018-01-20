@@ -1,7 +1,6 @@
 ---
 title: HOF Art
 permalink: hof-art
-position:
 layout: default
 ---
 

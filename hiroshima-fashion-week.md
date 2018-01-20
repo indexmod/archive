@@ -1,7 +1,6 @@
 ---
 title: Hiroshima Fashion Week
 permalink: hiroshima-fashion-week
-position:
 layout: default
 ---
 

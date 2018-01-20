@@ -1,15 +1,13 @@
 ---
-title: Page template
+title: Ikona Mag
 permalink: page-template
 layout: default
 ---
 
+# Ikona Mag
 
 
-# Page template
-
-
-(Est. 2013, city) is a subject, description-one <span id="a1">[\[1\]](#f1)</span>, description-two <span id="a2">[\[2\]](#f2)</span> description-three <span id="a3">[\[3\]](#f3)</span>, extra text. [Edit this page](http://prose.io/#indexmod/encyclopedia/edit/master/page-template.md) 
+(Est. 2013, city) is a subject, description-one <span id="a1">[\[1\]](#f1)</span>, description-two <span id="a2">[\[2\]](#f2)</span> description-three <span id="a3">[\[3\]](#f3)</span>, extra text. [Edit this page](http://prose.io/#indexmod/encyclopedia/edit/master/page-template.md)
 
 ![](/encyclopedia/images/image-name.jpg)
 
@@ -46,6 +44,3 @@ layout: default
 `Warnings`
 
 `Notes`
-
-
-

@@ -1,7 +1,6 @@
 ---
 title: Houston Fashion Week
 permalink: houston-fashion-week
-position:
 layout: default
 ---
 

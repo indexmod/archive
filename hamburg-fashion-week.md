@@ -1,7 +1,6 @@
 ---
 title: Hamburg Fashion Week
 permalink: hamburg-fashion-week
-position:
 layout: default
 ---
 

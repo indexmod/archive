@@ -1,7 +1,6 @@
 ---
 title: Helsinki Fashion Week
 permalink: helsinki-fashion-week
-position:
 layout: default
 ---
 
