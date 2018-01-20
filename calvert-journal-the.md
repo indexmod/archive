@@ -1,11 +1,11 @@
 ---
-title: Aberdeen Fashion Week
+title: Calvert Journal, The
 permalink: calvert-journal-the
 position:
 layout: default
 ---
 
-# Page title
+# Calvert Journal, The
 
 (Est. 2013, city) is a subject, description-one <span id="a1">[\[1\]](#f1)</span>, description-two <span id="a2">[\[2\]](#f2)</span> description-3 <span id="a3">[\[3\]](#f3)</span>, extra text.
 

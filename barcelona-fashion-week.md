@@ -1,7 +1,6 @@
 ---
 title: Barcelona Fashion Week
 permalink: barcelona-fashion-week
-position:
 layout: default
 ---
 

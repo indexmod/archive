@@ -1,7 +1,6 @@
 ---
 title: Buyer (magazine)
 permalink: buyer-magazine
-position:
 layout: default
 ---
 

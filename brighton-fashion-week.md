@@ -1,7 +1,6 @@
 ---
 title: Brighton Fashion Week
 permalink: brighton-fashion-week
-position:
 layout: default
 ---
 

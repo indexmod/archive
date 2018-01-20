@@ -1,7 +1,6 @@
 ---
 title: Blueprint, The
 permalink: blueprint-the
-position:
 layout: default
 ---
 
