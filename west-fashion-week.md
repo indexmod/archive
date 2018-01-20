@@ -1,11 +1,10 @@
 ---
-title: Aberdeen Fashion Week
-permalink: aberdeen-fashion-week
-position:
+title: West Fashion Week
+permalink: west-fashion-week
 layout: default
 ---
 
-# Page title
+# West Fashion Week
 
 (Est. 2013, city) is a subject, description-one <span id="a1">[\[1\]](#f1)</span>, description-two <span id="a2">[\[2\]](#f2)</span> description-3 <span id="a3">[\[3\]](#f3)</span>, extra text.
 
