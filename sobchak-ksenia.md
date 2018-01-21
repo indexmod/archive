@@ -1,6 +1,6 @@
 ---
 title: Sobchak, Ksenia
-permalink: page-template
+permalink: sobchak-ksenia
 layout: default
 ---
 
