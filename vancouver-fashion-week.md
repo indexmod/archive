@@ -1,6 +1,6 @@
 ---
 title: Vancouver Fashion Week
-permalink: page-template
+permalink: vancouver-fashion-week
 layout: default
 ---
 

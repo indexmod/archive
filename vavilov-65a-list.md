@@ -1,6 +1,6 @@
 ---
 title: Vavilov 65A (List)
-permalink: page-template
+permalink: vavilov-65a-list
 layout: default
 ---
 

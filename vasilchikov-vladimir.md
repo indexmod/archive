@@ -1,6 +1,6 @@
 ---
 title: Vasilchikov, Vladimir
-permalink: page-template
+permalink: vasilchikov-vladimir
 layout: default
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: Valencia Fashion Week
-permalink: page-template
+permalink: valencia-fashion-week
 layout: default
 ---
 

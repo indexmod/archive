@@ -1,6 +1,6 @@
 ---
 title: Venezuela Fashion Week
-permalink: page-template
+permalink: venezuela-fashion-week
 layout: default
 ---
 

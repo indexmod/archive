@@ -1,6 +1,6 @@
 ---
 title: Varivoda, Karina
-permalink: page-template
+permalink: varivoda-karina
 layout: default
 ---
 

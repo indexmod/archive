@@ -1,6 +1,6 @@
 ---
 title: Varenye Organizm
-permalink: page-template
+permalink: varenye-organizm
 layout: default
 ---
 

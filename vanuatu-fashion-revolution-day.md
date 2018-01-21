@@ -1,6 +1,6 @@
 ---
 title: Vanuatu, Fashion Revolution Day
-permalink: page-template
+permalink: vanuatu-fashion-revolution-day
 layout: default
 ---
 

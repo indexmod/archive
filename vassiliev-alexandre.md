@@ -1,6 +1,6 @@
 ---
 title: Vassiliev, Alexandre
-permalink: page-template
+permalink: vassiliev-alexandre
 layout: default
 ---
 

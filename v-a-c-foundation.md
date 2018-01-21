@@ -1,6 +1,6 @@
 ---
 title: V-A-C Foundation
-permalink: page-template
+permalink: v-a-c-foundation
 layout: default
 ---
 

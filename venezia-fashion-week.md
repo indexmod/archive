@@ -1,6 +1,6 @@
 ---
 title: Venezia Fashion Week
-permalink: page-template
+permalink: venezia-fashion-week
 layout: default
 ---
 
