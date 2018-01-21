@@ -1,6 +1,6 @@
 ---
 title: Stasenko, Evgeniy
-permalink: page-template
+permalink: stasenko-evgeniy
 layout: default
 ---
 

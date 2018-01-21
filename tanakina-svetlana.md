@@ -1,6 +1,6 @@
 ---
 title: Tanakina, Svetlana
-permalink: page-template
+permalink: tanakina-svetlana
 layout: default
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: Temen, Protey
-permalink: page-template
+permalink: temen-protey
 layout: default
 ---
 

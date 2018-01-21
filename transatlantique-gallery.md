@@ -1,6 +1,6 @@
 ---
 title: Transatlantique (gallery)
-permalink: page-template
+permalink: transatlantique-gallery
 layout: default
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: Tactile Chat Bot
-permalink: page-template
+permalink: tactile-chat-bot
 layout: default
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: St. Petersburg Fashion Week
-permalink: page-template
+permalink: st-petersburg-fashion-week
 layout: default
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: Tovpyha, Oleksii
-permalink: page-template
+permalink: tovpyha-oleksii
 layout: default
 ---
 

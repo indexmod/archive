@@ -1,6 +1,6 @@
 ---
 title: Titovets, Anna
-permalink: page-template
+permalink: titovets-anna
 layout: default
 ---
 

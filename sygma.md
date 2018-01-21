@@ -1,6 +1,6 @@
 ---
 title: Sygma
-permalink: page-template
+permalink: sygma
 layout: default
 ---
 

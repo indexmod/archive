@@ -1,6 +1,6 @@
 ---
 title: Suprematism (2011)
-permalink: page-template
+permalink: suprematism-2011
 layout: default
 ---
 

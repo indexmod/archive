@@ -1,6 +1,6 @@
 ---
 title: Tegin (brand)
-permalink: page-template
+permalink: tegin-brand
 layout: default
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: Stafieva, Elena
-permalink: page-template
+permalink: stafieva-elena
 layout: default
 ---
 

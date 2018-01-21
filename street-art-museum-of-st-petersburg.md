@@ -1,6 +1,6 @@
 ---
 title: Street Art Museum of St. Petersburg
-permalink: page-template
+permalink: street-art-museum-of-st-petersburg
 layout: default
 ---
 

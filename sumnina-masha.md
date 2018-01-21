@@ -1,6 +1,6 @@
 ---
 title: Sumnina, Masha
-permalink: page-template
+permalink: sumnina-masha
 layout: default
 ---
 

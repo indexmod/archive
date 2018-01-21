@@ -1,6 +1,6 @@
 ---
 title: Tarakanova, Ludmila (designer)
-permalink: page-template
+permalink: tarakanova-ludmila-designer
 layout: default
 ---
 

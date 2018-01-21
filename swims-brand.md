@@ -1,6 +1,6 @@
 ---
 title: Swims (brand)
-permalink: page-template
+permalink: swims-brand
 layout: default
 ---
 

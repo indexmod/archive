@@ -1,6 +1,6 @@
 ---
 title: Torino Fashion Week
-permalink: page-template
+permalink: torino-fashion-week
 layout: default
 ---
 

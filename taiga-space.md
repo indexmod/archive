@@ -1,6 +1,6 @@
 ---
 title: Taiga Space
-permalink: page-template
+permalink: taiga-space
 layout: default
 ---
 

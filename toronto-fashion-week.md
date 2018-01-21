@@ -1,6 +1,6 @@
 ---
 title: Toronto Fashion Week
-permalink: page-template
+permalink: toronto-fashion-week
 layout: default
 ---
 

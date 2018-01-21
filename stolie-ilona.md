@@ -1,6 +1,6 @@
 ---
 title: Stolie, Ilona
-permalink: page-template
+permalink: stolie-ilona
 layout: default
 ---
 

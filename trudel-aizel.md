@@ -1,6 +1,6 @@
 ---
 title: Trudel, Aizel
-permalink: page-template
+permalink: trudel-aizel
 layout: default
 ---
 

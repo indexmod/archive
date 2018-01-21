@@ -1,6 +1,6 @@
 ---
 title: Tokyo Fashion Week
-permalink: page-template
+permalink: tokyo-fashion-week
 layout: default
 ---
 

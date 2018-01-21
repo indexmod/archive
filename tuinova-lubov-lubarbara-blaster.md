@@ -1,6 +1,6 @@
 ---
 title: Tuinova, Lubov (Lubarbara Blaster)
-permalink: page-template
+permalink: tuinova-lubov-lubarbara-blaster
 layout: default
 ---
 

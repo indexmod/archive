@@ -1,6 +1,6 @@
 ---
 title: St. Tropez Fashion Week
-permalink: page-template
+permalink: st-tropez-fashion-week
 layout: default
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: South Fashion Week
-permalink: page-template
+permalink: south-fashion-week
 layout: default
 ---
 

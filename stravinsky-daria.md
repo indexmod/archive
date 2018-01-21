@@ -1,6 +1,6 @@
 ---
 title: Stravinsky, Daria
-permalink: page-template
+permalink: stravinsky-daria
 layout: default
 ---
 

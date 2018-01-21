@@ -1,6 +1,6 @@
 ---
 title: Subhashok, Adeler
-permalink: page-template
+permalink: subhashok-adeler
 layout: default
 ---
 

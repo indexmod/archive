@@ -1,6 +1,6 @@
 ---
 title: Tarakanova (brand)
-permalink: page-template
+permalink: tarakanova-brand
 layout: default
 ---
 

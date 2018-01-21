@@ -1,6 +1,6 @@
 ---
 title: Style Week Jamaica
-permalink: page-template
+permalink: style-week-jamaica
 layout: default
 ---
 

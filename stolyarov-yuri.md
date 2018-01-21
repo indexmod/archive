@@ -1,6 +1,6 @@
 ---
 title: Stolyarov, Yuri
-permalink: page-template
+permalink: stolyarov-yuri
 layout: default
 ---
 

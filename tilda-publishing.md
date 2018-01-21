@@ -1,6 +1,6 @@
 ---
 title: Tilda Publishing
-permalink: page-template
+permalink: tilda-publishing
 layout: default
 ---
 

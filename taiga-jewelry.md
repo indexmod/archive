@@ -1,6 +1,6 @@
 ---
 title: Taiga (jewelry)
-permalink: page-template
+permalink: taiga-jewelry
 layout: default
 ---
 

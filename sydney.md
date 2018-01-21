@@ -1,6 +1,6 @@
 ---
 title: Sydney
-permalink: page-template
+permalink: sydney
 layout: default
 ---
 

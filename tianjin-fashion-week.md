@@ -1,6 +1,6 @@
 ---
 title: Tianjin Fashion Week
-permalink: page-template
+permalink: tianjin-fashion-week
 layout: default
 ---
 

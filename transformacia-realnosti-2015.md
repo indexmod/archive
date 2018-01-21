@@ -1,6 +1,6 @@
 ---
 title: Transformacia Realnosti (2015)
-permalink: page-template
+permalink: transformacia-realnosti-2015
 layout: default
 ---
 

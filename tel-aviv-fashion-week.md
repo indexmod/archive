@@ -1,6 +1,6 @@
 ---
 title: Tel Aviv Fashion Week
-permalink: page-template
+permalink: tel-aviv-fashion-week
 layout: default
 ---
 

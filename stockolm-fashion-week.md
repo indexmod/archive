@@ -1,6 +1,6 @@
 ---
 title: Stockolm Fashion Week
-permalink: page-template
+permalink: stockolm-fashion-week
 layout: default
 ---
 

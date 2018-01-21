@@ -1,12 +1,12 @@
 ---
-title: Surabaya Moeslem Fashion Festival
-permalink: page-template
+title: Surabaya Moslem Fashion Festival
+permalink: surabaya-moslem-fashion-festival
 layout: default
 ---
 
 
 
-# Surabaya Moeslem Fashion Festival
+# Surabaya Moslem Fashion Festival
 
 
 (Est. 2013, city) is a subject, description-one <span id="a1">[\[1\]](#f1)</span>, description-two <span id="a2">[\[2\]](#f2)</span> description-three <span id="a3">[\[3\]](#f3)</span>, extra text. [Edit this page](http://prose.io/#indexmod/encyclopedia/edit/master/page-template.md)

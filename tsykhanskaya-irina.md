@@ -1,6 +1,6 @@
 ---
 title: Tsykhanskaya, Irina
-permalink: page-template
+permalink: tsykhanskaya-irina
 layout: default
 ---
 

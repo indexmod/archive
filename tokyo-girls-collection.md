@@ -1,6 +1,6 @@
 ---
 title: Tokyo Girls Collection
-permalink: page-template
+permalink: tokyo-girls-collection
 layout: default
 ---
 

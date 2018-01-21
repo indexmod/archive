@@ -1,6 +1,6 @@
 ---
 title: Sunrise in Baku Fashion Project
-permalink: page-template
+permalink: sunrise-in-baku-fashion-project
 layout: default
 ---
 

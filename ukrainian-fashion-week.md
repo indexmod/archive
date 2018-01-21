@@ -2,7 +2,6 @@
 ---
 title: Ukrainian Fashion Week
 permalink: ukrainian-fashion-week
-position:
 layout: default
 ---
 

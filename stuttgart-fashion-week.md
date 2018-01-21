@@ -1,6 +1,6 @@
 ---
 title: Stuttgart Fashion Week
-permalink: page-template
+permalink: stuttgart-fashion-week
 layout: default
 ---
 

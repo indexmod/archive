@@ -1,6 +1,6 @@
 ---
 title: Toulouse Fashion Week
-permalink: page-template
+permalink: toulouse-fashion-week
 layout: default
 ---
 

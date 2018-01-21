@@ -1,12 +1,12 @@
 ---
-title: Transatlantique
-permalink: page-template
+title: Art Newspaper, The
+permalink: art-newspaper-the
 layout: default
 ---
 
 
 
-# Transatlantique
+# Art Newspaper, The
 
 
 (Est. 2013, city) is a subject, description-one <span id="a1">[\[1\]](#f1)</span>, description-two <span id="a2">[\[2\]](#f2)</span> description-three <span id="a3">[\[3\]](#f3)</span>, extra text. [Edit this page](http://prose.io/#indexmod/encyclopedia/edit/master/page-template.md)

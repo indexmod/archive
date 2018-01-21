@@ -1,6 +1,6 @@
 ---
 title: Temporary Autonomous Art
-permalink: page-template
+permalink: temporary-autonomous-art
 layout: default
 ---
 

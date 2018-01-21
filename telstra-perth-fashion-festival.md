@@ -1,6 +1,6 @@
 ---
-title: PTelstra Perth Fashion Festival
-permalink: page-template
+title: Telstra Perth Fashion Festival
+permalink: telstra-perth-fashion-festival
 layout: default
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: Tehran Fashion Week
-permalink: page-template
+permalink: tehran-fashion-week
 layout: default
 ---
 

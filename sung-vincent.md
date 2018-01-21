@@ -1,6 +1,6 @@
 ---
 title: Sung, Vincent
-permalink: page-template
+permalink: sung-vincent
 layout: default
 ---
 

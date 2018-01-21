@@ -1,6 +1,6 @@
 ---
 title: Strasbourg Fashion Week (EM Fashion Week)
-permalink: page-template
+permalink: strasbourg-fashion-week-em-fashion-week
 layout: default
 ---
 

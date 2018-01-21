@@ -1,6 +1,6 @@
 ---
 title: Tegin, Svetlana (designer)
-permalink: page-template
+permalink: tegin-svetlana-designer
 layout: default
 ---
 

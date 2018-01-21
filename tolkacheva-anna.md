@@ -1,6 +1,6 @@
 ---
 title: Tolkacheva, Anna
-permalink: page-template
+permalink: tolkacheva-anna
 layout: default
 ---
 

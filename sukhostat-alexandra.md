@@ -1,6 +1,6 @@
 ---
 title: Sukhostat, Alexandra
-permalink: page-template
+permalink: sukhostat-alexandra
 layout: default
 ---
 

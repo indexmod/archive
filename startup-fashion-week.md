@@ -1,6 +1,6 @@
 ---
 title: Startup Fashion Week
-permalink: page-template
+permalink: startup-fashion-week
 layout: default
 ---
 

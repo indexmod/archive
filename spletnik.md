@@ -1,6 +1,6 @@
 ---
 title: Spletnik
-permalink: page-template
+permalink: spletnik
 layout: default
 ---
 

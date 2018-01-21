@@ -1,6 +1,6 @@
 ---
 title: Surabaya Fashion Parade
-permalink: page-template
+permalink: surabaya-fashion-parade
 layout: default
 ---
 

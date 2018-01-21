@@ -1,6 +1,6 @@
 ---
 title: Terekhov, Alexander (designer)
-permalink: page-template
+permalink: terekhov-alexander-designer
 layout: default
 ---
 

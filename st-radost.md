@@ -1,6 +1,6 @@
 ---
 title: St. Radost
-permalink: page-template
+permalink: st-radost
 layout: default
 ---
 

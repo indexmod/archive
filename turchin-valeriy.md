@@ -1,6 +1,6 @@
 ---
 title: Turchin, Valeriy
-permalink: page-template
+permalink: turchin-valeriy
 layout: default
 ---
 

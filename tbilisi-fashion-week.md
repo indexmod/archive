@@ -1,6 +1,6 @@
 ---
 title: Tbilisi Fashion Week
-permalink: page-template
+permalink: tbilisi-fashion-week
 layout: default
 ---
 
