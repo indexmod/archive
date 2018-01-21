@@ -1,6 +1,6 @@
 ---
 title: Russia Cola
-permalink: page-template
+permalink: russia-cola
 layout: default
 ---
 

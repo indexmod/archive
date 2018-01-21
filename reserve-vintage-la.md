@@ -1,6 +1,6 @@
 ---
 title: Reserve Vintage, La
-permalink: page-template
+permalink: reserve-vintage-la
 layout: default
 ---
 

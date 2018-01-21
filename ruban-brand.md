@@ -1,6 +1,6 @@
 ---
 title: Ruban (brand)
-permalink: page-template
+permalink: ruban-brand
 layout: default
 ---
 

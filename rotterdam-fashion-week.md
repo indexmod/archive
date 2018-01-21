@@ -1,6 +1,6 @@
 ---
 title: Rotterdam Fashion Week
-permalink: page-template
+permalink: rotterdam-fashion-week
 layout: default
 ---
 

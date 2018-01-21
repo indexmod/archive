@@ -1,6 +1,6 @@
 ---
 title: Rotaenko, Ania
-permalink: page-template
+permalink: rotaenko-ania
 layout: default
 ---
 

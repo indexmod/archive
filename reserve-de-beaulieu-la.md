@@ -1,6 +1,6 @@
 ---
 title: Réserve De Beaulieu, La
-permalink: page-template
+permalink: reserve-de-beaulieu-la
 layout: default
 ---
 

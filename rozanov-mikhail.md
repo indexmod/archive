@@ -1,6 +1,6 @@
 ---
 title: Rozanov, Mikhail
-permalink: page-template
+permalink: rozanov-mikhail
 layout: default
 ---
 

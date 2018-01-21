@@ -1,6 +1,6 @@
 ---
 title: Rubchinskiy, Gosha (designer)
-permalink: page-template
+permalink: rubchinskiy-gosha-designer
 layout: default
 ---
 

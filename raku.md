@@ -1,6 +1,6 @@
 ---
 title: Raku
-permalink: page-template
+permalink: raku
 layout: default
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: Roma Fashion Week
-permalink: page-template
+permalink: roma-fashion-week
 layout: default
 ---
 

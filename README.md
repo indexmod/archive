@@ -1,6 +1,6 @@
 # Indexmod Encyclopedia
 
-is wiki that hosted on GitHub with Prose admin and the beautiful syntax
+is wiki with the beautiful syntax, Prose admin that hosted on GitHub 
 
 
 # This is page template
@@ -33,10 +33,3 @@ Photo: [Photographer name](http://example.net/) / [Source name](http://example.n
 [[2]](#a2) <span id="f2"></span> [Article name (Author name)](http://example.net/article)
 
 [[3]](#a3) <span id="f3"></span> [Article name (Author name)](http://example.net/article)
-
-
-
-    
-
-
-

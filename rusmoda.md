@@ -1,7 +1,7 @@
 ---
 title: Rusmoda
 permalink: page-template
-layout: default
+layout: rusmoda
 ---
 
 

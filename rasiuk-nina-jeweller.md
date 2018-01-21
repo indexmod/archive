@@ -1,6 +1,6 @@
 ---
 title: Rasiuk, Nina (jeweller)
-permalink: page-template
+permalink: rasiuk-nina-jeweller
 layout: default
 ---
 

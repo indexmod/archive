@@ -1,6 +1,6 @@
 ---
 title: Riga Fashion Week
-permalink: page-template
+permalink: riga-fashion-week
 layout: default
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: Ruban, Youlia (designer)
-permalink: page-template
+permalink: ruban-youlia-designer
 layout: default
 ---
 

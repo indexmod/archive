@@ -1,6 +1,6 @@
 ---
 title: Reshetov, Alexander
-permalink: page-template
+permalink: reshetov-alexander
 layout: default
 ---
 

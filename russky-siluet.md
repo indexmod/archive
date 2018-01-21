@@ -1,6 +1,6 @@
 ---
 title: Russky Siluet
-permalink: page-template
+permalink: russky-siluet
 layout: default
 ---
 

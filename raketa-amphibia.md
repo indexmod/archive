@@ -1,6 +1,6 @@
 ---
 title: Raketa Amphibia
-permalink: page-template
+permalink: raketa-amphibia
 layout: default
 ---
 

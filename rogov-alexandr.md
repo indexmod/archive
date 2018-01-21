@@ -1,6 +1,6 @@
 ---
 title: Rogov, Alexandr
-permalink: page-template
+permalink: rogov-alexandr
 layout: default
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: Reshetova, Elena
-permalink: page-template
+permalink: reshetova-elena
 layout: default
 ---
 

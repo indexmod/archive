@@ -1,6 +1,6 @@
 ---
 title: Rozendaal, Rafaël
-permalink: page-template
+permalink: rozendaal-rafaël
 layout: default
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: Rennes Fashion Week
-permalink: page-template
+permalink: rennes-fashion-week
 layout: default
 ---
 

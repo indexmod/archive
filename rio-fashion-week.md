@@ -1,6 +1,6 @@
 ---
 title: Rio Fashion Week
-permalink: page-template
+permalink: rio-fashion-week
 layout: default
 ---
 

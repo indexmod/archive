@@ -1,6 +1,6 @@
 ---
 title: Rumyantsev, Aleksey
-permalink: page-template
+permalink: rumyantsev-aleksey
 layout: default
 ---
 

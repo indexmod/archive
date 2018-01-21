@@ -1,6 +1,6 @@
 ---
 title: Ranina (brand)
-permalink: page-template
+permalink: ranina-brand
 layout: default
 ---
 

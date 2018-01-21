@@ -1,6 +1,7 @@
+
 ---
 title: Radost Creative Group
-permalink: page-template
+permalink: radost-creative-group
 layout: default
 ---
 
