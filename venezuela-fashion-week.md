@@ -1,6 +1,10 @@
 ---
 title: Venezuela Fashion Week
+<<<<<<< HEAD
 permalink: venezuela-fashion-week
+=======
+permalink: pvenezuela-fashion-week
+>>>>>>> 81be7ddff63ab61d25859857ccc00514dfd0f995
 layout: default
 ---
 
@@ -42,7 +46,3 @@ layout: default
 ---
 
 `Editorial`
-
-`Warnings`
-
-`Notes`

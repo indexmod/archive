@@ -41,8 +41,4 @@ layout: default
 
 ---
 
-`Editorial`
-
-`Warnings`
-
 `Notes`

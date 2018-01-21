@@ -31,6 +31,10 @@ layout: default
 + [See also title two](page-template)
 + [See also title three](page-template)
 
+---
+
+`Notes`
+
 # Footnotes
 
 [[1]](#a1) <span id="f1"></span> [Article name short (Author name)](http://example.net/article)
@@ -39,13 +43,7 @@ layout: default
 
 [[3]](#a3) <span id="f3"></span> [Article name longer so far (Author name too long and much longer)](http://example.net/article)
 
----
 
-`Editorial`
-
-`Warnings`
-
-`Notes`
 
 
 

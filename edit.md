@@ -12,15 +12,11 @@ The aim of Indexmod Encyclopedia to simplify wiki syntax for a pretty and light 
 
 See [Page template](page-template.md) for details. Every page is written with [Markdown](https://daringfireball.net/projects/markdown/syntax) and must have **front matter** area set with triple-dashed lines. 
 
-`---`
-
-`title: How to edit`
-
-`permalink: edit`
-
-`layout: default`
-
-`---`
+`---
+title: How to edit
+permalink: edit
+layout: default
+---`
 
 Above sample points a **front matter** of the page **How to edit**. A **front matter** may contain **page title**, **permalink**, **layout** and other meta data. The visible area of the page contains **Title** and **Front** section, an image with captions and credits, **Conspectus** section, **See also** section with links to another pages and **Footnotes** section, **Edit this page** link.
 
@@ -28,11 +24,7 @@ Above sample points a **front matter** of the page **How to edit**. A **front ma
 
 
 `# Aberdeen Fashion Week` 
-
-
 `# Tailor, Victoria` 
-
-
 `# Duma, Miroslava (publisher)` 
 
 
@@ -41,14 +33,14 @@ Includes the subject's name **Aberdeen Fashion Week**, surname and name **Tailor
 # Front
 
 `(Born 1968, Paris)` 
-
 `(Est. 2012, Moscow)` 
+
 
 Starts with **(Born, Est. 1999, city)** beginner in round brackets. Following one-two sentences of description front ends with footnote links styled with **squared brackets** <span id="a1">[\[1\]](#f1)</span>, <span id="a2">[\[2\]](#f2)</span>, <span id="a3">[\[3\]](#f3)</span>. 
 
 `<span id="a1">[\[1\]](#f1)</span>` 
 
-Will be rendered:
+Will be rendered as:
 
 <span id="a1">[\[1\]](#f1)</span>
 
@@ -58,18 +50,14 @@ Will be rendered:
 This is image link code:
 
 `![](/encyclopedia/images/image-name.jpg)`
-
-
 `**Image caption**`
 
-Will be rendered:
+Will be rendered as:
 
 **Image caption**
 
 
-`*Photo: [Photographer name](photographer-name)` 
-
-`/ [Source name](edition-name)*`
+`*Photo: [Photographer name](photographer-name) / [Source name](edition-name)*`
 
 Will be rendered:
 
@@ -81,15 +69,11 @@ Every image must be described as much possible detailed and styled with **bold f
 
 Conspectus is a way to style some data and lists like events or places in table. 
 
-`|Year|City|`
-
-`|---|---|`
-
-`|2014|Tokyo|`
-
-`|2015|Moscow|`
-
-`|2017|Paris|`
+`|Year|City|
+|---|---|
+|2014|Tokyo|
+|2015|Moscow|
+|2017|Paris|`
 
 Will be rendered:
 
@@ -112,11 +96,7 @@ Will be rendered:
 
 # Footnotes 
 
-`[[1]](#a1) <span id="f1"></span>` 
-
-`[Article 1 (Author 1)]`
-
-`(http://example.net/article)`
+`[[1]](#a1) <span id="f1"></span> [Article 1 (Author 1)] (http://example.net/article)`
 
 Will be rendered:
 
@@ -128,9 +108,7 @@ Connect some text using short links <span id="a1">[\[1\]](#f1)</span>, <span id=
 
 # Prose.io editor linking
 
-`[Edit this page]` 
-
-`(http://prose.io/#indexmod/encyclopedia/edit/master/edit.md)`
+`[Edit this page](http://prose.io/#indexmod/encyclopedia/edit/master/edit.md)`
 
 Will be rendered:
 
