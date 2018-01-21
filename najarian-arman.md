@@ -1,7 +1,6 @@
 2---
 title: Najarian, Arman
 permalink: najarian-arman
-position:
 layout: default
 ---
 
