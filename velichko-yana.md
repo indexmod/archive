@@ -1,6 +1,6 @@
 ---
 title: Velichko, Yana
-permalink: page-template
+permalink: velichko-yana
 layout: default
 ---
 
@@ -40,9 +40,5 @@ layout: default
 [[3]](#a3) <span id="f3"></span> [Article name longer so far (Author name too long and much longer)](http://example.net/article)
 
 ---
-
-`Editorial`
-
-`Warnings`
 
 `Notes`
