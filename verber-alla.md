@@ -1,6 +1,6 @@
 ---
 title: Verber, Alla
-permalink: page-template
+permalink: verber-alla
 layout: default
 ---
 
