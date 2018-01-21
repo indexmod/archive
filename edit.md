@@ -24,11 +24,7 @@ Above sample points a **front matter** of the page **How to edit**. A **front ma
 
 
 `# Aberdeen Fashion Week` 
-
-
 `# Tailor, Victoria` 
-
-
 `# Duma, Miroslava (publisher)` 
 
 
@@ -37,7 +33,6 @@ Includes the subject's name **Aberdeen Fashion Week**, surname and name **Tailor
 # Front
 
 `(Born 1968, Paris)` 
-
 `(Est. 2012, Moscow)` 
 
 
@@ -55,8 +50,6 @@ Will be rendered as:
 This is image link code:
 
 `![](/encyclopedia/images/image-name.jpg)`
-
-
 `**Image caption**`
 
 Will be rendered as:
