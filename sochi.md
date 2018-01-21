@@ -1,6 +1,6 @@
 ---
 title: Sochi
-permalink: page-template
+permalink: sochi
 layout: default
 ---
 

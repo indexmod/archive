@@ -1,6 +1,6 @@
 ---
 title: Singing Walls
-permalink: page-template
+permalink: singing-walls
 layout: default
 ---
 

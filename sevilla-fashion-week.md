@@ -1,6 +1,6 @@
 ---
 title: Sevilla Fashion Week
-permalink: page-template
+permalink: sevilla-fashion-week
 layout: default
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: Saint Petersburg
-permalink: page-template
+permalink: saint-petersburg
 layout: default
 ---
 

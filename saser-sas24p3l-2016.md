@@ -1,6 +1,6 @@
 ---
 title: Saser Sas24p3l (2016)
-permalink: page-template
+permalink: saser-sas24p3l-2016
 layout: default
 ---
 

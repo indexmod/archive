@@ -1,6 +1,6 @@
 ---
 title: SNC 100 MIPRF
-permalink: page-template
+permalink: snc-100-miprf
 layout: default
 ---
 

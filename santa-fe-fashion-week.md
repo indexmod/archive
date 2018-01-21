@@ -1,6 +1,6 @@
 ---
 title: Santa Fe Fashion Week
-permalink: page-template
+permalink: santa-fe-fashion-week
 layout: default
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: Sergeenko, Ulyana
-permalink: page-template
+permalink: sergeenko-ulyana
 layout: default
 ---
 

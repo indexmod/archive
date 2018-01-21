@@ -9,7 +9,7 @@ layout: default
 # Sobchak, Ksenia
 
 
-(Est. 2013, city) is a subject, description-one <span id="a1">[\[1\]](#f1)</span>, description-two <span id="a2">[\[2\]](#f2)</span> description-three <span id="a3">[\[3\]](#f3)</span>, extra text. [Edit this page](http://prose.io/#indexmod/encyclopedia/edit/master/page-template.md)
+(Rus. Ксения Собчак, born 1981, Leningrad) is a Russian, TV presenter, journalist <span id="a1">[\[1\]](#f1)</span>, description-two <span id="a2">[\[2\]](#f2)</span> description-three <span id="a3">[\[3\]](#f3)</span>, extra text. [Edit this page](http://prose.io/#indexmod/encyclopedia/edit/master/page-template.md)
 
 ![](/encyclopedia/images/image-name.jpg)
 
@@ -41,8 +41,4 @@ layout: default
 
 ---
 
-`Editorial`
-
-`Warnings`
-
-`Notes`
+`Editing 2018`

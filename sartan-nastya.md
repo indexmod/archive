@@ -1,6 +1,6 @@
 ---
 title: Sartan, Nastya
-permalink: page-template
+permalink: sartan-nastya
 layout: default
 ---
 

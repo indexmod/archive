@@ -1,6 +1,6 @@
 ---
 title: Sorokina, Olga
-permalink: page-template
+permalink: sorokina-olga
 layout: default
 ---
 

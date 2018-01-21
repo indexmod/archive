@@ -1,6 +1,6 @@
 ---
 title: Semionov, Denis
-permalink: page-template
+permalink: semionov-denis
 layout: default
 ---
 

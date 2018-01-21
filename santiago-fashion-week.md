@@ -1,6 +1,6 @@
 ---
 title: Santiago Fashion Week
-permalink: page-template
+permalink: santiago-fashion-week
 layout: default
 ---
 

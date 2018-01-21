@@ -1,6 +1,6 @@
 ---
 title: Sokol, Mari
-permalink: page-template
+permalink: sokol-mari
 layout: default
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: Singapore Fashion Festival
-permalink: page-template
+permalink: singapore-fashion-festival
 layout: default
 ---
 

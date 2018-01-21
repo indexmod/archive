@@ -1,6 +1,6 @@
 ---
 title: Saveliev, Savva
-permalink: page-template
+permalink: saveliev-savva
 layout: default
 ---
 

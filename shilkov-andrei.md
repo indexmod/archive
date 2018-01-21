@@ -1,6 +1,6 @@
 ---
 title: Shilkov, Andrei
-permalink: page-template
+permalink: shilkov-andrei
 layout: default
 ---
 

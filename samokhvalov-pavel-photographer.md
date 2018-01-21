@@ -1,6 +1,6 @@
 ---
 title: Samokhvalov, Pavel (photographer)
-permalink: page-template
+permalink: samokhvalov-pavel-photographer
 layout: default
 ---
 

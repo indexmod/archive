@@ -1,6 +1,6 @@
 ---
 title: Sachkov, Mikhail
-permalink: page-template
+permalink: sachkov-mikhail
 layout: default
 ---
 

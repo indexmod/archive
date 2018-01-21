@@ -1,6 +1,6 @@
 ---
 title: Samokatjan, Misak
-permalink: page-template
+permalink: samokatjan-misak
 layout: default
 ---
 

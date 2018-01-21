@@ -1,6 +1,6 @@
 ---
 title: Sincerism
-permalink: page-template
+permalink: sincerism
 layout: default
 ---
 

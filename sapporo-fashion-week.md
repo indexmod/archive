@@ -1,6 +1,6 @@
 ---
 title: Sapporo Fashion Week
-permalink: page-template
+permalink: sapporo-fashion-week
 layout: default
 ---
 

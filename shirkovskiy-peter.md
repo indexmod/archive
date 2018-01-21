@@ -1,6 +1,6 @@
 ---
 title: Shirkovskiy, Peter
-permalink: page-template
+permalink: shirkovskiy-peter
 layout: default
 ---
 

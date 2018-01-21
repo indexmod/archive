@@ -1,6 +1,6 @@
 ---
 title: San Juan Moda
-permalink: page-template
+permalink: san-juan-moda
 layout: default
 ---
 

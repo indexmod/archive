@@ -1,6 +1,6 @@
 ---
 title: Seoul Fashion Week
-permalink: page-template
+permalink: seoul-fashion-week
 layout: default
 ---
 

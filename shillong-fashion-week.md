@@ -1,6 +1,6 @@
 ---
 title: Shillong Fashion Week
-permalink: page-template
+permalink: shillong-fashion-week
 layout: default
 ---
 

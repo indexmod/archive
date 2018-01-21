@@ -1,6 +1,6 @@
 ---
 title: Serra, Richard
-permalink: page-template
+permalink: serra-richard
 layout: default
 ---
 

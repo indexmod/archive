@@ -1,6 +1,6 @@
 ---
 title: Shavyrina, Youlia
-permalink: page-template
+permalink: shavyrina-youlia
 layout: default
 ---
 

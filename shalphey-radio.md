@@ -1,6 +1,6 @@
 ---
 title: Shalphey Radio
-permalink: page-template
+permalink: shalphey-radio
 layout: default
 ---
 

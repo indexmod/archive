@@ -1,6 +1,6 @@
 ---
 title: Sochi Fashion Week
-permalink: page-template
+permalink: sochi-fashion-week
 layout: default
 ---
 

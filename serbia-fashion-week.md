@@ -1,6 +1,6 @@
 ---
 title: Serbia Fashion Week
-permalink: page-template
+permalink: serbia-fashion-week
 layout: default
 ---
 

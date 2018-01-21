@@ -1,6 +1,6 @@
 ---
 title: Shenzhen Fashion Week
-permalink: page-template
+permalink: shenzhen-fashion-week
 layout: default
 ---
 

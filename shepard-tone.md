@@ -1,6 +1,6 @@
 ---
 title: Shepard tone
-permalink: page-template
+permalink: shepard-tone
 layout: default
 ---
 

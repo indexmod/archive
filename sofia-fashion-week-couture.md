@@ -1,6 +1,6 @@
 ---
 title: Sofia Fashion Week Couture
-permalink: page-template
+permalink: sofia-fashion-week-couture
 layout: default
 ---
 

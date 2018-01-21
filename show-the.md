@@ -1,6 +1,6 @@
 ---
 title: Show, The
-permalink: page-template
+permalink: show-the
 layout: default
 ---
 

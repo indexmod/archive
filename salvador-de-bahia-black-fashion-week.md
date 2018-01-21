@@ -1,7 +1,7 @@
 ---
 title: Salvador de Bahia Black Fashion Week
 
-permalink: page-template
+permalink: salvador-de-bahia-black-fashion-week
 layout: default
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: Shumsky, Alexandr
-permalink: page-template
+permalink: shumsky-alexandr
 layout: default
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: Sidur, Vadim
-permalink: page-template
+permalink: sidur-vadim
 layout: default
 ---
 

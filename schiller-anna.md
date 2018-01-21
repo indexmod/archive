@@ -1,6 +1,6 @@
 ---
 title: Schiller, Anna
-permalink: page-template
+permalink: schiller-anna
 layout: default
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: SNC
-permalink: page-template
+permalink: snc
 layout: default
 ---
 

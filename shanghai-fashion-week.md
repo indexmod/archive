@@ -1,6 +1,6 @@
 ---
 title: Shanghai Fashion Week
-permalink: page-template
+permalink: shanghai-fashion-week
 layout: default
 ---
 

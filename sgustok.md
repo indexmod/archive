@@ -1,6 +1,6 @@
 ---
 title: Sgustok
-permalink: page-template
+permalink: sgustok
 layout: default
 ---
 

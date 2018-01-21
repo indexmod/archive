@@ -1,6 +1,6 @@
 ---
 title: Shanti, Meli (Mouse)
-permalink: page-template
+permalink: shanti-meli-mouse
 layout: default
 ---
 

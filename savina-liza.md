@@ -1,6 +1,6 @@
 ---
 title: Savina, Liza
-permalink: page-template
+permalink: savina-liza
 layout: default
 ---
 
