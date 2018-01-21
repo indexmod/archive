@@ -7,12 +7,13 @@ published: true
 
 # Lecharlatan (socks)
 
-(Est. 2013, Moscow) is a clothing brand, Russian streetwear brand <span id="a1">[\[1\]](#f1)</span>, an independent label providing high quality socks founded Le Charlatan by Andrey Bozhyev <span id="a2">[\[2\]](#f2)</span> and Maria Aldarova <span id="a3">[\[3\]](#f3)</span>, later purchased from co-founder and registered as Lecharlatan by Andrey Bozhyev (2015). Participant of the TEDxSadovoeRing <span id="a4">[\[4\]](#f4)</span>. [Edit this page](http://prose.io/#indexmod/encyclopedia/edit/master/lecharlatan.md)
+(Est. 2013, Moscow) is a clothing brand, Russian streetwear brand <span id="a1">[\[1\]](#f1)</span>, an independent label providing high quality socks founded as **Le Charlatan** by Andrey Bozhyev <span id="a2">[\[2\]](#f2)</span> and Maria Aldarova <span id="a3">[\[3\]](#f3)</span>, later purchased from co-founder and registered as **Lecharlatan** by Andrey Bozhyev (2015). Participant of the TEDxSadovoeRing <span id="a4">[\[4\]](#f4)</span>. [Edit this page](http://prose.io/#indexmod/encyclopedia/edit/master/lecharlatan.md)
 
 ![](https://static01.nyt.com/images/2015/07/05/arts/05SNAPSHOT/05SNAPSHOT-blog427.jpg)
 
-*Olly Alexander wears Lecharlatan socks <br>
-Photo: [Tom Jamieson](tom-jamieson) / [The New York Times](https://www.nytimes.com/2015/07/05/arts/music/olly-alexander-releases-his-debut-album-with-years-years)*
+**Olly Alexander wears Lecharlatan socks**
+
+*Photo: [Tom Jamieson](tom-jamieson) / [The New York Times](https://www.nytimes.com/2015/07/05/arts/music/olly-alexander-releases-his-debut-album-with-years-years)*
 
 # Conspectus
 
@@ -25,8 +26,9 @@ Photo: [Tom Jamieson](tom-jamieson) / [The New York Times](https://www.nytimes.c
 
 ![](https://upload.wikimedia.org/wikipedia/commons/1/16/%D0%98%D0%B2%D0%B0%D0%BD_%D0%94%D0%BE%D1%80%D0%BD_%D1%84%D0%BE%D1%82%D0%BE%D1%81%D0%B5%D1%81%D1%81%D0%B8%D1%8F.png)
 
-*Russian-Ukrainian raper Ivan Dorn wears Lecharlatan socks <br>
-Photo: [Jurij Treskow](/jurij-treskow) / [Wikipedia](https://en.wikipedia.org/wiki/Ivan_Dorn)*
+**Russian-Ukrainian raper Ivan Dorn wears Lecharlatan socks**
+
+*Photo: [Jurij Treskow](/jurij-treskow) / [Wikipedia](https://en.wikipedia.org/wiki/Ivan_Dorn)*
 
 # Stores
 
