@@ -1,6 +1,6 @@
 ---
 title: Daniele, Guido
-permalink: page-template
+permalink: daniele-guido
 layout: default
 ---
 

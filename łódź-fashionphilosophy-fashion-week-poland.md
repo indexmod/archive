@@ -1,6 +1,6 @@
 ---
-title: PŁódź FashionPhilosophy Fashion Week Poland
-permalink: page-template
+title: Łódź FashionPhilosophy Fashion Week Poland
+permalink: łódź-fashionphilosophy-fashion-week-poland
 layout: default
 ---
 
