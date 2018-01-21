@@ -1,7 +1,7 @@
 ---
 title: Rusmoda
-permalink: page-template
-layout: rusmoda
+permalink: rusmoda
+layout: default
 ---
 
 
