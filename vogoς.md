@@ -1,6 +1,6 @@
 ---
 title: Vogoς
-permalink: page-template
+permalink: vogoc
 layout: default
 ---
 

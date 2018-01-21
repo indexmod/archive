@@ -1,6 +1,6 @@
 ---
 title: Verona Fashion Week
-permalink: page-template
+permalink: verona-fashion-week
 layout: default
 ---
 

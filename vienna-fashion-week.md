@@ -1,6 +1,6 @@
 ---
 title: Vienna Fashion Week
-permalink: page-template
+permalink: vienna-fashion-week
 layout: default
 ---
 

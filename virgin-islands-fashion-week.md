@@ -1,6 +1,6 @@
 ---
 title: Virgin Islands Fashion Week
-permalink: page-template
+permalink: virgin-islands-fashion-week
 layout: default
 ---
 

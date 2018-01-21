@@ -1,6 +1,6 @@
 ---
 title: Voronov, Evdokia
-permalink: page-template
+permalink: voronov-evdokia
 layout: default
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: Vishnevski, Oleg
-permalink: page-template
+permalink: vishnevski-oleg
 layout: default
 ---
 

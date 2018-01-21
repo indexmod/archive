@@ -1,6 +1,6 @@
 ---
 title: Vodianova, Natalia
-permalink: page-template
+permalink: vodianova-natalia
 layout: default
 ---
 

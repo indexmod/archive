@@ -1,6 +1,6 @@
 ---
 title: Vilshenko, Olga
-permalink: page-template
+permalink: vilshenko-olga
 layout: default
 ---
 

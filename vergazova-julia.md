@@ -1,6 +1,6 @@
 ---
 title: Vergazova, Julia
-permalink: page-template
+permalink: vergazova-julia
 layout: default
 ---
 

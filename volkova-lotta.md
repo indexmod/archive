@@ -1,6 +1,6 @@
 ---
 title: Volkova, Lotta
-permalink: page-template
+permalink: volkova-lotta
 layout: default
 ---
 

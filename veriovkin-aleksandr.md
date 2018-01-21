@@ -1,6 +1,6 @@
 ---
 title: Veriovkin, Aleksandr
-permalink: page-template
+permalink: veriovkin-aleksandr
 layout: default
 ---
 

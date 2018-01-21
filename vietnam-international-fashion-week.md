@@ -1,6 +1,6 @@
 ---
 title: Vietnam International Fashion Week
-permalink: page-template
+permalink: vietnam-international-fashion-week
 layout: default
 ---
 

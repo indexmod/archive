@@ -1,6 +1,6 @@
 ---
 title: Victoria’s Secret Fashion Show
-permalink: page-template
+permalink: victoria-s-secret-fashion-show
 layout: default
 ---
 
