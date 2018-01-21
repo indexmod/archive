@@ -1,6 +1,6 @@
 ---
 title: MT Fashion Week (Monterrey)
-permalink: page-template
+permalink: mt-fashion-week-monterrey
 layout: default
 ---
 

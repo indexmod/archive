@@ -1,6 +1,6 @@
 ---
 title: Monroe, Vlad
-permalink: page-template
+permalink: monroe-vlad
 layout: default
 ---
 

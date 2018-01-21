@@ -1,6 +1,6 @@
 ---
 title: Durban Fashion Week
-permalink: page-template
+permalink: durban-fashion-week
 layout: default
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: Partizaning (movement)
-permalink: page-template
+permalink: partizaning-movement
 layout: default
 ---
 

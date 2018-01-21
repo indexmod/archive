@@ -1,6 +1,6 @@
 ---
 title: Phoenix
-permalink: page-template
+permalink: phoenix
 layout: default
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: Mozzhinka
-permalink: page-template
+permalink: mozzhinka
 layout: default
 ---
 

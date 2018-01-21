@@ -1,6 +1,6 @@
 ---
 title: Prokhorova, Youlia
-permalink: page-template
+permalink: prokhorova-youlia
 layout: default
 ---
 

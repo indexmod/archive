@@ -1,6 +1,6 @@
 ---
 title: O'Leary, Sophie
-permalink: page-template
+permalink: o-leary-sophie
 layout: default
 ---
 

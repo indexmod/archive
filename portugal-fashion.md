@@ -1,6 +1,6 @@
 ---
 title: Portugal Fashion
-permalink: page-template
+permalink: portugal-fashion
 layout: default
 ---
 

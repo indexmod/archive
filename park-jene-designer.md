@@ -1,6 +1,6 @@
 ---
 title: Park, Jene (designer)
-permalink: page-template
+permalink: park-jene-designer
 layout: default
 ---
 

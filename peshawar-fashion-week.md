@@ -1,6 +1,6 @@
 ---
 title: Peshawar Fashion Week
-permalink: page-template
+permalink: peshawar-fashion-week
 layout: default
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: Obolentseva, Nadezhda
-permalink: page-template
+permalink: obolentseva-nadezhda
 layout: default
 ---
 

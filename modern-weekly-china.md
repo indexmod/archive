@@ -1,6 +1,6 @@
 ---
 title: Modern Weekly China
-permalink: page-template
+permalink: modern-weekly-china
 layout: default
 ---
 

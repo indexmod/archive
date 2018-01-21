@@ -1,6 +1,6 @@
 ---
 title: Orlov, Alexei
-permalink: page-template
+permalink: orlov-alexei
 layout: default
 ---
 

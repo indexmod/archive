@@ -1,6 +1,6 @@
 ---
 title: Ognenny, Oleg
-permalink: page-template
+permalink: ognenny-oleg
 layout: default
 ---
 

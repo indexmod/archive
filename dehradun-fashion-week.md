@@ -1,6 +1,6 @@
 ---
 title: Dehradun Fashion Week
-permalink: page-template
+permalink: dehradun-fashion-week
 layout: default
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: München Fashion Week
-permalink: page-template
+permalink: münchen-fashion-week
 layout: default
 ---
 

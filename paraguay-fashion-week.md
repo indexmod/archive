@@ -1,6 +1,6 @@
 ---
 title: Paraguay Fashion Week
-permalink: page-template
+permalink: paraguay-fashion-week
 layout: default
 ---
 

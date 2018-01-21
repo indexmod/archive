@@ -1,6 +1,6 @@
 ---
 title: Poiushhie Leiki (2015)
-permalink: page-template
+permalink: poiushhie-leiki-2015
 layout: default
 ---
 

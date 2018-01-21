@@ -1,6 +1,6 @@
 ---
 title: Molodtsov, Evgeny
-permalink: page-template
+permalink: molodtsov-evgeny
 layout: default
 ---
 

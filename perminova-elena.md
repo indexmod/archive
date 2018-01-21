@@ -1,6 +1,6 @@
 ---
 title: Perminova, Elena
-permalink: page-template
+permalink: perminova-elena
 layout: default
 ---
 

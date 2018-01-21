@@ -1,6 +1,6 @@
 ---
 title: Modebadze, Tamar
-permalink: page-template
+permalink: modebadze-tamar
 layout: default
 ---
 

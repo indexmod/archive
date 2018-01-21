@@ -1,6 +1,6 @@
 ---
 title: Omnivore (festival)
-permalink: page-template
+permalink: omnivore-festival
 layout: default
 ---
 

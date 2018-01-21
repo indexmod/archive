@@ -1,6 +1,6 @@
 ---
 title: Plavinsky, Maria
-permalink: page-template
+permalink: plavinsky-maria
 layout: default
 ---
 

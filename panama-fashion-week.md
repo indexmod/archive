@@ -1,6 +1,6 @@
 ---
 title: Panama Fashion Week
-permalink: page-template
+permalink: panama-fashion-week
 layout: default
 ---
 

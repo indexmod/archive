@@ -1,6 +1,6 @@
 ---
 title: Oh, My (brand)
-permalink: page-template
+permalink: oh-my-brand
 layout: default
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: Preview in Daegu
-permalink: page-template
+permalink: preview-in-daegu
 layout: default
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: Platonov, Alex
-permalink: page-template
+permalink: platonov-alex
 layout: default
 ---
 

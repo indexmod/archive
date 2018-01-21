@@ -1,6 +1,6 @@
 ---
 title: Moscow Fashion Week
-permalink: page-template
+permalink: moscow-fashion-week
 layout: default
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: Murcia Fashion Week
-permalink: page-template
+permalink: murcia-fashion-week
 layout: default
 ---
 

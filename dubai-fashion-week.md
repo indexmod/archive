@@ -1,6 +1,6 @@
 ---
 title: Dubai Fashion Week
-permalink: page-template
+permalink: dubai-fashion-week
 layout: default
 ---
 

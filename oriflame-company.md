@@ -1,6 +1,6 @@
 ---
 title: Oriflame (company)
-permalink: page-template
+permalink: oriflame-company
 layout: default
 ---
 

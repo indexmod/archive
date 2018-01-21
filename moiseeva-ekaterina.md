@@ -1,6 +1,6 @@
 ---
 title: Moiseeva, Ekaterina
-permalink: page-template
+permalink: moiseeva-ekaterina
 layout: default
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: Puebla Fashion Show
-permalink: page-template
+permalink: puebla-fashion-show
 layout: default
 ---
 

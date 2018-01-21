@@ -1,6 +1,6 @@
 ---
 title: Muzeon Park of Arts
-permalink: page-template
+permalink: muzeon-park-of-arts
 layout: default
 ---
 

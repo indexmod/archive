@@ -1,6 +1,6 @@
 ---
 title: Molchanov, Alexei
-permalink: page-template
+permalink: molchanov-alexei
 layout: default
 ---
 

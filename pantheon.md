@@ -1,6 +1,6 @@
 ---
 title: Pantheon
-permalink: page-template
+permalink: pantheon
 layout: default
 ---
 

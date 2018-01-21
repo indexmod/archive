@@ -1,6 +1,6 @@
 ---
 title: Pavlensky, Petr (artist)
-permalink: page-template
+permalink: pavlensky-petr-artist
 layout: default
 ---
 

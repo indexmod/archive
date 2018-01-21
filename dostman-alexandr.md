@@ -1,6 +1,6 @@
 ---
 title: Dostman, Alexandr
-permalink: page-template
+permalink: dostman-alexandr
 layout: default
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: Parfenova, Tatiana
-permalink: page-template
+permalink: parfenova-tatiana
 layout: default
 ---
 

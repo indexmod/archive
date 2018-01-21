@@ -1,6 +1,6 @@
 ---
 title: Montecarlo Fashion Week (Fashion Fair Week)
-permalink: page-template
+permalink: montecarlo-fashion-week-fashion-fair-week
 layout: default
 ---
 

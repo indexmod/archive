@@ -1,6 +1,6 @@
 ---
 title: Omaha Fashion Week
-permalink: page-template
+permalink: omaha-fashion-week
 layout: default
 ---
 

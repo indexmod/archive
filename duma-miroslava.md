@@ -1,6 +1,6 @@
 ---
 title: Duma, Miroslava
-permalink: page-template
+permalink: duma-miroslava
 layout: default
 ---
 

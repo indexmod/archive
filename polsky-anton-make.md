@@ -1,6 +1,6 @@
 ---
 title: Polsky, Anton (Make)
-permalink: page-template
+permalink: polsky-anton-make
 layout: default
 ---
 

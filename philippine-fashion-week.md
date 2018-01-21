@@ -1,6 +1,6 @@
 ---
 title: Philippine Fashion Week
-permalink: page-template
+permalink: philippine-fashion-week
 layout: default
 ---
 

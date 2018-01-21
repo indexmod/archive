@@ -1,6 +1,6 @@
 ---
 title: O'Shea, Covadonga
-permalink: page-template
+permalink: o-shea-covadonga
 layout: default
 ---
 

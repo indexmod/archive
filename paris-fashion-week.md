@@ -1,6 +1,6 @@
 ---
 title: Paris Fashion Week
-permalink: page-template
+permalink: paris-fashion-week
 layout: default
 ---
 

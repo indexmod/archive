@@ -1,6 +1,6 @@
 ---
 title: Post Soviet Fashion Weeks
-permalink: page-template
+permalink: post-soviet-fashion-weeks
 layout: default
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: Monaco Week
-permalink: page-template
+permalink: monaco-week
 layout: default
 ---
 

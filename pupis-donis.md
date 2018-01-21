@@ -1,6 +1,6 @@
 ---
 title: Pupis, Donis
-permalink: page-template
+permalink: pupis-donis
 layout: default
 ---
 

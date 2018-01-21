@@ -1,6 +1,6 @@
 ---
 title: Poteryaev, Sergey
-permalink: page-template
+permalink: poteryaev-sergey
 layout: default
 ---
 

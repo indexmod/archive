@@ -1,6 +1,6 @@
 ---
 title: Pinea Chrome
-permalink: page-template
+permalink: pinea-chrome
 layout: default
 ---
 

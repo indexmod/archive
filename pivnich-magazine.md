@@ -1,6 +1,6 @@
 ---
 title: Pivnich Magazine
-permalink: page-template
+permalink: pivnich-magazine
 layout: default
 ---
 

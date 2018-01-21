@@ -1,6 +1,6 @@
 ---
 title: Dover Street Market
-permalink: page-template
+permalink: dover-street-market
 layout: default
 ---
 

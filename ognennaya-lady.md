@@ -1,6 +1,6 @@
 ---
 title: Ognennaya Lady
-permalink: page-template
+permalink: ognennaya-lady
 layout: default
 ---
 

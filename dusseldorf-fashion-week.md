@@ -1,6 +1,6 @@
 ---
 title: Düsseldorf Fashion Week
-permalink: page-template
+permalink: dusseldorf-fashion-week
 layout: default
 ---
 

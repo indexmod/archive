@@ -1,6 +1,6 @@
 ---
 title: Puerto Rico High Fashion Week
-permalink: page-template
+permalink: puerto-rico-high-fashion-week
 layout: default
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: Partizaning (website)
-permalink: page-template
+permalink: partizaning-website
 layout: default
 ---
 

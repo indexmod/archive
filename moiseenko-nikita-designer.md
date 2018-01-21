@@ -1,6 +1,6 @@
 ---
 title: Moiseenko, Nikita (designer)
-permalink: page-template
+permalink: moiseenko-nikita-designer
 layout: default
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: Perry, Grayson (artist)
-permalink: page-template
+permalink: perry-grayson-artist
 layout: default
 ---
 

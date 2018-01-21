@@ -1,6 +1,6 @@
 ---
 title: Pierce, Signe
-permalink: page-template
+permalink: pierce-signe
 layout: default
 ---
 

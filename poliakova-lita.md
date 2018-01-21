@@ -1,6 +1,6 @@
 ---
 title: Poliakova, Lita
-permalink: page-template
+permalink: poliakova-lita
 layout: default
 ---
 

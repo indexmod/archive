@@ -1,6 +1,6 @@
 ---
 title: Pretroria Fashion Week
-permalink: page-template
+permalink: pretroria-fashion-week
 layout: default
 ---
 

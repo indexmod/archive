@@ -1,6 +1,6 @@
 ---
 title: Pakistan Fashion Week
-permalink: page-template
+permalink: pakistan-fashion-week
 layout: default
 ---
 

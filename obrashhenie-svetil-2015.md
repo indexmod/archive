@@ -1,6 +1,6 @@
 ---
 title: Obrashhenie Svetil (2015)
-permalink: page-template
+permalink: obrashhenie-svetil-2015
 layout: default
 ---
 

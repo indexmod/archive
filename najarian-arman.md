@@ -1,4 +1,4 @@
-2---
+---
 title: Najarian, Arman
 permalink: najarian-arman
 layout: default

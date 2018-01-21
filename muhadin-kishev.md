@@ -1,6 +1,6 @@
 ---
 title: Muhadin, Kishev
-permalink: page-template
+permalink: muhadin-kishev
 layout: default
 ---
 

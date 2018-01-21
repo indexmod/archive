@@ -1,6 +1,6 @@
 ---
 title: Prague Fashion Week
-permalink: page-template
+permalink: prague-fashion-week
 layout: default
 ---
 

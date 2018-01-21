@@ -1,6 +1,6 @@
 ---
 title: Panika Derevya (brand)
-permalink: page-template
+permalink: panika-derevya-brand
 layout: default
 ---
 

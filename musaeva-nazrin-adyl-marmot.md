@@ -1,6 +1,6 @@
 ---
 title: Musaeva, Nazrin Adyl (Marmot)
-permalink: page-template
+permalink: musaeva-nazrin-adyl-marmot
 layout: default
 ---
 

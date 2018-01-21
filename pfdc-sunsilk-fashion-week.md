@@ -1,6 +1,6 @@
 ---
 title: PFDC Sunsilk Fashion Week
-permalink: page-template
+permalink: pfdc-sunsilk-fashion-week
 layout: default
 ---
 

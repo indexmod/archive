@@ -1,6 +1,6 @@
 ---
 title: Petra-Ivana Babushkina (artist)
-permalink: page-template
+permalink: petra-ivana-babushkina-artist
 layout: default
 ---
 

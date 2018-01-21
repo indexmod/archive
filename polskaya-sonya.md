@@ -1,6 +1,6 @@
 ---
 title: Polskaya, Sonya
-permalink: page-template
+permalink: polskaya-sonya
 layout: default
 ---
 

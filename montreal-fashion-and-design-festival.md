@@ -1,6 +1,6 @@
 ---
 title: Montréal Fashion and Design Festival
-permalink: page-template
+permalink: montreal-fashion-and-design-festival
 layout: default
 ---
 

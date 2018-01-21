@@ -1,6 +1,6 @@
 ---
 title: Partizaning (gorup)
-permalink: page-template
+permalink: partizaning-gorup
 layout: default
 ---
 

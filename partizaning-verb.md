@@ -1,6 +1,6 @@
 ---
 title: Partizaning (verb)
-permalink: page-template
+permalink: partizaning-verb
 layout: default
 ---
 

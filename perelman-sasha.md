@@ -1,6 +1,6 @@
 ---
 title: Perelman, Sasha
-permalink: page-template
+permalink: perelman-sasha
 layout: default
 ---
 

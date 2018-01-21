@@ -1,6 +1,6 @@
 ---
 title: Pobeda Vesna
-permalink: page-template
+permalink: pobeda-vesna
 layout: default
 ---
 

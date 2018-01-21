@@ -1,6 +1,6 @@
 ---
 title: Moscow
-permalink: page-template
+permalink: moscow
 layout: default
 ---
 

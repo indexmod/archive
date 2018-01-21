@@ -1,6 +1,6 @@
 ---
 title: Mukhina, Ekaterina
-permalink: page-template
+permalink: mukhina-ekaterina
 layout: default
 ---
 

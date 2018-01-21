@@ -1,6 +1,6 @@
 ---
 title: Moscow Institute of Kosmic Anomaly
-permalink: page-template
+permalink: moscow-institute-of-kosmic-anomaly
 layout: default
 ---
 

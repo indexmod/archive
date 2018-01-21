@@ -1,6 +1,6 @@
 ---
 title: Pogosian, Sergei
-permalink: page-template
+permalink: pogosian-sergei
 layout: default
 ---
 

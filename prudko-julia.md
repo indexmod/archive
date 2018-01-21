@@ -1,6 +1,6 @@
 ---
 title: Prudko, Julia
-permalink: page-template
+permalink: prudko-julia
 layout: default
 ---
 

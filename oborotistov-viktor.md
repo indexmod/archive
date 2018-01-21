@@ -1,6 +1,6 @@
 ---
 title: Oborotistov, Viktor
-permalink: page-template
+permalink: oborotistov-viktor
 layout: default
 ---
 

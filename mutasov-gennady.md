@@ -1,6 +1,6 @@
 ---
 title: Mutasov, Gennady
-permalink: page-template
+permalink: mutasov-gennady
 layout: default
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: Pobeda (watches)
-permalink: page-template
+permalink: pobeda-watches
 layout: default
 ---
 

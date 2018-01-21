@@ -1,6 +1,6 @@
 ---
 title: Pepperstein, Pavel
-permalink: page-template
+permalink: pepperstein-pavel
 layout: default
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: Ponosov, Igor
-permalink: page-template
+permalink: ponosov-igor
 layout: default
 ---
 

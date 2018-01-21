@@ -1,6 +1,6 @@
 ---
 title: Pantaloon Femina Swimsuit
-permalink: page-template
+permalink: pantaloon-femina-swimsuit
 layout: default
 ---
 

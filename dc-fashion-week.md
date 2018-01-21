@@ -1,6 +1,6 @@
 ---
 title: DC Fashion Week
-permalink: page-template
+permalink: dc-fashion-week
 layout: default
 ---
 

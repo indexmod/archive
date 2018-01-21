@@ -1,6 +1,6 @@
 ---
 title: Penfield
-permalink: page-template
+permalink: penfield
 layout: default
 ---
 
