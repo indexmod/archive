@@ -1,6 +1,6 @@
 ---
 title: Mamontov, Rodion
-permalink: page-template
+permalink: mamontov-rodion
 layout: default
 ---
 

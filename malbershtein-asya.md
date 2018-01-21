@@ -1,6 +1,6 @@
 ---
 title: Malbershtein, Asya
-permalink: page-template
+permalink: malbershtein-asya
 layout: default
 ---
 

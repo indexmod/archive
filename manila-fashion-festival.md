@@ -1,6 +1,6 @@
 ---
 title: Manila Fashion Festival
-permalink: page-template
+permalink: manila-fashion-festival
 layout: default
 ---
 

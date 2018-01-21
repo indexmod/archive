@@ -1,6 +1,6 @@
 ---
 title: Mercedes Benz Malta Fashion Week
-permalink: page-template
+permalink: mercedes-benz-malta-fashion-week
 layout: default
 ---
 

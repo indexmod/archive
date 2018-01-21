@@ -1,6 +1,6 @@
 ---
 title: Mexico City Fashion Week
-permalink: page-template
+permalink: mexico-city-fashion-week
 layout: default
 ---
 

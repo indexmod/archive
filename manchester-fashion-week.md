@@ -1,6 +1,6 @@
 ---
 title: Manchester Fashion Week
-permalink: page-template
+permalink: manchester-fashion-week
 layout: default
 ---
 

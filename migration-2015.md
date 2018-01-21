@@ -1,6 +1,6 @@
 ---
 title: Migration (2015)
-permalink: page-template
+permalink: migration-2015
 layout: default
 ---
 

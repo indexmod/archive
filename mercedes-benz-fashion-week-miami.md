@@ -1,6 +1,6 @@
 ---
 title: Mercedes-Benz Fashion Week Miami
-permalink: page-template
+permalink: mercedes-benz-fashion-week-miami
 layout: default
 ---
 

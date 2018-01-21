@@ -1,6 +1,6 @@
 ---
 title: Meditations & Reflections (2016)
-permalink: page-template
+permalink: meditations-&-reflections-2016
 layout: default
 ---
 

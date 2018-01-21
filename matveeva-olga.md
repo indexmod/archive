@@ -1,6 +1,6 @@
 ---
 title: Matveeva, Olga
-permalink: page-template
+permalink: matveeva-olga
 layout: default
 ---
 

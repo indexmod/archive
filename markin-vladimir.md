@@ -1,6 +1,6 @@
 ---
 title: Markin, Vladimir
-permalink: page-template
+permalink: markin-vladimir
 layout: default
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: Mimesis (2015)
-permalink: page-template
+permalink: mimesis-2015
 layout: default
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: MMOMA
-permalink: page-template
+permalink: mmoma
 layout: default
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: Miami
-permalink: page-template
+permalink: miami
 layout: default
 ---
 

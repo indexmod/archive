@@ -1,6 +1,6 @@
 ---
 title: Medny, Roman (stylist)
-permalink: page-template
+permalink: medny-roman-stylist
 layout: default
 ---
 

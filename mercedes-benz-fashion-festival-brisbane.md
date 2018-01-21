@@ -1,6 +1,6 @@
 ---
 title: Mercedes-Benz Fashion Festival Brisbane
-permalink: page-template
+permalink: mercedes-benz-fashion-festival-brisbane
 layout: default
 ---
 

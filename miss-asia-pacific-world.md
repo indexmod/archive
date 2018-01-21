@@ -1,6 +1,6 @@
 ---
 title: Miss Asia Pacific World
-permalink: page-template
+permalink: miss-asia-pacific-world
 layout: default
 ---
 

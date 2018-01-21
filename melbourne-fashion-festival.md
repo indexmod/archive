@@ -1,6 +1,6 @@
 ---
 title: Melbourne Fashion Festival
-permalink: page-template
+permalink: melbourne-fashion-festival
 layout: default
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: Mikhailovskaya, Olga
-permalink: page-template
+permalink: mikhailovskaya-olga
 layout: default
 ---
 

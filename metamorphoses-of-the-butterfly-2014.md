@@ -1,6 +1,6 @@
 ---
 title: Metamorphoses of the Butterfly (2014)
-permalink: page-template
+permalink: metamorphoses-of-the-butterfly-2014
 layout: default
 ---
 

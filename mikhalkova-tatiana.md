@@ -1,6 +1,6 @@
 ---
 title: Mikhalkova, Tatiana
-permalink: page-template
+permalink: mikhalkova-tatiana
 layout: default
 ---
 

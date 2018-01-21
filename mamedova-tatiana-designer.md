@@ -1,6 +1,6 @@
 ---
 title: Mamedova, Tatiana (designer)
-permalink: page-template
+permalink: mamedova-tatiana-designer
 layout: default
 ---
 

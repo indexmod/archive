@@ -1,6 +1,6 @@
 ---
 title: Mercedes-Benz Fashion Week Tbilisi
-permalink: page-template
+permalink: mercedes-benz-fashion-week-tbilisi
 layout: default
 ---
 

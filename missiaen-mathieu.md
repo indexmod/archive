@@ -1,6 +1,6 @@
 ---
 title: Missiaen, Mathieu
-permalink: page-template
+permalink: missiaen-mathieu
 layout: default
 ---
 

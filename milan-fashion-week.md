@@ -1,6 +1,6 @@
 ---
 title: Milan Fashion Week
-permalink: page-template
+permalink: milan-fashion-week
 layout: default
 ---
 

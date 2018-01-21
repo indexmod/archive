@@ -1,6 +1,6 @@
 ---
 title: Men’s Fashion Week Plovdiv
-permalink: page-template
+permalink: men-s-fashion-week-plovdiv
 layout: default
 ---
 

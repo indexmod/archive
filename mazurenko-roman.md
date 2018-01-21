@@ -1,6 +1,6 @@
 ---
 title: Mazurenko, Roman
-permalink: page-template
+permalink: mazurenko-roman
 layout: default
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: Men’s Fashion Week Los Angeles
-permalink: page-template
+permalink: men-s-fashion-week-los-angeles
 layout: default
 ---
 

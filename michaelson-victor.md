@@ -1,6 +1,6 @@
 ---
 title: Michaelson, Victor
-permalink: page-template
+permalink: michaelson-victor
 layout: default
 ---
 

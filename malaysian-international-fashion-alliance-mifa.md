@@ -1,7 +1,7 @@
 ---
 title: Malaysian International Fashion Alliance (MIFA)
 
-permalink: page-template
+permalink: malaysian-international-fashion-alliance-mifa
 layout: default
 ---
 

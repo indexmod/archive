@@ -1,6 +1,6 @@
 ---
 title: Mendoza Fashion Week
-permalink: page-template
+permalink: mendoza-fashion-week
 layout: default
 ---
 

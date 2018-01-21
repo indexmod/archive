@@ -1,6 +1,6 @@
 ---
 title: Medical Hermeneutics
-permalink: page-template
+permalink: medical-hermeneutics
 layout: default
 ---
 

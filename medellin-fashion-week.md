@@ -1,6 +1,6 @@
 ---
 title: Medellin Fashion Week
-permalink: page-template
+permalink: medellin-fashion-week
 layout: default
 ---
 

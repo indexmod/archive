@@ -1,6 +1,6 @@
 ---
 title: Mishmash
-permalink: page-template
+permalink: mishmash
 layout: default
 ---
 

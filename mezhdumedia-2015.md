@@ -1,6 +1,6 @@
 ---
 title: Mezhdumedia (2015)
-permalink: page-template
+permalink: mezhdumedia-2015
 layout: default
 ---
 

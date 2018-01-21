@@ -1,6 +1,6 @@
 ---
 title: Miami Fashion Week
-permalink: page-template
+permalink: miami-fashion-week
 layout: default
 ---
 

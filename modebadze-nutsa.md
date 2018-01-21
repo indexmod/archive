@@ -1,6 +1,6 @@
 ---
 title: Modebadze, Nutsa
-permalink: page-template
+permalink: modebadze-nutsa
 layout: default
 ---
 

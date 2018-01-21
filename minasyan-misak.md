@@ -1,8 +1,7 @@
 ---
-title: 'Minasyan, Misak'
+title: Minasyan, Misak
 permalink: minasyan-misak
 layout: default
-published: true
 ---
 
 # Minasyan, Misak

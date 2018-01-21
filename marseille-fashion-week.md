@@ -1,6 +1,6 @@
 ---
 title: Marseille Fashion Week
-permalink: page-template
+permalink: marseille-fashion-week
 layout: default
 ---
 

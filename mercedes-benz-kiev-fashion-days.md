@@ -1,6 +1,6 @@
 ---
 title: Mercedes-Benz Kiev Fashion Days
-permalink: page-template
+permalink: mercedes-benz-kiev-fashion-days
 layout: default
 ---
 

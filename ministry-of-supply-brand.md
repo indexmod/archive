@@ -1,6 +1,6 @@
 ---
 title: Ministry of Supply (brand)
-permalink: page-template
+permalink: ministry-of-supply-brand
 layout: default
 ---
 

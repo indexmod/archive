@@ -1,6 +1,6 @@
 ---
 title: Malhotra, Shriya
-permalink: page-template
+permalink: malhotra-shriya
 layout: default
 ---
 
