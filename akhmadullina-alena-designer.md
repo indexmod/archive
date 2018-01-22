@@ -6,7 +6,7 @@ layout: default
 
 # Akhmadullina, Alena (designer)
 
-(Est. 2013, city) is a subject, description-one <span id="a1">[\[1\]](#f1)</span>, description-two <span id="a2">[\[2\]](#f2)</span> description-3 <span id="a3">[\[3\]](#f3)</span>, extra text.
+(Rus. Алёна Ахмадуллина, born 1978, Sosnovy Bor) Russian fashion designer, founder of the brand Alena Akhmadullina, participant of various Russian and international competitions in the field of fashion, мember of "Snob" from April 2009 <span id="a1">[\[1\]](#f1)</span>, description-two <span id="a2">[\[2\]](#f2)</span> description-3 <span id="a3">[\[3\]](#f3)</span>, extra text.
 
 ![](/images/image-name.jpg)
 
@@ -23,6 +23,10 @@ layout: default
 |2017|Kiev|
 
 # See also
+
+Miroslava Duma
+Tatiana Mikhalkova
+SNC 100 MIPRF 2015
 
 - [Source name](http://example.net/)
 - [Source name](http://example.net/)

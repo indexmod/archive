@@ -6,7 +6,7 @@ layout: default
 
 # Africa Fashion Week London
 
-(Est. 2013, city) is a subject, description-one <span id="a1">[\[1\]](#f1)</span>, description-two <span id="a2">[\[2\]](#f2)</span> description-3 <span id="a3">[\[3\]](#f3)</span>, extra text.
+ (Est. 2010) is a fashion event in  England founded by Adirée (the Africa Fashion Week New York producers) includes runway shows, exhibition, and industry networking events with the sole purpose of raising awareness of the African, African-American fashion and entertainment professionals <span id="a1">[\[1\]](#f1)</span>, description-two <span id="a2">[\[2\]](#f2)</span> description-3 <span id="a3">[\[3\]](#f3)</span>, extra text.
 
 ![](/images/image-name.jpg)
 
