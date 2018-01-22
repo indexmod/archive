@@ -1,6 +1,6 @@
 ---
 title: Kostrov, Gennadiy
-permalink: page-template
+permalink: kostrov-gennadiy
 layout: default
 ---
 

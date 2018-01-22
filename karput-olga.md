@@ -1,6 +1,6 @@
 ---
 title: Karput, Olga
-permalink: page-template
+permalink: karput-olga
 layout: default
 ---
 

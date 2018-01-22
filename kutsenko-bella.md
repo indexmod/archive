@@ -1,6 +1,6 @@
 ---
 title: Kutsenko, Bella
-permalink: page-template
+permalink: kutsenko-bella
 layout: default
 ---
 

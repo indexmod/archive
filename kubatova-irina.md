@@ -1,6 +1,6 @@
 ---
 title: Kubatova, Irina
-permalink: page-template
+permalink: kubatova-irina
 layout: default
 ---
 

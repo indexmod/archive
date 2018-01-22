@@ -1,6 +1,6 @@
 ---
 title: Kaza, Nora
-permalink: page-template
+permalink: kaza-nora
 layout: default
 ---
 

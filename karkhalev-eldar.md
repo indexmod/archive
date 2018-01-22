@@ -1,6 +1,6 @@
 ---
 title: Karkhalev, Eldar
-permalink: page-template
+permalink: karkhalev-eldar
 layout: default
 ---
 

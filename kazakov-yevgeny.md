@@ -1,6 +1,6 @@
 ---
 title: Kazakov, Yevgeny
-permalink: page-template
+permalink: kazakov-yevgeny
 layout: default
 ---
 

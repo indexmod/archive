@@ -1,6 +1,6 @@
 ---
 title: Kalinkina, Svetlana
-permalink: page-template
+permalink: kalinkina-svetlana
 layout: default
 ---
 

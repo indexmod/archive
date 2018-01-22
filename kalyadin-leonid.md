@@ -1,6 +1,6 @@
 ---
 title: Kalyadin, Leonid
-permalink: page-template
+permalink: kalyadin-leonid
 layout: default
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: Kiselev, Aleksei (photographer)
-permalink: page-template
+permalink: kiselev-aleksei-photographer
 layout: default
 ---
 

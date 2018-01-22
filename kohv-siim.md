@@ -1,6 +1,6 @@
 ---
 title: Kohv, Siim
-permalink: page-template
+permalink: kohv-siim
 layout: default
 ---
 

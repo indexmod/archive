@@ -1,6 +1,6 @@
 ---
 title: Kim, Janna
-permalink: page-template
+permalink: kim-janna
 layout: default
 ---
 

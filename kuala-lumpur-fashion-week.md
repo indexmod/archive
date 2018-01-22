@@ -1,6 +1,6 @@
 ---
 title: Kuala Lumpur Fashion Week
-permalink: page-template
+permalink: kuala-lumpur-fashion-week
 layout: default
 ---
 

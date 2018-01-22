@@ -1,6 +1,6 @@
 ---
 title: Kampala Fashion Week
-permalink: page-template
+permalink: kampala-fashion-week
 layout: default
 ---
 

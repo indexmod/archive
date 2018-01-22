@@ -1,6 +1,6 @@
 ---
 title: Kyoto Fashion Week
-permalink: page-template
+permalink: kyoto-fashion-week
 layout: default
 ---
 

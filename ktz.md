@@ -1,6 +1,6 @@
 ---
 title: KTZ
-permalink: page-template
+permalink: ktz
 layout: default
 ---
 

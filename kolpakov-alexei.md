@@ -1,6 +1,6 @@
 ---
 title: Kolpakov, Alexei
-permalink: page-template
+permalink: kolpakov-alexei
 layout: default
 ---
 

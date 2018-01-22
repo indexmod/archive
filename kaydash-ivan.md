@@ -1,6 +1,6 @@
 ---
 title: Kaydash, Ivan
-permalink: page-template
+permalink: kaydash-ivan
 layout: default
 ---
 

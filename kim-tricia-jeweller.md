@@ -1,6 +1,6 @@
 ---
 title: Kim, Tricia (jeweller)
-permalink: page-template
+permalink: kim-tricia-jeweller
 layout: default
 ---
 

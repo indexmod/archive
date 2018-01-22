@@ -1,6 +1,6 @@
 ---
 title: Krupenia, Dmitry (Mattie)
-permalink: page-template
+permalink: krupenia-dmitry-mattie
 layout: default
 ---
 

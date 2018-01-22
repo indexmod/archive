@@ -1,6 +1,6 @@
 ---
 title: Kurbanov, Ramil
-permalink: page-template
+permalink: kurbanov-ramil
 layout: default
 ---
 

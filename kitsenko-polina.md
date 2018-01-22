@@ -1,6 +1,6 @@
 ---
 title: Kitsenko, Polina
-permalink: page-template
+permalink: kitsenko-polina
 layout: default
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: Kingston Bridal Week
-permalink: page-template
+permalink: kingston-bridal-week
 layout: default
 ---
 

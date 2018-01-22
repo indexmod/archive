@@ -1,6 +1,6 @@
 ---
 title: Kristallberg
-permalink: page-template
+permalink: kristallberg
 layout: default
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: Kalmis, Denis
-permalink: page-template
+permalink: kalmis-denis
 layout: default
 ---
 

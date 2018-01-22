@@ -1,6 +1,6 @@
 ---
 title: Kisselman, Iluxa
-permalink: page-template
+permalink: kisselman-iluxa
 layout: default
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: Kusnirovich, Mikhail
-permalink: page-template
+permalink: kusnirovich-mikhail
 layout: default
 ---
 

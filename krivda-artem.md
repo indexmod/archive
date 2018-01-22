@@ -1,6 +1,6 @@
 ---
 title: Krivda, Artem
-permalink: page-template
+permalink: krivda-artem
 layout: default
 ---
 

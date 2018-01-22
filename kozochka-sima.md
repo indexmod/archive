@@ -1,6 +1,6 @@
 ---
 title: Kozochka, Sima
-permalink: page-template
+permalink: kozochka-sima
 layout: default
 ---
 

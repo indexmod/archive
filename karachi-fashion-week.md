@@ -1,6 +1,6 @@
 ---
 title: Karachi Fashion Week
-permalink: page-template
+permalink: karachi-fashion-week
 layout: default
 ---
 

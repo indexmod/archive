@@ -1,6 +1,6 @@
 ---
 title: Kiba, Anton (DJ Freak)
-permalink: page-template
+permalink: kiba-anton-dj-freak
 layout: default
 ---
 

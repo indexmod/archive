@@ -1,6 +1,6 @@
 ---
 title: Khoroshilova, Olga (art expert)
-permalink: page-template
+permalink: khoroshilova-olga-art-expert
 layout: default
 ---
 

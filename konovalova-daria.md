@@ -1,6 +1,6 @@
 ---
 title: Konovalova, Daria
-permalink: page-template
+permalink: konovalova-daria
 layout: default
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: Korovina, Yana (stylist)
-permalink: page-template
+permalink: korovina-yana-stylist
 layout: default
 ---
 

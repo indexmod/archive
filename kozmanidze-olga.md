@@ -1,6 +1,6 @@
 ---
 title: Kozmanidze, Olga
-permalink: page-template
+permalink: kozmanidze-olga
 layout: default
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: Kozhemyako, Yuliya (Supr)
-permalink: page-template
+permalink: kozhemyako-yuliya-supr
 layout: default
 ---
 

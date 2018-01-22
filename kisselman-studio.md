@@ -1,6 +1,6 @@
 ---
 title: Kisselman Studio
-permalink: page-template
+permalink: kisselman-studio
 layout: default
 ---
 

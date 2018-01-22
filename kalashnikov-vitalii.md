@@ -1,6 +1,6 @@
 ---
 title: Kalashnikov, Vitalii
-permalink: page-template
+permalink: kalashnikov-vitalii
 layout: default
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: Kim, J. (brand)
-permalink: page-template
+permalink: kim-j-brand
 layout: default
 ---
 

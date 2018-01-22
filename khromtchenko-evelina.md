@@ -1,6 +1,6 @@
 ---
 title: Khromtchenko, Evelina
-permalink: page-template
+permalink: khromtchenko-evelina
 layout: default
 ---
 

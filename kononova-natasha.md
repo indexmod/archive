@@ -1,6 +1,6 @@
 ---
 title: Kononova, Natasha
-permalink: page-template
+permalink: kononova-natasha
 layout: default
 ---
 

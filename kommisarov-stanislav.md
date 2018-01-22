@@ -1,6 +1,6 @@
 ---
 title: Kommisarov, Stanislav
-permalink: page-template
+permalink: kommisarov-stanislav
 layout: default
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: Köln Fashion Week
-permalink: page-template
+permalink: koln-fashion-week
 layout: default
 ---
 

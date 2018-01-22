@@ -1,6 +1,6 @@
 ---
 title: Kochi Fashion Week
-permalink: page-template
+permalink: kochi-fashion-week
 layout: default
 ---
 

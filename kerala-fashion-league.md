@@ -1,6 +1,6 @@
 ---
 title: Kerala Fashion League
-permalink: page-template
+permalink: kerala-fashion-league
 layout: default
 ---
 

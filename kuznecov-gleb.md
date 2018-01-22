@@ -1,6 +1,6 @@
 ---
 title: Kuznecov, Gleb
-permalink: page-template
+permalink: kuznecov-gleb
 layout: default
 ---
 
