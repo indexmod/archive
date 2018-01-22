@@ -6,13 +6,13 @@ layout: default
 
 # Adjara Fashion Week
 
-(Est. 2013, city) is a subject, description-one <span id="a1">[\[1\]](#f1)</span>, description-two <span id="a2">[\[2\]](#f2)</span> description-3 <span id="a3">[\[3\]](#f3)</span>, extra text.
+(Est. 2015, Batumi) is fashion event in Georgia held by  Batumi Palm Apartment <span id="a1">[\[1\]](#f1)</span>, description-two <span id="a2">[\[2\]](#f2)</span> description-3 <span id="a3">[\[3\]](#f3)</span>, extra text. [Edit this page](http://prose.io/#indexmod/encyclopedia/edit/master/adjara-fashion-week.md)
 
-![](/images/image-name.jpg)
+![](http://ajaratv.ge/files/photos/Sainformacio/V-ACHARA%20FESHEN%20VIKI%20%20CHRA%203.xmp.mpg_20170724_180654.690.jpg)
 
-*Image caption*
+**Guests of AFW in Tsikhisdziri hotel in 2017**
 
-*Photo: [Photographer name](http://example.net/) / [Source name](http://example.net/)*
+*Photo: [Ajara TV](http://ajaratv.ge/news/en/17964/ajara-fashion-week.html) / [Ajara TV](http://ajaratv.ge/news/en/17964/ajara-fashion-week.html)*
 
 # Conspectus
 
