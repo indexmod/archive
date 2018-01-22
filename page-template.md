@@ -4,8 +4,6 @@ permalink: page-template
 layout: default
 ---
 
-
-
 # Page template
 
 
