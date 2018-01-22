@@ -1,6 +1,6 @@
 ---
 title: Leform
-permalink: page-template
+permalink: leeds-fashion-show
 layout: default
 ---
 

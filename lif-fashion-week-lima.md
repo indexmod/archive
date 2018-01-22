@@ -1,6 +1,6 @@
 ---
 title: LIF Fashion Week (Lima)
-permalink: page-template
+permalink: lif-fashion-week-lima
 layout: default
 ---
 

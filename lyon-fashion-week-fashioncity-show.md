@@ -1,6 +1,6 @@
 ---
 title: Lyon Fashion Week (FashionCity Show)
-permalink: page-template
+permalink: lyon-fashion-week-fashioncity-show
 layout: default
 ---
 

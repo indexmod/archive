@@ -1,6 +1,6 @@
 ---
 title: Lomakin, Artur (designer)
-permalink: page-template
+permalink: lomakin-artur-designer
 layout: default
 ---
 

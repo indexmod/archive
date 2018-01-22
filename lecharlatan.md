@@ -2,7 +2,6 @@
 title: Lecharlatan (socks)
 permalink: lecharlatan
 layout: default
-published: true
 ---
 
 # Lecharlatan (socks)

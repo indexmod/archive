@@ -1,6 +1,6 @@
 ---
 title: Laska (tattoo)
-permalink: page-template
+permalink: laska-tattoo
 layout: default
 ---
 

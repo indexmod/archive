@@ -1,6 +1,6 @@
 ---
 title: Lavrentieva, Oxana
-permalink: page-template
+permalink: lavrentieva-oxana
 layout: default
 ---
 

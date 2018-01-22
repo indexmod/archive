@@ -1,6 +1,6 @@
 ---
 title: Laufer, Viktoria
-permalink: page-template
+permalink: laufer-viktoria
 layout: default
 ---
 

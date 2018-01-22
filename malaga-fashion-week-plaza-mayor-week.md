@@ -1,6 +1,6 @@
 ---
 title: Malagá Fashion Week (Plaza Mayor Week)
-permalink: page-template
+permalink: malaga-fashion-week-plaza-mayor-week
 layout: default
 ---
 

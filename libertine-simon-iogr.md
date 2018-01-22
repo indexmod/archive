@@ -1,6 +1,6 @@
 ---
 title: Libertine, Simon (Iogr)
-permalink: page-template
+permalink: libertine-simon-iogr
 layout: default
 ---
 

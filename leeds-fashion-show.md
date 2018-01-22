@@ -1,6 +1,6 @@
 ---
 title: Leeds Fashion Show
-permalink: page-template
+permalink: leeds-fashion-show
 layout: default
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: Libertine (brand)
-permalink: page-template
+permalink: libertine-brand
 layout: default
 ---
 

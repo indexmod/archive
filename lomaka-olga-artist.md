@@ -1,6 +1,6 @@
 ---
 title: Lomaka, Olga (artist)
-permalink: page-template
+permalink: lomaka-olga-artist
 layout: default
 ---
 

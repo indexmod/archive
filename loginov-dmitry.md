@@ -1,6 +1,6 @@
 ---
 title: Loginov, Dmitry
-permalink: page-template
+permalink: loginov-dmitry
 layout: default
 ---
 

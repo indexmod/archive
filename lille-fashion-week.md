@@ -1,6 +1,6 @@
 ---
 title: Lille Fashion Week
-permalink: page-template
+permalink: lille-fashion-week
 layout: default
 ---
 

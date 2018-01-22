@@ -1,6 +1,6 @@
 ---
 title: Linovich, Eugenia
-permalink: page-template
+permalink: linovich-eugenia
 layout: default
 ---
 

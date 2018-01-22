@@ -1,6 +1,6 @@
 ---
 title: Longevity Cook Book
-permalink: page-template
+permalink: longevity-cook-book
 layout: default
 ---
 

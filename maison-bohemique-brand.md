@@ -1,6 +1,6 @@
 ---
 title: Maison Bohemique (brand)
-permalink: page-template
+permalink: maison-bohemique-brand
 layout: default
 ---
 

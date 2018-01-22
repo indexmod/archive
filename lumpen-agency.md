@@ -1,6 +1,6 @@
 ---
 title: Lumpen (agency)
-permalink: page-template
+permalink: lumpen-agency
 layout: default
 ---
 

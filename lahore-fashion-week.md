@@ -1,6 +1,6 @@
 ---
 title: Lahore Fashion Week
-permalink: page-template
+permalink: lahore-fashion-week
 layout: default
 ---
 

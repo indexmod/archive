@@ -1,6 +1,6 @@
 ---
 title: Loyal Royal
-permalink: page-template
+permalink: loyal-royal
 layout: default
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: London
-permalink: page-template
+permalink: london
 layout: default
 ---
 

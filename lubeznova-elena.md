@@ -1,6 +1,6 @@
 ---
 title: Lubeznova, Elena
-permalink: page-template
+permalink: lubeznova-elena
 layout: default
 ---
 

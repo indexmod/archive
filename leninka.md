@@ -1,6 +1,6 @@
 ---
 title: Leninka
-permalink: page-template
+permalink: leninka
 layout: default
 ---
 

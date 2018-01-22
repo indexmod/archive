@@ -1,6 +1,6 @@
 ---
 title: Lakme Fashion Week
-permalink: page-template
+permalink: lakme-fashion-week
 layout: default
 ---
 

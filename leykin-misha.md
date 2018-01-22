@@ -1,6 +1,6 @@
 ---
 title: Leykin, Misha
-permalink: page-template
+permalink: leykin-misha
 layout: default
 ---
 

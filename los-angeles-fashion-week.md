@@ -1,6 +1,6 @@
 ---
 title: Los Angeles Fashion Week
-permalink: page-template
+permalink: los-angeles-fashion-week
 layout: default
 ---
 

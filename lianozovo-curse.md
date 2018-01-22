@@ -1,6 +1,6 @@
 ---
 title: Lianozovo Curse
-permalink: page-template
+permalink: lianozovo-curse
 layout: default
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: Lisbon Fashion Week
-permalink: page-template
+permalink: lisbon-fashion-week
 layout: default
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: Machine Vision
-permalink: page-template
+permalink: machine-vision
 layout: default
 ---
 

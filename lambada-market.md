@@ -1,6 +1,6 @@
 ---
 title: Lambada Market
-permalink: page-template
+permalink: lambada-market
 layout: default
 ---
 

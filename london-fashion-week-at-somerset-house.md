@@ -1,6 +1,6 @@
 ---
 title: London Fashion Week at Somerset House
-permalink: page-template
+permalink: london-fashion-week-at-somerset-house
 layout: default
 ---
 

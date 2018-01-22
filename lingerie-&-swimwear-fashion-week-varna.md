@@ -1,6 +1,6 @@
 ---
 title: Lingerie & Swimwear Fashion Week Varna
-permalink: page-template
+permalink: lingerie-&-swimwear-fashion-week-varna
 layout: default
 ---
 

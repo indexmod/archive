@@ -1,6 +1,6 @@
 ---
 title: Luxembourg Fashion Week
-permalink: page-template
+permalink: luxembourg-fashion-week
 layout: default
 ---
 

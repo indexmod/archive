@@ -1,6 +1,6 @@
 ---
 title: Litvinova, Violetta
-permalink: page-template
+permalink: litvinova-violetta
 layout: default
 ---
 

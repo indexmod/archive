@@ -1,6 +1,6 @@
 ---
 title: Lagos Fashion Week
-permalink: page-template
+permalink: lagos-fashion-week
 layout: default
 ---
 

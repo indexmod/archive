@@ -1,6 +1,6 @@
 ---
 title: Liverpool Fashion Week
-permalink: page-template
+permalink: liverpool-fashion-week
 layout: default
 ---
 

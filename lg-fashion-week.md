@@ -1,6 +1,6 @@
 ---
 title: LG Fashion Week
-permalink: page-template
+permalink: lg-fashion-week
 layout: default
 ---
 

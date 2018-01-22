@@ -1,6 +1,6 @@
 ---
 title: Maksimov, Maksim (designer)
-permalink: page-template
+permalink: maksimov-maksim-designer
 layout: default
 ---
 

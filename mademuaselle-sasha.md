@@ -1,6 +1,6 @@
 ---
 title: Mademuaselle, Sasha
-permalink: page-template
+permalink: mademuaselle-sasha
 layout: default
 ---
 

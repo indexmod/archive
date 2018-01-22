@@ -1,6 +1,6 @@
 ---
 title: Lisin, Anton (designer)
-permalink: page-template
+permalink: lisin-anton-designer
 layout: default
 ---
 

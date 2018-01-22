@@ -1,6 +1,6 @@
 ---
 title: Lakhtina, Nataly
-permalink: page-template
+permalink: lakhtina-nataly
 layout: default
 ---
 

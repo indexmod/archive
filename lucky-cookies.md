@@ -1,6 +1,6 @@
 ---
 title: Lucky cookies
-permalink: page-template
+permalink: lucky-cookies
 layout: default
 ---
 

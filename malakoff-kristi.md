@@ -1,6 +1,6 @@
 ---
 title: Malakoff, Kristi
-permalink: page-template
+permalink: malakoff-kristi
 layout: default
 ---
 
