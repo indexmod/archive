@@ -1,11 +1,10 @@
 ---
-title: Athens Xclusive A s Week
-permalink: athens-xclusive-a-s-week
-position:
+title: Athens Xclusive Designers Week
+permalink: athens-xclusive-designers-week
 layout: default
 ---
 
-# Athens Xclusive A s Week
+# Athens Xclusive Designers Week
 
 (Est. 2013, city) is a subject, description-one <span id="a1">[\[1\]](#f1)</span>, description-two <span id="a2">[\[2\]](#f2)</span> description-3 <span id="a3">[\[3\]](#f3)</span>, extra text.
 

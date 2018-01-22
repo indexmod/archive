@@ -1,6 +1,6 @@
 ---
 title: Barcelona Fashion Week (Pasarela Gaudí)
-permalink: barcelona-fashion-week-pasarela-gaudí
+permalink: barcelona-fashion-week-pasarela-gaudi
 layout: default
 ---
 
