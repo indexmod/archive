@@ -1,7 +1,6 @@
 ---
 title: Bridal Fashion Week Plovdiv
 permalink: brighton-fashion-week
-position:
 layout: default
 ---
 
