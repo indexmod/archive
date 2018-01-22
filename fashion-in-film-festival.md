@@ -1,6 +1,6 @@
 ---
 title: Fashion in Film Festival
-permalink: page-template
+permalink: fashion-in-film-festival
 layout: default
 ---
 

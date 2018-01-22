@@ -1,6 +1,6 @@
 ---
 title: Jonas, Joan
-permalink: page-template
+permalink: jonas-joan
 layout: default
 ---
 

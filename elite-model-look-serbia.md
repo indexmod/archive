@@ -1,6 +1,6 @@
 ---
 title: Elite Model Look Serbia
-permalink: page-template
+permalink: elite-model-look-serbia
 layout: default
 ---
 

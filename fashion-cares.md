@@ -1,6 +1,6 @@
 ---
 title: Fashion Cares
-permalink: page-template
+permalink: fashion-cares
 layout: default
 ---
 

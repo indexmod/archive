@@ -1,6 +1,6 @@
 ---
 title: Juvet, Patrick (model)
-permalink: page-template
+permalink: juvet-patrick-model
 layout: default
 ---
 

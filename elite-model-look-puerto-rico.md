@@ -1,6 +1,6 @@
 ---
 title: Elite Model Look Puerto Rico
-permalink: page-template
+permalink: elite-model-look-puerto-rico
 layout: default
 ---
 

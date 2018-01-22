@@ -1,6 +1,6 @@
 ---
 title: Feeric Fashion Week
-permalink: page-template
+permalink: feeric-fashion-week
 layout: default
 ---
 

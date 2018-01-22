@@ -1,6 +1,6 @@
 ---
 title: Gvasalia, Demna
-permalink: page-template
+permalink: gvasalia-demna
 layout: default
 ---
 

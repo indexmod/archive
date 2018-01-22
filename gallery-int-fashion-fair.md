@@ -1,6 +1,6 @@
 ---
 title: Gallery Int Fashion Fair
-permalink: page-template
+permalink: gallery-int-fashion-fair
 layout: default
 ---
 

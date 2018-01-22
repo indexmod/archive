@@ -1,6 +1,6 @@
 ---
 title: Golovkin, Danil
-permalink: page-template
+permalink: golovkin-danil
 layout: default
 ---
 

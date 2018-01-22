@@ -1,6 +1,6 @@
 ---
 title: Fortaleza Fashion Week
-permalink: page-template
+permalink: fortaleza-fashion-week
 layout: default
 ---
 

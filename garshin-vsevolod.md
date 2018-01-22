@@ -1,6 +1,6 @@
 ---
 title: Garshin, Vsevolod
-permalink: page-template
+permalink: garshin-vsevolod
 layout: default
 ---
 

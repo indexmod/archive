@@ -1,6 +1,6 @@
 ---
 title: Eykhbaum, Cecilia
-permalink: page-template
+permalink: eykhbaum-cecilia
 layout: default
 ---
 

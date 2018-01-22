@@ -1,6 +1,6 @@
 ---
 title: Floating Fashion Week
-permalink: page-template
+permalink: floating-fashion-week
 layout: default
 ---
 

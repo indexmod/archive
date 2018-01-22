@@ -1,6 +1,6 @@
 ---
 title: Indexmod Curators
-permalink: page-template
+permalink: indexmod-curators
 layout: default
 ---
 

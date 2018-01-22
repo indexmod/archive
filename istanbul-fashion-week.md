@@ -1,6 +1,6 @@
 ---
 title: Istanbul Fashion Week
-permalink: page-template
+permalink: istanbul-fashion-week
 layout: default
 ---
 

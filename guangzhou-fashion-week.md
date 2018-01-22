@@ -1,6 +1,6 @@
 ---
 title: Guangzhou Fashion Week
-permalink: page-template
+permalink: guangzhou-fashion-week
 layout: default
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: Fomenko, Marina
-permalink: page-template
+permalink: flux-lounge-le
 layout: default
 ---
 

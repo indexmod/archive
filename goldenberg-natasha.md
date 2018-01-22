@@ -1,6 +1,6 @@
 ---
 title: Goldenberg, Natasha
-permalink: page-template
+permalink: goldenberg-natasha
 layout: default
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: Frankfurt Fashion Week
-permalink: page-template
+permalink: frankfurt-fashion-week
 layout: default
 ---
 

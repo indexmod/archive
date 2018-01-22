@@ -1,6 +1,6 @@
 ---
 title: Indexhibit
-permalink: page-template
+permalink: indexhibit
 layout: default
 ---
 

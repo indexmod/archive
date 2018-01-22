@@ -1,6 +1,6 @@
 ---
 title: Identity of Indexmod
-permalink: page-template
+permalink: identity-of-indexmod
 layout: default
 ---
 

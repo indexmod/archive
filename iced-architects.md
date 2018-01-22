@@ -1,6 +1,6 @@
 ---
 title: Iced Architects
-permalink: page-template
+permalink: iced-architects
 layout: default
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: Fashion Malawi Edition
-permalink: page-template
+permalink: fashion-malawi-edition
 layout: default
 ---
 

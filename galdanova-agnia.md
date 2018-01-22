@@ -1,6 +1,6 @@
 ---
 title: Galdanova, Agnia
-permalink: page-template
+permalink: galdanova-agnia
 layout: default
 ---
 

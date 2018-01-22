@@ -1,6 +1,6 @@
 ---
 title: Gorlov, Lex
-permalink: page-template
+permalink: gorlov-lex
 layout: default
 ---
 

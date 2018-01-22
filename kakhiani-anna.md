@@ -1,6 +1,6 @@
 ---
 title: Kakhiani, Anna
-permalink: page-template
+permalink: kakhiani-anna
 layout: default
 ---
 

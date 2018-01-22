@@ -1,7 +1,6 @@
 ---
 title: Hong Kong Fashion Week for Fall/Winter
 permalink: hong-kong-fashion-week-for-fall-winter
-position:
 layout: default
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: Forget Me Not
-permalink: page-template
+permalink: forget-me-not
 layout: default
 ---
 

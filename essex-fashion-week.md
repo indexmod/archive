@@ -1,6 +1,6 @@
 ---
 title: Essex Fashion Week
-permalink: page-template
+permalink: essex-fashion-week
 layout: default
 ---
 

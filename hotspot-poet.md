@@ -1,6 +1,6 @@
 ---
 title: Hotspot-poet
-permalink: page-template
+permalink: hotspot-poet
 layout: default
 ---
 

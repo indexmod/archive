@@ -1,6 +1,6 @@
 ---
 title: Flux Lounge, Le
-permalink: page-template
+permalink: flux-lounge-le
 layout: default
 ---
 

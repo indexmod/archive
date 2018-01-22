@@ -1,6 +1,6 @@
 ---
 title: Indexmod Encyclopedia NFC
-permalink: page-template
+permalink: indexmod-encyclopedia-nfc
 layout: default
 ---
 

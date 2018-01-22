@@ -1,6 +1,6 @@
 ---
 title: Face Swapping With Cat (Meme)
-permalink: page-template
+permalink: face-swapping-with-cat-meme
 layout: default
 ---
 

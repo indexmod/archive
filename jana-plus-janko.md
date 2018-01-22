@@ -1,6 +1,6 @@
 ---
 title: Jana Plus Janko
-permalink: page-template
+permalink: jana-plus-janko
 layout: default
 ---
 

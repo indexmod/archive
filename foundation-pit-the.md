@@ -1,6 +1,6 @@
 ---
 title: Foundation Pit, The
-permalink: page-template
+permalink: foundation-pit-the
 layout: default
 ---
 

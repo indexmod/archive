@@ -1,6 +1,6 @@
 ---
 title: Gaydamak, Sonia (jeweler)
-permalink: page-template
+permalink: gaydamak-sonia-jeweler
 layout: default
 ---
 

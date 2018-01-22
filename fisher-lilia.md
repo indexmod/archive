@@ -1,6 +1,6 @@
 ---
 title: Fisher, Lilia
-permalink: page-template
+permalink: fisher-lilia
 layout: default
 ---
 

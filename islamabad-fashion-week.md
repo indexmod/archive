@@ -1,6 +1,6 @@
 ---
 title: Islamabad Fashion Week
-permalink: page-template
+permalink: islamabad-fashion-week
 layout: default
 ---
 

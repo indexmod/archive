@@ -1,7 +1,6 @@
 ---
 title: House of Artists on Vavilov 65
 permalink: house-of-artists-on-vavilov-65
-position:
 layout: default
 ---
 

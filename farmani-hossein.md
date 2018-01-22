@@ -1,6 +1,6 @@
 ---
 title: Farmani, Hossein
-permalink: page-template
+permalink: farmani-hossein
 layout: default
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: Fedotov, Alexander
-permalink: page-template
+permalink: fedotov-alexander
 layout: default
 ---
 

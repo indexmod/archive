@@ -1,6 +1,6 @@
 ---
 title: Guadalajara Design Week
-permalink: page-template
+permalink: guadalajara-design-week
 layout: default
 ---
 

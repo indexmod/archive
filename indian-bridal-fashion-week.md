@@ -1,6 +1,6 @@
 ---
 title: Indian Bridal Fashion Week
-permalink: page-template
+permalink: indian-bridal-fashion-week
 layout: default
 ---
 

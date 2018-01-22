@@ -1,6 +1,6 @@
 ---
 title: Genova Fashion Week
-permalink: page-template
+permalink: genova-fashion-week
 layout: default
 ---
 

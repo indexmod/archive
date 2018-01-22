@@ -1,6 +1,6 @@
 ---
 title: Galinskaia, Olga
-permalink: page-template
+permalink: galinskaia-olga
 layout: default
 ---
 

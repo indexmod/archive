@@ -1,6 +1,6 @@
 ---
 title: Janina, Youlia
-permalink: page-template
+permalink: janina-youlia
 layout: default
 ---
 

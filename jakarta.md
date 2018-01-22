@@ -1,6 +1,6 @@
 ---
 title: Jakarta
-permalink: page-template
+permalink: jakarta
 layout: default
 ---
 

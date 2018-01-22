@@ -1,6 +1,6 @@
 ---
 title: Jakarta Fashion Week
-permalink: page-template
+permalink: jakarta-fashion-week
 layout: default
 ---
 

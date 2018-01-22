@@ -1,6 +1,6 @@
 ---
 title: Google Art Project
-permalink: page-template
+permalink: google-art-project
 layout: default
 ---
 

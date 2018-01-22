@@ -1,6 +1,6 @@
 ---
 title: Fiji Fashion Week
-permalink: page-template
+permalink: fiji-fashion-week
 layout: default
 ---
 

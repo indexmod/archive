@@ -1,6 +1,6 @@
 ---
 title: Gaborone Fashion Weekend
-permalink: page-template
+permalink: gaborone-fashion-weekend
 layout: default
 ---
 

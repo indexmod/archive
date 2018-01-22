@@ -1,6 +1,6 @@
 ---
 title: Inkult Magazine
-permalink: page-template
+permalink: inkult-magazine
 layout: default
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: iTattoo
-permalink: page-template
+permalink: itattoo
 layout: default
 ---
 

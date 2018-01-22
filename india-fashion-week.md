@@ -1,6 +1,6 @@
 ---
 title: India Fashion Week
-permalink: page-template
+permalink: india-fashion-week
 layout: default
 ---
 

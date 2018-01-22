@@ -1,6 +1,6 @@
 ---
 title: Indonesia Fashion Week
-permalink: page-template
+permalink: indonesia-fashion-week
 layout: default
 ---
 

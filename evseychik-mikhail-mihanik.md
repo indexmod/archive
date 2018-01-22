@@ -1,6 +1,6 @@
 ---
 title: Evseychik, Mikhail (Mihanik)
-permalink: page-template
+permalink: evseychik-mikhail-mihanik
 layout: default
 ---
 

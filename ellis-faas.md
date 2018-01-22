@@ -1,6 +1,6 @@
 ---
 title: Ellis Faas
-permalink: page-template
+permalink: ellis-faas
 layout: default
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: Filonenko, Nikita
-permalink: page-template
+permalink: filonenko-nikita
 layout: default
 ---
 

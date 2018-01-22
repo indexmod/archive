@@ -1,6 +1,6 @@
 ---
 title: Garage
-permalink: page-template
+permalink: garage
 layout: default
 ---
 

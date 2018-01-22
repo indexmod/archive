@@ -1,6 +1,6 @@
 ---
 title: Gassiline, Cyrille
-permalink: page-template
+permalink: gassiline-cyrille
 layout: default
 ---
 

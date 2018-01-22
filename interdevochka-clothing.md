@@ -1,6 +1,6 @@
 ---
 title: Interdevochka (clothing)
-permalink: page-template
+permalink: interdevochka-clothing
 layout: default
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: Fashion Collection
-permalink: page-template
+permalink: fashion-collection
 layout: default
 ---
 

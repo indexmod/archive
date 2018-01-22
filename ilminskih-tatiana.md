@@ -1,6 +1,6 @@
 ---
 title: Ilminskih, Tatiana
-permalink: page-template
+permalink: ilminskih-tatiana
 layout: default
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: Firenze Fashion Week
-permalink: page-template
+permalink: firenze-fashion-week
 layout: default
 ---
 

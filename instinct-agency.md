@@ -1,6 +1,6 @@
 ---
 title: Instinct (agency)
-permalink: page-template
+permalink: instinct-agency
 layout: default
 ---
 

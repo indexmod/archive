@@ -1,6 +1,6 @@
 ---
 title: Galustiants, Tatiana
-permalink: page-template
+permalink: galustiants-tatiana
 layout: default
 ---
 

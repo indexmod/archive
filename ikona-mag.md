@@ -1,6 +1,6 @@
 ---
 title: Ikona Mag
-permalink: page-template
+permalink: ikona-mag
 layout: default
 ---
 

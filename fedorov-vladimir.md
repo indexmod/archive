@@ -1,6 +1,6 @@
 ---
 title: Fedorov, Vladimir
-permalink: page-template
+permalink: fedorov-vladimir
 layout: default
 ---
 

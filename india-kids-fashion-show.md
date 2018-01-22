@@ -1,6 +1,6 @@
 ---
 title: India Kids Fashion Show
-permalink: page-template
+permalink: india-kids-fashion-show
 layout: default
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: Goyol Fashion Festival
-permalink: page-template
+permalink: goyol-fashion-festival
 layout: default
 ---
 

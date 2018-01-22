@@ -1,6 +1,6 @@
 ---
 title: Guwahati Fashion Week
-permalink: page-template
+permalink: guwahati-fashion-week
 layout: default
 ---
 

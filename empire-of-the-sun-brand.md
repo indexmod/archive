@@ -1,6 +1,6 @@
 ---
 title: Empire of the sun (brand)
-permalink: page-template
+permalink: empire-of-the-sun-brand
 layout: default
 ---
 

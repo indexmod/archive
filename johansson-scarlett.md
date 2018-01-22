@@ -1,6 +1,6 @@
 ---
 title: Johansson, Scarlett
-permalink: page-template
+permalink: johansson-scarlett
 layout: default
 ---
 

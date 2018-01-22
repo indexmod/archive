@@ -1,6 +1,6 @@
 ---
 title: Gosdacha Miusera
-permalink: page-template
+permalink: gosdacha-miusera
 layout: default
 ---
 

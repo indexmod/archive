@@ -1,6 +1,6 @@
 ---
 title: Gaydamak, Katya (jeweler)
-permalink: page-template
+permalink: gaydamak-katya-jeweler
 layout: default
 ---
 

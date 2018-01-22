@@ -1,6 +1,6 @@
 ---
 title: Fide Fashion Weeks
-permalink: page-template
+permalink: fide-fashion-weeks
 layout: default
 ---
 
