@@ -1,6 +1,6 @@
 ---
 title: Dzugelia, Laura
-permalink: page-template
+permalink: dzugelia-laura
 layout: default
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: Dzhanelli, Diana
-permalink: page-template
+permalink: dzhanelli-diana
 layout: default
 ---
 

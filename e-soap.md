@@ -1,6 +1,6 @@
 ---
 title: E-Soap
-permalink: page-template
+permalink: e-soap
 layout: default
 ---
 

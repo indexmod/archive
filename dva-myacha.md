@@ -1,6 +1,6 @@
 ---
 title: Dva Myacha
-permalink: page-template
+permalink: dva-myacha
 layout: default
 ---
 

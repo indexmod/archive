@@ -1,6 +1,6 @@
 ---
 title: Egorova, Ekaterina
-permalink: page-template
+permalink: egorova-ekaterina
 layout: default
 ---
 

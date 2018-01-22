@@ -1,6 +1,6 @@
 ---
 title: Elagin, Oleg
-permalink: page-template
+permalink: elagin-oleg
 layout: default
 ---
 

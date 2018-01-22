@@ -1,6 +1,6 @@
 ---
 title: Electromuseum
-permalink: page-template
+permalink: electromuseum
 layout: default
 ---
 

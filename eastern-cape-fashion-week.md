@@ -1,6 +1,6 @@
 ---
 title: Eastern Cape Fashion Week
-permalink: page-template
+permalink: eastern-cape-fashion-week
 layout: default
 ---
 

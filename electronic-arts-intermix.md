@@ -1,6 +1,6 @@
 ---
 title: Electronic Arts Intermix
-permalink: page-template
+permalink: electronic-arts-intermix
 layout: default
 ---
 

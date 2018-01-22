@@ -1,10 +1,9 @@
 ---
 title: Indexold
-position: 25
 layout: default
 ---
 
-# Old site content 
+# Old site content
 
 # 123...
 

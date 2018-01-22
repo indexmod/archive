@@ -1,6 +1,6 @@
 ---
 title: Elite Model Look International
-permalink: page-template
+permalink: elite-model-look-international
 layout: default
 ---
 

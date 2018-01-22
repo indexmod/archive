@@ -1,6 +1,6 @@
 ---
 title: Elite Model Look Chile
-permalink: page-template
+permalink: elite-model-look-chile
 layout: default
 ---
 
