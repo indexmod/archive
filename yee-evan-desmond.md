@@ -8,9 +8,9 @@ layout: default
 
 (Born 1990, Oakland) American sculpture, multimedia artist living and working in New York <span id="a1">[\[1\]](#f1)</span>, description-two <span id="a2">[\[2\]](#f2)</span> description-3 <span id="a3">[\[3\]](#f3)</span>, extra text.
 
-![](https://static1.squarespace.com/static/587fc9f820099ea28128e453/t/589b8524893fc0809a73c370/1486587990455/Evan+Desmond+Yee+in+front+of+his+installation+%22The+App+Store)
+![](https://static1.squarespace.com/static/587fc9f820099ea28128e453/t/589b8524893fc0809a73c370/1486587990455/Evan+Desmond+Yee+in+front+of+his+installation+%22The+App+Store%22)
 
-**Yee, Evan Desmond**
+**Evan Desmond Yee**
 
 *Photo: [The App Store by Evan Desmond Yee](The App Store by Evan Desmond Yee) / [The Sonic Jungle](The Sonic Jungle )*
 
