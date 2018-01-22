@@ -8,11 +8,11 @@ layout: default
 
 (Est. 2013, city) is a subject, description-one <span id="a1">[\[1\]](#f1)</span>, description-two <span id="a2">[\[2\]](#f2)</span> description-3 <span id="a3">[\[3\]](#f3)</span>, extra text.
 
-![](/images/image-name.jpg)
+![](https://images.perthnow.com.au/publication/60A65860E5142597FA09D257AAFD08DB/9d445e7458df1e2f00581ba4374e9a5c.jpeg)
 
-*Image caption*
+**Marie Totsikas, Stavroula Mountzouris and Julie White at the AFF opening night at Government House**
 
-*Photo: [Photographer name](http://example.net/) / [Source name](http://example.net/)*
+*Photo: [PerthNow](perthnow) / [The Sunday Times](https://www.perthnow.com.au/entertainment/confidential/gallery-fashion-fest-takes-adelaide-ng-60a65860e5142597fa09d257aafd08db)*
 
 # Conspectus
 
