@@ -6,32 +6,16 @@ layout: default
 
 # Baku Fashion Week
 
-(Est. 2013, city) is a subject, description-one <span id="a1">[\[1\]](#f1)</span>, description-two <span id="a2">[\[2\]](#f2)</span> description-3 <span id="a3">[\[3\]](#f3)</span>, extra text.
+ (Az. Baki Moda Heftesi, Est. 2014, Baku) an international professional event in Azerbaijan focused on the popularization of fashion designers working on prêt-a-porter and prêt-a-porterdeluxe in Baku. The first season BFW was held in Baku in autumn 2014 with creative partnership of Arab Fashion Week Dubai, Belarus Fashion Week, Odessa Fashion Week, Serbia Fashion Week.
 
-![](/images/image-name.jpg)
+![](http://sputnik.az/images/40516/15/405161520.jpg)
 
-*Image caption*
+**Baku Sea Terminal interior while opening of Baku Fashion Week 2016**
 
-*Photo: [Photographer name](http://example.net/) / [Source name](http://example.net/)*
-
-# Conspectus
-
-|Year|City|
-|----|---------|
-|2014|Tokyo|
-|2015|Moscow|
-|2017|Kiev|
+*Photo: [Murad Orujov](orujov-murad) / [Sputnik](www.sputnik.az)*
 
 # See also
 
-- [Source name](http://example.net/)
-- [Source name](http://example.net/)
-- [Source name](http://example.net/)
-
-# Footnotes
-
-[[1]](#a1) <span id="f1"></span> [Article name (Author name)](http://example.net/article)
-
-[[2]](#a2) <span id="f2"></span> [Article name (Author name)](http://example.net/article)
-
-[[3]](#a3) <span id="f3"></span> [Article name (Author name)](http://example.net/article)
+- [Raare Fashion Days](raare-fashion-days)
+- [azerbaijan-fashion-week ](http://example.net/)
+- [Baku](baku)
