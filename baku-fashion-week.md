@@ -17,5 +17,5 @@ layout: default
 # See also
 
 - [Raare Fashion Days](raare-fashion-days)
-- [azerbaijan-fashion-week ](http://example.net/)
+- [Azerbaijan Fashion Week](azerbaijan-fashion-week)
 - [Baku](baku)
