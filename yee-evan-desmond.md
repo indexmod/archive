@@ -10,13 +10,9 @@ layout: default
 
 ![](/images/image-name.jpg)
 
-*Image caption*
+**Yee, Evan Desmond**
 
 *Photo: [Photographer name](http://example.net/) / [Source name](http://example.net/)*
-
-
-Yee, Evan Desmond
-Evan Desmond Yee, born 1990, Oakland, CA—American sculpture, multimedia artist 1 living and working in New York. Sign in to edit Evan Desmond Yee
 
 # Education
 
