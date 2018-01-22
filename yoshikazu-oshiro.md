@@ -6,7 +6,7 @@ layout: default
 
 # Yoshikazu, Oshiro
 
-(Jp. 大城義和)—Japanese designer, musician, poet, photographer, critica and multimedia artist, founder of Violet, living and working in Tokyo <span id="a1">[\[1\]](#f1)</span>, description-two <span id="a2">[\[2\]](#f2)</span> description-3 <span id="a3">[\[3\]](#f3)</span>, extra text.
+(Jp. 大城義和) Japanese designer, musician, poet, photographer, critica and multimedia artist, founder of Violet, living and working in Tokyo <span id="a1">[\[1\]](#f1)</span>, description-two <span id="a2">[\[2\]](#f2)</span> description-3 <span id="a3">[\[3\]](#f3)</span>, extra text.
 
 ![](/images/image-name.jpg)
 
