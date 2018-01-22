@@ -6,7 +6,7 @@ layout: default
 
 # Yoshida, Kenji
 
-(Est. 2013, city) is a subject, description-one <span id="a1">[\[1\]](#f1)</span>, description-two <span id="a2">[\[2\]](#f2)</span> description-3 <span id="a3">[\[3\]](#f3)</span>, extra text.
+ (Jp. 吉田 健二) born 1924, Ikeda, Osaka—Japanese artist known by “gold leaf and other metallic overlays are applied to contrasting fields of bright colour and black ground” <span id="a1">[\[1\]](#f1)</span>, description-two <span id="a2">[\[2\]](#f2)</span> description-3 <span id="a3">[\[3\]](#f3)</span>, extra text.
 
 ![](/images/image-name.jpg)
 
