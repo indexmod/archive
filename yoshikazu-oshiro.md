@@ -1,5 +1,5 @@
 ---
-title: Aberdeen Fashion Week
+title: Yoshikazu, Oshiro
 permalink: Yoshikazu, Oshiro
 layout: default
 ---
