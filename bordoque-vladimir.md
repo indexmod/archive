@@ -9,13 +9,13 @@ layout: default
 # Page template
 
 
-(Est. 2013, city) is a subject, description-one <span id="a1">[\[1\]](#f1)</span>, description-two <span id="a2">[\[2\]](#f2)</span> description-three <span id="a3">[\[3\]](#f3)</span>, extra text. [Edit this page](http://prose.io/#indexmod/encyclopedia/edit/master/page-template.md)
+ (Aka Volodia Bordok, Rus. Владимир Бордок, born 1982, Dniepropetrovsk) is a Russian and Ukrainian artist, journalist, founder the brand 13 15 <span id="a1">[\[1\]](#f1)</span>, former Chief Editor of Vconfession online edition, former art director of Air Store in Moscow, DJ, accessories designer, author of fashionable concepts, shop windows decorator, promoter, catholic figurines collector <span id="a2">[\[2\]](#f2)</span> living in Moscow <span id="a3">[\[3\]](#f3)</span>. [Edit this page](http://prose.io/#indexmod/encyclopedia/edit/master/bordoque-vladimir.md)
 
-![](/encyclopedia/images/image-name.jpg)
+![](http://www.be-in.ru/media/beingallery/uploads/2014/01/_08.jpg)
 
-**Image caption title**
+**Volodia Bordok and his collection, 2014**
 
-*Photo: [Photographer name](/photographer-name-page) / [Source name](/source-name-page)*
+*Photo: [Alena Chandler](chandler-alena) / [Be in](/source-name-page)*
 
 # Conspectus
 
@@ -33,16 +33,6 @@ layout: default
 
 # Footnotes
 
-[[1]](#a1) <span id="f1"></span> [Article name short (Author name)](http://example.net/article)
+[[1]](#a1) <span id="f1"></span> [Open Your Emojis (13 15, Facebook)](https://www.facebook.com/permalink.php?story_fbid=1116315648392344&id=197892613567990)
 
-[[2]](#a2) <span id="f2"></span> [Article name little longer (Author name longer)](http://example.net/article)
-
-[[3]](#a3) <span id="f3"></span> [Article name longer so far (Author name too long and much longer)](http://example.net/article)
-
----
-
-`Editorial`
-
-`Warnings`
-
-`Notes`
+[[2]](#a2) <span id="f2"></span> [Коллекционеры: Вова Бордо и католические статуэтки (Be-in, Alena Chendler)](https://www.be-in.ru/review/31739-vova-bordo-i-katolicheskie-statuetki/)
