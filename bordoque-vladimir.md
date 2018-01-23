@@ -17,19 +17,11 @@ layout: default
 
 *Photo: [Alena Chandler](chandler-alena) / [Be in](/source-name-page)*
 
-# Conspectus
-
-|Year|City|
-|----|-----|
-|2014|Tokyo|
-|2015|Moscow|
-|2017|Paris|
-
 # See also
 
-+ [See also title one](page-template)
-+ [See also title two](page-template)
-+ [See also title three](page-template)
++ [Cycles and Seasons by Master Card](page-template)
++ [Air Moscow](page-template)
+
 
 # Footnotes
 
