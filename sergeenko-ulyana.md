@@ -9,7 +9,7 @@ layout: default
 # Sergeenko, Ulyana
 
 
-(Est. 2013, city) is a subject, description-one <span id="a1">[\[1\]](#f1)</span>, description-two <span id="a2">[\[2\]](#f2)</span> description-three <span id="a3">[\[3\]](#f3)</span>, extra text. [Edit this page](http://prose.io/#indexmod/encyclopedia/edit/master/page-template.md)
+(Rus. Ульяна Сергеенко, born 1979, Ust'-Kamennogorsk) is a is a Russian fashion designer, founder and owner of the brand Ulyana Sergeenko  <span id="a1">[\[1\]](#f1)</span>, description-two <span id="a2">[\[2\]](#f2)</span> description-three <span id="a3">[\[3\]](#f3)</span>, extra text. [Edit this page](http://prose.io/#indexmod/encyclopedia/edit/master/page-template.md)
 
 ![](/encyclopedia/images/image-name.jpg)
 
@@ -21,8 +21,8 @@ layout: default
 
 |Year|City|
 |----|-----|
-|2014|Tokyo|
-|2015|Moscow|
+|2011|The Ulyana Sergeenko brand launched in Moscow|
+|2017|Moscow|
 |2017|Paris|
 
 # See also
@@ -41,8 +41,6 @@ layout: default
 
 ---
 
-`Editorial`
+`Scandal 2018`
 
-`Warnings`
 
-`Notes`
