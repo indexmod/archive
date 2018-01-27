@@ -54,7 +54,7 @@ Starting with only five people, the Moscow studio now has over one hundred emplo
 
 # Footnotes
 
-[[1]](#a1) <span id="f1"></span> [About Ulyana Sergeenko](ulyanasergeenko.net))](http://ulyanasergeenko.net/#about)
+[[1]](#a1) <span id="f1"></span> [About Ulyana Sergeenko](http://ulyanasergeenko.net/#about)
 
 ---
 
