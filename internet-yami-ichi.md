@@ -54,7 +54,7 @@ layout: default
 
 # Footnotes
 
-[[1]](#a1) <span id="f1"></span> [Рынок «Ями-Ичи» на фестивале науки, искусства и технологий «Политех» в Москве (Author name)](http://example.net/article)
+[[1]](#a1) <span id="f1"></span> [Рынок «Ями-Ичи» на фестивале науки, искусства и технологий «Политех» в Москве](http://example.net/article)
 
 [[2]](#a2) <span id="f2"></span> [Internet Yami-Ichi by Bureau of Change at New Orleans (Bureau of Change)](http://www.bureauofchange.org/internet-yami-ichi)
 
