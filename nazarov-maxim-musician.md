@@ -1,5 +1,5 @@
 ---
-title: Nazarov, Maxim
+title: Nazarov, Maxim (musician)
 permalink: nazarov-maxim-musician
 layout: default
 ---
