@@ -19,14 +19,6 @@ layout: default
 
 On January 23, designer Ulyana Sergeyenko presented her summer collection of clothes in Paris. Media paid more attention not to the collection itself, but to the invitation that Sergeyenko sent to her friend Duma. On the envelope it was written: "To my niggas in Paris". The day before the show, Miroslava Duma posted an invitation. Bloggers and fashion magazines were vigorously discussing the expression that caused a series of accusatory public statements and the release of Miroslova from the board of directors of the store The Tot <span id="a1">[\[1\]](#f1)</span>.
 
-# Conspectus
-
-|Year|City|
-|----|-----|
-|2011|The Ulyana Sergeenko brand launched in Moscow|
-|2017|Moscow|
-|2017|Paris|
-
 # See also
 
 + [Buro 24/7](buro-24-7)
