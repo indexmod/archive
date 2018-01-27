@@ -1,7 +1,6 @@
 ---
 title: Buro 24/7
 permalink: buro-24-7
-position:
 layout: default
 ---
 
@@ -25,11 +24,13 @@ layout: default
 
 # See also
 
-- [Duma, Miroslava](duma-miroslava)
-- [Sergeenko, Ulyana](sergeenko-ulyana)
-- [Forward Media Group](forward-media-group)
++ [Duma, Miroslava](duma-miroslava)
++ [Sergeenko, Ulyana](sergeenko-ulyana)
++ [Ulyana Sergeenko (clothes)](ulyana-sergeenko-clothes)
 
 
 # Footnotes
 
 [[1]](#a1) <span id="f1"></span> [У издания о моде Buro 24/7 появился новый главный редактор (Vedomosti, Oct. 2017)](https://www.vedomosti.ru/technology/news/2017/10/30/739822-buro-247)
+
+`Last update Jan 2018 by Andrei Dei`
