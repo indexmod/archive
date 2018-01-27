@@ -1,6 +1,6 @@
 
 ---
-title: Фуджиока, Садам
+title: 
 permalink: fujioka-sadam
 layout: default
 ---
