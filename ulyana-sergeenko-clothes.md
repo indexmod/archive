@@ -44,13 +44,20 @@ layout: default
 |2012|Fall-Winter 2013/2014|Paris|
 |2011|Fall-Winter 2011/2012|Paris|
 
-Starting with only five people, the Moscow studio now has over one hundred employees. One of the dresses designed by Ulyana Sergeenko has been selected to appear in the upscale exhibition “The little black dress” at the Mona Bismarck foundation in Paris. Celebrities such as Natalia Vodianova, Dita von Teese, Rihanna, Lady Gaga, Beyoncé, Fan Bingbing, Marion Cotillard and Ornella Muti appear on red carpets in her creations. Madonna and Beyoncé have worn custom made gowns in their music videos, all helping to bring international recognition to the signature style of Ulyana Sergeenko <span id="a1">[\[1\]](#f1)</span>.
+# Mona Bismarck foundation
+
+One of the dresses designed by Ulyana Sergeenko has been selected to appear in the upscale exhibition “The little black dress” at the Mona Bismarck foundation in Paris <span id="a1">[\[1\]](#f1)</span>.
+
+# Celebrities
+
+Celebrities such as Natalia Vodianova, Dita von Teese, Rihanna, Lady Gaga, Beyoncé, Fan Bingbing, Marion Cotillard and Ornella Muti appear on red carpets in her creations. Madonna and Beyoncé have worn custom made gowns in their music videos <span id="a1">[\[1\]](#f1)</span>.
 
 # See also
 
 + [Buro 24/7](buro-24-7)
 + [Duma, Miroslava](duma-miroslava)
 + [Ulyana Sergeenko](sergeenko-ulyana)
++ [Vodianova Natalia](vodianova-natalia)
 
 # Footnotes
 
