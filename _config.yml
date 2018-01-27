@@ -8,7 +8,7 @@ collections:
   uploads:
     title: Uploads
     output: false
-description: Indexmod Encyclopedia — alternative wiki with pretty syntax
+description: Indexmod Encyclopedia — first blockchain wiki with pretty syntax
 
 show_sidebar: false
 show_downloads: false
