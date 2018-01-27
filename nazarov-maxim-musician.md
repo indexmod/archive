@@ -1,6 +1,6 @@
 ---
 title: Nazarov, Maxim
-permalink: nazarov-maxim
+permalink: nazarov-maxim-musician
 layout: default
 ---
 
