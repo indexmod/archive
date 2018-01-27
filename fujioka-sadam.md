@@ -1,4 +1,8 @@
-
+---
+title: 
+permalink: fujioka-sadam
+layout: default
+---
 
 
 # Фуджиока, Садам
