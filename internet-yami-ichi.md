@@ -13,7 +13,8 @@ layout: default
 
 ![](https://nyoobserver.files.wordpress.com/2015/09/yami5-e1442267948712.jpg)
 
-**Сувениры звезд Гитхаба на Ями-Ичи в Новом Орлеане**
+**Сувениры звезд Гитхаба <br>
+на Ями-Ичи в Новом Орлеане**
 
 *Photo: [Брэди Дейл (Brady Dale)](http://observer.com/2015/09/dev-trading-cards-and-telephone-tinder-six-projects-we-dug-at-internet-yami-ichi/) / [Observer](http://observer.com/2015/09/dev-trading-cards-and-telephone-tinder-six-projects-we-dug-at-internet-yami-ichi/)*
 
@@ -37,10 +38,4 @@ layout: default
 
 [[2]](#a2) <span id="f2"></span> [Internet Yami-Ichi by Bureau of Change at New Orleans (Bureau of Change)](http://www.bureauofchange.org/internet-yami-ichi)
 
----
-
-`Editorial`
-
-`Warnings`
-
-`Notes`
+`Last update Jan 2018 by Andrei Dei`
