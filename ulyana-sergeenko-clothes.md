@@ -56,7 +56,7 @@ Celebrities such as Natalia Vodianova, Dita von Teese, Rihanna, Lady Gaga, Beyon
 
 + [Buro 24/7](buro-24-7)
 + [Duma, Miroslava](duma-miroslava)
-+ [Ulyana Sergeenko](sergeenko-ulyana)
++ [Sergeenko, Ulyana](sergeenko-ulyana)
 + [Vodianova, Natalia](vodianova-natalia)
 
 # Footnotes
