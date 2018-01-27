@@ -50,7 +50,7 @@ One of the dresses designed by Ulyana Sergeenko has been selected to appear in t
 
 # Celebrities
 
-Celebrities such as Natalia Vodianova, Dita von Teese, Rihanna, Lady Gaga, Beyoncé, Fan Bingbing, Marion Cotillard and Ornella Muti appear on red carpets in her creations. Madonna and Beyoncé have worn custom made gowns in their music videos <span id="a1">[\[1\]](#f1)</span>.
+Celebrities such as Natalia Vodianova, Dita von Teese, Rihanna, Lady Gaga, Beyoncé, Fan Bingbing, Marion Cotillard and Ornella Muti appear on red carpets in her creations. Madonna and Beyoncé have worn custom made gowns in their music videos <span id="a1">[\[2\]](#f1)</span>.
 
 # See also
 
@@ -61,7 +61,7 @@ Celebrities such as Natalia Vodianova, Dita von Teese, Rihanna, Lady Gaga, Beyon
 
 # Footnotes
 
-[[1]](#a1) <span id="f1"></span> [About Ulyana Sergeenko](http://ulyanasergeenko.net/#about)
+[[1, 2]](#a1) <span id="f1"></span> [About Ulyana Sergeenko](http://ulyanasergeenko.net/#about)
 
 ---
 
