@@ -35,7 +35,6 @@ On January 23, designer Ulyana Sergeyenko presented her summer collection of clo
 + [Buro 24/7](buro-24-7)
 + [Fashion Tech Lab](fashion-tech-lab)
 + [Ulyana Sergeenko](sergeenko-ulyana)
-+ [Fashion Tech Lab](fashion-tech-lab)
 
 # Footnotes
 
