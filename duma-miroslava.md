@@ -9,18 +9,13 @@ layout: default
 # Duma, Miroslava
 
 
-(Born 1985, Surgut) model, journalist from Russia <span id="a1">[\[1\]](#f1)</span>, graduated MGIMO (Masters in International Business Administration). From 2007 to 2009 she worked for Harper’s Bazaar as special project editor. Later she continued her work with various publishing houses including Axel Springer Russia and Conde Nast. In 2007 Miroslava founded a charity foundation "Peace Planet". In 2011 Miroslava launched Buro 24/7 and work as Digital Media Director at TSUM Moscow.
+(Born 1985, Surgut) model, journalist from Russia <span id="a1">[\[1\]](#f1)</span>, ambassador of Chanel (2013), spokeswoman in Russia for the "Chime for Change" initiative by Gucci, <span id="a2">[\[2\]](#f2)</span> graduated MGIMO (Masters in International Business Administration). From 2007 to 2009 she worked for Harper’s Bazaar as special project editor. Later she continued her work with various publishing houses including Axel Springer Russia and Conde Nast. In 2007 Miroslava founded a charity foundation "Peace Planet". In 2011 Miroslava launched Buro 24/7 and work as Digital Media Director at TSUM Moscow.
 
-Miroslava is a spokeswoman in Russia for the "Chime for Change" initiative by Gucci. "Chime for Change" - a community of people working to promote education, health and justice for every girl.
-In addition to the collaborations with Boutique 1 and Symphony, she also participated in the ad campaign “Small is Beautiful” for Louis Vuitton cross-body handbag collection. Currently Mira is an ambassador of Chanel.
-In the past few seasons, Duma has appeared in campaigns for Ferragamo and Russian department store TSUM, and most recently, she was chosen as
-the face of Oscar de la Renta for The Outnet, as well as Roger Vivier's Spring 2014 collection. With two campaigns in the same season and a resume that's growing way beyond that of simply a street style star in addition to starting her site Buro, she was recently named digital media director at TSUM Duma is becoming known as much for her work ethic as for the unique ways she wears her clothes <span id="a2">[\[2\]](#f2)</span>
+# "Sergeenko" Scandal of 2018
 
+On January 23, designer Ulyana Sergeyenko presented her summer collection of clothes in Paris, at the Fashion Week. Media paid more attention not to the collection itself, but to the invitation that Sergeyenko sent to her friend and founder of the international edition about the fashion and style of the Buro 24/7 Miroslav Dumas. On the envelope it was written: "To my niggaz in Paris" ("To my niggas in Paris"). The day before the show, Miroslava Duma posted an invitation to the presentation of the collection, which she herself sent to Ulyana Sergeyenko. Bloggers and fashion magazines were vigorously discussing the racist expression that caused a series of accusatory public statements and the release of Miroslova from the board of directors of the store The Tot <span id="a3">[\[3\]](#f3)</span>.
 
-
-
-
-description-three <span id="a3">[\[3\]](#f3)</span>. [Edit this page](http://prose.io/#indexmod/encyclopedia/edit/master/duma-miroslava.md)
+[Edit this page](http://prose.io/#indexmod/encyclopedia/edit/master/duma-miroslava.md)
 
 ![](https://i.mdel.net/i/db/2014/12/329691/329691-500w.jpg)
 
