@@ -1,7 +1,8 @@
 ---
-title: Sergeenko, Ulyana
+title: 'Sergeenko, Ulyana'
 permalink: sergeenko-ulyana
 layout: default
+published: true
 ---
 
 # Sergeenko, Ulyana
@@ -17,7 +18,7 @@ layout: default
 
 # "Duma-Niggas" scandal
 
-On January 23, designer Ulyana Sergeyenko presented her summer collection of clothes in Paris. Media paid more attention not to the collection itself, but to the invitation that Sergeyenko sent to her friend Duma. On the envelope it was written: "To my niggas in Paris". The day before the show, Miroslava Duma posted an invitation. Bloggers and fashion magazines were vigorously discussing the expression that caused a series of accusatory public statements and the release of Miroslova from the board of directors of the store The Tot <span id="a1">[\[1\]](#f1)</span>.
+On January 23 2018, designer Ulyana Sergeyenko presented her summer collection of clothes in Paris. Media paid more attention not to the collection itself, but to the invitation that Sergeyenko sent to her friend Duma. On the envelope it was written: "To my niggas in Paris". The day before the show, Miroslava Duma posted an invitation. Bloggers and fashion magazines were vigorously discussing the expression that caused a series of accusatory public statements and the release of Miroslova from the board of directors of the store The Tot <span id="a1">[\[1\]](#f1)</span>.
 
 # See also
 
