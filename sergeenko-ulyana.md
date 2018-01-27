@@ -7,7 +7,7 @@ layout: default
 # Sergeenko, Ulyana
 
 
-(Rus. Ульяна Сергеенко, born 1979, Ust'-Kamennogorsk) is a is a Russian fashion designer, founder and owner of the brand Ulyana Sergeenko. [Edit this page](http://prose.io/#indexmod/encyclopedia/edit/master/page-template.md)
+(Rus. Ульяна Сергеенко, born 1979, Ust'-Kamennogorsk) Russian fashion designer, founder and owner of the brand Ulyana Sergeenko. Living in Moscow. [Edit this page](http://prose.io/#indexmod/encyclopedia/edit/master/page-template.md)
 
 ![](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/908b1256271565.59a74e16318d4.jpg)
 
