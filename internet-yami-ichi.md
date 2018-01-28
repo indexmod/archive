@@ -16,9 +16,9 @@ layout: default
 **Сувениры звезд Гитхаба <br>
 на Ями-Ичи в Новом Орлеане**
 
-*Photo: [Брэди Дейл (Brady Dale)](http://observer.com/2015/09/dev-trading-cards-and-telephone-tinder-six-projects-we-dug-at-internet-yami-ichi/) / [Observer](http://observer.com/2015/09/dev-trading-cards-and-telephone-tinder-six-projects-we-dug-at-internet-yami-ichi/)*
+*Фото: [Брэди Дейл (Brady Dale)](http://observer.com/2015/09/dev-trading-cards-and-telephone-tinder-six-projects-we-dug-at-internet-yami-ichi/) / [Observer](http://observer.com/2015/09/dev-trading-cards-and-telephone-tinder-six-projects-we-dug-at-internet-yami-ichi/)*
 
-# Conspectus
+# Конспект
 
 |Year|City|
 |----|-----|
@@ -52,10 +52,10 @@ layout: default
 + [Фуджиока, Садам](fujioka-sadam)
 
 
-# Footnotes
+# Сноски
 
 [[1]](#a1) <span id="f1"></span> [Рынок «Ями-Ичи» на фестивале науки, искусства и технологий «Политех» в Москве](http://example.net/article)
 
 [[2]](#a2) <span id="f2"></span> [Internet Yami-Ichi by Bureau of Change at New Orleans (Bureau of Change)](http://www.bureauofchange.org/internet-yami-ichi)
 
-`Last update Jan 2018 by Andrei Dei`
+`Обновлено Янв. 2018 Андрей Дей`
