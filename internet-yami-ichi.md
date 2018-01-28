@@ -1,48 +1,61 @@
 ---
-title: Internet Yami Ichi
+title: Ями-Ичи (рынок)
 permalink: internet-yami-ichi
 layout: default
 ---
 
 
 
-# Internet Yami Ichi
+# Ями-Ичи (рынок)
 
 
-(Est. 2013, city) is a subject, description-one <span id="a1">[\[1\]](#f1)</span>, description-two <span id="a2">[\[2\]](#f2)</span> description-three <span id="a3">[\[3\]](#f3)</span>, extra text. [Edit this page](http://prose.io/#indexmod/encyclopedia/edit/master/page-template.md)
+(англ. Internet Yami-Ichi; яп. インターネットヤミ市; осн. 2012, Токио) «черный рынок зависимых от интернета», «свободный рынок офлайн-браузинга», который дает возможность спроецировать цифровой мир в реальную жизнь в виде материализованных интернет-явлений в исполнении художников, дизайнеров, программистов и энтузиастов интернет-культуры. Впервые рынок Ями-Ичи провели в Токио в 2012 году, в последующие годы рынок проводили в Нью-Йорке, Амстердаме, Брюсселе, Сан-Паулу, Берлине, Москве <span id="a1">[\[1\]](#f1)</span>, так же в Новом Орлеане проходил одноимённый микро-рынок <span id="a2">[\[2\]](#f2)</span>. [Редактировать эту страницу](http://prose.io/#indexmod/encyclopedia/edit/master/internet-yami-ichi.md)
 
-![](/encyclopedia/images/image-name.jpg)
+![](https://nyoobserver.files.wordpress.com/2015/09/yami5-e1442267948712.jpg)
 
-**Image caption title**
+**Сувениры "Звезд Гитхаба" <br>
+на рынке Ями-Ичи в Новом Орлеане**
 
-*Photo: [Photographer name](/photographer-name-page) / [Source name](/source-name-page)*
+*Фото: [Брэди Дейл (Brady Dale)](http://observer.com/2015/09/dev-trading-cards-and-telephone-tinder-six-projects-we-dug-at-internet-yami-ichi/) / [Observer](http://observer.com/2015/09/dev-trading-cards-and-telephone-tinder-six-projects-we-dug-at-internet-yami-ichi/)*
 
-# Conspectus
+# Конспект
 
 |Year|City|
 |----|-----|
-|2014|Tokyo|
-|2015|Moscow|
-|2017|Paris|
+|2012|Токио|
+|2013|Токио|
+|2014|Берлин|
+|2014|Саппоро|
+|2014|Брюссель|
+|2012|Амстердам|
+|2015|Сеул|
+|2015|Тайчжун|
+|2015|Линц|
+|2015|Нью-Йорк|
+|2015|Новый Орлеан|
+|2016|Дюссельдорф|
+|2016|Лондон|
+|2016|Moscow|
+|2016|Токио|
+|2016|Нью-Йорк|
+|2016|Барселона|
+|2017|Базель|
+|2017|Брюссель|
+|2017|Барселона|
+|2017|Тель Авив|
+|2017|Лондон|
+|2018|Базель|
 
-# See also
 
-+ [See also title one](page-template)
-+ [See also title two](page-template)
-+ [See also title three](page-template)
+# См. также
 
-# Footnotes
++ [Фуджиока, Садам](fujioka-sadam)
 
-[[1]](#a1) <span id="f1"></span> [Article name short (Author name)](http://example.net/article)
 
-[[2]](#a2) <span id="f2"></span> [Article name little longer (Author name longer)](http://example.net/article)
+# Сноски
 
-[[3]](#a3) <span id="f3"></span> [Article name longer so far (Author name too long and much longer)](http://example.net/article)
+[[1]](#a1) <span id="f1"></span> [Рынок «Ями-Ичи» на фестивале науки, искусства и технологий «Политех» в Москве](http://example.net/article)
 
----
+[[2]](#a2) <span id="f2"></span> [Internet Yami-Ichi by Bureau of Change at New Orleans (Bureau of Change)](http://www.bureauofchange.org/internet-yami-ichi)
 
-`Editorial`
-
-`Warnings`
-
-`Notes`
+`Обновлено Янв. 2018 Андрей Дей`

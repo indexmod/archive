@@ -6,8 +6,8 @@ layout: default
 
 # Q1 
 
-- Съешь ещё этих мягких французских булок, да выпей же чаю
-- The quick brown fox jumps over the lazy dog
+- Why some articles in non-English?
+- The principle of choosing a language for creating new pages is the following: for all the newest phenomena - English. For the description of international phenomena the language is selected on which the least information is published in the Internet in English
 
 # Q2
 
