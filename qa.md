@@ -13,3 +13,5 @@ layout: default
 
 - How can I translate page in IE?
 - Just use sample of the page translated into Russian. Here it is [Ями-Ичи (рынок)](internet-yami-ichi)
+
+`Обновлено Янв. 2018 Андрей Дей`
