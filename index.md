@@ -2,14 +2,14 @@
 layout: default
 ---
 
-<ul class="intro">
+<ul>
  
 
   {% assign mypages = site.pages | sort: "order" %}
   {% for page in mypages %}
-   <li>
+   <li class="intro">
   <a href="{{ page.url | absolute_url }}">{{ page.title }}</a>
-   </li>
+  </li>
   {% endfor %}
   
 
