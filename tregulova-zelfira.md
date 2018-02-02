@@ -6,7 +6,7 @@ layout: default
 
 # Tregulova, Zelfira
 
- (Tataric Зөлфирә Исмәгыйль кызы Трегулова; born. 1955, Riga) art critic, curator of international museum exhibition projects. Ph.D. in History of Arts. Director of the State Tretyakov Gallery (2015), Vladimir Putin's confidant in the pre-election campaign of 2018. <span id="a1">[\[1\]](#f1)</span> [Edit this page](http://prose.io/#indexmod/encyclopedia/edit/master/tregulova-zelfira.md)
+ (Tataric Зөлфирә Исмәгыйль кызы Трегулова; born. 1955, Riga) art critic, curator of international museum exhibition projects, Ph.D. in History of Arts, Director of the State Tretyakov Gallery (2015), also nkown as Vladimir Putin's confidant in the pre-election campaign of 2018. <span id="a1">[\[1\]](#f1)</span> [Edit this page](http://prose.io/#indexmod/encyclopedia/edit/master/tregulova-zelfira.md)
 
 ![](http://www.theartnewspaper.ru/public/uploads/posts/post/2015-12/15594293-dda1-476b-8873-e9100b676ca5.jpg)
 
