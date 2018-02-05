@@ -1,18 +1,18 @@
 ---
-title: Amed, Imran
+title: Амед, Имран (блогер)
 permalink: amed-imran
 layout: default
 ---
 
-# Amed, Imran
+# Амед, Имран (блогер)
 
-(Род. 1976 <span id="a1">[\[1\]](#f1)</span>, Калгари)  британский и канадский предприниматель, основатель и генеральный директор “The Business of Fashion” (Бизнес моды), основатель проекта "BoF Voices" <span id="a2">[\[2\]](#f2)</span>, живёт и работает в Лондоне.
+(Род. 1976 <span id="a1">[\[1\]](#f1)</span>, Калгари)  британский и канадский предприниматель, основатель и генеральный директор “The Business of Fashion” (Бизнес моды), основатель проекта "BoF Голоса" <span id="a2">[\[2\]](#f2)</span>, живёт и работает в Лондоне.
 
-![](/images/imran-amed-scott-trindle.jpg)
+![](http://style.gq.com.au/media/file_uploads/2/6/7/0/26713-1.jpg)
 
-*Имран Амед*
+*Имран Амед выступает во время презентации "BoF Голоса" в Сиднейском оперном театре*
 
-*Фото: [Скот Триндл](Scott Trindle) / [The Business of Fashion](The Business of Fashion)*
+*Фото: [Getty](getty) / [GQ Австралия](gq)*
 
 # Наргады и премии
 
