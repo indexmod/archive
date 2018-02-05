@@ -8,11 +8,11 @@ layout: default
 
 (Род. 1976 <span id="a1">[\[1\]](#f1)</span>, Калгари)  британский и канадский предприниматель, основатель и генеральный директор “The Business of Fashion” (Бизнес моды), основатель проекта "BoF Voices" <span id="a2">[\[2\]](#f2)</span>, живёт и работает в Лондоне.
 
-![](/images/Imran-Amed-Scott-Trindle.jpg)
+![](/images/imran-amed-scott-trindle.jpg)
 
 *Имран Амед*
 
-*Photo: [Скот Триндл](Scott Trindle) / [The Business of Fashion](The Business of Fashion)*
+*Фото: [Скот Триндл](Scott Trindle) / [The Business of Fashion](The Business of Fashion)*
 
 # Наргады и премии
 
