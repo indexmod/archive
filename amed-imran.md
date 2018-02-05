@@ -6,13 +6,13 @@ layout: default
 
 # Amed, Imran
 
-(Est. 2013, city) is a subject, description-one <span id="a1">[\[1\]](#f1)</span>, description-two <span id="a2">[\[2\]](#f2)</span> description-3 <span id="a3">[\[3\]](#f3)</span>, extra text.
+(Est. 2013, city) British and ￼Canadian citizen, founder and CEO of “The Business of Fashion” working and living in London. <span id="a1">[\[1\]](#f1)</span>, description-two <span id="a2">[\[2\]](#f2)</span> description-3 <span id="a3">[\[3\]](#f3)</span>, extra text.
 
-![](/images/image-name.jpg)
+![](/images/Imran-Amed-Scott-Trindle.jpg)
 
-*Image caption*
+*Imran Amed*
 
-*Photo: [Photographer name](http://example.net/) / [Source name](http://example.net/)*
+*Photo: [Scott Trindle](Scott Trindle) / [The Business of Fashion](The Business of Fashion)*
 
 # Conspectus
 
