@@ -6,32 +6,33 @@ layout: default
 
 # Amed, Imran
 
-(Est. 2013, city) British and ￼Canadian citizen, founder and CEO of “The Business of Fashion” working and living in London. <span id="a1">[\[1\]](#f1)</span>, description-two <span id="a2">[\[2\]](#f2)</span> description-3 <span id="a3">[\[3\]](#f3)</span>, extra text.
+(Род. 1976 <span id="a1">[\[1\]](#f1)</span>, Калгари) Британский и канадский предприниматель, основатель и гереральный директор “The Business of Fashion” (Бизнес моды), основатель проекта "BoF VoicesЭ <span id="a2">[\[2\]](#f2)</span>, живёт и работает в Лондоне.
 
 ![](/images/Imran-Amed-Scott-Trindle.jpg)
 
-*Imran Amed*
+*Имран Амед*
 
-*Photo: [Scott Trindle](Scott Trindle) / [The Business of Fashion](The Business of Fashion)*
+*Photo: [Скот Триндл](Scott Trindle) / [The Business of Fashion](The Business of Fashion)*
 
-# Conspectus
+# Наргады и премии
 
-|Year|City|
-|----|---------|
-|2014|Tokyo|
-|2015|Moscow|
-|2017|Kiev|
+|Год|Событие|
+|----|----|
+|2011|100 самых влиятельных мужчин Британии (GQ Великобритания)|
+|2012| 100 самых влиятельных персон  Британской цифровой экономике (Wired)|
+|2015|Почётный профессор модного бизнеса Каледонский университет Глазго|
+|2016|Совет дизайнеров Америки номинант премии Медиа имени Евгении Шеппард|
 
-# See also
+# Cм. также
 
-- [Source name](http://example.net/)
-- [Source name](http://example.net/)
-- [Source name](http://example.net/)
+- [The Blueprint](blueprint-the)
+- [The Business of Fashion](business-of-fashion-the)
+- [Buro 24/7](buro-24-7)
 
-# Footnotes
+# Сноски
 
-[[1]](#a1) <span id="f1"></span> [Article name (Author name)](http://example.net/article)
+[[1]](#a1) <span id="f1"></span> [Прямая речь: Имран Амед, основатель сайта The Business of Fashion (Look at me, Юлия Выдолоб)](http://www.lookatme.ru/mag/archive/industry-interview/118417-imran-amed)
 
-[[2]](#a2) <span id="f2"></span> [Article name (Author name)](http://example.net/article)
+[[2]](#a2) <span id="f2"></span> [Имран Амед, основатель BoF: "Если сидеть на месте, вы однозначно проиграете" (Бюро 24/7, Сильвия Бомбардини)](https://www.buro247.ru/fashion/interview/imran-amed.html)
 
-[[3]](#a3) <span id="f3"></span> [Article name (Author name)](http://example.net/article)
+`Последняя редакция февр. 2018 (Андрей Дей)`
