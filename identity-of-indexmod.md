@@ -2,6 +2,7 @@
 title: Identity of Indexmod
 permalink: identity-of-indexmod
 layout: default
+published: true
 ---
 
 # Identity of Indexmod
@@ -53,3 +54,5 @@ layout: default
 [[1]](#a1) <span id="f1"></span> [Article name short (Author name)](http://example.net/article)
 
 `Last edit Feb. 2018 (Andrei Dei)`
+
+`INXMD ⚪️⚫️🔴🔵 INXMD`
