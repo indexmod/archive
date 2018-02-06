@@ -13,7 +13,7 @@ layout: default
 
 ![](/encyclopedia/images/zaragoza-fashion-week.jpg)
 
-**Item from design pack "Semana de la Moda, Zaragoza"**
+**Identity pack "Semana de la Moda, Zaragoza"**
 
 *Photo: [Estudio Mique](estudio-mique) / [Behance](https://www.behance.net/gallery/37053981/Semana-de-la-Moda-Zaragoza)*
 
