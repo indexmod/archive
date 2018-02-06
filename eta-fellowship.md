@@ -57,7 +57,7 @@ The name of the fellowship "Eta" comes from Russian «Эта» — pronunciation
 + [Andrei Dei](dei-andrei)
 + [Maksim Tuzhikov](tuzhikov-maksim)
 + [Petro Sanchuk](sanchuk-petro)
-+ [Elvira kuznetsova](kuznetsova-elvira)
++ [Elvira Kuznetsova](kuznetsova-elvira)
 + [Mikhael Oshin](oshin-mikhael)
 
 
