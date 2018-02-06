@@ -9,40 +9,28 @@ layout: default
 # Zaragoza Fashion Week
 
 
-(Est. 2013, city) is a subject, description-one <span id="a1">[\[1\]](#f1)</span>, description-two <span id="a2">[\[2\]](#f2)</span> description-three <span id="a3">[\[3\]](#f3)</span>, extra text. [Edit this page](http://prose.io/#indexmod/encyclopedia/edit/master/page-template.md)
+(Spa. Semana de la Moda de Zaragoza, est. 2011 <span id="a1">[\[1\]](#f1)</span>, Zaragoza) is a fashion event in Spain. [Edit this page](http://prose.io/#indexmod/encyclopedia/edit/master/aragoza-fashion-week.md)
 
-![](/encyclopedia/images/image-name.jpg)
+![](/encyclopedia/images/zaragoza-fashion-week.jpg)
 
-**Image caption title**
+**Item from design pack "Semana de la Moda, Zaragoza"**
 
-*Photo: [Photographer name](/photographer-name-page) / [Source name](/source-name-page)*
+*Photo: [Estudio Mique](estudio-mique) / [Behance](https://www.behance.net/gallery/37053981/Semana-de-la-Moda-Zaragoza)*
 
 # Conspectus
 
-|Year|City|
+|Year|Place|
 |----|-----|
-|2014|Tokyo|
-|2015|Moscow|
-|2017|Paris|
+|2011|Centro de artesanía de Aragón|
 
 # See also
 
-+ [See also title one](page-template)
-+ [See also title two](page-template)
-+ [See also title three](page-template)
++ [Zaragoza](Zaragoza)
++ [Barcelona Fashion Week](barcelona-fashion-week )
++ [Cibeles Madrid Fashion Week](cibeles-madrid-fashion-week)
 
 # Footnotes
 
-[[1]](#a1) <span id="f1"></span> [Article name short (Author name)](http://example.net/article)
+[[1]](#a1) <span id="f1"></span> [Semana de la Moda, Zaragoza at Federación de industrias Textiles y de la Confección de Aragón, (FITCA)](http://fitca.com/?p=2560)
 
-[[2]](#a2) <span id="f2"></span> [Article name little longer (Author name longer)](http://example.net/article)
-
-[[3]](#a3) <span id="f3"></span> [Article name longer so far (Author name too long and much longer)](http://example.net/article)
-
----
-
-`Editorial`
-
-`Warnings`
-
-`Notes`
+`Last edit Feb. 2018 (Andrei Dei)`
