@@ -9,7 +9,33 @@ layout: default
 # Eta (fellowship)
 
 
-(Est. 2017, Mozhinka) is a creative fellowship, founded by Maksim Tuzhikov and Andrei Dei with aim to visualisation of science data. In 2017 also collaborated with Petro sanchuk and Mikcael Oshin. [Edit this page](http://prose.io/#indexmod/encyclopedia/edit/master/eta.md)
+(Est. 2017, Mozhinka) is a creative fellowship based in Moscow, founded by Maksim Tuzhikov and Andrei Dei with aim to visualis of science data. In 2017 also collaborated with Petro Sanchuk, Elvira Kuznetsova and Mikhael Oshin. [Edit this page](http://prose.io/#indexmod/encyclopedia/edit/master/eta.md)
+
+![](https://scontent-arn2-1.xx.fbcdn.net/v/t1.0-9/26991644_4257661890923504_4625503268031431664_n.png?oh=d85ae9b52dd05d92021feef7b34ad085&oe=5ADD8946)
+
+**Userpic of «Eta» page on Facebook in 2017**
+
+*Image: [Andrei Dei](dei-andrei) / [Eta](https://www.facebook.com/eta.space/photos/a.2877881888901518.1073741825.2877881798901527/4257661890923504/?type=1&theater)*
+
+# Naming and identity
+
+The name of the fellowship "Eta" comes from Russian Russian pronunciation of the eighth letter of the Phoenician alphabet "heth". Because "Eta" is not an abbreviation, but a noun and a pronoun, the semantic, morphological and syntactic properties determine the rules for writing "Eta" as a proper name.
+
+# Fonts
+
+|Year|Font|Usage|
+|----|-----|---|
+|2017|Helvetica Neue|For all identity|
+|2017|Square|For some headers|
+
+# Colors
+
+|Year|Color|Usage|
+|----|-----|---|
+|2017|Black|All texts|
+|2017|Red|Horizontal rulers|
+|2017|Eta-Ivory|Site backgrounds|
+
 
 ![](http://e-t-a.space/images/altai-triangulation.jpg)
 
