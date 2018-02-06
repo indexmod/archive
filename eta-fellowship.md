@@ -13,7 +13,7 @@ layout: default
 
 ![](https://scontent-arn2-1.xx.fbcdn.net/v/t1.0-9/26991644_4257661890923504_4625503268031431664_n.png?oh=d85ae9b52dd05d92021feef7b34ad085&oe=5ADD8946)
 
-**Userpic of «Eta» page on Facebook in 2017**
+**Userpic of "Eta" on Facebook in 2017**
 
 *Image: [Andrei Dei](dei-andrei) / [Eta](https://www.facebook.com/eta.space/photos/a.2877881888901518.1073741825.2877881798901527/4257661890923504/?type=1&theater)*
 
