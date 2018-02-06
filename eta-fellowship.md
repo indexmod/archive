@@ -67,4 +67,4 @@ The name of the fellowship "Eta" comes from Russian «Эта» — pronunciation
  (Пресс-релизы, «Эта»)](http://e-t-a.space/7-%D0%BD%D0%BE%D1%8F%D0%B1%D1%80%D1%8F-2017)
 
 
-`Edited Feb& 2018 (Andrei Dei)`
+`Edited Feb. 2018 (Andrei Dei)`
