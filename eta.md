@@ -34,8 +34,10 @@ The name of the fellowship "Eta" comes from Russian Russian pronunciation of the
 |----|-----|---|
 |2017|Black|All texts|
 |2017|Red|Horizontal rulers|
-|2017|Eta-Ivory|Site backgrounds|
-
+|2017|Eta-Ivory (Hex #fffff0)|Site backgrounds|
+|2018|White|PDF|
+|2018|Silver|Links and footnotes|
+|2018|Eta-bronze (Hex #??????)|In progress|
 
 ![](http://e-t-a.space/images/altai-triangulation.jpg)
 
