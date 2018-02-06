@@ -9,7 +9,7 @@ layout: default
 # Eta (fellowship)
 
 
-(Est. 2017, Mozhinka) is a creative fellowship based in Moscow, founded by Maksim Tuzhikov and Andrei Dei with aim to visualis of science data. In 2017 also collaborated with Petro Sanchuk, Elvira Kuznetsova and Mikhael Oshin. [Edit this page](http://prose.io/#indexmod/encyclopedia/edit/master/eta-fellowship.md)
+(Rus. Товарищество «Эта», est. 2017, Mozhinka) is a creative fellowship based in Moscow, founded by Maksim Tuzhikov and Andrei Dei with aim to visualis of science data. In 2017 also collaborated with Petro Sanchuk, Elvira Kuznetsova and Mikhael Oshin. [Edit this page](http://prose.io/#indexmod/encyclopedia/edit/master/eta-fellowship.md)
 
 ![](https://scontent-arn2-1.xx.fbcdn.net/v/t1.0-9/26991644_4257661890923504_4625503268031431664_n.png?oh=d85ae9b52dd05d92021feef7b34ad085&oe=5ADD8946)
 
@@ -19,7 +19,7 @@ layout: default
 
 # Naming and identity
 
-The name of the fellowship "Eta" comes from Russian Russian pronunciation of the eighth letter of the Phoenician alphabet "heth". Because "Eta" is not an abbreviation, but a noun and a pronoun, the semantic, morphological and syntactic properties determine the rules for writing "Eta" as a proper name.
+The name of the fellowship "Eta" comes from Russian «Эта» — pronunciation of the eighth letter of the Phoenician alphabet "heth". Because "Eta" is not an abbreviation, but a noun and a pronoun, the semantic, morphological and syntactic properties determine the rules for writing "Eta" as a proper name.
 
 # Fonts
 
