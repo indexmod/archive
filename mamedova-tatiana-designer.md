@@ -1,7 +1,8 @@
 ---
-title: Mamedova, Tatiana (designer)
+title: 'Mamedova, Tatiana (designer)'
 permalink: mamedova-tatiana-designer
 layout: default
+published: true
 ---
 
 # Mamedova, Tatiana (designer)
@@ -25,7 +26,7 @@ layout: default
 
 # Films
 
-|Year|Collection|Dir.|
+|Year|Film|Dir.|
 |----|-----|---|
 |2006|Inhabited Island|Fedor Bondarchuk|
 |2008|Pritazhenie|Fedor Bondarchuk|
