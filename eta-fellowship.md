@@ -5,7 +5,7 @@ layout: default
 ---
 # Eta (fellowship)
 
-(Rus. Товарищество «Эта», est. 2017, Mozzhinka) is a creative fellowship based in Moscow, founded by Maksim Tuzhikov and Andrei Dei with aim to visualis of science data. In 2017 also collaborated with Petro Sanchuk, Elvira Kuznetsova and Mikhael Oshin. [Edit this page](http://prose.io/#indexmod/encyclopedia/edit/master/eta-fellowship.md)
+(Rus. Товарищество «Эта», est. 2017, Mozzhinka) is a creative fellowship based in Moscow, founded by Maksim Kamo and Andrei Dei with aim to visualize of science data. In 2017 also collaborated with Petro Sanchuk, Elvira Kuznetsova and Mikhael Oshin. [Edit this page](http://prose.io/#indexmod/encyclopedia/edit/master/eta-fellowship.md)
 
 ![](https://scontent-arn2-1.xx.fbcdn.net/v/t1.0-9/26991644_4257661890923504_4625503268031431664_n.png?oh=d85ae9b52dd05d92021feef7b34ad085&oe=5ADD8946)
 
@@ -33,7 +33,7 @@ The name of the fellowship "Eta" comes from Russian «Эта» — pronunciation
 |2017|Eta-Ivory (Hex #fffff0)|Site backgrounds|
 |2018|White|PDF|
 |2018|Silver|Links and footnotes|
-|2018|Eta-bronze (Hex #??????)|In progress|
+|2018|Eta-bronze (Hex#)|In progress|
 
 ![](http://e-t-a.space/images/altai-triangulation.jpg)
 
@@ -67,4 +67,4 @@ The name of the fellowship "Eta" comes from Russian «Эта» — pronunciation
  (Пресс-релизы, «Эта»)](http://e-t-a.space/7-%D0%BD%D0%BE%D1%8F%D0%B1%D1%80%D1%8F-2017)
 
 
-`INXMD ETA 2018`
+`Edited Feb& 2018 (Andrei Dei)`
