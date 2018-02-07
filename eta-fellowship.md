@@ -2,6 +2,7 @@
 title: Eta (fellowship)
 permalink: eta-fellowship
 layout: default
+published: true
 ---
 # Eta (fellowship)
 
@@ -46,7 +47,7 @@ The name of the fellowship "Eta" comes from Russian «Эта» — pronunciation
 |Year|Milestone|
 |----|-----|
 |2017|Founding in Moscow|
-|2017|Headquarters at IFZ RAN|
+|2017|Headquarters at IFE RAS|
 |2017|The Geophysical Center of the Russian Academy of Sciences <span id="a1">[\[1\]](#f1)</span>|
 |2017|Applying to Plums Fest|
 |2018|Mars Triangulation Project|
