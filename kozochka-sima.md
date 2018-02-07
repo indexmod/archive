@@ -6,7 +6,7 @@ layout: default
 
 # Kozochka, Sima
 
-(Rus. Сима Козочка, Серафима Соловьёва, born 1996, Moscow) Serafima Solovieva is an alternative model <span id="a1">[\[1\]](#f1)</span>, DJ and art-diva <span id="a2">[\[2\]](#f2)</span> working and living in Moscow. [Edit this page](http://prose.io/#indexmod/encyclopedia/edit/master/kozochka-sima.md)
+(Rus. Сима Козочка, Серафима Соловьёва, born 1996, Moscow) Serafima Solovieva is an alternative model <span id="a1">[\[1\]](#f1)</span>, DJ and art-diva <span id="a2">[\[2\]](#f2)</span>, working and living in Moscow. [Edit this page](http://prose.io/#indexmod/encyclopedia/edit/master/kozochka-sima.md)
 
 ![](/encyclopedia/images/kozochka-vogue.png)
 
