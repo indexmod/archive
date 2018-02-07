@@ -11,7 +11,7 @@ layout: default
 
 **Userpic of "Eta" on Facebook in 2017**
 
-*Image: [Andrei Dei](dei-andrei) / [Eta](https://www.facebook.com/eta.space/photos/a.2877881888901518.1073741825.2877881798901527/4257661890923504/?type=1&theater)*
+*Image: [Andrei Dei](dei-andrei) / [Eta Facebook]()*
 
 # Naming and identity
 
