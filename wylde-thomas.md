@@ -1,6 +1,6 @@
 ---
 title: Wylde, Thomas (designer)
-permalink: wild-orchid-lingerie
+permalink: wylde-thomas-designer
 position:
 layout: default
 ---
