@@ -13,7 +13,7 @@ layout: default
 
 ![](/encyclopedia/images/vavilov-65-а-list.jpg)
 
-**Pavel Kopaev and Anna Pokarjevskaya on Vavilov 65а **
+**Pavel Kopaev and Anna Pokarjevskaya on Vavilov 65а**
 
 *Photo: [Victor Borzih](borzih-victor) / [Facebook](facebook)*
 
