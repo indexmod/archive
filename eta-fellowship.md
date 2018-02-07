@@ -35,7 +35,7 @@ The name of the fellowship "Eta" comes from Russian «Эта» — pronunciation
 |2018|Silver|Links and footnotes|
 |2018|Eta-bronze (Hex#)|In progress|
 
-![](http://e-t-a.space/images/altai-triangulation.jpg)
+![](/encyclopedia/images/altai-triangulation.jpg)
 
 **Capture of print «Altai triangulation»**
 
