@@ -43,7 +43,11 @@
 
       {{ content | toc }}
         
-        <p class=inxmd>⚪️⚫️ 🔴🔵 {{ page.content | number_of_words }}</p>
+        <p>⚪️ Words: {{ page.content | number_of_words }}</p>
+        <p>⚫️ Relative URL {{ "/assets/style.css" | relative_url }}</p>
+        <p>🔴 Absolute {{ "/assets/style.css" | absolute_url }} </p>
+        <p>🔵 Array to Sentence {{ page.tags | array_to_sentence_string }}</p>
+
 
       </section>
       <footer>
