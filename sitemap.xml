@@ -4,7 +4,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     {% for post in site.posts %}
     <url>
-        <loc>https://indexmod.github.io/encyclopedia/index{{ post.url | remove: 'index.html' }}</loc>
+        <loc>https://indexmod.github.io/encyclopedia/{{ post.url | remove: 'index.html' }}</loc>
 		<lastmod>{{ post.date | date:"%F" }}</lastmod>
     </url>
     {% endfor %}
@@ -13,7 +13,7 @@
     {% if page.layout != nil %}
     {% if page.layout != 'feed' %}
     <url>
-        <loc>https://indexmod.github.io/encyclopedia/index{{ page.url | remove: 'index.html' }}</loc>
+        <loc>https://indexmod.github.io/encyclopedia/{{ page.url | remove: 'index.html' }}</loc>
     </url>
     {% endif %}
     {% endif %}
