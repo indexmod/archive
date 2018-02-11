@@ -19,6 +19,12 @@ google_analytics: 'UA-112478299-1'
 gems:
 plugins:
   - jekyll-toc
+  - jekyll-sitemap
 
-theme: jekyll-theme-minimal
-include: ['.htaccess']
+theme: 
+
+jekyll-theme-minimal
+
+include: 
+
+['.htaccess']
