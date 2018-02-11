@@ -36,7 +36,8 @@
         </header>
         <section>
             {{ content | toc }}
-                    <p>🔵 Array to Sentence {{ page.tags | array_to_sentence_string }}</p>
+            
+                    <p>⚪️ Words: {{ page.content | number_of_words }}</p>
         </section>
         <footer>
             {% include footer.html %}
