@@ -16,7 +16,9 @@ show_title: false
 show_description: false
 google_analytics: 'UA-112478299-1'
 
-gems:
+gems: 'jekyll-sitemap'
+
+url: "http://example.com" # the base hostname & protocol for your site
 plugins:
   - jekyll-toc
   - jekyll-sitemap
