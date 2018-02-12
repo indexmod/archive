@@ -8,25 +8,18 @@ collections:
   uploads:
     title: Uploads
     output: false
-description: Indexmod Encyclopedia — first blockchain wiki with pretty syntax
+description: Indexmod Encyclopedia — blockchain wiki with pretty syntax
 
 show_sidebar: false
 show_downloads: false
 show_title: false
 show_description: false
 google_analytics: 'UA-112478299-1'
-
 gems: 'jekyll-sitemap'
-
 url: "hhttps://github.com/indexmod/encyclopedia" # the base hostname & protocol for your site
 plugins:
   - jekyll-toc
   - jekyll-sitemap
+theme: jekyll-theme-minimal
 
-theme: 
-
-jekyll-theme-minimal
-
-include: 
-
-['.htaccess']
+include: ['.htaccess']
