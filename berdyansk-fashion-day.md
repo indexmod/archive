@@ -31,6 +31,4 @@ layout: default
 
 [[1]](#a1) <span id="f1"></span> [Организаторы Berdyansk Fashion Day рассказали, чем их не устроили бердянские фотографы (Ирина Дедушева)](http://pro.berdyansk.biz/content.php?id=44420)
 
----
-
-`Created (Andrei Dei)`
+`Last edit Feb. 2018 (Andrei Dei)`
