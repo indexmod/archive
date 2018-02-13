@@ -24,7 +24,7 @@ layout: default
 
 # See also
 
-+ [Berdyansk (socks)](page-template)
++ [Berdyansk Marketplace](berdyansk-marketplace)
 
 
 # Footnotes
