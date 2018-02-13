@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="{{ site.lang | default:">
+<html lang="{{ site.lang | default: EN }}">
 <head>
     <meta charset="utf-8">
     <meta content="HnrT2NSmVB_2fsV9rS25TEMeTKJSkBfqer0xKAkTBak" name="google-site-verification">
@@ -22,6 +22,7 @@
     <meta content="#ffffff" name="msapplication-TileColor">
     <meta content="/ms-icon-144x144.png" name="msapplication-TileImage">
     <meta content="#ffffff" name="theme-color">
+    <meta content="bd6cadbefee34d7e" name="yandex-verification">
     <title></title>
 </head>
 <body>
@@ -36,8 +37,6 @@
         </header>
         <section>
             {{ content | toc }}
-            
-                    <p>⚪️ Words: {{ page.content | number_of_words }}</p>
         </section>
         <footer>
             {% include footer.html %}
@@ -45,6 +44,7 @@
     </div>
     <script src="{{%20'/assets/js/scale.fix.js'%20|%20relative_url%20}}">
     </script> {% if site.google_analytics %} <!-- Global site tag (gtag.js) - Google Analytics -->
+     
     <script async src="https://www.googletagmanager.com/gtag/js?id=UA-112478299-1">
     </script> 
     <script>
@@ -54,6 +54,7 @@
 
     gtag('config', 'UA-112478299-1');
     </script> <!-- Yandex.Metrika counter -->
+     
     <script type="text/javascript">
     (function (d, w, c) {
         (w[c] = w[c] || []).push(function() {
