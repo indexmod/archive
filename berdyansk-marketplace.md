@@ -11,7 +11,7 @@ published: true
 
 ![](https://pp.userapi.com/c841228/v841228571/6124d/V-76vqQaZ7s.jpg)
 
-**Sweater "Sport", 2 600 Rub. added on Feb 11, 2018**
+**Sweater "Sport", 2 600 Rub. (2018)**
 
 *Photo: [Berdyansk Marketplace](Berdyansk Marketplace) / [VK](VK)*
 
