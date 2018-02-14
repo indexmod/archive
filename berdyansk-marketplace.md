@@ -19,6 +19,8 @@ published: true
 
 + [Berdyansk Fashion Day](berdyansk-fashion-day)
 
++ [Feelosophy (Store)](feelosophy-store)
+
 # Footnotes
 
 [[1]](#a1) <span id="f1"></span> [Berdyansk Marketplace (Pinterest)](https://ru.pinterest.com/berdyanskmarketplace/)
