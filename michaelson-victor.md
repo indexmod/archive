@@ -6,7 +6,7 @@ layout: default
 
 # Michaelson, Victor
 
-(Est. 1955, Moscow) Russian professor, teacher at RSUH, founder of “Communicator” and “Slow Food Ulitka”, Doctor of Political Sciences living and working in Moscow <span id="a1">[\[1\]](#f1)</span>. [Edit this page](http://prose.io/#indexmod/encyclopedia/edit/master/michaelson-victor.md)
+(Born 1955, Moscow) is a Russian professor, teacher at RSUH, founder of “Communicator” and “Slow Food Ulitka”, Doctor of Political Sciences living and working in Moscow <span id="a1">[\[1\]](#f1)</span>. [Edit this page](http://prose.io/#indexmod/encyclopedia/edit/master/michaelson-victor.md)
 
 ![](http://design.hse.ru/system/tt_people/photos/000/000/076/large/%D0%9C%D0%B0%D0%B9%D0%BA%D0%BB%D1%81%D0%BE%D0%BD.png)
 
