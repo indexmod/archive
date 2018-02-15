@@ -4,14 +4,25 @@ permalink: michaelson-victor
 layout: default
 ---
 
-
-
 # Michaelson, Victor
 
+(Est. 1955, Moscow) Russian professor, teacher at RSUH, founder of “Communicator” and “Slow Food Ulitka”, Doctor of Political Sciences living and working in Moscow <span id="a1">[\[1\]](#f1)</span>.
 
-(Est. 2013, city) is a subject, description-one <span id="a1">[\[1\]](#f1)</span>, description-two <span id="a2">[\[2\]](#f2)</span> description-three <span id="a3">[\[3\]](#f3)</span>, extra text. [Edit this page](http://prose.io/#indexmod/encyclopedia/edit/master/page-template.md)
+# Family & relatives
 
-![](/encyclopedia/images/image-name.jpg)
++ Mother, Lydia Viktorovna, pediatrician, born in Moscow
++ Father, Michael Isaakovich, builder, native of Warsaw
++ Daughter, Stasia (Anastasia), lives in Toronto, was born in 1980
++ Daughter, Maya, lives in Moscow, was born in 2014
+
+
+<span id="a2">[\[2\]](#f2)</span>
+
+
+
+ description-three <span id="a3">[\[3\]](#f3)</span>, extra text. [Edit this page](http://prose.io/#indexmod/encyclopedia/edit/master/page-template.md)
+
+![](http://design.hse.ru/system/tt_people/photos/000/000/076/large/%D0%9C%D0%B0%D0%B9%D0%BA%D0%BB%D1%81%D0%BE%D0%BD.png)
 
 **Image caption title**
 
@@ -33,7 +44,7 @@ layout: default
 
 # Footnotes
 
-[[1]](#a1) <span id="f1"></span> [Article name short (Author name)](http://example.net/article)
+[[1]](#a1) <span id="f1"></span> [Виктор Майклсон — Про меня – Сноб (Snob)](https://snob.ru/profile/8149)
 
 [[2]](#a2) <span id="f2"></span> [Article name little longer (Author name longer)](http://example.net/article)
 
@@ -41,8 +52,4 @@ layout: default
 
 ---
 
-`Editorial`
-
-`Warnings`
-
-`Notes`
+`Last edit Feb. 2018 (Andrei Dei)`
