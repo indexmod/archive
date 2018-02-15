@@ -26,15 +26,16 @@ layout: default
 
 **Image caption title**
 
-*Photo: [Photographer name](/photographer-name-page) / [Source name](/source-name-page)*
+*Photo: [Luba Kozorezova](kozorezova-luba) / [HSE Art And Design School](http://design.hse.ru/team/4352)*
 
 # Conspectus
 
-|Year|City|
-|----|-----|
-|2014|Tokyo|
-|2015|Moscow|
-|2017|Paris|
+|Year|Milestone|
+|1977|Moscow Institute of Transport Engineers|
+|1997|London School of Economics and Political Sciences|
+|2004|Establishing of the "Communicator" Group|
+|2015|Establishing of the "Slow Food Ulitka"|
+|2017|Nokia becoming client of "Communicator" Group|
 
 # See also
 
