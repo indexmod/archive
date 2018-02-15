@@ -16,7 +16,7 @@ layout: default
 
 # Family
 
-|Family member|Name|Profession|Native|Birth date|
+|Member|Name|Profession|Native|Birth|
 |-|-|-|-|-|
 |Mother|Lydia Viktorovna|Pediatrician|Moscow||
 |Father|Michael Isaakovich|Builder|Warsaw||
