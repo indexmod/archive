@@ -1,12 +1,13 @@
 ---
-title: Duma, Miroslava
+title: 'Duma, Miroslava'
 permalink: duma-miroslava
 layout: default
+published: true
 ---
 
 # Duma, Miroslava
 
-(Born 1985, Surgut) model, journalist from Russia <span id="a1">[\[1\]](#f1)</span>, founder of Buro 24/7, ambassador of Chanel (2013), spokeswoman in "Chime for Change" by Gucci, <span id="a2">[\[2\]](#f2)</span> graduated MGIMO (Masters in International Business Administration). From 2007 worked for Harper’s Bazaar, Axel Springer Russia, Conde Nast and TSUM Moscow.
+(Born 1985, Surgut) model, journalist from Russia <span id="a1">[\[1\]](#f1)</span>, founder of Buro 24/7, ambassador of Chanel (2013), spokeswoman in "Chime for Change" by Gucci <span id="a2">[\[2\]](#f2)</span>, graduated MGIMO (Masters in International Business Administration). From 2007 worked for Harper’s Bazaar, Axel Springer Russia, Conde Nast and TSUM Moscow.
 
 ![](https://i.mdel.net/i/db/2014/12/329691/329691-500w.jpg)
 
@@ -45,4 +46,4 @@ On January 23, designer Ulyana Sergeyenko presented her summer collection of clo
 [[3]](#a3) <span id="f3"></span> [Ульяна Сергеенко пригласила Мирославу Думу на свой показ в Париже словом «niggas». Теперь у обеих проблемы (Meduza, Olga Strakhovskaya)](https://meduza.io/feature/2018/01/24/ulyana-sergeenko-priglasila-miroslavu-dumu-na-svoy-pokaz-v-parizhe-slovom-niggas-teper-u-obeih-problemy)
 
 
-`Last update Jan 2018 by Andrei Dei`
+`Last update Jan. 2018 by Andrei Dei`
