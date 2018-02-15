@@ -6,7 +6,7 @@ layout: default
 
 # Michaelson, Victor
 
-(Est. 1955, Moscow) Russian professor, teacher at RSUH, founder of “Communicator” and “Slow Food Ulitka”, Doctor of Political Sciences living and working in Moscow <span id="a1">[\[1\]](#f1)</span>.
+(Est. 1955, Moscow) Russian professor, teacher at RSUH, founder of “Communicator” and “Slow Food Ulitka”, Doctor of Political Sciences living and working in Moscow <span id="a1">[\[1\]](#f1)</span>. [Edit this page](http://prose.io/#indexmod/encyclopedia/edit/master/michaelson-victor.md)
 
 # Family & relatives
 
@@ -14,13 +14,6 @@ layout: default
 + Father, Michael Isaakovich, builder, native of Warsaw
 + Daughter, Stasia (Anastasia), lives in Toronto, was born in 1980
 + Daughter, Maya, lives in Moscow, was born in 2014
-
-
-<span id="a2">[\[2\]](#f2)</span>
-
-
-
- description-three <span id="a3">[\[3\]](#f3)</span>, extra text. [Edit this page](http://prose.io/#indexmod/encyclopedia/edit/master/page-template.md)
 
 ![](http://design.hse.ru/system/tt_people/photos/000/000/076/large/%D0%9C%D0%B0%D0%B9%D0%BA%D0%BB%D1%81%D0%BE%D0%BD.png)
 
@@ -39,18 +32,13 @@ layout: default
 
 # See also
 
-+ [See also title one](page-template)
-+ [See also title two](page-template)
-+ [See also title three](page-template)
+
++ [Brewhouse (Mytishchi)](brewhouse-mytishchi)
++ [Cirque du Soleil](cirque-du-soleil)
++ [Slow Food](slow-food)
 
 # Footnotes
 
 [[1]](#a1) <span id="f1"></span> [Виктор Майклсон — Про меня – Сноб (Snob)](https://snob.ru/profile/8149)
-
-[[2]](#a2) <span id="f2"></span> [Article name little longer (Author name longer)](http://example.net/article)
-
-[[3]](#a3) <span id="f3"></span> [Article name longer so far (Author name too long and much longer)](http://example.net/article)
-
----
 
 `Last edit Feb. 2018 (Andrei Dei)`
