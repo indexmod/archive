@@ -7,34 +7,47 @@ layout: default
 
 # Calvert Journal, The
 
-(Est. 2013, city) is a subject, description-one <span id="a1">[\[1\]](#f1)</span>, description-two <span id="a2">[\[2\]](#f2)</span> description-3 <span id="a3">[\[3\]](#f3)</span>, extra text.
+(Est. 2014 <span id="a1">[\[1\]](#f1)</span>, London) is an online edition founded in 2013 by Nonna Materkova and Alexei Kudrin as a project of the Calvert 22 Foundation with the office on 22 Calvert Avenue in London. Positioning as “guide to the contemporary culture of the new east” <span id="a1">[\[1\]](#f1)</span>.
 
-![](/images/image-name.jpg)
+![](http://lamcdn.net/lookatme.ru/post_image-image/MRjh7KK-5OGlrnyiTSpr9g-wide.jpg)
 
-**Image caption**
+**Ekow Eshun is a Creative Director of The Calvert Journal**
 
-*Photo: [Photographer name](http://example.net/) / [Source name](http://example.net/)*
+*Photo: [Nat Urazmetov](urazmetov-nat) / [Look At Me](http://www.lookatme.ru/mag/archive/experience-other/190361-calvert-journal)*
 
-# Conspectus
+# Awards
 
-|Year|City|
+|Year|Awards|
 |----|---------|
-|2014|Tokyo|
-|2015|Moscow|
-|2017|Kiev|
+|2017|Winner, Best Use of Photography, The Drum Online Media Awards
+Silver Winner, Best Design – Functional, Lovie Awards 2017
+Official Nominee, Best Use of Photography, The Webby Awards|
+|2016|Gold Winner, Best Lifestyle Site, The Lovie Awards
+Official Honouree, Cultural Website, The Webby Awards
+Commendation, Best Specialist Site for Journalism, The Drum Online Media Awards|
+|2015|Bronze Winner, Best Lifestyle Site, The Lovie Awards
+Winner, Best Designed Site, The Drum Online Media Awards
+Winner, Promotion of Art in the Media, Kuryokhin Centre |
+
+# Chiefs
+
+|Year|Awards|
+|----|----|
+|2014|Eshun, Ekow|
 
 # See also
 
-- [Source name](http://example.net/)
-- [Source name](http://example.net/)
-- [Source name](http://example.net/)
+- [Calvert 22 Foundation](calvert-22-foundation)
+- [Creative Capital Index](creative-capital-index)
+- [Gosha Rubchinsky](gosha-rubchinsky)
+- [Anna Diulgerova](diulgerova-anna)
 
 # Footnotes
 
-[[1]](#a1) <span id="f1"></span> [Article name (Author name)](http://example.net/article)
 
-[[2]](#a2) <span id="f2"></span> [Article name (Author name)](http://example.net/article)
+[[1]](#a1) <span id="f1"></span> [«Рабочее место» (Anna Savina, Look At Me)](http://www.calvertjournal.com/about)
+[[2]](#a1) <span id="f2"></span> [About (The Calvert Journal)](http://www.calvertjournal.com/about)
 
-[[3]](#a3) <span id="f3"></span> [Article name (Author name)](http://example.net/article)
+
 
 `Last edit Feb. 2018 (Andrei Dei)`
