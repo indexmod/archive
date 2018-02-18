@@ -13,7 +13,7 @@ layout: default
 
 ![](http://n1s2.hsmedia.ru/57/2e/6e/572e6e8090d11b50b244d80bb2e90130/660x441_1_424da837200d57f9906dee18bf9c3714@785x525_0xc0a839a2_825769041477674984.jpeg)
 
-**Image caption title**
+**Olga Galinskaia**
 
 *Photo: [Anatolii Medved](medved-anatolii) / [Woman's Day)](http://www.wday.ru/moda-shopping/style/kak-vyiglyadet-stilno-zimoy-sem-sovetov-zvezdnogo-stilista/)*
 
