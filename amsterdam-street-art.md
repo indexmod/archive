@@ -10,7 +10,7 @@ layout: default
 
 ![](https://amsterdamstreetart.com/wp-content/uploads/2017/01/14372317_1087170511377779_211637880964187915_o-1-808x400.jpg)
 
-*Sket185*
+**Sket185**
 
 *Photo: [Amsterdam Street Art](amsterdam-street-art) / [ASA](https://amsterdamstreetart.com/2017/01/09/sket185/)*
 
