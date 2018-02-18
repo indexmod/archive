@@ -1,7 +1,8 @@
 ---
-title: Michaelson, Victor
+title: 'Michaelson, Victor'
 permalink: michaelson-victor
 layout: default
+published: true
 ---
 
 # Michaelson, Victor
@@ -18,14 +19,15 @@ layout: default
 
 |Member|Name|Profession|Native|Birth|
 |-|-|-|-|-|
-|Mother|Lydia Viktorovna|Pediatrician|Moscow||
-|Father|Michael Isaakovich|Builder|Warsaw||
-|Daughter| Stasia (Anastasia)||Toronto|1980|
+|Mother|Lydia|Pediatrician|Moscow||
+|Father|Michael|Builder|Warsaw||
+|Daughter|Anastasia||Toronto|1980|
 |Daughter|Maya||Moscow|2014|
 
 # Conspectus
 
 |Year|Milestone|
+|-|-|
 |1977|Moscow Institute of Transport Engineers|
 |1997|London School of Economics and Political Sciences|
 |2004|Establishing of the "Communicator" Group|
