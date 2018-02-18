@@ -6,43 +6,30 @@ layout: default
 
 
 
-# Farmani, Hossein
+# Фармани, Хоссейн
 
 
-(Est. 2013, city) is a subject, description-one <span id="a1">[\[1\]](#f1)</span>, description-two <span id="a2">[\[2\]](#f2)</span> description-three <span id="a3">[\[3\]](#f3)</span>, extra text. [Edit this page](http://prose.io/#indexmod/encyclopedia/edit/master/page-template.md)
+(Eng. Hossein Farmani, Pers. حسین فرمانی, род. 1969, Tehran)  иранский фотограф и коллекционер, основатель Группы Фармани [(Farmani Group)](farmani-group), базирующуюся в Лондоне и Бангкоке, основатель премии Lucie Awards, работал с Хельмутом Ньютоном, Ричардом Аведоном, Стивом Маккарри <span id="a1">[\[1\]](#f1)</span>. [Edit this page](http://prose.io/#indexmod/encyclopedia/edit/master/page-template.md)
 
-![](/encyclopedia/images/image-name.jpg)
+![](http://schoolva.ru/wp-content/uploads/2015/10/hossein_farmani-by_cattleya_jaruthavee.jpg)
 
-**Image caption title**
+**Hossein Farmani in 2015**
 
-*Photo: [Photographer name](/photographer-name-page) / [Source name](/source-name-page)*
+*Photo: [Cattleya Jaruthavee](jaruthavee-cattleya) / [Школа Визуальных Искусств](http://schoolva.ru/2015/hossein-farmani/)*
 
-# Conspectus
+# Проекты
 
 |Year|City|
 |----|-----|
-|2014|Tokyo|
-|2015|Moscow|
-|2017|Paris|
+|2014|Rooftop Gallery BKK|
 
-# See also
+# См. также
 
-+ [See also title one](page-template)
-+ [See also title two](page-template)
-+ [See also title three](page-template)
++ [Rooftop Gallery](rooftop-gallery)
++ [Винсент Сунг](sung-vinsent)
 
-# Footnotes
+# Сноски
 
-[[1]](#a1) <span id="f1"></span> [Article name short (Author name)](http://example.net/article)
+[[1]](#a1) <span id="f1"></span> [Лекция Хоссейна Фармани — Фотография. Маркетинг и бизнес. (Author name)](http://example.net/article)
 
-[[2]](#a2) <span id="f2"></span> [Article name little longer (Author name longer)](http://example.net/article)
-
-[[3]](#a3) <span id="f3"></span> [Article name longer so far (Author name too long and much longer)](http://example.net/article)
-
----
-
-`Editorial`
-
-`Warnings`
-
-`Notes`
+`Последняя редакция, февраль 2018 (Андрей Дей)`
