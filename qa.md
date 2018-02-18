@@ -17,6 +17,7 @@ layout: default
 # Q3
 
 + Why are some of the articles published as templates?
-+ From, 2017 Encyclopedia moves from the old site. Part of the articles have not yet been transferred. And the part has been in the status of "claimed for creation" for several years already. You can continue to create such an article right now.
++ From 2017, IE moves from the [previous Google engine](https://sites.google.com/site/indexmodencyclopedia/list-of-pages) to the own one based on Jekyll and Github Pages. Some of the articles have not yet been transferred. And the part has been in the status of "claimed for creation" for several years. You can continue to edit such an article right now.
+
 
 `Last update Jan 2018 by Andrei Dei`
