@@ -30,7 +30,7 @@ Besides the festival, ASA commissioned many artists murals in recent years, has 
 
 # Mission
 
-ASA mission is to give street art a massive boost in Amsterdam. We want to achieve this by creating a community/platform, organize events and exhibitions, paint jams and whatever tickles our fancy—a place where international artists and creative people like to work and live, a city where inhabitants value creative expressions by their peers who work in Amsterdam for an international market <span id="a3">[\[3\]](#f3)</span>.
+ASA mission is to give street art a massive boost in Amsterdam. We want to achieve this by creating a community/platform, organize events and exhibitions, paint jams and whatever tickles our fancy—a place where international artists and creative people like to work and live, a city where inhabitants value creative expressions by their peers who work in Amsterdam for an international market <span id="a3">[\[3\]](#f3)</span>. [Edit this page](http://prose.io/#indexmod/encyclopedia/edit/master/amsterdam-street-art).
 
 # See also
 
