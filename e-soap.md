@@ -26,6 +26,7 @@ layout: default
 
 # See also
 
++ [Idelsonverolab](idelsonverolab)
 + [Internet Yami-Ichi](internet-yami-ichi)
 + [Intektra](Intektra)
 
