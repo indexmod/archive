@@ -13,7 +13,7 @@ layout: default
 
 ![](/encyclopedia/e-soap-by-veroid.png)
 
-**Image caption title**
+**E-Soap selection**
 
 *Photo: [Veronica Idelson](Facebook) / [Source name](https://www.facebook.com/search/top/?q=%D1%8F%D0%BC%D0%B8%20%D0%B8%D1%87%D0%B8%20)*
 
