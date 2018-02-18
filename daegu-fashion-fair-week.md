@@ -9,7 +9,7 @@ layout: default
 # Daegu Fashion Fair (Week)
 
 
-(Est. 2013, city) is a subject, description-one <span id="a1">[\[1\]](#f1)</span>, description-two <span id="a2">[\[2\]](#f2)</span> description-three <span id="a3">[\[3\]](#f3)</span>, extra text. [Edit this page](http://prose.io/#indexmod/encyclopedia/edit/master/page-template.md)
+(Est. 2016, Daegu) is an International, export-oriented fashion and lifestyle trade show in Korea, located in EXCO (2016) representing women's wear and men's wear, fashion accessories, lifestyle, hosted by Daegu Metropolitan City, Ministry of Trade, Industry and Energy, organized by Korea Research Institute For Fashion Industry <span id="a1">[\[1\]](#f1)</span>. [Edit this page](http://prose.io/#indexmod/encyclopedia/edit/master/daegu-fashion-fair-week.md)
 
 ![](/encyclopedia/images/image-name.jpg)
 
@@ -39,10 +39,4 @@ layout: default
 
 [[3]](#a3) <span id="f3"></span> [Article name longer so far (Author name too long and much longer)](http://example.net/article)
 
----
-
-`Editorial`
-
-`Warnings`
-
-`Notes`
+`Last edit Feb. 2018 (Andrei Dei)`
