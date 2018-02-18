@@ -25,8 +25,7 @@ Olga began her career as a stylist in the 2001 Conde Nast stylist for GQ, AD, Vo
 
 **Intervie with Olga Galinskaya**
 
-*Interview by: [Roman Belosnezhny](belosnezhny-roman) / [Ctapoctb
-](https://www.youtube.com/watch?v=uezoSg6QpvE)*
+*Interview by: [Roman Belosnezhny](belosnezhny-roman) / [Ctapoctb, Maximage](https://www.youtube.com/watch?v=uezoSg6QpvE)*
 
 The highlights of such work are assignments for Bacardi, Sberbank and Saks Fifth Avenue opening in Kazakhstan. One of the most noteworthy experiences was the creation of Sochi Olympic Games commercial. Olga is one the leading professionals in personal image making and shopping. She is known for her abilities to create impressive looks with mass-market apparel, exquisite analysis of commercial aims behind the assignment and ability to work within tough deadlines and under pressure.
 
