@@ -7,7 +7,7 @@ layout: default
 
 # Calvert Journal, The
 
-(Est. 2014 <span id="a1">[\[1\]](#f1)</span>, London) is an online edition founded in 2013 by Nonna Materkova and Alexei Kudrin as a project of the Calvert 22 Foundation with the office on 22 Calvert Avenue in London. Positioning as “guide to the contemporary culture of the new east” <span id="a1">[\[2\]](#f2)</span>. [Edit this page](http://prose.io/#indexmod/encyclopedia/edit/master/calvert-journal-the.md)
+(Est. 2014 <span id="a1">[\[1\]](#f1)</span>, London) is an online edition founded by Nonna Materkova and Alexei Kudrin as a project of the Calvert 22 Foundation with the office on 22 Calvert Avenue in London. Positioning as “guide to the contemporary culture of the new east” <span id="a1">[\[2\]](#f2)</span>. [Edit this page](http://prose.io/#indexmod/encyclopedia/edit/master/calvert-journal-the.md)
 
 ![](http://lamcdn.net/lookatme.ru/post_image-image/MRjh7KK-5OGlrnyiTSpr9g-wide.jpg)
 
