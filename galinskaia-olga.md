@@ -21,15 +21,14 @@ layout: default
 
 Olga began her career as a stylist in the 2001 Conde Nast stylist for GQ, AD, Vogue, Glamour, Gala, as well as Afisha Mir Magazine. Then in 2005 continued to improve the profession as leading stylist on NTV Channel and projects at ShanDesign, and as Chief Stylist on “Home” Channel in Moscow <span id="a1">[\[1\]](#f1)</span>. In 2005, Olga expended into TV working as the in-house stylist for 20 shows including top-ranked shows and talk shows dedicated to fashion with national channels. Her responsibilities included working with fashion related content, styling shows hosts and characters. The highlights of such work are styling of Russian editions of international formats What Not To Wear and Next Top-Model. At the same period Olga worked at creating costumes concepts for advertising shoots and music videos, look books and fashion performances.
 
-https://www.youtube.com/watch?v=uezoSg6QpvE
+<iframe width="70%" height="auto" src="https://www.youtube.com/watch?v=uezoSg6QpvE" frameborder="0" allowfullscreen="false"></iframe>
 
-**Image caption title**
+**Intervie with Olga Galinskaya**
 
-*Photo: [Anatolii Medved](medved-anatolii) / [Woman's Day)](http://www.wday.ru/moda-shopping/style/kak-vyiglyadet-stilno-zimoy-sem-sovetov-zvezdnogo-stilista/)*
+*Interview by: [Roman Belosnezhny](belosnezhny-roman) / [Ctapoctb
+](https://www.youtube.com/watch?v=uezoSg6QpvE)*
 
 The highlights of such work are assignments for Bacardi, Sberbank and Saks Fifth Avenue opening in Kazakhstan. One of the most noteworthy experiences was the creation of Sochi Olympic Games commercial. Olga is one the leading professionals in personal image making and shopping. She is known for her abilities to create impressive looks with mass-market apparel, exquisite analysis of commercial aims behind the assignment and ability to work within tough deadlines and under pressure.
-
-
 
 # Conspectus
 
@@ -42,7 +41,7 @@ The highlights of such work are assignments for Bacardi, Sberbank and Saks Fifth
 # See also
 
 + [Bryan Ferry](ferry-bryan)
-+ [Roman Prygunov](page-template)
++ [Roman Prygunov](prygunov-roman)
 + [Vlad Monroe](vlad-monroe)
 
 # Footnotes
