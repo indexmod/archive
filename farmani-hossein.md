@@ -13,14 +13,28 @@ layout: default
 
 ![](http://schoolva.ru/wp-content/uploads/2015/10/hossein_farmani-by_cattleya_jaruthavee.jpg)
 
-**Hossein Farmani in 2015**
+**Хоссейн Фармани**
 
-*Photo: [Cattleya Jaruthavee](jaruthavee-cattleya) / [Школа Визуальных Искусств](http://schoolva.ru/2015/hossein-farmani/)*
+*Фото: [Cattleya Jaruthavee](jaruthavee-cattleya) / [Школа Визуальных Искусств](http://schoolva.ru/2015/hossein-farmani/)*
 
 # Проекты
 
 |Year|City|
 |----|-----|
+||International VUE|
+||FotoFolio|
+||The Library of Congress|
+||Art for New York|
+||Lucie Awards|
+||Px3|
+||Istanbul Photo Festival|
+||Cambodian Film Festival|
+||Burmese Film Festival|
+||MOPLA|
+||Green Awards|
+||International Design awards|
+||Palm Springs Photo Festival|
+||Miami Snap|
 |2014|Rooftop Gallery BKK|
 
 # См. также
