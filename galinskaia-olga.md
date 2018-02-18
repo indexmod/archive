@@ -34,9 +34,9 @@ The highlights of such work are assignments for Bacardi, Sberbank and Saks Fifth
 
 |Year|Project|
 |----|-----|
-|2013|Alma-Ata “Saks Fifth Avenue Mall|
-|2014|Take it off immediately|
-|2017|Pro Lubov (Dir. Gevorkyan)|
+|2013|Alma-Ata “Saks Fifth Avenue Mall"|
+|2014|"Take it off immediately"|
+|2017|"Pro Lubov" (Dir. Gevorkyan)|
 
 # See also
 
