@@ -8,17 +8,17 @@ layout: default
 
 (Est. 2010, Amsterdam) Amsterdam Street Art—a non-profit organization, before 2014 Amsterdam Street Art festival has provided an exchange between street artists and the creative sector in the Amsterdam, from 2015 organization is going abroad with international activities. <span id="a1">[\[1\]](#f1)</span>, In collaboration with Lombardi Properties in Miami, USA-ASA presented Amsterdam art during Art Basel Miami in 2014. This project was a collaborative clash of street art, contemporary art, local architecture, top-notch design, American culture and Dutch roots <span id="a2">[\[2\]](#f2)</span>.
 
+![](https://amsterdamstreetart.com/wp-content/uploads/2017/01/14372317_1087170511377779_211637880964187915_o-1-808x400.jpg)
+
+*Sket185*
+
+*Photo: [Amsterdam Street Art](amsterdam-street-art) / [ASA](https://amsterdamstreetart.com/2017/01/09/sket185/)*
+
 # History
 
 Since 2010 ASA’s goal has been twofold. On the one hand, the organization strives to inform locals about Street Art in Amsterdam and around the world. On the other hand local artists, the creative industry in Amsterdam and international artists work together to exhibit a diverse range of works in a wide variety of places. The annual Amsterdam Street Art festival has provided a platform for local and international artists on the street of Amsterdam, but also in various associated galleries. Besides generating awareness, the combination of showing works outdoors contributed to the perception and acceptance of Street Art in Amsterdam.
 
 Besides the festival, ASA commissioned many artists murals in recent years, has over 77k follower on Facebook and functions as an advisory board for companies and organizations regarding Street Art <span id="a3">[\[3\]](#f3)</span>.
-
-![](https://amsterdamstreetart.com/wp-content/uploads/2017/01/14372317_1087170511377779_211637880964187915_o-1-808x400.jpg)
-
-*Sket185*
-
-*Photo: [ASA](amsterdam-street-art) / [ASA](amsterdam-street-art)*
 
 # Conspectus
 
@@ -38,7 +38,8 @@ ASA mission is to give street art a massive boost in Amsterdam. We want to achie
 - [Basel](basel)
 - [Street Art Museum of St. Petersburg](street-art-museum-of-st-petersburg)
 
-
 # Footnotes
 
 [[1, 2, 3]](#a1) <span id="f1"></span> [About (ASA)](http://amsterdamstreetart.com/about/)
+
+`Last edit Feb. 2018 (Andrei Dei)`
