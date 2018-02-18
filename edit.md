@@ -1,50 +1,50 @@
 ---
-title: How to edit 
+title: How to edit
 permalink: edit
 layout: default
 ---
 
-# How to edit 
+# How to edit
 
 The aim of Indexmod Encyclopedia to simplify wiki syntax for a pretty and light format. Following checklist explains few steps of creating and editing beautiful articles in Indexmod Encyclopedia. See [Page template](page-template.md) for details.
 
 #  Front matter
 
-Every page is written with [Markdown](https://daringfireball.net/projects/markdown/syntax) and must have invisible **front matter** area set with triple-dashed lines. 
+Every page is written with [Markdown](https://daringfireball.net/projects/markdown/syntax) and must have invisible **front matter** area set with triple-dashed lines.
 
-`---
-title: How to edit
-permalink: edit
-layout: default
----`
+`---`
+`title: How to edit`
+`permalink: edit`
+`layout: default`
+`---`
 
-Above code is a **front matter** of this page **How to edit**. Any **front matter** may contain **page title**, **permalink**, **layout** and other metadata. 
+Above code is a **front matter** of this page **How to edit**. Any **front matter** may contain **page title**, **permalink**, **layout** and other metadata.
 
-# Page structure 
+# Page structure
 
 The visible area of the page template must have **Title** and **Front** section, an image with **caption** and **credits**, **Conspectus** section, **See also** section and **Footnotes** section.
 
 # Title  
 
 
-`# Aberdeen Fashion Week` 
-`# Tailor, Victoria` 
-`# Duma, Miroslava (publisher)` 
+`# Aberdeen Fashion Week`
+`# Tailor, Victoria`
+`# Duma, Miroslava (publisher)`
 
 
-Title includes the subject's name **Aberdeen Fashion Week**, surname and name **Tailor, Victoria** and may be added with specification with round brackets **Tailor, Victoria (designer)**. 
+Title includes the subject's name **Aberdeen Fashion Week**, surname and name **Tailor, Victoria** and may be added with specification with round brackets **Tailor, Victoria (designer)**.
 
 # Front
 
-`(Born 1968, Paris)` 
-`(Est. 2012, Moscow)` 
+`(Born 1968, Paris)`
+`(Est. 2012, Moscow)`
 
 
-Front starts with **(Born, Est. 1999, city)** beginner in round brackets. Following one-two sentences of description every front sentence ends with footnote links styled with **squared brackets** <span id="a1">[\[1\]](#f1)</span>, <span id="a2">[\[2\]](#f2)</span>, <span id="a3">[\[3\]](#f3)</span>. 
+Front starts with **(Born, Est. 1999, city)** beginner in round brackets. Following one-two sentences of description every front sentence ends with footnote links styled with **squared brackets** <span id="a1">[\[1\]](#f1)</span>, <span id="a2">[\[2\]](#f2)</span>, <span id="a3">[\[3\]](#f3)</span>.
 
-The following code for footnote link 
+The following code for footnote link
 
-`<span id="a1">[\[1\]](#f1)</span>` 
+`<span id="a1">[\[1\]](#f1)</span>`
 
 Will be rendered as
 
@@ -93,7 +93,7 @@ Will be rendered as
 |2015|Moscow|
 |2017|Paris|
 
-# See also 
+# See also
 
 See also section connects your page with others pages in Indexmod Encyclopedia. Use following template combining list and link styling syntax. The code
 
@@ -104,7 +104,7 @@ Will be rendered as
 + [See also title one](page-template-1)
 
 
-# Footnotes 
+# Footnotes
 
 Code for footnote
 
@@ -128,3 +128,5 @@ Will be rendered as
 [Edit this page](http://prose.io/#indexmod/encyclopedia/edit/master/edit.md)
 
 You may edit every page in Prose.io editor using above sample link with **/page-name.md**. To push edit changes you may need authorize as [GitHub](https://github.com/join) user.
+
+`Last edit Feb. 2018 (Andrei Dei)`

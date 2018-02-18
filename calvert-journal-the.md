@@ -11,7 +11,7 @@ layout: default
 
 ![](/images/image-name.jpg)
 
-*Image caption*
+**Image caption**
 
 *Photo: [Photographer name](http://example.net/) / [Source name](http://example.net/)*
 
@@ -36,3 +36,5 @@ layout: default
 [[2]](#a2) <span id="f2"></span> [Article name (Author name)](http://example.net/article)
 
 [[3]](#a3) <span id="f3"></span> [Article name (Author name)](http://example.net/article)
+
+`Last edit Feb. 2018 (Andrei Dei)`
