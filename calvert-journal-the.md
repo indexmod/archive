@@ -11,7 +11,7 @@ layout: default
 
 ![](http://lamcdn.net/lookatme.ru/post_image-image/MRjh7KK-5OGlrnyiTSpr9g-wide.jpg)
 
-**Ekow Eshun is a Creative Director of The Calvert Journal**
+**Ekow Eshun**
 
 *Photo: [Nat Urazmetov](urazmetov-nat) / [Look At Me](http://www.lookatme.ru/mag/archive/experience-other/190361-calvert-journal)*
 
@@ -19,15 +19,15 @@ layout: default
 
 |Year|Awards|
 |----|---------|
-|2017|Winner, Best Use of Photography, The Drum Online Media Awards
-Silver Winner, Best Design – Functional, Lovie Awards 2017
-Official Nominee, Best Use of Photography, The Webby Awards|
-|2016|Gold Winner, Best Lifestyle Site, The Lovie Awards
-Official Honouree, Cultural Website, The Webby Awards
-Commendation, Best Specialist Site for Journalism, The Drum Online Media Awards|
-|2015|Bronze Winner, Best Lifestyle Site, The Lovie Awards
-Winner, Best Designed Site, The Drum Online Media Awards
-Winner, Promotion of Art in the Media, Kuryokhin Centre |
+|2017|The Drum Online Media Awards|
+|2017|Lovie Awards|
+|2017|The Webby Awards|
+|2016|The Lovie Awards|
+|2016|The Webby Awards|
+|2016|The Drum Online Media Awards|
+|2015|The Lovie Awards|
+|2015|The Drum Online Media Awards|
+|2015|Kuryokhin Centre|
 
 # Chiefs
 
