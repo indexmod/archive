@@ -11,7 +11,7 @@ layout: default
 
 ![](https://im9.kommersant.ru/Issues.photo/DAILY/2016/004/KMO_151753_00017_1_t222_211749.jpg)
 
-*Alexander Babulevich in the Museum of Vadim Sidur*
+**Alexander Babulevich in the Museum of Vadim Sidur**
 
 *Photo: [Kristina Kormiltsina](kormiltsina-kristina) / [Kommersant](https://www.kommersant.ru/photo/photo/69729/563188)*
 
