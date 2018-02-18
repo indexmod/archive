@@ -21,7 +21,7 @@ layout: default
 
 Olga began her career as a stylist in the 2001 Conde Nast stylist for GQ, AD, Vogue, Glamour, Gala, as well as Afisha Mir Magazine. Then in 2005 continued to improve the profession as leading stylist on NTV Channel and projects at ShanDesign, and as Chief Stylist on “Home” Channel in Moscow <span id="a1">[\[1\]](#f1)</span>. In 2005, Olga expended into TV working as the in-house stylist for 20 shows including top-ranked shows and talk shows dedicated to fashion with national channels. Her responsibilities included working with fashion related content, styling shows hosts and characters. The highlights of such work are styling of Russian editions of international formats What Not To Wear and Next Top-Model. At the same period Olga worked at creating costumes concepts for advertising shoots and music videos, look books and fashion performances.
 
-<iframe width="70%" height="auto" src="https://www.youtube.com/watch?v=uezoSg6QpvE" frameborder="0" allowfullscreen="false"></iframe>
+<iframe width="70%" height="auto" src="https://www.youtube.com/watch?v=uezoSg6QpvE" frameborder="0"></iframe>
 
 **Intervie with Olga Galinskaya**
 
