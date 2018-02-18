@@ -15,18 +15,14 @@ layout: default
 
 *Photo: [Nat Urazmetov](urazmetov-nat) / [Look At Me](http://www.lookatme.ru/mag/archive/experience-other/190361-calvert-journal)*
 
-# Awards
+# Selected Awards
 
 |Year|Awards|
 |----|---------|
 |2017|The Drum Online Media Awards|
-|2017|Lovie Awards|
 |2017|The Webby Awards|
 |2016|The Lovie Awards|
-|2016|The Webby Awards|
 |2016|The Drum Online Media Awards|
-|2015|The Lovie Awards|
-|2015|The Drum Online Media Awards|
 |2015|Kuryokhin Centre|
 
 # Directors
