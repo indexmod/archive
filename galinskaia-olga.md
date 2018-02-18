@@ -24,7 +24,7 @@ Olga began her career as a stylist in the 2001 Conde Nast stylist for GQ, AD, Vo
 
 ![](https://i.ytimg.com/vi/uezoSg6QpvE/hqdefault.jpg)
 
-**Still cover of the interview with Olga Galinskaya (YouTube)**
+**Still cover of the interview with Olga Galinskaia (YouTube)**
 
 *Interview by: [Roman Belosnezhny](belosnezhny-roman) / [Ctapoctb, Maximage, YouTube](https://www.youtube.com/watch?v=uezoSg6QpvE)*
 
