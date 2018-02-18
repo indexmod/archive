@@ -29,11 +29,11 @@ layout: default
 |2015|The Drum Online Media Awards|
 |2015|Kuryokhin Centre|
 
-# Chiefs
+# Directors
 
-|Year|Awards|
-|----|----|
-|2014|Eshun, Ekow|
+|Year|Name|Position|
+|----|----|---|
+|2014|Eshun, Ekow|Creative director|
 
 # See also
 
