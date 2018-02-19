@@ -1,48 +1,60 @@
 ---
-title: São Paulo Fashion Week
-permalink: sao-paulo-fashion-week
+title: Puhoff, Yan
+permalink: pouhoff-yan
 layout: default
 ---
 
+# Puhoff, Yan
 
 
-# São Paulo Fashion Week
+(Rus. Ян Пухов, born 1979, Moscow) Russian photographer, stylist, make-up artist, fashion PR and promotion working and living in Moscow <span id="a1">[\[1\]](#f1)</span>. [Edit this page](http://prose.io/#indexmod/encyclopedia/edit/master/pouhoff-yan.md)
 
+![](/encyclopedia/images/pouhoff-yan.png)
 
-(Est. 2013, city) is a subject, description-one <span id="a1">[\[1\]](#f1)</span>, description-two <span id="a2">[\[2\]](#f2)</span> description-three <span id="a3">[\[3\]](#f3)</span>, extra text. [Edit this page](http://prose.io/#indexmod/encyclopedia/edit/master/page-template.md)
+**Yan Puhoff's selfportrait**
 
-![](/encyclopedia/images/image-name.jpg)
+*Photo: [Yan Puhoff](pouhoff-yan) / [Facebook](facebook)*
 
-**Image caption title**
+# Selected projects
 
-*Photo: [Photographer name](/photographer-name-page) / [Source name](/source-name-page)*
-
-# Conspectus
-
-|Year|City|
+|Year|Magazine|Project|
 |----|-----|
-|2014|Tokyo|
-|2015|Moscow|
-|2017|Paris|
+||Vogue Russia||
+||GQ Russia||
+||Vogue Italy||
+||Elle Russia)||
+||Glamour||
+||Elle Ukraine||
+||NRG||DV Magazine||
+||OM||
+||Atmosphera||
+||Jenskie Sekrety||
+||l'Officiel Russia||
+||Top Sante Russia||
+||Burda||Russia||
+||Playboy Russia||
+||Maxim Russia||
+||FHM Russia||
+||Doloress||
+||Coiffur int.||
+||Beauty||
+||Louis Vuitton||
+||Casadei||
+||Celine||
+||Hugo Boss||
+||Chloe||
+||La Roche Posay||
+||Kadus||
+||MTV Russia||
 
 # See also
 
-+ [See also title one](page-template)
-+ [See also title two](page-template)
++ [Natalia Valevskaya](valevskaya-natalia)
++ [Point Model Management](point-mdel-management)
 + [See also title three](page-template)
 
 # Footnotes
 
 [[1]](#a1) <span id="f1"></span> [Article name short (Author name)](http://example.net/article)
 
-[[2]](#a2) <span id="f2"></span> [Article name little longer (Author name longer)](http://example.net/article)
-
-[[3]](#a3) <span id="f3"></span> [Article name longer so far (Author name too long and much longer)](http://example.net/article)
-
----
-
-`Editorial`
-
-`Warnings`
-
-`Notes`
+`Last edited Feb. 2018 (Andrei Dei)`
