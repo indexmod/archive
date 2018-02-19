@@ -20,15 +20,15 @@
      font-family: 'Monaco', serif;
      font-size: 17px;
      line-height: 1em;
-     font-weight: 300;
+     font-weight: 200;
      color: black;
      border-collapse: collapse;
 }
  th {
      background-color: #f5f5f5;
      color: green;
-     font-weight: normal;
-     padding: 10px;
+     font-weight: 300;
+     padding: 9px;
      text-align: left;
      height: auto;
      vertical-align: top;
@@ -48,14 +48,14 @@
  .highlighter-rouge {
      font-family: 'Monaco';
      font-size: 17px;
-     line-height: 3em;
-     font-weight: 300;
+     line-height: 4em;
+     font-weight: 200;
      color: green;
      border: solid 0.1px #e0e0e0;
      background-color: #f5f5f5;
-     -moz-border-radius: 3px;
-     -webkit-border-radius: 3px;
-     border-radius: 3px;
+     -moz-border-radius: 5px;
+     -webkit-border-radius: 5px;
+     border-radius: 5px;
      padding: 9px 9px;
 }
  
