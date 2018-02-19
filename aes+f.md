@@ -24,9 +24,9 @@ layout: default
 
 # See also
 
-- [Source name](http://example.net/)
-- [Source name](http://example.net/)
-- [Source name](http://example.net/)
++ [Adjara Fashion Week](adjara-fashion-week)
++ [Afisha (magazine)](afisha-magazine)
++ [Source name](http://example.net/)
 
 # Footnotes
 

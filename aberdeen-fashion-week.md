@@ -24,10 +24,11 @@ layout: default
 
 # See also
 
-- [Copthorne Hotel Aberdeen](copthorne-hotel-aberdeen.md)
-- [Lydia Cutler](lydia-cutler.md)
-- [London Fashion Week](london-fashion-week.md)
-- [London](london.md)
++ [Andrei Abolenkin](abolenkin-andrei)
++ [Copthorne Hotel Aberdeen](copthorne-hotel-aberdeen)
++ [Lydia Cutler](lydia-cutler)
++ [London Fashion Week](london-fashion-week)
++ [London](london)
 
 # Footnotes
 

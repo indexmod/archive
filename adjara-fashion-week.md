@@ -16,6 +16,8 @@ layout: default
 
 # See also
 
-- [Batumi Palm Apartment](Batumi Palm Apartment)
-- [Tsikhisdziri](Tsikhisdziri)
-- [Batumi](Batumi)
++ [Adelaide Fashion Festival](adelaide-fashion-festival)
++ [AES+F](aes+f)
++ [Batumi Palm Apartment](Batumi Palm Apartment)
++ [Tsikhisdziri](Tsikhisdziri)
++ [Batumi](Batumi)

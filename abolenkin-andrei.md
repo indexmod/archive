@@ -17,9 +17,11 @@ layout: default
 
 # See also
 
-- [Galinskaia, Olga](galinskaia-olga.md)
-- [Ognenny, Oleg](ognenny-oleg.md)
-- [Litvinova, Violetta](litvinova-violetta.md)
++ [Aberdeen Fashion Week](aberdeen-fashion-week)
++ [Acid Noodles](acid-noodles)
++ [Galinskaia, Olga](galinskaia-olga)
++ [Ognenny, Oleg](ognenny-oleg)
++ [Litvinova, Violetta](litvinova-violetta)
 
 # Footnotes
 

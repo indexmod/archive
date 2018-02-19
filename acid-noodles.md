@@ -24,8 +24,7 @@ layout: default
 
 # See also
 
-- [Source name](http://example.net/)
-- [Source name](http://example.net/)
-- [Source name](http://example.net/)
-
-
++ [Andrei Abolenkin](abolenkin-andrei)
++ [Adelaide Fashion Festival](adelaide-fashion-festival)
++ [Source name](http://example.net/)
++ [Source name](http://example.net/)
