@@ -45,7 +45,7 @@ The highlights of such work are assignments for Bacardi, Sberbank and Saks Fifth
 |2017|"I am going to you" (Anna Melikian)|
 |2018|Beyond the Edge (Alexander Boguslavskiy)|
 |2018|Clubare (Ivan Kursky)|
-|2018|Dead lake (Roman prygunov)|
+|2018|Dead lake (Roman Prygunov)|
 
 # See also
 
