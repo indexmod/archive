@@ -4,45 +4,32 @@ permalink: tokyo-fashion-express
 layout: default
 ---
 
-
-
 # Tokyo Fashion Express
 
+(Est. 2013, city) is a TV programm produced by NHK, <span id="a1">[\[1\]](#f1)</span>, description-two <span id="a2">[\[2\]](#f2)</span> description-three <span id="a3">[\[3\]](#f3)</span>, extra text. [Edit this page](http://prose.io/#indexmod/encyclopedia/edit/master/page-template.md)
 
-(Est. 2013, city) is a TV programm produced by NHK, description-one <span id="a1">[\[1\]](#f1)</span>, description-two <span id="a2">[\[2\]](#f2)</span> description-three <span id="a3">[\[3\]](#f3)</span>, extra text. [Edit this page](http://prose.io/#indexmod/encyclopedia/edit/master/page-template.md)
+![](https://www3.nhk.or.jp/nhkworld/en/tv/tokyofashion/update/program20180212_3.jpg)
 
-![](/encyclopedia/images/image-name.jpg)
+**Young fashion designer Hachi as hero of the TV episode "All About Gray in Tokyo Fashion"**
 
-**Image caption title**
+*Photo: [Tokyo Fashion Express](tokyo-fashion-express) / [NHK World](https://www3.nhk.or.jp/nhkworld/en/tv/tokyofashion/program20180212.html)*
 
-*Photo: [Photographer name](/photographer-name-page) / [Source name](/source-name-page)*
+# TV Presenters
 
-# Conspectus
-
-|Year|City|
+|Year|Hosted|
 |----|-----|
-|2014|Tokyo|
-|2015|Moscow|
-|2017|Paris|
+|2018|Marie|
+
 
 # See also
 
-+ [See also title one](page-template)
-+ [See also title two](page-template)
-+ [See also title three](page-template)
++ [Bangkok Fashion Week](bangkok-fashion-week)
++ [Jakarta Fashion Week](jakarta-fashion-week)
++ [Hachi](hachi)
++ [Tokyo Fashion Week](tokyo-fashion-week)
 
 # Footnotes
 
-[[1]](#a1) <span id="f1"></span> [Article name short (Author name)](http://example.net/article)
+[[1]](#a1) <span id="f1"></span> [All About Gray in Tokyo Fashion (Tokyo Fashion Express, Japan Broadcasting Corporation)](https://www3.nhk.or.jp/nhkworld/en/tv/tokyofashion/program20180212.html)
 
-[[2]](#a2) <span id="f2"></span> [Article name little longer (Author name longer)](http://example.net/article)
-
-[[3]](#a3) <span id="f3"></span> [Article name longer so far (Author name too long and much longer)](http://example.net/article)
-
----
-
-`Editorial`
-
-`Warnings`
-
-`Notes`
+`Last edited Feb. 2018 (Andrei Dei)`
