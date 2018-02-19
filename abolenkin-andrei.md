@@ -17,7 +17,7 @@ layout: default
 
 # See also
 
-- [Galinskaya, Olga](galinskaya-olga.md)
+- [Galinskaia, Olga](galinskaia-olga.md)
 - [Ognenny, Oleg](ognenny-oleg.md)
 - [Litvinova, Violetta](litvinova-violetta.md)
 
