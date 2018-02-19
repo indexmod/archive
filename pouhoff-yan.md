@@ -20,19 +20,17 @@ expert, founder of the Yan Puhoff's School Photography, working and living in Mo
 
 |Year|Magazine|Project|
 |----|-----|
-||Vogue Russia||
-||GQ Russia||
+|2011|Vogue Russia||
+|2011|GQ Russia||
 ||Vogue Italy||
-||Elle Russia)||
+||Elle Russia||
 ||Glamour||
 ||Elle Ukraine||
-||NRG||DV Magazine||
+||NRG||
 ||OM||
 ||Atmosphera||
-||Jenskie Sekrety||
 ||l'Officiel Russia||
 ||Top Sante Russia||
-||Burda||Russia||
 ||Playboy Russia||
 ||Maxim Russia||
 ||FHM Russia||
@@ -45,14 +43,12 @@ expert, founder of the Yan Puhoff's School Photography, working and living in Mo
 ||Hugo Boss||
 ||Chloe||
 ||La Roche Posay||
-||Kadus||
 ||MTV Russia||
 
 # See also
 
 + [Natalia Valevskaya](valevskaya-natalia)
 + [Point Model Management](point-mdel-management)
-+ [See also title three](page-template)
 
 # Footnotes
 
