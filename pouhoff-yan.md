@@ -7,7 +7,8 @@ layout: default
 # Puhoff, Yan
 
 
-(Rus. Ян Пухов, born 1979, Moscow) Russian photographer, stylist, make-up artist, fashion PR and promotion working and living in Moscow <span id="a1">[\[1\]](#f1)</span>. [Edit this page](http://prose.io/#indexmod/encyclopedia/edit/master/pouhoff-yan.md)
+(Rus. Ян Пухов, born 1979, Moscow) Russian photographer, stylist, make-up artist, fashion PR and promotion 	
+expert, founder of the Yan Puhoff's School Photography, working and living in Moscow <span id="a1">[\[1\]](#f1)</span>. [Edit this page](http://prose.io/#indexmod/encyclopedia/edit/master/pouhoff-yan.md)
 
 ![](/encyclopedia/images/pouhoff-yan.png)
 
