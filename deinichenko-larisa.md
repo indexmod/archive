@@ -1,19 +1,19 @@
 ---
-title: Deynichenko, Larissa
-permalink: deynichenko-larissa
+title: Deynichenko, Larisa
+permalink: deynichenko-larisa
 layout: default
 ---
 
 
 
-# Deynichenko, Larissa
+# Deynichenko, Larisa
 
 
-(Rus. Ларисса Дейниченко, born 1980, Rostov-on-Don) Russian athlete and make-up artist, working and living in Moscow <span id="a1">[\[1\]](#f1)</span>. [Edit this page](http://prose.io/#indexmod/encyclopedia/edit/master/deinichenko-larissa.md)
+(Rus. Лариса Дейниченко, born 1980, Rostov-on-Don) Russian athlete and make-up artist, working and living in Moscow <span id="a1">[\[1\]](#f1)</span>. [Edit this page](http://prose.io/#indexmod/encyclopedia/edit/master/deinichenko-larissa.md)
 
 ![](https://img-fotki.yandex.ru/get/15499/283077485.2/0_e7aab_74edd014_XL.jpg)
 
-**Larissa Deynichenko <span id="a2">[\[1\]](#f2)</span>**
+**Larisa Deynichenko <span id="a2">[\[1\]](#f2)</span>**
 
 *Photo: [Super Yulik](/photographer-name-page) / [Miles and Looks, Live Journal](http://super-yulik.livejournal.com/86192.html)*
 
