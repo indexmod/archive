@@ -1,7 +1,8 @@
 ---
-title: Galinskaia, Olga
+title: 'Galinskaia, Olga'
 permalink: galinskaia-olga
 layout: default
+published: true
 ---
 
 
@@ -15,7 +16,7 @@ layout: default
 
 **Olga Galinskaia**
 
-*Photo: [Anatolii Medved](medved-anatolii) / [Woman's Day)](http://www.wday.ru/moda-shopping/style/kak-vyiglyadet-stilno-zimoy-sem-sovetov-zvezdnogo-stilista/)*
+*Photo: [Anatolii Medved](medved-anatolii) / [Woman's Day](http://www.wday.ru/moda-shopping/style/kak-vyiglyadet-stilno-zimoy-sem-sovetov-zvezdnogo-stilista/)*
 
 # Bio
 
