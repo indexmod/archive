@@ -11,19 +11,18 @@ layout: default
 
 (Rus. Ларисса Дейниченко, born 1980, Rostov-on-Don) Russian athlete and make-up artist, working and living in Moscow <span id="a1">[\[1\]](#f1)</span>. [Edit this page](http://prose.io/#indexmod/encyclopedia/edit/master/deinichenko-larissa.md)
 
-![](https://goo.gl/images/7CPMxT)
+![](https://img-fotki.yandex.ru/get/15499/283077485.2/0_e7aab_74edd014_XL.jpg)
 
 **Larissa Deynichenko**
 
-*Photo: [Photographer name](/photographer-name-page) / [Source name](/source-name-page)*
+*Photo: [Super Yulik](/photographer-name-page) / [Miles and Looks, Live Journal](http://super-yulik.livejournal.com/86192.html)*
 
-# Conspectus
+# Instagram index
 
-|Year|City|
+|Year|Index|
 |----|-----|
-|2014|Tokyo|
-|2015|Moscow|
-|2017|Paris|
+|2018|1 135|
+
 
 # See also
 
@@ -33,7 +32,11 @@ layout: default
 
 # Footnotes
 
-[[1]](#a1) <span id="f1"></span> [Сильные и красивые (d_m_alwin, Red Bull)](https://www.redbull.com/ru-ru/makeup-for-women-bodybuilders)
+[[1]](#a1) <span id="f1"></span> [Сильные и красивые (D M Alwin, Red Bull)](https://www.redbull.com/ru-ru/makeup-for-women-bodybuilders)
+
+[[2]](#a2) <span id="f2"></span> [В гостях у качков (Super Yulik, Miles and Looks, Live Journal)](http://super-yulik.livejournal.com/86192.html)
+
+
 
 
 `Last edited Feb. 2018 (Andrei Dei)`
