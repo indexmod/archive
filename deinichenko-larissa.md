@@ -13,7 +13,7 @@ layout: default
 
 ![](https://img-fotki.yandex.ru/get/15499/283077485.2/0_e7aab_74edd014_XL.jpg)
 
-**Larissa Deynichenko**
+**Larissa Deynichenko <span id="a2">[\[1\]](#f2)</span>**
 
 *Photo: [Super Yulik](/photographer-name-page) / [Miles and Looks, Live Journal](http://super-yulik.livejournal.com/86192.html)*
 
