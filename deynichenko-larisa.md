@@ -17,18 +17,18 @@ layout: default
 
 *Photo: [Super Yulik](/photographer-name-page) / [Miles and Looks, Live Journal](http://super-yulik.livejournal.com/86192.html)*
 
-# Instagram index
+# Social index
 
-|Year|Index|
+|Year|Instagram|
 |----|-----|
 |2018|1 135|
 
 
 # See also
 
-+ [See also title one](page-template)
-+ [See also title two](page-template)
-+ [See also title three](page-template)
++ [Dhaka Fashion Week](dhaka-fashion-week)
++ [Deinichenko, Andrei](deinichenko-andrei)
+
 
 # Footnotes
 

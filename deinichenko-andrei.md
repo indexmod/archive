@@ -1,6 +1,6 @@
 ---
 title: Deinichenko, Andrei
-permalink: page-template
+permalink: deinichenko-andrei
 layout: default
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: Dhaka Fashion Week
-permalink: page-template
+permalink: dhaka-fashion-week
 layout: default
 ---
 
