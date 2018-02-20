@@ -1,6 +1,6 @@
 ---
 title: Deynichenko, Larissa
-permalink: deinichenko-larissa
+permalink: deynichenko-larissa
 layout: default
 ---
 
