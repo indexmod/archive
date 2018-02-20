@@ -9,11 +9,11 @@ layout: default
 # Deynichenko, Larissa
 
 
-(Est. 1980, Rostov-on-Don) Russian athlete and make-up artist, working and living in Moscow <span id="a1">[\[1\]](#f1)</span>. [Edit this page](http://prose.io/#indexmod/encyclopedia/edit/master/deinichenko-larissa.md)
+(Rus. Ларисса Дейниченко, born 1980, Rostov-on-Don) Russian athlete and make-up artist, working and living in Moscow <span id="a1">[\[1\]](#f1)</span>. [Edit this page](http://prose.io/#indexmod/encyclopedia/edit/master/deinichenko-larissa.md)
 
 ![](http://www.imgrum.org/user/larissa_dey/1573484166/1519021967378006362_1573484166)
 
-**Image caption title**
+**Larissa Deynichenko**
 
 *Photo: [Photographer name](/photographer-name-page) / [Source name](/source-name-page)*
 
