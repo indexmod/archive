@@ -19,7 +19,7 @@ layout: default
 
 |Year|Instagram|
 |----|-----|
-|2018|1 135|
+|2018|1135|
 
 
 # See also
