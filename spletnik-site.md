@@ -7,41 +7,41 @@ layout: default
 # Spletnik (site)
 
 
-(Est. 2013, city) is a subject, description-one <span id="a1">[\[1\]](#f1)</span>, description-two <span id="a2">[\[2\]](#f2)</span> description-three <span id="a3">[\[3\]](#f3)</span>, extra text. [Edit this page](http://prose.io/#indexmod/encyclopedia/edit/master/page-template.md)
+(Est. 2007, Moscow) is site about celebrities founded by Polina Deripaska on the base of blog by Tatiana Nikonova <span id="a1">[\[1\]](#f1)</span>, projects of the combined company will include: The Village, Wonderzine, Look at me and operate under "Creative Media" LLC with monthly readers about 4 and 36 million of auditoria and visits <span id="a2">[\[2\]](#f2)</span>. [Edit this page](http://prose.io/#indexmod/encyclopedia/edit/master/spletnik-site.md)
 
-![](/encyclopedia/images/image-name.jpg)
+![](http://www.vsedomarossii.ru/photos/area_77/city_2815/street_12408/148205_1.jpg)
 
-**Image caption title**
+**Building on Rochelskaya street in Moscow**
 
-*Photo: [Photographer name](/photographer-name-page) / [Source name](/source-name-page)*
+*Photo: [Vse Doma Rossii]() / [Vse Doma Rossii](http://moscowcity.vsedomarossii.ru/house/148205)*
 
 # Conspectus
 
-|Year|City|
+|Year|Milestone|
 |----|-----|
-|2014|Tokyo|
-|2015|Moscow|
-|2017|Paris|
+|2017|Becoming part of Creative Media|
+
 
 # Indexmod
 
-|Year|Facebook|Instagram|Age|
+|Year|Facebook|280000|Age|
 |----|-----|
-|2018|100000|310000|30|
-|Indexmod|100000|5000|00|
+|2017|61796|310000|11|
+|2018|||11|
+|Indexmod|61796|310000|11|
 
 # See also
 
++ [Deripaska, Polina](deripaska-polina)
++ [Duma, Miroslava](duma-miroslava)
 + [Sergeenko, Ulyana](sergeenko-ulyana)
-+ [See also title two](page-template)
-+ [See also title three](page-template)
+
+
 
 # Footnotes
 
-[[1]](#a1) <span id="f1"></span> [Article name short (Author name)](http://example.net/article)
+[[1]](#a1) <span id="f1"></span> [Как закалялся LAM: история бизнеса главного хипстерского медиахолдинга 2010-х годов (Incrussia)](https://incrussia.ru/fly/kak-zakalyalsya-lam-istoriya-biznesa-glavnogo-hipsterskogo-mediaholdinga-2010-h-godov)
 
-[[2]](#a2) <span id="f2"></span> [Article name little longer (Author name longer)](http://example.net/article)
-
-[[3]](#a3) <span id="f3"></span> [Article name longer so far (Author name too long and much longer)](http://example.net/article)
+[[2]](#a2) <span id="f2"></span> [Mediakit (Spletnik)](http://mediakit.spletnik.ru)
 
 `Last update Feb. 2018 by Andrei Dei`
