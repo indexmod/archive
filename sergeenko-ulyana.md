@@ -42,6 +42,7 @@ On January 23 of 2018, designer Ulyana Sergeyenko presented her summer collectio
 
 + [Buro 24/7](buro-24-7)
 + [Duma, Miroslava](duma-miroslava)
++ [Spletnik (site)](spletnik-site)
 + [Ulyana Sergeenko (clothes)](ulyana-sergeenko-clothes)
 
 
@@ -52,7 +53,5 @@ On January 23 of 2018, designer Ulyana Sergeyenko presented her summer collectio
 [[2]](#a2) <span id="f2"></span> [Дизайнер Ульяна Сергеенко встречается с главой "Роснефти" Игорем Сечиным (Spletnik)](http://www.spletnik.ru/buzz/love/80727-ulyana-sergeenko-vstrechaetsya-s-igorem-sechinym.html)
 
 [[3]](#a3) <span id="f3"></span> [Ульяна Сергеенко пригласила Мирославу Думу на свой показ в Париже словом «niggas». Теперь у обеих проблемы (Meduza, Olga Strakhovskaya)](https://meduza.io/feature/2018/01/24/ulyana-sergeenko-priglasila-miroslavu-dumu-na-svoy-pokaz-v-parizhe-slovom-niggas-teper-u-obeih-problemy)
-
----
 
 `Last update Feb. 2018 by Andrei Dei`

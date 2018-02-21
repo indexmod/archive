@@ -7,45 +7,50 @@ layout: default
 # Mongayt, Anna
 
 
-(Rus. А́нна Ви́кторовна Монга́йт, maiden name Anna Loshak <span id="a1">[\[1\]](#f1)</span>, born. 1978, Odessa) Russian journalist and TV presenter, creative producer of the television channel "Rain".  
+(Rus. А́нна Ви́кторовна Монга́йт, maiden name Anna Loshak <span id="a1">[\[1\]](#f1)</span>, born. 1978, Odessa) Russian journalist and TV presenter, creative producer of the television channel "Rain". [Edit this page](http://prose.io/#indexmod/encyclopedia/edit/master/mongayt-anna.md)
 
-[\[2\]](#f2)</span> description-three <span id="a3">[\[3\]](#f3)</span>, extra text. [Edit this page](http://prose.io/#indexmod/encyclopedia/edit/master/page-template.md)
+# Private life
 
-![](/encyclopedia/images/image-name.jpg)
-
-**Anna Mongayt**
-
-*Photo: [Photographer name](/photographer-name-page) / [Source name](/source-name-page)*
-
-# Conspectus
-
-|Year|City|
+|Relative|Name|
 |----|-----|
-|2014|Tokyo|
-|2015|Moscow|
-|2017|Paris|
+|Mother|Marina Loshak|
+|Father|Victor Loshak|
+|Cousin|Andrei Loshak|
+|Husband|Sergey Mongayt|
+|Son|Matvei Mongayt|
+|Son|Demian Mongayt|
+
+# Filmography
+
+|Year|Film (Director)|
+|----|-----|
+|2011|One-night stand (Olga Stolpovskaya) <span id="a2"> [\[2\]](#f2)</span>|
+|2017|The ice-hole (Andrei Silverstov) <span id="a2">[\[3\]](#f2)</span>|
+
+
+![](https://merkuroff.files.wordpress.com/2013/10/img_4073.jpg)
+
+**Anna Mongayt catwalk at Charity show Vera Wang and television channel "Rain"**
+
+*Photo: [Anton Merkulov](merkulov-anton) / [Merkuroff, Wordpress](https://merkuroff.wordpress.com/)*
+
 
 # Indexmod
 
 |Year|Facebook|Instagram|Age|
 |----|-----|
-|2018|100000|5000|30|
-|Indexmod|100000|5000|00|
+|2018|35088||40|
+|Indexmod|35088||40|
 
 # See also
 
-+ [See also title one](page-template)
-+ [See also title two](page-template)
-+ [See also title three](page-template)
-
----
-
-`Notes`
++ [Sergeenko, Ulyana](sergeenko-ulyana)
++ [Spletnik (site)](spletnik-site)
 
 # Footnotes
 
-[[1]](#a1) <span id="f1"></span> [Article name short (Author name)](https://ru.wikipedia.org/wiki/Монгайт,_Анна_Викторовна)
+[[1]](#a1) <span id="f1"></span> [Монгайт, Анна Викторовна (Википедия)](https://ru.wikipedia.org/wiki/Монгайт,_Анна_Викторовна)
 
-[[2]](#a2) <span id="f2"></span> [Article name little longer (Author name longer)](http://example.net/article)
+[[2, 3]](#a2) <span id="f2"></span> [Анна Монгайт (Кинопоиск)](https://www.kinopoisk.ru/name/2382185/)
 
-[[3]](#a3) <span id="f3"></span> [Article name longer so far (Author name too long and much longer)](http://example.net/article)
+`Last update Feb. 2018 by Andrei Dei`
