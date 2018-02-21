@@ -36,7 +36,7 @@ published: true
 # Anna Mongayt Indexmod 
 
 |Year|Facebook|Instagram|Age|AMI|
-|----|-----|---|---||
+|-|-|-|-|-|
 |2018|35088||40|1.40352|
 |2019|||41||
 
