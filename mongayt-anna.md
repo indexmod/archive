@@ -34,12 +34,12 @@ layout: default
 |Son|Matvei Mongayt|
 |Son|Demian Mongayt|
 
-# Indexmod
+# Anna Mongayt Indexmod 
 
-|Year|Facebook|Instagram|Age|
-|----|-----|---|---|
-|2018|35088||40|
-|Indexmod|35088||40|
+|Year|Facebook|Instagram|Age|Indexmod
+|----|-----|---|---||
+|2018|35088||40||
+|Indexmod|35088||40|1.40352|
 
 # See also
 
