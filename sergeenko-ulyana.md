@@ -31,12 +31,12 @@ published: true
 
 On January 23 of 2018, designer Ulyana Sergeyenko presented her summer collection of clothes in Paris. Media paid more attention not to the collection itself, but to the invitation that Sergeyenko sent to her friend Duma. On the envelope it was written: "To my niggas in Paris". The day before the show, Miroslava Duma posted an invitation. Bloggers and fashion magazines were vigorously discussing the expression that caused a series of accusatory public statements and the release of Miroslova from the board of directors of the store The Tot <span id="a3">[\[3\]](#f3)</span>.
 
-# Indexmod
+# Ulyana Sergeenko Indexmod
 
-|Year|Facebook|Instagram|Age|
-|----|-----|
-|2018|4,7|419000|37|
-|Indexmod|4,7|419000|37|
+|Year|Facebook|Instagram|Age|USI|
+|-|-|-|-|-|
+|2018||419000|37|15,503|
+|2019|||||
 
 # See also
 
