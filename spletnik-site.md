@@ -22,13 +22,13 @@ layout: default
 |2017|Becoming part of Creative Media|
 
 
-# Indexmod
+# Spletnik Indexmod
 
-|Year|Facebook|280000|Age|
-|----|-----|
+|Year|Facebook|280000|Age|Indexmod|
+|----|-----|||
 |2017|61796|310000|11|
 |2018|||11|
-|Indexmod|61796|310000|11|
+|Indexmod|61796|310000|11||
 
 # See also
 
