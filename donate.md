@@ -1,10 +1,7 @@
-
 ---
-
 Title: Donate
 Permalink: donate
 Layout: default
-
 ---
 
 # You like Indexmod Encyclopedia! Thank you
