@@ -4,7 +4,7 @@ Permalink: donate
 Layout: default
 ---
 
-# You like Indexmod Encyclopedia! Thank you
+# You like Indexmod Encyclopedia! Thank you 😋
 
 Follow link to donate 
 
