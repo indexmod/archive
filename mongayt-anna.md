@@ -38,7 +38,7 @@ layout: default
 # Indexmod
 
 |Year|Facebook|Instagram|Age|
-|----|-----|
+|----|-----|---|---|
 |2018|35088||40|
 |Indexmod|35088||40|
 
