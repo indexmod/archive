@@ -2,6 +2,7 @@
 title: Lecharlatan (socks)
 permalink: lecharlatan
 layout: default
+published: true
 ---
 
 # Lecharlatan (socks)
@@ -25,7 +26,7 @@ layout: default
 
 ![](https://upload.wikimedia.org/wikipedia/commons/1/16/%D0%98%D0%B2%D0%B0%D0%BD_%D0%94%D0%BE%D1%80%D0%BD_%D1%84%D0%BE%D1%82%D0%BE%D1%81%D0%B5%D1%81%D1%81%D0%B8%D1%8F.png)
 
-**Russian-Ukrainian raper Ivan Dorn wears Lecharlatan socks**
+**Russian-Ukrainian musician Ivan Dorn wears Lecharlatan socks**
 
 *Photo: [Jurij Treskow](/jurij-treskow) / [Wikipedia](https://en.wikipedia.org/wiki/Ivan_Dorn)*
 
