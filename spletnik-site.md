@@ -24,9 +24,9 @@ layout: default
 
 # Spletnik Indexmod
 
-|Year|Facebook|280000|Age|SPI|
+|Year|Facebook|Instagram|Age|SPI|
 |-|-|-|-|-|
-|2017|61796|310000|11|4,089756|
+|2017|61796 <span id="a2">[\[3\]](#f2)</span>|310000 <span id="a2">[\[4\]](#f2)</span>|11|4,089756|
 |2018|||12||
 
 
