@@ -13,7 +13,23 @@ Layout: default
 `Follow button to donate 500 rubles (About $10)`
 
 <html>
-<iframe src="https://money.yandex.ru/quickpay/button-widget?targets=Donation%20for%20Indexmod%20Encyclopedia&default-sum=500&button-text=11&yamoney-payment-type=on&button-size=l&button-color=black&successURL=&quickpay=small&account=41001208338566&" width="227" height="48" frameborder="0" allowtransparency="true" scrolling="no"></iframe>
+<form method="POST" action="https://money.yandex.ru/quickpay/confirm.xml"> 
+    <input type="hidden" name="receiver" value="41001208338566"> 
+    <input type="hidden" name="formcomment" value="Проект «Indexmod Encyclopedia»> 
+    <input type="hidden" name="short-dest" value="Проект «Indexmod Encyclopedia»> 
+    <input type="hidden" name="label" value="$order_id"> 
+    <input type="hidden" name="quickpay-form" value="donate"> 
+    <input type="hidden" name="targets" value="транзакция {order_id}"> 
+    <input type="hidden" name="sum" value="500" data-type="number"> 
+    <input type="hidden" name="comment" value="Coin Indexmod Encyclopedia"> 
+    <input type="hidden" name="need-fio" value="true"> 
+    <input type="hidden" name="need-email" value="true"> 
+    <input type="hidden" name="need-phone" value="false"> 
+    <input type="hidden" name="need-address" value="false"> 
+    <label><input type="radio" name="paymentType" value="PC">Rubles</label> 
+    <label><input type="radio" name="paymentType" value="AC">Cards</label> 
+    <input type="submit" value="Send"> 
+</form>
 </html>
 
 
