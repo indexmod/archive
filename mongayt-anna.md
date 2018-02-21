@@ -20,7 +20,7 @@ published: true
 
 ![](https://merkuroff.files.wordpress.com/2013/10/img_4073.jpg)
 
-**Anna Mongayt catwalk at Charity show Vera Wang and television channel "Rain"**
+**Anna Mongayt catwalks at the Vera Wang and "Rain" television channel charity show**
 
 *Photo: [Anton Merkulov](merkulov-anton) / [Merkuroff, Wordpress](https://merkuroff.wordpress.com/)*
 
