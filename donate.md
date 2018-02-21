@@ -1,8 +1,8 @@
 
 ---
 
-Title: 
-Permalink: error
+Title: Donate
+Permalink: donate
 Layout: default
 
 ---
