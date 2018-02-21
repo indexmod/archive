@@ -8,7 +8,7 @@ Layout: default
 
 Follow link to donate 
 
-'500 rubles (About $10)`
+`500 rubles (About $10)`
 
 🔵 [Donate](https://money.yandex.ru/to/41001208338566)
 
