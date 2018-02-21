@@ -23,6 +23,7 @@ published: true
 |2015|Registering of Lecharlatan|
 |2016|Launching of Строгий юноша|
 |2017|Launching of Русский успех by Vika Rynski|
+|2017|Production socks for TEDxSadovoeRing|
 
 ![](https://upload.wikimedia.org/wikipedia/commons/1/16/%D0%98%D0%B2%D0%B0%D0%BD_%D0%94%D0%BE%D1%80%D0%BD_%D1%84%D0%BE%D1%82%D0%BE%D1%81%D0%B5%D1%81%D1%81%D0%B8%D1%8F.png)
 
