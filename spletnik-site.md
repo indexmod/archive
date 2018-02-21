@@ -1,10 +1,10 @@
 ---
-title: Page template
-permalink: page-template
+title: Spletnik (site)
+permalink: spletnik-site
 layout: default
 ---
 
-# Page template
+# Spletnik (site)
 
 
 (Est. 2013, city) is a subject, description-one <span id="a1">[\[1\]](#f1)</span>, description-two <span id="a2">[\[2\]](#f2)</span> description-three <span id="a3">[\[3\]](#f3)</span>, extra text. [Edit this page](http://prose.io/#indexmod/encyclopedia/edit/master/page-template.md)
@@ -27,7 +27,7 @@ layout: default
 
 |Year|Facebook|Instagram|Age|
 |----|-----|
-|2018|100000|5000|30|
+|2018|100000|310000|30|
 |Indexmod|100000|5000|00|
 
 # See also
