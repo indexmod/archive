@@ -36,7 +36,7 @@ On January 23 of 2018, designer Ulyana Sergeyenko presented her summer collectio
 |Year|Facebook|Instagram|Age|USI|
 |-|-|-|-|-|
 |2018||419000|37|15,503|
-|2019|||||
+|2019|||38||
 
 # See also
 
