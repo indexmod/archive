@@ -47,7 +47,7 @@ published: true
 
 # Footnotes
 
-[[1, 4]](#a1) <span id="f1"></span> [Монгайт, Анна Викторовна (Википедия)](https://ru.wikipedia.org/wiki/Монгайт,_Анна_Викторовна)
+[[1, 4]](#a1) <span id="f1"></span> [Ганна Монґайт (Матеріал з Вікіпедії — вільної енциклопедії)](https://uk.wikipedia.org/wiki/Ганна_Монґайт)
 
 [[2, 3]](#a2) <span id="f2"></span> [Анна Монгайт (Кинопоиск)](https://www.kinopoisk.ru/name/2382185/)
 
