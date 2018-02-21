@@ -27,8 +27,6 @@ layout: default
 
 |Relative|Name|
 |----|-----|
-|Mother|Marina Loshak|
-|Father|Victor Loshak|
 |Cousin|Andrei Loshak|
 |Husband|Sergey Mongayt|
 |Son|Matvei Mongayt|
