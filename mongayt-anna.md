@@ -7,18 +7,7 @@ layout: default
 # Mongayt, Anna
 
 
-(Rus. А́нна Ви́кторовна Монга́йт, maiden name Anna Loshak <span id="a1">[\[1\]](#f1)</span>, born. 1978, Odessa) Russian journalist and TV presenter, creative producer of the television channel "Rain". [Edit this page](http://prose.io/#indexmod/encyclopedia/edit/master/mongayt-anna.md)
-
-# Private life
-
-|Relative|Name|
-|----|-----|
-|Mother|Marina Loshak|
-|Father|Victor Loshak|
-|Cousin|Andrei Loshak|
-|Husband|Sergey Mongayt|
-|Son|Matvei Mongayt|
-|Son|Demian Mongayt|
+(Rus. А́нна Ви́кторовна Монга́йт, maiden name Anna Loshak <span id="a1">[\[1\]](#f1)</span>, born. 1978, Odessa) Russian journalist, actress, TV presenter, creative producer of the television channel "Rain". [Edit this page](http://prose.io/#indexmod/encyclopedia/edit/master/mongayt-anna.md)
 
 # Filmography
 
@@ -34,6 +23,16 @@ layout: default
 
 *Photo: [Anton Merkulov](merkulov-anton) / [Merkuroff, Wordpress](https://merkuroff.wordpress.com/)*
 
+# Private life
+
+|Relative|Name|
+|----|-----|
+|Mother|Marina Loshak|
+|Father|Victor Loshak|
+|Cousin|Andrei Loshak|
+|Husband|Sergey Mongayt|
+|Son|Matvei Mongayt|
+|Son|Demian Mongayt|
 
 # Indexmod
 
