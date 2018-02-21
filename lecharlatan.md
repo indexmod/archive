@@ -7,7 +7,7 @@ published: true
 
 # Lecharlatan (socks)
 
-(Est. 2013, Moscow) is a clothing brand, Russian streetwear brand <span id="a1">[\[1\]](#f1)</span>, an independent label providing high quality socks founded as **Le Charlatan** by Andrey Bozhyev <span id="a2">[\[2\]](#f2)</span> and Maria Aldarova <span id="a3">[\[3\]](#f3)</span>, later purchased from co-founder and registered as **Lecharlatan** by Andrey Bozhyev (2015). Participant of the TEDxSadovoeRing <span id="a4">[\[4\]](#f4)</span>. [Edit this page](http://prose.io/#indexmod/encyclopedia/edit/master/lecharlatan.md)
+(Est. 2013, Moscow) is a clothing brand, Russian streetwear brand <span id="a1">[\[1\]](#f1)</span>, an independent label providing high quality socks founded Le Charlatan by Andrey Bozhyev <span id="a2">[\[2\]](#f2)</span> and Maria Aldarova <span id="a3">[\[3\]](#f3)</span>, later purchased from co-founder and registered as Lecharlatan by Andrey Bozhyev (2015). Partner of the TEDxSadovoeRing <span id="a4">[\[4\]](#f4)</span>. [Edit this page](http://prose.io/#indexmod/encyclopedia/edit/master/lecharlatan.md)
 
 ![](https://static01.nyt.com/images/2015/07/05/arts/05SNAPSHOT/05SNAPSHOT-blog427.jpg)
 
