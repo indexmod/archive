@@ -40,7 +40,7 @@ layout: default
 
 # Footnotes
 
-[[1]](#a1) <span id="f1"></span> [Как закалялся LAM: история бизнеса главного хипстерского медиахолдинга 2010-х годов (Incrussia)](https://incrussia.ru/fly/kak-zakalyalsya-lam-istoriya-biznesa-glavnogo-hipsterskogo-mediaholdinga-2010-h-godov)
+[[1]](#a1) <span id="f1"></span> [Как закалялся LAM: история бизнеса главного хипстерского медиахолдинга 2010-х годов (Inc Russia)](https://incrussia.ru/fly/kak-zakalyalsya-lam-istoriya-biznesa-glavnogo-hipsterskogo-mediaholdinga-2010-h-godov)
 
 [[2, 3, 4]](#a2) <span id="f2"></span> [Mediakit (Spletnik)](http://mediakit.spletnik.ru)
 
