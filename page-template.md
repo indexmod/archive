@@ -26,7 +26,7 @@ layout: default
 
 |Year|Facebook|Instagram|Age|IMD|
 |-|-|-|-|-|
-|2018|100000|5000|30|0,123|
+|2018|100000|5000|30|0,25|
 |2019|||31||
 
 # See also
