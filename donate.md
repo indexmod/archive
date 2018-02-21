@@ -6,10 +6,11 @@ Layout: default
 
 # You like Indexmod Encyclopedia! Thank you
 
+Follow link to donate 
 
-`Follow button to donate 500 rubles (About $10)`
+'500 rubles (About $10)`
 
-🧤🔵📈🚰💰💵 [Donate](https://money.yandex.ru/to/41001208338566)
+🔵[Donate](https://money.yandex.ru/to/41001208338566)
 
 ## See also
 
