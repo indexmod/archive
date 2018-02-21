@@ -9,7 +9,7 @@ Layout: default
 
 `Follow button to donate 500 rubles (About $10)`
 
-[Donate](https://money.yandex.ru/to/41001208338566)
+🧤🔵📈🚰💰💵 [Donate](https://money.yandex.ru/to/41001208338566)
 
 ## See also
 
