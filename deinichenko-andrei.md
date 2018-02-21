@@ -7,7 +7,7 @@ layout: default
 # Deinichenko, Andrei
 
 
-(Rus. Андрей Дейниченко, aka Dei, Deinich, born. 1971, Aksai) Russian journalist founder of Indexmod, multimedia artist, visioner at the Eta fellowship, <span id="a1">[\[1\]](#f1)</span>, description-two <span id="a2">[\[2\]](#f2)</span> description-three <span id="a3">[\[3\]](#f3)</span>, extra text. [Edit this page](http://prose.io/#indexmod/encyclopedia/edit/master/deinichenko-andrei.md)
+(Rus. Андрей Дейниченко, Dei, born. 1971, Aksai) Russian journalist founder of Indexmod, multimedia artist, visioner at the Eta fellowship, <span id="a1">[\[1\]](#f1)</span>, description-two <span id="a2">[\[2\]](#f2)</span> description-three <span id="a3">[\[3\]](#f3)</span>, extra text. [Edit this page](http://prose.io/#indexmod/encyclopedia/edit/master/deinichenko-andrei.md)
 
 ![](/encyclopedia/images/image-name.jpg)
 
