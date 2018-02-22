@@ -10,21 +10,28 @@ layout: default
 
 ![](http://www.sobaka.ru/system/inline_image/image/00/00/54/70/base_sobsp_019.p1.pdf.r150__3_.jpg)
 
-**Image caption**
+**Aleksandr Zaloopin in 2012**
 
 *Photo: [Sergei Misenko](misenko-sergei) / [Sobaka](http://www.sobaka.ru/city/portrety/13779)*
 
-# Zaloopin Aleksandr Indexmod
+# Selecter singles and albums
 
-|Year|Facebook|Instagram|Age|ZAI|
-|-|-|-|-|-|
-|2018|92 <span id="a4">[\[4\]](#f4)</span>||49||
-|2019|||50||
+|Year|Name|
+|----|----|
+|2011|Pir (album) <span id="a4">[\[4\]](#f4)</span>|
+|2016|Alladin (single) <span id="a5">[\[5\]](#f5)</span>|
 
 
 # Selected live performances
 
 + “Chinese Pilot Jao Da” Club Moscow (2018)
+
+# Zaloopin Aleksandr Indexmod
+
+|Year|Facebook|Instagram|Age|ZAI|
+|-|-|-|-|-|
+|2018|92 <span id="a6">[\[6\]](#f6)</span>||49||
+|2019|||50||
 
 
 # See also
@@ -42,6 +49,8 @@ layout: default
 [[3]](#a3) <span id="f3"></span> [Александр Залупин
 23.02 2018 (“Chinese Pilot Jao Da” Club Moscow )](http://www.jao-da.ru/afisha/23-02-2018-aleksandr-zalupin)
 
-[[4]](#a4) <span id="f4"></span> [Александр Залупин. Музыкант (Facebook)](https://www.facebook.com/Александр-Залупин-514792745368492/)
+[[4, 5]](#a4) <span id="f4"></span> [Alexander Zaloopin, Tracks, Albums (SoundCloud ®)](https://soundcloud.com/alexander-zaloopin)
+
+[[6]](#a6) <span id="f6"></span> [Александр Залупин. Музыкант (Facebook)](https://www.facebook.com/Александр-Залупин-514792745368492/)
 
 `Last update Feb. 2018 (Andrei Dei)`
