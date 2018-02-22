@@ -14,7 +14,7 @@ layout: default
 
 *Photo: [Sergei Misenko](misenko-sergei) / [Sobaka](http://www.sobaka.ru/city/portrety/13779)*
 
-# Selected singles and albums
+# Singles and albums
 
 |Year|Name|
 |----|----|
@@ -22,7 +22,7 @@ layout: default
 |2016|Alladin (single) <span id="a5">[\[5\]](#f5)</span>|
 
 
-# Live performances
+# Performances
 
 + “Chinese Pilot Jao Da” Club Moscow (2018)
 
