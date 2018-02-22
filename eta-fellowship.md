@@ -55,7 +55,7 @@ The name of the fellowship "Eta" comes from Russian «Эта» — pronunciation
 
 # See also
 
-+ [Andrei Dei](dei-andrei)
++ [Andrei Dei](deinichenko-andrei)
 + [Maksim Tuzhikov](tuzhikov-maksim)
 + [Petro Sanchuk](sanchuk-petro)
 + [Elvira Kuznetsova](kuznetsova-elvira)
@@ -65,7 +65,7 @@ The name of the fellowship "Eta" comes from Russian «Эта» — pronunciation
 # Footnotes
 
 [[1]](#a1) <span id="f1"></span> [Основатель проекта «Эта» рассказал о визуализации пространственных данных в Геофизическом центре Российской академии наук
- (Пресс-релизы, «Эта»)](http://e-t-a.space/7-%D0%BD%D0%BE%D1%8F%D0%B1%D1%80%D1%8F-2017)
+ (Пресс-релизы, «Эта»)](http://e-t-a.space/7-декабря-2017)
 
 
 `Edited Feb. 2018 (Andrei Dei)`

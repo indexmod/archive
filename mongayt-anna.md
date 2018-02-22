@@ -1,13 +1,14 @@
 ---
-title: Mongayt, Anna
+title: 'Mongayt, Anna'
 permalink: mongayt-anna
 layout: default
+published: true
 ---
 
 # Mongayt, Anna
 
 
-(Rus. А́нна Ви́кторовна Монга́йт, maiden name Anna Loshak <span id="a1">[\[1\]](#f1)</span>, born. 1978, Odessa) Russian journalist, actress, TV presenter, creative producer of the television channel "Rain". [Edit this page](http://prose.io/#indexmod/encyclopedia/edit/master/mongayt-anna.md)
+(Rus. Анна Монгайт, maiden Loshak <span id="a1">[\[1\]](#f1)</span>, born. 1978, Odessa) Russian journalist, actress, TV presenter, creative producer of the television channel "Rain". [Edit this page](http://prose.io/#indexmod/encyclopedia/edit/master/mongayt-anna.md)
 
 # Filmography
 
@@ -19,7 +20,7 @@ layout: default
 
 ![](https://merkuroff.files.wordpress.com/2013/10/img_4073.jpg)
 
-**Anna Mongayt catwalk at Charity show Vera Wang and television channel "Rain"**
+**Anna Mongayt catwalks at the Vera Wang and "Rain" television channel charity show**
 
 *Photo: [Anton Merkulov](merkulov-anton) / [Merkuroff, Wordpress](https://merkuroff.wordpress.com/)*
 
@@ -27,19 +28,17 @@ layout: default
 
 |Relative|Name|
 |----|-----|
-|Mother|Marina Loshak|
-|Father|Victor Loshak|
-|Cousin|Andrei Loshak|
+|Cousin|Andrei Loshak <span id="a1">[\[4\]](#f1)</span>|
 |Husband|Sergey Mongayt|
 |Son|Matvei Mongayt|
 |Son|Demian Mongayt|
 
 # Anna Mongayt Indexmod 
 
-|Year|Facebook|Instagram|Age|Indexmod
-|----|-----|---|---||
-|2018|35088||40||
-|Indexmod|35088||40|1.40352|
+|Year|Facebook|Instagram|Age|AMI|
+|-|-|-|-|-|
+|2018|35088||40|1.40352|
+|2019|||41||
 
 # See also
 
@@ -48,7 +47,7 @@ layout: default
 
 # Footnotes
 
-[[1]](#a1) <span id="f1"></span> [Монгайт, Анна Викторовна (Википедия)](https://ru.wikipedia.org/wiki/Монгайт,_Анна_Викторовна)
+[[1, 4]](#a1) <span id="f1"></span> [Ганна Монґайт (Матеріал з Вікіпедії — вільної енциклопедії)](https://uk.wikipedia.org/wiki/Ганна_Монґайт)
 
 [[2, 3]](#a2) <span id="f2"></span> [Анна Монгайт (Кинопоиск)](https://www.kinopoisk.ru/name/2382185/)
 
