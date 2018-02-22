@@ -25,6 +25,13 @@ layout: default
 |2015|Moscow|
 |2017|Paris|
 
+# Indexmod
+
+|Year|Facebook|Instagram|Age|IMD|
+|-|-|-|-|-|
+|2018|100000|5000|30|0,25|
+|2019|||31||
+
 # See also
 
 + [See also title one](page-template)
@@ -39,10 +46,4 @@ layout: default
 
 [[3]](#a3) <span id="f3"></span> [Article name longer so far (Author name too long and much longer)](http://example.net/article)
 
----
-
-`Editorial`
-
-`Warnings`
-
-`Notes`
+`Last update Feb. 2018 (Andrei Dei)`

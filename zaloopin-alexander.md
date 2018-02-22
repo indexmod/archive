@@ -30,6 +30,8 @@ layout: default
 # See also
 
 + [Kirill Shamanov](shamanov-kirill)
++ [Zaitsev, Vyacheslav](zaitsev-vyacheslav)
++ [Kirill Shamanov](zambia-fashion-week-the)
 
 # Footnotes
 
@@ -42,4 +44,4 @@ layout: default
 
 [[4]](#a4) <span id="f4"></span> [Александр Залупин. Музыкант (Facebook)](https://www.facebook.com/Александр-Залупин-514792745368492/)
 
-`Last update Feb. 2018 by Andrei Dei`
+`Last update Feb. 2018 (Andrei Dei)`
