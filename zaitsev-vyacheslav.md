@@ -4,8 +4,6 @@ permalink: zaitsev-vyacheslav
 layout: default
 ---
 
-
-
 # Zaitsev, Vyacheslav
 
 

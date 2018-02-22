@@ -31,7 +31,7 @@ layout: default
 
 + [Kirill Shamanov](shamanov-kirill)
 + [Zaitsev, Vyacheslav](zaitsev-vyacheslav)
-+ [Kirill Shamanov](zambia-fashion-week-the)
++ [Zambia Fashion Week, The](zambia-fashion-week-the)
 
 # Footnotes
 
