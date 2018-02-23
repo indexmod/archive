@@ -10,7 +10,6 @@ published: true
 (Rus. Антимузей) est. in 2016, Moscow—exhibition project by Electromuseum to show the diversity of media art without any genre and institutional constraints, is based on the open-call held with artists, designers, engineers, programmers, musicians, scientists taking part without curatorial control. The exhibition involves constantly updated format: as new applications from the authors will change the exposure. [Edit this page](http://prose.io/#indexmod/encyclopedia/edit/master/antimuseum.md)
 
 # Antimuseum Indexmod
-# XXX Indexmod
 
 |Year|Facebook|Instagram|Age|XXX|
 |-|-|-|-|-|
@@ -43,10 +42,11 @@ published: true
 + [Tamkovich Friske Ian](tamkovich-friske-ian)
 + [Zaitsev Vyacheslav](zaitsev-vyacheslav)
 
-[[3]](#a3) <span id="f3"></span> [Clan SS 2017 (Facebook)](http://example.net/article)
+# Footnotes
 
-[[4]](#a4) <span id="f4"></span> [Clan SS 2017 (Instagram)](http://example.net/article)
+[[3]](#a3) <span id="f3"></span> [Name (Facebook)](http://example.net/article)
 
+[[4]](#a4) <span id="f4"></span> [Name (Instagram)](http://example.net/article)
 
 
 `Last update Feb. 2018 (Andrei Dei)`
