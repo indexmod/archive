@@ -50,12 +50,12 @@ Photo: Alexy Kozyr / Art Radar
 + [Firm](firm)
 + [Tamkovich Friske Ian](tamkovich-friske-ian)
 + [Zaitsev Vyacheslav](zaitsev-vyacheslav)
-+ Alexander Ponomarev
-+ Nadim Samman
-+ Basel
-+ Ikona Mag
-+ São Paulo Art Biennial
-+ Street Art Museum of St. PetersburgVenice Architecture Biennale
++ [Alexander Ponomarev]
++ [Nadim Samman]
++ [Basel]
++ [Ikona Mag]
++ [São Paulo Art Biennial]
++ [Street Art Museum of St. PetersburgVenice Architecture Biennale]
 
 # Footnotes
 
