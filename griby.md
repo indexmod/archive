@@ -28,9 +28,9 @@ Photo: Unknown author / Musixmatch
 
 # Griby Indexmod
 
-|Year|Facebook|Instagram|Age|XXX|
+|Year|Facebook|Instagram|Age|GBI|
 |-|-|-|-|-|
-|2018|ХХ <span id="a3">[\[3\]](#f3)</span>||ХХ <span id="a4">[\[4\]](#f4)</span>|Х,ХХ|
+|2018|ХХ <span id="a4">[\[4\]](#f4)</span>||ХХ <span id="a5">[\[5\]](#f5)</span>|Х,ХХ|
 |2019|||ХХ||
 
 # See also update in Feb. 2018
@@ -58,10 +58,10 @@ Photo: Unknown author / Musixmatch
 + [Firm](firm)
 + [Tamkovich Friske Ian](tamkovich-friske-ian)
 + [Zaitsev Vyacheslav](zaitsev-vyacheslav)
-+ Gop Fashion
-+ Gosha Gazinskaya
-+ AVEC
-+ Gop House
++ [Gop Fashion](gop-fashion)
++ [Gosha Gazinskaya](gasha-gazinskaya)
++ [AVEC](avec)
++ [Gop House](gop-house)
 
 
 # Footnotes
@@ -72,8 +72,8 @@ Photo: Unknown author / Musixmatch
 
 [[3]](#a3) <span id="f3"></span> [В чем причина популярности группы «Грибы» (Афиша Дейли)](http://example.net/article)
 
-[[3]](#a3) <span id="f3"></span> [Clan SS 2017 (Facebook)](http://example.net/article)
+[[4]](#a4) <span id="f4"></span> [Name (Facebook)](http://example.net/article)
 
-[[4]](#a4) <span id="f4"></span> [Clan SS 2017 (Instagram)](http://example.net/article)
+[[5]](#a5) <span id="f5"></span> [Name (Instagram)](http://example.net/article)
 
 `Last update Feb. 2018 (Andrei Dei)`
