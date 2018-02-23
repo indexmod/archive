@@ -47,12 +47,12 @@ Andrei has worked with scientists at the “Science for Life Extension”, train
 
 # Filmography
 
-|Year|Film (director) role|
+|Year|Film (director, role)|
 |----|-----|
-|2001|MTV Ruia promo for Garbage (Gleb Orlov) as Homeless <span id="a5">[\[5\]](#f5)</span>|
-|2008|Indigo (Roman Prygunov) as Style Conultant <span id="a5">[\[6\]](#f5)</span>|
-|2008|Indigo (Roman Prygunov) as cameo <span id="a5">[\[7\]](#f5)</span>|
-|2011|Cocktail Master 2011 (Alxei Platonov) as cameo <span id="a5">[\[8\]](#f5)</span>|
+|2001|MTV promo for Garbage muic video (Gleb Orlov, as Homeless) <span id="a5">[\[5\]](#f5)</span>|
+|2008|Cotume stylist at Indigo (Roman Prygunov) <span id="a5">[\[6\]](#f5)</span>|
+|2008|Indigo (Roman Prygunov, as Narco) <span id="a5">[\[7\]](#f5)</span>|
+|2011|Cocktail Master 2011 (Alxei Platonov, as Visistor) <span id="a5">[\[8\]](#f5)</span>|
 
 # See also
 
