@@ -103,7 +103,6 @@ Usb Flash Drive, The (2014)
 Vtoraia Zhizn (2015)
 
 # Antimuseum II Indexmod
-# XXX Indexmod
 
 |Year|Facebook|Instagram|Age|XXX|
 |-|-|-|-|-|
@@ -135,11 +134,12 @@ Vtoraia Zhizn (2015)
 + [Firm](firm)
 + [Tamkovich Friske Ian](tamkovich-friske-ian)
 + [Zaitsev Vyacheslav](zaitsev-vyacheslav)
++ [Antimuseum]
++ [Electromuseum]
 
-[[3]](#a3) <span id="f3"></span> [Clan SS 2017 (Facebook)](http://example.net/article)
+# Footnotes
 
-[[4]](#a4) <span id="f4"></span> [Clan SS 2017 (Instagram)](http://example.net/article)
+[[3]](#a3) <span id="f3"></span> [Name (Facebook)](http://example.net/article)
 
+[[4]](#a4) <span id="f4"></span> [Name (Instagram)](http://example.net/article)
 
-+ Antimuseum
-+ Electromuseum
