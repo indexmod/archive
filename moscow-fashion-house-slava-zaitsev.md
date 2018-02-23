@@ -9,11 +9,15 @@ layout: default
 # Moscow Fashion House Slava Zaitsev
 
 
-(Est. 2013, city) is a subject, description-one <span id="a1">[\[1\]](#f1)</span>, description-two <span id="a2">[\[2\]](#f2)</span> description-three <span id="a3">[\[3\]](#f3)</span>, extra text. [Edit this page](http://prose.io/#indexmod/encyclopedia/edit/master/page-template.md)
+(Rus. Московский дом моды «Слава Зайцев», 1983, Moscow) Soviet fashion house founded by Vyacheslav Zaitsev <span id="a1">[\[1\]](#f1)</span>, description-two <span id="a2">[\[2\]](#f2)</span> description-three <span id="a3">[\[3\]](#f3)</span>, extra text. [Edit this page](http://prose.io/#indexmod/encyclopedia/edit/master/moscow-fashion-house-slava-zaitsev.md)
 
 ![](/encyclopedia/images/image-name.jpg)
 
 **Image caption title**
+
+Moscow Fashion House Slava Zaitsev
+Moscow Fashion House Slava Zaitsev
+Photo: Name / Source
 
 *Photo: [Photographer name](/photographer-name-page) / [Source name](/source-name-page)*
 
@@ -25,11 +29,24 @@ layout: default
 |2015|Moscow|
 |2017|Paris|
 
+# ХХХХХ Indexmod
+
+|Year|Facebook|Instagram|Age|ХХI|
+|-|-|-|-|-|
+|2018|ХХ <span id="aХ»>[\[Х\]](#fХ)</span>||ХХ|Х,ХХ|
+|2019|||ХХ||
+
 # See also
 
 + [See also title one](page-template)
 + [See also title two](page-template)
 + [See also title three](page-template)
+
+See also
+Slava Zaitsev
+Egor Zaitsev
+Content
+[1] Footnote link
 
 # Footnotes
 
@@ -39,10 +56,4 @@ layout: default
 
 [[3]](#a3) <span id="f3"></span> [Article name longer so far (Author name too long and much longer)](http://example.net/article)
 
----
-
-`Editorial`
-
-`Warnings`
-
-`Notes`
+`Last update Feb. 2018 (Andrei Dei)`

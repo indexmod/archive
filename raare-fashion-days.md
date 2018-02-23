@@ -9,11 +9,14 @@ layout: default
 # Raare Fashion Days
 
 
-(Est. 2013, city) is a subject, description-one <span id="a1">[\[1\]](#f1)</span>, description-two <span id="a2">[\[2\]](#f2)</span> description-three <span id="a3">[\[3\]](#f3)</span>, extra text. [Edit this page](http://prose.io/#indexmod/encyclopedia/edit/master/page-template.md)
+ (Est. 2017, Baku) A fashion event in Port Baku Mall founded by Aisel Guseinova as part of online shopping platform of Azerbaijani and worldwide designers <span id="a1">[\[1\]](#f1)</span>, description-two <span id="a2">[\[2\]](#f2)</span> description-three <span id="a3">[\[3\]](#f3)</span>, extra text. [Edit this page](http://prose.io/#indexmod/encyclopedia/edit/master/raare-fashion-days.md)
 
 ![](/encyclopedia/images/image-name.jpg)
 
 **Image caption title**
+
+Giorgio Armani store at Port Baku Mall
+Photo: Becycling / Amura Yachts & Lifestyle
 
 *Photo: [Photographer name](/photographer-name-page) / [Source name](/source-name-page)*
 
@@ -25,11 +28,23 @@ layout: default
 |2015|Moscow|
 |2017|Paris|
 
+# ХХХХХ Indexmod
+
+|Year|Facebook|Instagram|Age|ХХI|
+|-|-|-|-|-|
+|2018|ХХ <span id="aХ»>[\[Х\]](#fХ)</span>||ХХ|Х,ХХ|
+|2019|||ХХ||
+
 # See also
 
 + [See also title one](page-template)
 + [See also title two](page-template)
 + [See also title three](page-template)
+
+See also
+Gosha Gazinskaya
+Port Baku Mall
+[1] Raare Land
 
 # Footnotes
 
@@ -39,10 +54,4 @@ layout: default
 
 [[3]](#a3) <span id="f3"></span> [Article name longer so far (Author name too long and much longer)](http://example.net/article)
 
----
-
-`Editorial`
-
-`Warnings`
-
-`Notes`
+`Last update Feb. 2018 (Andrei Dei)`

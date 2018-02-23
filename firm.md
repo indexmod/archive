@@ -4,12 +4,9 @@ permalink: firm
 layout: default
 ---
 
-
-
 # Firm
 
-
-(Est. 2013, city) is a subject, description-one <span id="a1">[\[1\]](#f1)</span>, description-two <span id="a2">[\[2\]](#f2)</span> description-three <span id="a3">[\[3\]](#f3)</span>, extra text. [Edit this page](http://prose.io/#indexmod/encyclopedia/edit/master/page-template.md)
+ (Rus. Мужская парикмахерская «Фирм», est. 2012, Moscow) is men’s hair salon chain registered in Russia as “Firm Arbat Ltd.” with franchise salons in Kiev, Minsk, Yerevan, Zaporozhye and Vilnius [1] [\[1\]](#f1)</span>, description-two <span id="a2">[\[2\]](#f2)</span> description-three <span id="a3">[\[3\]](#f3)</span>, extra text. [Edit this page](http://prose.io/#indexmod/encyclopedia/edit/master/firm.md)
 
 ![](/encyclopedia/images/image-name.jpg)
 
@@ -25,6 +22,13 @@ layout: default
 |2015|Moscow|
 |2017|Paris|
 
+# ХХХХХ Indexmod
+
+|Year|Facebook|Instagram|Age|ХХI|
+|-|-|-|-|-|
+|2018|ХХ <span id="aХ»>[\[Х\]](#fХ)</span>||ХХ|Х,ХХ|
+|2019|||ХХ||
+
 # See also
 
 + [See also title one](page-template)
@@ -39,10 +43,4 @@ layout: default
 
 [[3]](#a3) <span id="f3"></span> [Article name longer so far (Author name too long and much longer)](http://example.net/article)
 
----
-
-`Editorial`
-
-`Warnings`
-
-`Notes`
+`Last update Feb. 2018 (Andrei Dei)`

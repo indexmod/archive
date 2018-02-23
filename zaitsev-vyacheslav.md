@@ -7,7 +7,7 @@ layout: default
 # Zaitsev, Vyacheslav
 
 
-(Est. 2013, city) is a subject, description-one <span id="a1">[\[1\]](#f1)</span>, description-two <span id="a2">[\[2\]](#f2)</span> description-three <span id="a3">[\[3\]](#f3)</span>, extra text. [Edit this page](http://prose.io/#indexmod/encyclopedia/edit/master/page-template.md)
+ (Rus. Слава Зайцев, born 1938, Ivanovo)  a Soviet in the past and Russian fashion designer, painter, graphic artist and theatrical costume designer, founder, CEO, creative director of Slava Zaitsev fashion house in Moscow  <span id="a1">[\[1\]](#f1)</span>, artistic Director of the Theatre of Fashion <span id="a2">[\[2\]](#f2)</span> description-three <span id="a3">[\[3\]](#f3)</span>, extra text. [Edit this page](http://prose.io/#indexmod/encyclopedia/edit/master/zaitsev-vyacheslav.md)
 
 ![](/encyclopedia/images/image-name.jpg)
 
@@ -35,6 +35,10 @@ layout: default
 + [See also title one](page-template)
 + [See also title two](page-template)
 + [See also title three](page-template)
++ Maxim Rappoport
++ Moscow Fashion House Slava Zaitsev
+
+[1] Zaitsev's official website
 
 # Footnotes
 
