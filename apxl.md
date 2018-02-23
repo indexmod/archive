@@ -19,7 +19,6 @@ Photo: Andrei Gurotesuku / Indexmod Encyclopedia
 *Photo: [Photographer name](http://example.net/) / [Source name](http://example.net/)*
 
 # Apxl Indexmod
-# XXX Indexmod
 
 |Year|Facebook|Instagram|Age|XXX|
 |-|-|-|-|-|
@@ -51,17 +50,16 @@ Photo: Andrei Gurotesuku / Indexmod Encyclopedia
 + [Firm](firm)
 + [Tamkovich Friske Ian](tamkovich-friske-ian)
 + [Zaitsev Vyacheslav](zaitsev-vyacheslav)
++ [4S4R]
++ [Internet Yami-Ichi]
++ [Intektra]
++ [Nora Kaza]
 
-[[3]](#a3) <span id="f3"></span> [Clan SS 2017 (Facebook)](http://example.net/article)
-
-[[4]](#a4) <span id="f4"></span> [Clan SS 2017 (Instagram)](http://example.net/article)
-
-
-+ 4S4R
-+ Internet Yami-Ichi
-+ Intektra
-+ Nora Kaza
 
 # Footnotes
 
 [[1]](#a1) <span id="f1"></span> [Индикаторы вечности, площадь Самообладания и скелеты эмоций—Polymus (Author name)](http://example.net/article)
+
+[[3]](#a3) <span id="f3"></span> [Clan SS 2017 (Facebook)](http://example.net/article)
+
+[[4]](#a4) <span id="f4"></span> [Clan SS 2017 (Instagram)](http://example.net/article)
