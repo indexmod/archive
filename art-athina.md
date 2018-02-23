@@ -80,19 +80,19 @@ Zina Athanassiadou Gallery
 + [Firm](firm)
 + [Tamkovich Friske Ian](tamkovich-friske-ian)
 + [Zaitsev Vyacheslav](zaitsev-vyacheslav)
-
-[[3]](#a3) <span id="f3"></span> [Clan SS 2017 (Facebook)](http://example.net/article)
-
-[[4]](#a4) <span id="f4"></span> [Clan SS 2017 (Instagram)](http://example.net/article)
-
-
-+ Athens
-+ Medusa Art Gallery
-+ Nitra Gallery
-+ Mary Katrantzou
-+ Panos Yiapanis
-+ Athens Xclusive Designers Week
++ [Athens]
++ [Medusa Art Gallery]
++ [Nitra Gallery]
++ [Mary Katrantzou]
++ [Panos Yiapanis]
++ [Athens Xclusive Designers Week]
 
 # Footnotes
 
 [[1]](#a1) <span id="f1"></span> [Article name (Author name)](http://example.net/article)
+
+[[3]](#a3) <span id="f3"></span> [Name (Facebook)](http://example.net/article)
+
+[[4]](#a4) <span id="f4"></span> [Name (Instagram)](http://example.net/article)
+
+
