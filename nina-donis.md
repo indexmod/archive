@@ -13,7 +13,6 @@ published: true
 
 **Новая коллекция Nina Donis в Asthik**
 
-
 *Photo: [Lookbook](nina-donis) / [Vogue Ukraine](https://vogue.ua/article/fashion/brend/novaya-kollekciya-nina-donis-v-asthik.html)*
 
 # Early collections
