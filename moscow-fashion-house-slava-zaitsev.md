@@ -60,8 +60,8 @@ Photo: Name / Source
 
 [[1]](#a1) <span id="f1"></span> [Article name short (Author name)](http://example.net/article)
 
-[[3]](#a3) <span id="f3"></span> [Clan SS 2017 (Facebook)](http://example.net/article)
+[[3]](#a3) <span id="f3"></span> [Name (Facebook)](http://example.net/article)
 
-[[4]](#a4) <span id="f4"></span> [Clan SS 2017 (Instagram)](http://example.net/article)
+[[4]](#a4) <span id="f4"></span> [Name (Instagram)](http://example.net/article)
 
 `Last update Feb. 2018 (Andrei Dei)`
