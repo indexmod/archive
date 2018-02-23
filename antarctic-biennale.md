@@ -50,12 +50,6 @@ Photo: Alexy Kozyr / Art Radar
 + [Firm](firm)
 + [Tamkovich Friske Ian](tamkovich-friske-ian)
 + [Zaitsev Vyacheslav](zaitsev-vyacheslav)
-
-[[3]](#a3) <span id="f3"></span> [Clan SS 2017 (Facebook)](http://example.net/article)
-
-[[4]](#a4) <span id="f4"></span> [Clan SS 2017 (Instagram)](http://example.net/article)
-
-
 + Alexander Ponomarev
 + Nadim Samman
 + Basel
@@ -70,3 +64,7 @@ Photo: Alexy Kozyr / Art Radar
 [[1]](#a1) <span id="f1"></span> [First floating Antarctic Biennale to be held in 2016 (Author name)](http://example.net/article)
 
 [[2]](#a2) <span id="f2"></span> [“Alexander Ponomarev: The exhibition of contemporary art on the frozen continent” (Author name)](http://example.net/article)
+
+[[3]](#a3) <span id="f3"></span> [Name (Facebook)](http://example.net/article)
+
+[[4]](#a4) <span id="f4"></span> [Name (Instagram)](http://example.net/article)
