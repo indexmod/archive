@@ -8,7 +8,6 @@ layout: default
 
 (Rus. Антимузей, часть 2) is a second part of the exhibition project by Electromuseum in March of 2016. [Edit this page](http://prose.io/#indexmod/encyclopedia/edit/master/antimuseum-2.md)
 
-
 # Artists
 
 Adyl' Musaeva, Nazrin (Marmot)
@@ -98,7 +97,7 @@ Toshiba G900 (2010 — 2016)
 Transformacia Real'nosti (2015)
 Triuzla Project by vj Kat4er (2016)
 Under The Control (2015)
-Urban Soundscape. Composition #1 (2016)
+Urban Soundscape. Composition №1 (2016)
 Usb Flash Drive, The (2014)
 Vtoraia Zhizn (2015)
 
@@ -112,5 +111,27 @@ Vtoraia Zhizn (2015)
 
 # See also
 
++ [vetements](vetements)
++ [vemina](vemina)
++ [romanyuk-lisa](romanyuk-lisa)
++ [raare-fashion-days](raare-fashion-days)
++ [nina-donis](nina-donis)
++ [moscow-fashion-house-slava-zaitsev](moscow-fashion-house-slava-zaitsev)
++ [infundibulum](infundibulum)
++ [griby](griby)
++ [gosha-gazinskaya](gosha-gazinskaya)
++ [gazinskaya-vika](gazinskaya-vika)
++ [galetsky-moscow](galetsky-moscow)
++ [galetsky-anton](galetsky-anton)
++ [deinichenko-andrei](deinichenko-andrei)
++ [indexmod-encyclopedia](indexmod-encyclopedia)
++ [antimuseum](antimuseum)
++ [antimuseum-2](antimuseum-2)
++ [antarctic-biennale](antarctic-biennale)
++ [apxl](apxl)
++ [art-athina](art-athina)
++ [firm](firm)
++ [tamkovich-friske-ian](tamkovich-friske-ian)
++ [zaitsev-vyacheslav](zaitsev-vyacheslav)
 + Antimuseum
 + Electromuseum

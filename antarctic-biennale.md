@@ -6,7 +6,7 @@ layout: default
 
 # Antarctic Biennale
 
-(Est. 2013, city) Antarctic Biennale (Rus. Первая антарктическая биенале)—initiated by curator Nadim Samman1 and Russian artist Alexander Ponomarev2 at the 14th Venice Architecture Biennale (June 7—November 23, 2014) where was first presented pavilion of Antarctica. <span id="a1">[\[1\]](#f1)</span>, description-two <span id="a2">[\[2\]](#f2)</span> description-3 <span id="a3">[\[3\]](#f3)</span>, extra text. [Edit this page](http://prose.io/#indexmod/encyclopedia/edit/master/antarctic-biennale.md)
+(Est. 2013, city) Antarctic Biennale (Rus. Первая антарктическая биенале)—initiated by curator Nadim Samman1 and Russian artist Alexander Ponomarev2 at the 14th Venice Architecture Biennale (June 7—November 23, 2014) where was first presented pavilion of Antarctica. <span id="a1">[\[1\]](#f1)</span>, description-two <span id="a2">[\[2\]](#f2). [Edit this page](http://prose.io/#indexmod/encyclopedia/edit/master/antarctic-biennale.md)
 
 ![](/images/image-name.jpg)
 
@@ -34,9 +34,28 @@ Photo: Alexy Kozyr / Art Radar
 
 # See also
 
-- [Source name](http://example.net/)
-- [Source name](http://example.net/)
-- [Source name](http://example.net/)
++ [vetements](vetements)
++ [vemina](vemina)
++ [romanyuk-lisa](romanyuk-lisa)
++ [raare-fashion-days](raare-fashion-days)
++ [nina-donis](nina-donis)
++ [moscow-fashion-house-slava-zaitsev](moscow-fashion-house-slava-zaitsev)
++ [infundibulum](infundibulum)
++ [griby](griby)
++ [gosha-gazinskaya](gosha-gazinskaya)
++ [gazinskaya-vika](gazinskaya-vika)
++ [galetsky-moscow](galetsky-moscow)
++ [galetsky-anton](galetsky-anton)
++ [deinichenko-andrei](deinichenko-andrei)
++ [indexmod-encyclopedia](indexmod-encyclopedia)
++ [antimuseum](antimuseum)
++ [antimuseum-2](antimuseum-2)
++ [antarctic-biennale](antarctic-biennale)
++ [apxl](apxl)
++ [art-athina](art-athina)
++ [firm](firm)
++ [tamkovich-friske-ian](tamkovich-friske-ian)
++ [zaitsev-vyacheslav](zaitsev-vyacheslav)
 + Alexander Ponomarev
 + Nadim Samman
 + Basel

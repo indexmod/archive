@@ -6,7 +6,7 @@ layout: default
 
 # Apxl (APXL)
 
-(Est. 2013, city) Apxl (APXL) re-pres. 2016, Moscow—is a set of magnets by 4S4R made for the Internet Yami-Ichi1 as basic particle constructor of graphic information <span id="a1">[\[1\]](#f1)</span>, description-two <span id="a2">[\[2\]](#f2)</span> description-3 <span id="a3">[\[3\]](#f3)</span>, extra text. [Edit this page](http://prose.io/#indexmod/encyclopedia/edit/master/apxl.md)
+(Est. 2013, city) Apxl (APXL) re-pres. 2016, Moscow—is a set of magnets by 4S4R made for the Internet Yami-Ichi1 as basic particle constructor of graphic information <span id="a1">[\[1\]](#f1)</span>. [Edit this page](http://prose.io/#indexmod/encyclopedia/edit/master/apxl.md)
 
 ![](/images/image-name.jpg)
 
@@ -17,14 +17,6 @@ Photo: Andrei Gurotesuku / Indexmod Encyclopedia
 
 *Photo: [Photographer name](http://example.net/) / [Source name](http://example.net/)*
 
-# Conspectus
-
-|Year|City|
-|----|---------|
-|2014|Tokyo|
-|2015|Moscow|
-|2017|Kiev|
-
 # Apxl Indexmod
 
 |Year|Facebook|Instagram|Age|AXI|
@@ -34,20 +26,33 @@ Photo: Andrei Gurotesuku / Indexmod Encyclopedia
 
 # See also
 
-- [Source name](http://example.net/)
-- [Source name](http://example.net/)
-- [Source name](http://example.net/)
++ [vetements](vetements)
++ [vemina](vemina)
++ [romanyuk-lisa](romanyuk-lisa)
++ [raare-fashion-days](raare-fashion-days)
++ [nina-donis](nina-donis)
++ [moscow-fashion-house-slava-zaitsev](moscow-fashion-house-slava-zaitsev)
++ [infundibulum](infundibulum)
++ [griby](griby)
++ [gosha-gazinskaya](gosha-gazinskaya)
++ [gazinskaya-vika](gazinskaya-vika)
++ [galetsky-moscow](galetsky-moscow)
++ [galetsky-anton](galetsky-anton)
++ [deinichenko-andrei](deinichenko-andrei)
++ [indexmod-encyclopedia](indexmod-encyclopedia)
++ [antimuseum](antimuseum)
++ [antimuseum-2](antimuseum-2)
++ [antarctic-biennale](antarctic-biennale)
++ [apxl](apxl)
++ [art-athina](art-athina)
++ [firm](firm)
++ [tamkovich-friske-ian](tamkovich-friske-ian)
++ [zaitsev-vyacheslav](zaitsev-vyacheslav)
 + 4S4R
 + Internet Yami-Ichi
 + Intektra
 + Nora Kaza
 
-[1] Индикаторы вечности, площадь Самообладания и скелеты эмоций—Polymus
-
 # Footnotes
 
-[[1]](#a1) <span id="f1"></span> [Article name (Author name)](http://example.net/article)
-
-[[2]](#a2) <span id="f2"></span> [Article name (Author name)](http://example.net/article)
-
-[[3]](#a3) <span id="f3"></span> [Article name (Author name)](http://example.net/article)
+[[1]](#a1) <span id="f1"></span> [Индикаторы вечности, площадь Самообладания и скелеты эмоций—Polymus (Author name)](http://example.net/article)

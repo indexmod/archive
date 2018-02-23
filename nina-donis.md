@@ -6,7 +6,7 @@ layout: default
 
 # Nina Donis
 
- (Rus. Нина Донис Москва, est. 2000, Moscow) is a fashion brand founded in Moscow by Nina Neretina and Donis Pupis in several years after graduate Kosygin Moscow Textile Academy. <span id="a1">[\[1\]](#f1)</span>, Until 2000 working as a stylist (TV, musicians), creating conceptual clothes mini-collection, and since 2000 Nina and Donis creating regular seasonal collections, participating Fashion Exhibition London (London Fashion Week, 2000-03); Best Mix Collection (International competition, Hyere, France, 2001); Designer of The Year (Harpess Bazar Russia, 2001); 150 of the Most Influential Designers of the Present (ID London, Tashen, 2003); Designer of the Year (GQ Russia, 2003); Daniele Ghiselli Diffusione show-room (2004-07); Runway of A/W 2005/06 collection at (with sup. British Fashion Council, London Fashion Week, 2005); Show-roomed for world retailers (Studio Zeta Milan, from 2007); Switching from runway shows to fashion films <span id="a2">[\[2\]](#f2)</span> and presentation campaigns (from 2009); Including unificated design in official moodpboard every seasonal campaign (from 2012) <span id="a3">[\[3\]](#f3)</span>, extra text. [Edit this page](http://prose.io/#indexmod/encyclopedia/edit/master/nina-donis.md)
+ (Rus. Нина Донис Москва, est. 2000, Moscow) is a fashion brand founded in Moscow by Nina Neretina and Donis Pupis in several years after graduate Kosygin Moscow Textile Academy. <span id="a1">[\[1\]](#f1)</span>, Until 2000 working as a stylist (TV, musicians), creating conceptual clothes mini-collection, and since 2000 Nina and Donis creating regular seasonal collections, participating Fashion Exhibition London (London Fashion Week, 2000-03); Best Mix Collection (International competition, Hyere, France, 2001); Designer of The Year (Harpess Bazar Russia, 2001); 150 of the Most Influential Designers of the Present (ID London, Tashen, 2003); Designer of the Year (GQ Russia, 2003); Daniele Ghiselli Diffusione show-room (2004-07); Runway of A/W 2005/06 collection at (with sup. British Fashion Council, London Fashion Week, 2005); Show-roomed for world retailers (Studio Zeta Milan, from 2007); Switching from runway shows to fashion films <span id="a2">[\[2\]](#f2)</span> and presentation campaigns (from 2009); Including unificated design in official moodpboard every seasonal campaign (from 2012). [Edit this page](http://prose.io/#indexmod/encyclopedia/edit/master/nina-donis.md)
 
 ![](/encyclopedia/images/image-name.jpg)
 
@@ -17,7 +17,6 @@ Donis Pupis and Nina Neretina at MSU in 2009
 Photo: Andrei Deinichenko / Lookatme
 
 *Photo: [Photographer name](/photographer-name-page) / [Source name](/source-name-page)*
-
 
 # Early collections
 
@@ -39,9 +38,28 @@ Photo: Andrei Deinichenko / Lookatme
 
 # See also
 
-+ [See also title one](page-template)
-+ [See also title two](page-template)
-+ [See also title three](page-template)
++ [vetements](vetements)
++ [vemina](vemina)
++ [romanyuk-lisa](romanyuk-lisa)
++ [raare-fashion-days](raare-fashion-days)
++ [nina-donis](nina-donis)
++ [moscow-fashion-house-slava-zaitsev](moscow-fashion-house-slava-zaitsev)
++ [infundibulum](infundibulum)
++ [griby](griby)
++ [gosha-gazinskaya](gosha-gazinskaya)
++ [gazinskaya-vika](gazinskaya-vika)
++ [galetsky-moscow](galetsky-moscow)
++ [galetsky-anton](galetsky-anton)
++ [deinichenko-andrei](deinichenko-andrei)
++ [indexmod-encyclopedia](indexmod-encyclopedia)
++ [antimuseum](antimuseum)
++ [antimuseum-2](antimuseum-2)
++ [antarctic-biennale](antarctic-biennale)
++ [apxl](apxl)
++ [art-athina](art-athina)
++ [firm](firm)
++ [tamkovich-friske-ian](tamkovich-friske-ian)
++ [zaitsev-vyacheslav](zaitsev-vyacheslav)
 + Amelin, Tom
 + K20
 + Le Form

@@ -6,22 +6,13 @@ layout: default
 
 # Zaitsev, Vyacheslav
 
-
- (Rus. Слава Зайцев, born 1938, Ivanovo) a Soviet in the past and Russian fashion designer, painter, graphic artist and theatrical costume designer, founder, CEO, creative director of Slava Zaitsev fashion house in Moscow  <span id="a1">[\[1\]](#f1)</span>, artistic Director of the Theatre of Fashion <span id="a2">[\[2\]](#f2)</span> description-three <span id="a3">[\[3\]](#f3)</span>, extra text. [Edit this page](http://prose.io/#indexmod/encyclopedia/edit/master/zaitsev-vyacheslav.md)
+ (Rus. Слава Зайцев, born 1938, Ivanovo) a Soviet in the past and Russian fashion designer, painter, graphic artist and theatrical costume designer, founder, CEO, creative director of Slava Zaitsev fashion house in Moscow  <span id="a1">[\[1\]](#f1)</span>. [Edit this page](http://prose.io/#indexmod/encyclopedia/edit/master/zaitsev-vyacheslav.md)
 
 ![](/encyclopedia/images/image-name.jpg)
 
 **Image caption title**
 
 *Photo: [Photographer name](/photographer-name-page) / [Source name](/source-name-page)*
-
-# Conspectus
-
-|Year|City|
-|----|-----|
-|2014|Tokyo|
-|2015|Moscow|
-|2017|Paris|
 
 # Zaitsev Indexmod
 
@@ -32,21 +23,35 @@ layout: default
 
 # See also
 
-+ [See also title one](page-template)
-+ [See also title two](page-template)
-+ [See also title three](page-template)
++ [vetements](vetements)
++ [vemina](vemina)
++ [romanyuk-lisa](romanyuk-lisa)
++ [raare-fashion-days](raare-fashion-days)
++ [nina-donis](nina-donis)
++ [moscow-fashion-house-slava-zaitsev](moscow-fashion-house-slava-zaitsev)
++ [infundibulum](infundibulum)
++ [griby](griby)
++ [gosha-gazinskaya](gosha-gazinskaya)
++ [gazinskaya-vika](gazinskaya-vika)
++ [galetsky-moscow](galetsky-moscow)
++ [galetsky-anton](galetsky-anton)
++ [deinichenko-andrei](deinichenko-andrei)
++ [indexmod-encyclopedia](indexmod-encyclopedia)
++ [antimuseum](antimuseum)
++ [antimuseum-2](antimuseum-2)
++ [antarctic-biennale](antarctic-biennale)
++ [apxl](apxl)
++ [art-athina](art-athina)
++ [firm](firm)
++ [tamkovich-friske-ian](tamkovich-friske-ian)
++ [zaitsev-vyacheslav](zaitsev-vyacheslav)
 + Maxim Rappoport
 + Moscow Fashion House Slava Zaitsev
 
 
 # Footnotes
 
-[[1]](#a1) <span id="f1"></span> [Article name short (Author name)](http://example.net/article)
+[[1]](#a1) <span id="f1"></span> [Zaitsev's official website (Zaitsev Dom Mody)](http://example.net/article)
 
-[[2]](#a2) <span id="f2"></span> [Article name little longer (Author name longer)](http://example.net/article)
-
-[[3]](#a3) <span id="f3"></span> [Article name longer so far (Author name too long and much longer)](http://example.net/article)
-
-[1] Zaitsev's official website
 
 `Last update Feb. 2018 (Andrei Dei)`
