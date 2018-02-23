@@ -4,6 +4,7 @@ permalink: indexmod-encyclopedia
 layout: default
 published: true
 ---
+(Est. 2006, Moscow) a wiki-site based on the conseption of gybriding wiki, blockchain, ICO and social networking developing by Andrei Deinichenko from 2006 <span id="a1">[\[1\]](#f1)</span>. [Edit this page]
 
 # Manifesto  
 
@@ -11,16 +12,9 @@ The aim of Indexmod Encyclopedia to simplify wiki syntax for a pretty and light 
 
 # History
 
-Indexmod (2006, Moscow) website and brand based a concept which originates from the idea of visualization of the statistics about fashion and artists. Firstly it has realized in the poster supplied to Afisha magazine in Moscow in 2005. Later in 2006, Indexmod was established as brand name covering an experimental project to arrange data about designers and artists. Today Indexmod developing as the wiki (Indexmod Encyclopedia) on the one hand, as rating engine (Indexmod) on the other hand. The aim of the project is to create an elegant looking, alternative software based on the idea of an anonymous real-time wiki editing and semantic markup integration.
-
-|Year|City|
-|----|----|
-|2014|Tokyo|
-|2015|Moscow|
-|2017|Kiev|
+Indexmod was established as brand and concept from the idea of visualization of the statistics about fashion and artists. Firstly it has realized in the poster supplied to Afisha magazine in Moscow in 2005. Later in 2006, Indexmod was established as brand name covering an experimental project to arrange data about designers and artists. Today Indexmod developing as the wiki (Indexmod Encyclopedia) on the one hand, as rating engine (Indexmod) on the other hand. The aim of the project is to create an elegant looking, alternative software based on the idea of an anonymous real-time wiki editing and semantic markup integration.
 
 # Indexmod Encyclopedia Indexmod
-# XXX Indexmod
 
 |Year|Facebook|Instagram|Age|XXX|
 |-|-|-|-|-|
@@ -53,9 +47,13 @@ Indexmod (2006, Moscow) website and brand based a concept which originates from 
 + [Tamkovich Friske Ian](tamkovich-friske-ian)
 + [Zaitsev Vyacheslav](zaitsev-vyacheslav)
 
-[[3]](#a3) <span id="f3"></span> [Clan SS 2017 (Facebook)](http://example.net/article)
+# Footnote
 
-[[4]](#a4) <span id="f4"></span> [Clan SS 2017 (Instagram)](http://example.net/article)
+[[3]](#a3) <span id="f3"></span> [Name (Facebook)](http://example.net/article)
+
+[[4]](#a4) <span id="f4"></span> [Name (Instagram)](http://example.net/article)
+
+
 
 
 
