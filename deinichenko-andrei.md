@@ -42,7 +42,7 @@ Andrei has worked with scientists at the “Science for Life Extension”, train
 
 |Year|Facebook|Instagram|Age|DEI|
 |-|-|-|-|-|
-|2018|292|32|47|0,001796|
+|2018|292 <span id="a3">[\[3\]](#f3)</span>|32 <span id="a4">[\[4\]](#f4)</span>|47|0,001796|
 |2019|||48||
 
 # See also update in Feb. 2018
