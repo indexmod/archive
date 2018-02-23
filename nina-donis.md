@@ -32,7 +32,7 @@ published: true
 
 |Year|Facebook|Instagram|Age|NDI|
 |-|-|-|-|-|
-|2018|396 <span id="a3">[\[3\]](#f3)</span>[\[Х\]](#f3)</span>|14100 <span id="a4">[\[4\]](#f4)</span>|18|0,268056|
+|2018|396 <span id="a3">[\[3\]](#f3)</span>|14100 <span id="a4">[\[4\]](#f4)</span>|18|0,268056|
 |2019|||19||
 
 # See also
