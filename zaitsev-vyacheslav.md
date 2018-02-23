@@ -45,9 +45,7 @@ published: true
 + [art-athina](art-athina)
 + [firm](firm)
 + [tamkovich-friske-ian](tamkovich-friske-ian)
-+ [zaitsev-vyacheslav](zaitsev-vyacheslav)
-+ Maxim Rappoport
-+ Moscow Fashion House Slava Zaitsev
++ [Maxim Rappoport](rappoport-maxim)
 
 
 # Footnotes
