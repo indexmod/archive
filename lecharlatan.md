@@ -39,6 +39,13 @@ published: true
 |2015|Podium Market|Russia|
 |2016|Uggla|Japan|
 
+# Lecharlatan Indexmod
+
+|Year|Facebook|Instagram|Age|LCI|
+|-|-|-|-|-|
+|2018|719 <span id="a5">[\[5\]](#f5)</span>|4235 <span id="a6">[\[6\]](#f6)</span>|5|0,02477|
+|2019|||6||
+
 # Footnotes
 
 [[1]](#a1) <span id="f1"></span> [Spelling it out: why Cyrillic slogan streetwear is the new punk uniform for post-Soviet teens (Sasha Raspopina, The Calvert Journal)](http://calvertjournal.com/articles/show/6278/cyrillic-slogan-streetwear-clothing-rubchinskiy-vetements)
@@ -48,3 +55,7 @@ published: true
 [[3]](#a3) <span id="f3"></span> [Le Charlatan: Носки и гольфы родом из Москвы (Олеся Ива, Wonderzine)](http://www.wonderzine.com/wonderzine/style/new_faces/200619-le-charlatan-socks)
 
 [[4]](#a4) <span id="f4"></span> [Основной нюанс в развитии бренда — это донести собственное видение до окружающих и не расплескать его, сформировать вокруг себя новую культуру (Андрей Божьев, Ditelegraph)](http://ditelegraph.ru/members/news/37)
+
+[[5]](#a5) <span id="f5"></span> [Andrei Deinichenko (Facebook)](https://www.facebook.com/pg/lecharlatanofficial/community)
+
+[[6]](#a6) <span id="f6"></span> [Andrei Deinichenko (Instagram)](https://www.instagram.com/lecharlatanru/)
