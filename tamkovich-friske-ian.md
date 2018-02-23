@@ -19,45 +19,44 @@ Photo: Vlad Chizhenkov / Facebook
 
 *Photo: [Photographer name](/photographer-name-page) / [Source name](/source-name-page)*
 
-# Conspectus
+# XXX Indexmod
 
-|Year|City|
-|----|-----|
-|2014|Tokyo|
-|2015|Moscow|
-|2017|Paris|
-
-# Tamkovich-Friske Indexmod
-
-|Year|Facebook|Instagram|Age|TFI|
+|Year|Facebook|Instagram|Age|XXX|
 |-|-|-|-|-|
-|2018|ХХ <span id="aХ»>[\[Х\]](#fХ)</span>||ХХ|Х,ХХ|
+|2018|ХХ <span id="a3">[\[3\]](#f3)</span>||ХХ <span id="a4">[\[4\]](#f4)</span>|Х,ХХ|
 |2019|||ХХ||
 
-# See also added in Feb. 2018
+# See also update in Feb. 2018
 
++ [Ilia Varegin](varegin-ilia)
 + [Vetements](vetements)
 + [Vemina](vemina)
-+ [Romanyuk, Lisa](romanyuk-lisa)
-+ [Raare Ffashion Days](raare-fashion-days)
++ [Romanyuk Lisa](romanyuk-lisa)
++ [Raare Fashion Days](raare-fashion-days)
 + [Nina Donis](nina-donis)
 + [Moscow Fashion House Slava Zaitsev](moscow-fashion-house-slava-zaitsev)
 + [Infundibulum](infundibulum)
 + [Griby](griby)
 + [Gosha Gazinskaya](gosha-gazinskaya)
-+ [Gazinskaya, Vika](gazinskaya-vika)
++ [Gazinskaya Vika](gazinskaya-vika)
 + [Galetsky Moscow](galetsky-moscow)
-+ [Galetsky, Anton](galetsky-anton)
-+ [Deinichenko, Andrei](deinichenko-andrei)
++ [Galetsky Anton](galetsky-anton)
++ [Deinichenko Andrei](deinichenko-andrei)
 + [Indexmod Encyclopedia](indexmod-encyclopedia)
 + [Antimuseum](antimuseum)
-+ [Antimuseum II](antimuseum-2)
++ [Antimuseum-2](antimuseum-2)
 + [Antarctic Biennale](antarctic-biennale)
 + [APXL](apxl)
-+ [Art-Athina](art-athina)
++ [Art Athina](art-athina)
 + [Firm](firm)
-+ [Tamkovich-Friske Ian](tamkovich-friske-ian)
-+ [Maxim Rappoport](rappoport-maxim)
++ [Tamkovich Friske Ian](tamkovich-friske-ian)
++ [Zaitsev Vyacheslav](zaitsev-vyacheslav)
+
+[[3]](#a3) <span id="f3"></span> [Clan SS 2017 (Facebook)](http://example.net/article)
+
+[[4]](#a4) <span id="f4"></span> [Clan SS 2017 (Instagram)](http://example.net/article)
+
+
 + Tsenter Krasny
 + Michel Klimin
 
