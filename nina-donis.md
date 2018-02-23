@@ -47,9 +47,9 @@ published: true
 
 # Footnotes
 
-[[1]](#a1) <span id="f1"></span> [Nina Donis A/W 12/13 — fashion film by 4S4R (4S4R)](http://example.net/article)
+[[1]](#a1) <span id="f1"></span> [Nina Donis A/W 12/13 fashion film (4S4R)](http://ninadonis-work.tumblr.com)
 
-[[2]](#a2) <span id="f2"></span> [Небо, море, облака. Обзор Buro 24/7: Nina Donis, весна-лето 2017 (Buro 24/7)](http://example.net/article)
+[[2]](#a2) <span id="f2"></span> [Небо, море, облака. Обзор Buro 24/7: Nina Donis, весна-лето 2017 (Buro 24/7)](https://www.buro247.ru/fashion/fashionshows/obzor-buro-24-7-nina-donis-vesna-leto-2017.html)
 
 [[3]](#a3) <span id="f3"></span> [Nina Donis Friends (Facebook)](https://www.facebook.com/nina.donis/friends)
 
