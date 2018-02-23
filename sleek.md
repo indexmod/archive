@@ -28,9 +28,9 @@ Photo: Sleek / Sleek
 |2015|Moscow|
 |2017|Paris|
 
-# ХХХХХ Indexmod
+# Sleek Indexmod
 
-|Year|Facebook|Instagram|Age|ХХI|
+|Year|Facebook|Instagram|Age|SLI|
 |-|-|-|-|-|
 |2018|ХХ <span id="aХ»>[\[Х\]](#fХ)</span>||ХХ|Х,ХХ|
 |2019|||ХХ||

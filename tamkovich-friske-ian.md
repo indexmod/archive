@@ -4,10 +4,7 @@ permalink: tamkovich-friske-ian
 layout: default
 ---
 
-
-
 # Tamkovich-Friske, Ian
-
 
 (Руc. Ян Тамкович Фриске, Индивидуальный предприниматель; 1993, Razvilka, Moscovskaya Oblast) is a charachter created by Russian artist Nikita Tereshenko who known as Goodwill Ambassador in the “Preraelite” Brotherhood, and also known with his series of provocative photos that includes images of symbols of celebrities having died or killed recently, among them a Russian actress, singer and model Zhanna Friske and scientist, statesman and liberal politician Boris Nemtsov. Ian working and living in Moscow <span id="a1">[\[1\]](#f1)</span>, description-two <span id="a2">[\[2\]](#f2)</span> description-three <span id="a3">[\[3\]](#f3)</span>, extra text. [Edit this page](http://prose.io/#indexmod/encyclopedia/edit/master/tamkovich-friske-ian.md)
 
@@ -28,6 +25,13 @@ Photo: Vlad Chizhenkov / Facebook
 |2014|Tokyo|
 |2015|Moscow|
 |2017|Paris|
+
+# Tamkovich-Friske Indexmod
+
+|Year|Facebook|Instagram|Age|TFI|
+|-|-|-|-|-|
+|2018|ХХ <span id="aХ»>[\[Х\]](#fХ)</span>||ХХ|Х,ХХ|
+|2019|||ХХ||
 
 # See also
 

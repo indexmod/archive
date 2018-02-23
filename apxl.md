@@ -25,9 +25,9 @@ Photo: Andrei Gurotesuku / Indexmod Encyclopedia
 |2015|Moscow|
 |2017|Kiev|
 
-# ХХХХХ Indexmod
+# Apxl Indexmod
 
-|Year|Facebook|Instagram|Age|ХХI|
+|Year|Facebook|Instagram|Age|AXI|
 |-|-|-|-|-|
 |2018|ХХ <span id="aХ»>[\[Х\]](#fХ)</span>||ХХ|Х,ХХ|
 |2019|||ХХ||

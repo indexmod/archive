@@ -26,9 +26,9 @@ layout: default
 
 + “Chinese Pilot Jao Da” Club Moscow (2018)
 
-# Zaloopin Aleksandr Indexmod
+# Zaloopin Indexmod
 
-|Year|Facebook|Instagram|Age|ZAI|
+|Year|Facebook|Instagram|Age|ZLI|
 |-|-|-|-|-|
 |2018|92 <span id="a6">[\[6\]](#f6)</span>||49|0,004508|
 |2019|||50||

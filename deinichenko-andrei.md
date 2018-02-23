@@ -38,9 +38,9 @@ I became a journalist, it being happened, I worked for several years as a Fashio
 
 Andrei has worked with scientists at the “Science for Life Extension”, trained as a cameraman at the website of PostNauka (PostScience). In my creative plan is a series of works in the genre of installation videos to a new audience expand before questions concerning the archaic views of society on the Death and Dying, as well as a new scientific paradigm of life extension and not dying.
 
-# Andrei Deinichenko Indexmod
+# Deinichenko Indexmod
 
-|Year|Facebook|Instagram|Age|ADI|
+|Year|Facebook|Instagram|Age|DEI|
 |-|-|-|-|-|
 |2018|292|32|47|0,001796|
 |2019|||48||

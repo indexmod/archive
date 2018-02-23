@@ -25,6 +25,13 @@ Photo: Alexy Kozyr / Art Radar
 |2015|Moscow|
 |2017|Kiev|
 
+# Antarctic Biennale Indexmod
+
+|Year|Facebook|Instagram|Age|ABI|
+|-|-|-|-|-|
+|2018|ХХ <span id="aХ»>[\[Х\]](#fХ)</span>||ХХ|Х,ХХ|
+|2019|||ХХ||
+
 # See also
 
 - [Source name](http://example.net/)
@@ -39,11 +46,8 @@ Photo: Alexy Kozyr / Art Radar
 
 # Footnotes
 
-[1] First floating Antarctic Biennale to be held in 2016
-[2] “Alexander Ponomarev: The exhibition of contemporary art on the frozen continent”
+`Links update wanted!`
 
-[[1]](#a1) <span id="f1"></span> [Article name (Author name)](http://example.net/article)
+[[1]](#a1) <span id="f1"></span> [First floating Antarctic Biennale to be held in 2016 (Author name)](http://example.net/article)
 
-[[2]](#a2) <span id="f2"></span> [Article name (Author name)](http://example.net/article)
-
-[[3]](#a3) <span id="f3"></span> [Article name (Author name)](http://example.net/article)
+[[2]](#a2) <span id="f2"></span> [“Alexander Ponomarev: The exhibition of contemporary art on the frozen continent” (Author name)](http://example.net/article)

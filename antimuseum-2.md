@@ -102,9 +102,9 @@ Urban Soundscape. Composition #1 (2016)
 Usb Flash Drive, The (2014)
 Vtoraia Zhizn (2015)
 
-# ХХХХХ Indexmod
+# Antimuseum II Indexmod
 
-|Year|Facebook|Instagram|Age|ХХI|
+|Year|Facebook|Instagram|Age|AT2I|
 |-|-|-|-|-|
 |2018|ХХ <span id="aХ»>[\[Х\]](#fХ)</span>||ХХ|Х,ХХ|
 |2019|||ХХ||

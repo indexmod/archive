@@ -20,9 +20,9 @@ Indexmod (2006, Moscow) website and brand based a concept which originates from 
 |2015|Moscow|
 |2017|Kiev|
 
-# ХХХХХ Indexmod
+# Indexmod Encyclopedia Indexmod
 
-|Year|Facebook|Instagram|Age|ХХI|
+|Year|Facebook|Instagram|Age|IEI|
 |-|-|-|-|-|
 |2018|ХХ <span id="aХ»>[\[Х\]](#fХ)</span>||ХХ|Х,ХХ|
 |2019|||ХХ||

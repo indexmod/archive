@@ -29,9 +29,9 @@ Photo: Art-Athina 2015 Catalogue / Art-Athina
 |2015|Moscow|
 |2017|Kiev|
 
-# ХХХХХ Indexmod
+# Art-Athina Indexmod
 
-|Year|Facebook|Instagram|Age|ХХI|
+|Year|Facebook|Instagram|Age|AAI|
 |-|-|-|-|-|
 |2018|ХХ <span id="aХ»>[\[Х\]](#fХ)</span>||ХХ|Х,ХХ|
 |2019|||ХХ||

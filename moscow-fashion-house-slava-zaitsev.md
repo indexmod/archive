@@ -4,10 +4,7 @@ permalink: moscow-fashion-house-slava-zaitsev
 layout: default
 ---
 
-
-
 # Moscow Fashion House Slava Zaitsev
-
 
 (Rus. Московский дом моды «Слава Зайцев», 1983, Moscow) Soviet fashion house founded by Vyacheslav Zaitsev <span id="a1">[\[1\]](#f1)</span>, description-two <span id="a2">[\[2\]](#f2)</span> description-three <span id="a3">[\[3\]](#f3)</span>, extra text. [Edit this page](http://prose.io/#indexmod/encyclopedia/edit/master/moscow-fashion-house-slava-zaitsev.md)
 
@@ -29,9 +26,9 @@ Photo: Name / Source
 |2015|Moscow|
 |2017|Paris|
 
-# ХХХХХ Indexmod
+# Moscow Fashion House Slava Zaitsev Indexmod
 
-|Year|Facebook|Instagram|Age|ХХI|
+|Year|Facebook|Instagram|Age|MFHSZI|
 |-|-|-|-|-|
 |2018|ХХ <span id="aХ»>[\[Х\]](#fХ)</span>||ХХ|Х,ХХ|
 |2019|||ХХ||
@@ -41,12 +38,9 @@ Photo: Name / Source
 + [See also title one](page-template)
 + [See also title two](page-template)
 + [See also title three](page-template)
++ Slava Zaitsev
++ Egor Zaitsev
 
-See also
-Slava Zaitsev
-Egor Zaitsev
-Content
-[1] Footnote link
 
 # Footnotes
 

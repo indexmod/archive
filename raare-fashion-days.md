@@ -28,9 +28,9 @@ Photo: Becycling / Amura Yachts & Lifestyle
 |2015|Moscow|
 |2017|Paris|
 
-# ХХХХХ Indexmod
+# Raare Fashion Days Indexmod
 
-|Year|Facebook|Instagram|Age|ХХI|
+|Year|Facebook|Instagram|Age|RFDI|
 |-|-|-|-|-|
 |2018|ХХ <span id="aХ»>[\[Х\]](#fХ)</span>||ХХ|Х,ХХ|
 |2019|||ХХ||
