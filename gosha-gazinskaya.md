@@ -59,9 +59,9 @@ Photo: Kate Kobzar / Facebook
 + [Firm](firm)
 + [Tamkovich Friske Ian](tamkovich-friske-ian)
 + [Zaitsev Vyacheslav](zaitsev-vyacheslav)
-+ Raare Fashion Days
-+ Vetements
-+ Tamkovych-Friske, Ian
++ [Raare Fashion Days]
++ [Vetements]
++ [Tamkovych-Friske, Ian]
 
 # Footnotes
 
@@ -69,8 +69,9 @@ Photo: Kate Kobzar / Facebook
 
 [[2]](#a2) <span id="f2"></span> [О моде 2027 года. Какой будет и будет ли? (Author name longer)](http://example.net/article)
 
-[[3]](#a3) <span id="f3"></span> [Clan SS 2017 (Facebook)](http://example.net/article)
+[[3]](#a3) <span id="f3"></span> [Name (Facebook)](http://example.net/article)
 
-[[4]](#a4) <span id="f4"></span> [Clan SS 2017 (Instagram)](http://example.net/article)
+[[4]](#a4) <span id="f4"></span> [Name (Instagram)](http://example.net/article)
+
 
 `Last update Feb. 2018 (Andrei Dei)`
