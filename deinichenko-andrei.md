@@ -10,11 +10,10 @@ published: true
 
 (Rus. Андрей Дейниченко, Dei, born. 1971, Aksai) Russian journalist founder of Indexmod, multimedia artist, visioner at the Eta fellowship, <span id="a1">[\[1\]](#f1)</span>, layout and prints designer <span id="a2">[\[2\]](#f2)</span> description-three <span id="a3">[\[3\]](#f3)</span>. [Edit this page](http://prose.io/#indexmod/encyclopedia/edit/master/deinichenko-andrei.md)
 
-![](/encyclopedia/images/image-name.jpg)
+![](https://www.ljplus.ru/img4/d/o/donor_darom/deynichenko.jpg)
 
-`Photo wanted`
 
-**Image caption title**
+**Andrei Dei in 2007**
 
 *Photo: [Photographer name](/photographer-name-page) / [Source name](/source-name-page)*
 
@@ -78,8 +77,6 @@ Andrei has worked with scientists at the “Science for Life Extension”, train
 `Linking wanted`
 
 Andrei Deinichenko at IMDB
-Andrei Deinichenko at Linkedin
-
 
 # Footnotes
 
@@ -87,8 +84,10 @@ Andrei Deinichenko at Linkedin
 
 [[2]](#a2) <span id="f2"></span> [Андрей Дейниченко. Примеры работ (Google Sites)](https://sites.google.com/site/andreideinichenko/)
 
-[[3]](#a3) <span id="f3"></span> [Clan SS 2017 (Facebook)](http://example.net/article)
+[[3]](#a3) <span id="f3"></span> [Name (Facebook)](http://example.net/article)
 
-[[4]](#a4) <span id="f4"></span> [Clan SS 2017 (Instagram)](http://example.net/article)
+[[4]](#a4) <span id="f4"></span> [Name (Instagram)](http://example.net/article)
+
+
 
 `Last edit Feb. 2018 (Andrei Dei)`
