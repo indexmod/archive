@@ -7,7 +7,7 @@ published: true
 
 # Firm
 
- (Rus. Мужская парикмахерская «Фирм», est. 2012, Moscow) is men’s hair salon chain registered in Russia as “Firm Arbat Ltd.” with franchise salons in Kiev, Minsk, Yerevan, Zaporozhye and Vilnius [1] [\[1\]](#f1)</span>. [Edit this page](http://prose.io/#indexmod/encyclopedia/edit/master/firm.md)
+ (Rus. Мужская парикмахерская «Фирм», est. 2012, Moscow) is men’s hair salon chain registered in Russia as “Firm Arbat Ltd.” with franchise salons in Kiev, Minsk, Yerevan, Zaporozhye and Vilnius <span id="a1">[\[1\]](#f1)</span>. [Edit this page](http://prose.io/#indexmod/encyclopedia/edit/master/firm.md)
 
 ![](/encyclopedia/images/image-name.jpg)
 
@@ -15,9 +15,9 @@ published: true
 
 *Photo: [Photographer name](/photographer-name-page) / [Source name](/source-name-page)*
 
-# XXX Indexmod
+# Firm Indexmod
 
-|Year|Facebook|Instagram|Age|XXX|
+|Year|Facebook|Instagram|Age|FII|
 |-|-|-|-|-|
 |2018|ХХ <span id="a3">[\[3\]](#f3)</span>||ХХ <span id="a4">[\[4\]](#f4)</span>|Х,ХХ|
 |2019|||ХХ||
@@ -48,14 +48,13 @@ published: true
 + [Tamkovich Friske Ian](tamkovich-friske-ian)
 + [Zaitsev Vyacheslav](zaitsev-vyacheslav)
 
-[[3]](#a3) <span id="f3"></span> [Clan SS 2017 (Facebook)](http://example.net/article)
-
-[[4]](#a4) <span id="f4"></span> [Clan SS 2017 (Instagram)](http://example.net/article)
-
-
-
 # Footnotes
 
 [[1]](#a1) <span id="f1"></span> [About (Firm)](http://example.net/article)
+
+[[3]](#a3) <span id="f3"></span> [Name (Facebook)](http://example.net/article)
+
+[[4]](#a4) <span id="f4"></span> [Name (Instagram)](http://example.net/article)
+
 
 `Last update Feb. 2018 (Andrei Dei)`
