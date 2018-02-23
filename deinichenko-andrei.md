@@ -45,6 +45,15 @@ Andrei has worked with scientists at the “Science for Life Extension”, train
 |2018|292 <span id="a3">[\[3\]](#f3)</span>|32 <span id="a4">[\[4\]](#f4)</span>|47|0,001796|
 |2019|||48||
 
+# Filmography
+
+|Year|Film (director) role|
+|----|-----|
+|2001|MTV Ruia promo for Garbage (Gleb Orlov) as Homeless <span id="a5">[\[5\]](#f5)</span>|
+|2008|Indigo (Roman Prygunov) as Style Conultant <span id="a5">[\[6\]](#f5)</span>|
+|2008|Indigo (Roman Prygunov) as cameo <span id="a5">[\[7\]](#f5)</span>|
+|2011|Cocktail Master 2011 (Alxei Platonov) as cameo <span id="a5">[\[8\]](#f5)</span>|
+
 # See also update in Feb. 2018
 
 + [Ilia Varegin](varegin-ilia)
@@ -70,13 +79,9 @@ Andrei has worked with scientists at the “Science for Life Extension”, train
 + [Firm](firm)
 + [Tamkovich Friske Ian](tamkovich-friske-ian)
 + [Zaitsev Vyacheslav](zaitsev-vyacheslav)
-+ About Indexmod
-+ Pinea Chrome
-+ Pinea Ferra Home
++ [Pinea Chrome](pinea-chrome)
++ [Pinea Ferra House](pinea-ferra-house)
 
-`Linking wanted`
-
-Andrei Deinichenko at IMDB
 
 # Footnotes
 
@@ -84,10 +89,11 @@ Andrei Deinichenko at IMDB
 
 [[2]](#a2) <span id="f2"></span> [Андрей Дейниченко. Примеры работ (Google Sites)](https://sites.google.com/site/andreideinichenko/)
 
-[[3]](#a3) <span id="f3"></span> [Name (Facebook)](http://example.net/article)
+[[3]](#a3) <span id="f3"></span> [Andrei Deinichenko (Facebook)](https://www.facebook.com/deinichenkoandrei/friends)
 
-[[4]](#a4) <span id="f4"></span> [Name (Instagram)](http://example.net/article)
+[[4]](#a4) <span id="f4"></span> [Andrei Deinichenko (Instagram)](https://www.instagram.com/deinichenkoandrei/)
 
+[[5, 6, 7, 8]](#a5) <span id="f5"></span> [Andrei Deinichenko (IMDB)](http://www.imdb.com/name/nm6826609/)
 
 
 `Last edit Feb. 2018 (Andrei Dei)`
