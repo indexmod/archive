@@ -1,6 +1,6 @@
 ---
 title: Varegin, Ilia
-permalink: griby
+permalink: varegin-ilia
 layout: default
 ---
 
