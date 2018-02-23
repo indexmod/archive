@@ -18,6 +18,8 @@ published: true
 
 # Early collections
 
+|Name|Season|City|
+|-|-|-|
 |Yura|AW 2001/2002|Moscow|
 |Pom-Pon|AW 2001/2002|London|
 |Durman|SS 2002|Moscow|
