@@ -1,7 +1,8 @@
 ---
-title: Romanyuk, Lisa
+title: 'Romanyuk, Lisa'
 permalink: romanyuk-lisa
 layout: default
+published: true
 ---
 
 # Romanyuk, Lisa
@@ -26,7 +27,7 @@ layout: default
 
 |Year|Facebook|Instagram|Age|RMI|
 |-|-|-|-|-|
-|2018|ХХ <span id="aХ»>[\[Х\]](#fХ)</span>||ХХ|Х,ХХ|
+|2018|ХХ <span id="aХ">[\[Х\]](#fХ)</span>||ХХ|Х,ХХ|
 |2019|||ХХ||
 
 # See also
