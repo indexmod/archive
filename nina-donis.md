@@ -11,13 +11,10 @@ published: true
 
 ![](https://vogue.ua/media/cache/resolve/inline_990x/uploads/article-inline/fb9/de8/e8e/5a16e8ede8fb9.jpeg)
 
-**Image caption title**
+**Новая коллекция Nina Donis в Asthik**
 
-Neretina and Pupis at MSU in 2009
-Donis Pupis and Nina Neretina at MSU in 2009
-Photo: Andrei Deinichenko / Lookatme
 
-*Photo: [Photographer name](/photographer-name-page) / [Source name](/source-name-page)*
+*Photo: [Lookbook](nina-donis) / [Vogue Ukraine](https://vogue.ua/article/fashion/brend/novaya-kollekciya-nina-donis-v-asthik.html)*
 
 # Early collections
 
