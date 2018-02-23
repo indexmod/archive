@@ -54,31 +54,13 @@ Andrei has worked with scientists at the “Science for Life Extension”, train
 |2008|Indigo (Roman Prygunov) as cameo <span id="a5">[\[7\]](#f5)</span>|
 |2011|Cocktail Master 2011 (Alxei Platonov) as cameo <span id="a5">[\[8\]](#f5)</span>|
 
-# See also update in Feb. 2018
+# See also
 
-+ [Ilia Varegin](varegin-ilia)
-+ [Vetements](vetements)
-+ [Vemina](vemina)
-+ [Romanyuk Lisa](romanyuk-lisa)
-+ [Raare Fashion Days](raare-fashion-days)
-+ [Nina Donis](nina-donis)
-+ [Moscow Fashion House Slava Zaitsev](moscow-fashion-house-slava-zaitsev)
-+ [Infundibulum](infundibulum)
-+ [Griby](griby)
 + [Gosha Gazinskaya](gosha-gazinskaya)
-+ [Gazinskaya Vika](gazinskaya-vika)
-+ [Galetsky Moscow](galetsky-moscow)
-+ [Galetsky Anton](galetsky-anton)
-+ [Deinichenko Andrei](deinichenko-andrei)
 + [Indexmod Encyclopedia](indexmod-encyclopedia)
 + [Antimuseum](antimuseum)
-+ [Antimuseum-2](antimuseum-2)
-+ [Antarctic Biennale](antarctic-biennale)
 + [APXL](apxl)
-+ [Art Athina](art-athina)
-+ [Firm](firm)
 + [Tamkovich Friske Ian](tamkovich-friske-ian)
-+ [Zaitsev Vyacheslav](zaitsev-vyacheslav)
 + [Pinea Chrome](pinea-chrome)
 + [Pinea Ferra House](pinea-ferra-house)
 
