@@ -15,7 +15,7 @@ published: true
 
 **Andrei Dei in 2007**
 
-*Photo: [Photographer name](/photographer-name-page) / [Source name](/source-name-page)*
+*Photo: [Donor Darom](donor-darom) / [LiveJournal](http://donor-darom.livejournal.com/70036.html)*
 
 # From autobiography
 
