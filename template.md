@@ -1,6 +1,6 @@
 ---
 title: Template
-permalink: page-template
+permalink: template
 layout: default
 published: true
 ---
