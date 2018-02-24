@@ -14,13 +14,6 @@ published: true
 
 *Photo: [Name](index) / [Source](index)*
 
-# {{page.title}} Conspectus
-
-|Year|City|
-|-|-|
-|2014|Tokyo|
-|2017|Paris|
-
 # {{page.title}} Indexmod
 
 |Year|Facebook|Instagram|Age|IMD|
