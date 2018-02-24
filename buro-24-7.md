@@ -40,10 +40,10 @@ published: true
 
 [[1]](#a1) <span id="f1"></span> [У издания о моде Buro 24/7 появился новый главный редактор (Vedomosti, Oct. 2017)](https://www.vedomosti.ru/technology/news/2017/10/30/739822-buro-247)
 
-[[2]](#a2) <span id="f2"></span> [{{page.title}} (Facebook)](index)
+[[2]](#a2) <span id="f2"></span> [{{page.title}} (Facebook)](https://www.facebook.com/Buro247/)
 
-[[3]](#a3) <span id="f3"></span> [{{page.title}} (Instagram)](index)
+[[3]](#a3) <span id="f3"></span> [{{page.title}} (Instagram)](https://www.instagram.com/buro247ru/?hl=ru)
 
-[[4]](#a4) <span id="f4"></span> [{{page.title}} Russia (YouTube)](index)
+[[4]](#a4) <span id="f4"></span> [{{page.title}} Russia (YouTube)](https://www.youtube.com/channel/UCE0w0Nyu7XjBSoF9o1LBDLA/about)
 
 `Last update Jan 2018 by Andrei Dei`
