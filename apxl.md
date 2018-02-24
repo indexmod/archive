@@ -7,7 +7,7 @@ published: true
 
 # Apxl (APXL)
 
-(Est. 2013, city) Apxl (APXL) re-pres. 2016, Moscow—is a set of magnets by 4S4R made for the Internet Yami-Ichi1 as basic particle constructor of graphic information <span id="a1">[\[1\]](#f1)</span>.
+(Est. 2013, city) Apxl (APXL) re-pres. 2016, Moscow—is a set of magnets by 4S4R made for the Internet Yami-Ichi1 as basic particle constructor of graphic information <span id="a1">[\[1\]](#f1)</span>. [Edit this page](http://prose.io/#indexmod/encyclopedia/edit/master/apxl.md)
 
 ![](/images/image-name.jpg)
 
