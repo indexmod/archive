@@ -22,6 +22,12 @@ published: true
 |2013|Founded by Lydia Cutler|
 |2018|Transforming to Aberdeen Fashion & Art Week|
 
+# Aberdeen Fashion Week Indexmod
+
+|Year|Facebook|Instagram|Age|AFWI|
+|-|-|-|-|-|
+|2018|100 <span id="a3">[\[3\]](#f3)</span>|200 <span id="a4">[\[4\]](#f4)</span>|12|0,0025|
+
 
 # See also
 
@@ -33,8 +39,5 @@ published: true
 
 # Footnotes
 
-[[1]](#a1) <span id="f1"></span> [Facebook event Aberdeen Fashion & Art Week (AFAW)]()
+[[1]](#a1) <span id="f1"></span> [Facebook event Aberdeen Fashion & Art Week (AFAW)](index)
 
-Last edited Feb. 2018 {{github.user}})
-
-[Edit the "{{page.title}} page now](http://prose.io/#indexmod/encyclopedia/edit/master/{{page.path}})
