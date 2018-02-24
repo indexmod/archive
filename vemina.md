@@ -2,6 +2,7 @@
 title: Vemina
 permalink: vemina
 layout: default
+published: true
 ---
 
 # Vemina
@@ -30,7 +31,7 @@ Photo: Vemina / Lisa Romanyuk Vemina
 
 |Year|Facebook|Instagram|Age|VEI|
 |-|-|-|-|-|
-|2018|ХХ <span id="aХ»>[\[Х\]](#fХ)</span>||ХХ|Х,ХХ|
+|2018|ХХ <span id="aХ">[\[Х\]](#fХ)</span>||ХХ|Х,ХХ|
 |2019|||ХХ||
 
 # See also

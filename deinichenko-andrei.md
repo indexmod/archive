@@ -1,21 +1,21 @@
 ---
-title: Deinichenko, Andrei
+title: 'Deinichenko, Andrei'
 permalink: deinichenko-andrei
 layout: default
+published: true
 ---
 
 # Deinichenko, Andrei
 
 
-(Rus. Андрей Дейниченко, Dei, born. 1971, Aksai) Russian journalist founder of Indexmod, multimedia artist, visioner at the Eta fellowship, <span id="a1">[\[1\]](#f1)</span>, layout and prints designer <span id="a2">[\[2\]](#f2)</span> description-three <span id="a3">[\[3\]](#f3)</span>. [Edit this page](http://prose.io/#indexmod/encyclopedia/edit/master/deinichenko-andrei.md)
+(Rus. Андрей Дейниченко, Dei, born 1971, Aksai) Russian journalist founder of Indexmod, multimedia artist, actor, visioner at the Eta fellowship, <span id="a1">[\[1\]](#f1)</span>, layout and prints designer <span id="a2">[\[2\]](#f2)</span>. [Edit this page](http://prose.io/#indexmod/encyclopedia/edit/master/deinichenko-andrei.md)
 
-![](/encyclopedia/images/image-name.jpg)
+![](https://www.ljplus.ru/img4/d/o/donor_darom/deynichenko.jpg)
 
-`Photo wanted`
 
-**Image caption title**
+**Andrei Dei in 2007**
 
-*Photo: [Photographer name](/photographer-name-page) / [Source name](/source-name-page)*
+*Photo: [Donor Darom](donor-darom) / [LiveJournal](http://donor-darom.livejournal.com/70036.html)*
 
 # From autobiography
 
@@ -42,43 +42,27 @@ Andrei has worked with scientists at the “Science for Life Extension”, train
 
 |Year|Facebook|Instagram|Age|DEI|
 |-|-|-|-|-|
-|2018|292|32|47|0,001796|
+|2018|292 <span id="a3">[\[3\]](#f3)</span>|32 <span id="a4">[\[4\]](#f4)</span>|47|0,001796|
 |2019|||48||
+
+# Filmography
+
+|Year|Film (director, role)|
+|----|-----|
+|2001|MTV promo for Garbage muic video (Gleb Orlov, as Homeless) <span id="a5">[\[5\]](#f5)</span>|
+|2008|Cotume stylist at Indigo (Roman Prygunov) <span id="a5">[\[6\]](#f5)</span>|
+|2008|Indigo (Roman Prygunov, as Narco) <span id="a5">[\[7\]](#f5)</span>|
+|2011|Cocktail Master 2011 (Alxei Platonov, as Visistor) <span id="a5">[\[8\]](#f5)</span>|
 
 # See also
 
-+ [vetements](vetements)
-+ [vemina](vemina)
-+ [romanyuk-lisa](romanyuk-lisa)
-+ [raare-fashion-days](raare-fashion-days)
-+ [nina-donis](nina-donis)
-+ [moscow-fashion-house-slava-zaitsev](moscow-fashion-house-slava-zaitsev)
-+ [infundibulum](infundibulum)
-+ [griby](griby)
-+ [gosha-gazinskaya](gosha-gazinskaya)
-+ [gazinskaya-vika](gazinskaya-vika)
-+ [galetsky-moscow](galetsky-moscow)
-+ [galetsky-anton](galetsky-anton)
-+ [deinichenko-andrei](deinichenko-andrei)
-+ [indexmod-encyclopedia](indexmod-encyclopedia)
-+ [antimuseum](antimuseum)
-+ [antimuseum-2](antimuseum-2)
-+ [antarctic-biennale](antarctic-biennale)
-+ [apxl](apxl)
-+ [art-athina](art-athina)
-+ [firm](firm)
-+ [tamkovich-friske-ian](tamkovich-friske-ian)
-+ [zaitsev-vyacheslav](zaitsev-vyacheslav)
-+ [4s4r](4s4r)
-+ [Eta (fellowship)](eta-fellowship)
-+ About Indexmod
-+ Pinea Chrome
-+ Pinea Ferra Home
-
-`Linking wanted`
-
-Andrei Deinichenko at IMDB
-Andrei Deinichenko at Linkedin
++ [Gosha Gazinskaya](gosha-gazinskaya)
++ [Indexmod Encyclopedia](indexmod-encyclopedia)
++ [Antimuseum](antimuseum)
++ [APXL](apxl)
++ [Tamkovich Friske Ian](tamkovich-friske-ian)
++ [Pinea Chrome](pinea-chrome)
++ [Pinea Ferra House](pinea-ferra-house)
 
 
 # Footnotes
@@ -87,6 +71,11 @@ Andrei Deinichenko at Linkedin
 
 [[2]](#a2) <span id="f2"></span> [Андрей Дейниченко. Примеры работ (Google Sites)](https://sites.google.com/site/andreideinichenko/)
 
-[[3]](#a3) <span id="f3"></span> [Article name longer so far (Author name too long and much longer)](http://example.net/article)
+[[3]](#a3) <span id="f3"></span> [Andrei Deinichenko (Facebook)](https://www.facebook.com/deinichenkoandrei/friends)
+
+[[4]](#a4) <span id="f4"></span> [Andrei Deinichenko (Instagram)](https://www.instagram.com/deinichenkoandrei/)
+
+[[5, 6, 7, 8]](#a5) <span id="f5"></span> [Andrei Deinichenko (IMDB)](http://www.imdb.com/name/nm6826609/)
+
 
 `Last edit Feb. 2018 (Andrei Dei)`

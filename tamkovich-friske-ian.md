@@ -1,7 +1,8 @@
 ---
-title: Tamkovich-Friske, Ian
+title: 'Tamkovich-Friske, Ian'
 permalink: tamkovich-friske-ian
 layout: default
+published: true
 ---
 
 # Tamkovich-Friske, Ian
@@ -18,51 +19,48 @@ Photo: Vlad Chizhenkov / Facebook
 
 *Photo: [Photographer name](/photographer-name-page) / [Source name](/source-name-page)*
 
-# Conspectus
+# XXX Indexmod
 
-|Year|City|
-|----|-----|
-|2014|Tokyo|
-|2015|Moscow|
-|2017|Paris|
-
-# Tamkovich-Friske Indexmod
-
-|Year|Facebook|Instagram|Age|TFI|
+|Year|Facebook|Instagram|Age|XXX|
 |-|-|-|-|-|
-|2018|ХХ <span id="aХ»>[\[Х\]](#fХ)</span>||ХХ|Х,ХХ|
+|2018|ХХ <span id="a3">[\[3\]](#f3)</span>||ХХ <span id="a4">[\[4\]](#f4)</span>|Х,ХХ|
 |2019|||ХХ||
 
-# See also
+# See also update in Feb. 2018
 
-+ [vetements](vetements)
-+ [vemina](vemina)
-+ [romanyuk-lisa](romanyuk-lisa)
-+ [raare-fashion-days](raare-fashion-days)
-+ [nina-donis](nina-donis)
-+ [moscow-fashion-house-slava-zaitsev](moscow-fashion-house-slava-zaitsev)
-+ [infundibulum](infundibulum)
-+ [griby](griby)
-+ [gosha-gazinskaya](gosha-gazinskaya)
-+ [gazinskaya-vika](gazinskaya-vika)
-+ [galetsky-moscow](galetsky-moscow)
-+ [galetsky-anton](galetsky-anton)
-+ [deinichenko-andrei](deinichenko-andrei)
-+ [indexmod-encyclopedia](indexmod-encyclopedia)
-+ [antimuseum](antimuseum)
-+ [antimuseum-2](antimuseum-2)
-+ [antarctic-biennale](antarctic-biennale)
-+ [apxl](apxl)
-+ [art-athina](art-athina)
-+ [firm](firm)
-+ [tamkovich-friske-ian](tamkovich-friske-ian)
-+ [zaitsev-vyacheslav](zaitsev-vyacheslav)
-+ Gosha Gazinskaya
-+ Tsenter Krasny
-+ Michel Klimin
++ [Ilia Varegin](varegin-ilia)
++ [Vetements](vetements)
++ [Vemina](vemina)
++ [Romanyuk Lisa](romanyuk-lisa)
++ [Raare Fashion Days](raare-fashion-days)
++ [Nina Donis](nina-donis)
++ [Moscow Fashion House Slava Zaitsev](moscow-fashion-house-slava-zaitsev)
++ [Infundibulum](infundibulum)
++ [Griby](griby)
++ [Gosha Gazinskaya](gosha-gazinskaya)
++ [Gazinskaya Vika](gazinskaya-vika)
++ [Galetsky Moscow](galetsky-moscow)
++ [Galetsky Anton](galetsky-anton)
++ [Deinichenko Andrei](deinichenko-andrei)
++ [Indexmod Encyclopedia](indexmod-encyclopedia)
++ [Antimuseum](antimuseum)
++ [Antimuseum-2](antimuseum-2)
++ [Antarctic Biennale](antarctic-biennale)
++ [APXL](apxl)
++ [Art Athina](art-athina)
++ [Firm](firm)
++ [Tamkovich Friske Ian](tamkovich-friske-ian)
++ [Zaitsev Vyacheslav](zaitsev-vyacheslav)
++ [Tsenter Krasny]
++ [Michel Klimin]
 
 # Footnotes
 
 [[1]](#a1) <span id="f1"></span> [Tamkovych-Friske at Indexmod Encyclopedia (old site) (old site)](http://example.net/article)
+
+[[3]](#a3) <span id="f3"></span> [Name (Facebook)](http://example.net/article)
+
+[[4]](#a4) <span id="f4"></span> [Name (Instagram)](http://example.net/article)
+
 
 `Last update Feb. 2018 (Andrei Dei)`

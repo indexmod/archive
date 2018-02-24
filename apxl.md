@@ -2,6 +2,7 @@
 title: Apxl (APXL)
 permalink: apxl
 layout: default
+published: true
 ---
 
 # Apxl (APXL)
@@ -19,40 +20,46 @@ Photo: Andrei Gurotesuku / Indexmod Encyclopedia
 
 # Apxl Indexmod
 
-|Year|Facebook|Instagram|Age|AXI|
+|Year|Facebook|Instagram|Age|XXX|
 |-|-|-|-|-|
-|2018|ХХ <span id="aХ»>[\[Х\]](#fХ)</span>||ХХ|Х,ХХ|
+|2018|ХХ <span id="a3">[\[3\]](#f3)</span>||ХХ <span id="a4">[\[4\]](#f4)</span>|Х,ХХ|
 |2019|||ХХ||
 
-# See also
+# See also update in Feb. 2018
 
-+ [vetements](vetements)
-+ [vemina](vemina)
-+ [romanyuk-lisa](romanyuk-lisa)
-+ [raare-fashion-days](raare-fashion-days)
-+ [nina-donis](nina-donis)
-+ [moscow-fashion-house-slava-zaitsev](moscow-fashion-house-slava-zaitsev)
-+ [infundibulum](infundibulum)
-+ [griby](griby)
-+ [gosha-gazinskaya](gosha-gazinskaya)
-+ [gazinskaya-vika](gazinskaya-vika)
-+ [galetsky-moscow](galetsky-moscow)
-+ [galetsky-anton](galetsky-anton)
-+ [deinichenko-andrei](deinichenko-andrei)
-+ [indexmod-encyclopedia](indexmod-encyclopedia)
-+ [antimuseum](antimuseum)
-+ [antimuseum-2](antimuseum-2)
-+ [antarctic-biennale](antarctic-biennale)
-+ [apxl](apxl)
-+ [art-athina](art-athina)
-+ [firm](firm)
-+ [tamkovich-friske-ian](tamkovich-friske-ian)
-+ [zaitsev-vyacheslav](zaitsev-vyacheslav)
-+ 4S4R
-+ Internet Yami-Ichi
-+ Intektra
-+ Nora Kaza
++ [Ilia Varegin](varegin-ilia)
++ [Vetements](vetements)
++ [Vemina](vemina)
++ [Romanyuk Lisa](romanyuk-lisa)
++ [Raare Fashion Days](raare-fashion-days)
++ [Nina Donis](nina-donis)
++ [Moscow Fashion House Slava Zaitsev](moscow-fashion-house-slava-zaitsev)
++ [Infundibulum](infundibulum)
++ [Griby](griby)
++ [Gosha Gazinskaya](gosha-gazinskaya)
++ [Gazinskaya Vika](gazinskaya-vika)
++ [Galetsky Moscow](galetsky-moscow)
++ [Galetsky Anton](galetsky-anton)
++ [Deinichenko Andrei](deinichenko-andrei)
++ [Indexmod Encyclopedia](indexmod-encyclopedia)
++ [Antimuseum](antimuseum)
++ [Antimuseum-2](antimuseum-2)
++ [Antarctic Biennale](antarctic-biennale)
++ [APXL](apxl)
++ [Art Athina](art-athina)
++ [Firm](firm)
++ [Tamkovich Friske Ian](tamkovich-friske-ian)
++ [Zaitsev Vyacheslav](zaitsev-vyacheslav)
++ [4S4R]
++ [Internet Yami-Ichi]
++ [Intektra]
++ [Nora Kaza]
+
 
 # Footnotes
 
 [[1]](#a1) <span id="f1"></span> [Индикаторы вечности, площадь Самообладания и скелеты эмоций—Polymus (Author name)](http://example.net/article)
+
+[[3]](#a3) <span id="f3"></span> [Clan SS 2017 (Facebook)](http://example.net/article)
+
+[[4]](#a4) <span id="f4"></span> [Clan SS 2017 (Instagram)](http://example.net/article)
