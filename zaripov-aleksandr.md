@@ -6,7 +6,7 @@ layout: default
 
 # Zaripov, Aleksandr
 
-(Est. 2013, city) creator of (Silence Televesion) , music and sound creator, video editor, live perfomancer <span id="a1">[\[1\]](#f1)</span>, description-two <span id="a2">[\[2\]](#f2)</span> description-3 <span id="a3">[\[3\]](#f3)</span>, extra text. [Edit this page](http://prose.io/#indexmod/encyclopedia/edit/master/zaripov-aleksandr.md)
+(Est. 2013, city) creator of (Silence Televesion) , music and sound creator, video editor, live perfomancer <span id="a1">[\[1\]](#f1)</span>, description-two <span id="a2">[\[2\]](#f2)</span> description-3 <span id="a3">[\[3\]](#f3)</span>, extra text.
 
 ![](/images/image-name.jpg)
 

@@ -4,41 +4,39 @@ permalink: page-template
 layout: default
 ---
 
-# Page template
+# {{page.title}}
 
-
-(Est. 2013, city) is a subject, description <span id="a1">[\[1\]](#f1)</span>, description-two <span id="a2">[\[2\]](#f2)</span> description-three <span id="a3">[\[3\]](#f3)</span>, extra text. [Edit this page](http://prose.io/#indexmod/encyclopedia/edit/master/page.md)
+(Est. 2013, city) is a subject, description <span id="a1">[\[1\]](#f1)</span> extra text.
 
 ![](/encyclopedia/images/image-name.jpg)
 
-**Image caption title**
+**Image title**
 
-*Photo: [Photographer](/photographer) / [Source name](/source)*
+*Photo: [Name](index) / [Source](index)*
 
-# Conspectus
+# {{page.title}} Conspectus
 
 |Year|City|
 |-|-|
 |2014|Tokyo|
 |2017|Paris|
 
-# Indexmod
+# {{page.title}} Indexmod
 
 |Year|Facebook|Instagram|Age|IMD|
 |-|-|-|-|-|
-|2018|100000|5000|30|0,25|
-|2019|||31||
+|2018|100 <span id="a3">[\[3\]](#f3)</span>|200 <span id="a4">[\[4\]](#f4)</span>|12|0,0025|
+
 
 # See also
 
-+ [See also title one](page)
-+ [See also title two](page)
-
++ [One](index)
++ [Two](index)
 
 # Footnotes
 
-[[1]](#a1) <span id="f1"></span> [Article (Author)](http://example.net/article)
+[[3]](#a3) <span id="f3"></span> [{{page.title}} (Facebook)](index)
 
-[[2]](#a2) <span id="f2"></span> [Article (Author)](http://example.net/article)
+[[4]](#a4) <span id="f4"></span> [{{page.title}} (Instagram)](index)
 
 `Last edit Feb. 2018 (Andrei Dei)`

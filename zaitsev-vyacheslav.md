@@ -7,7 +7,7 @@ published: true
 
 # Zaitsev, Vyacheslav
 
- (Rus. Слава Зайцев, born 1938, Ivanovo) a Soviet in the past and Russian fashion designer, painter, graphic artist and theatrical costume designer, founder, CEO, creative director of Slava Zaitsev fashion house in Moscow  <span id="a1">[\[1\]](#f1)</span>. [Edit this page](http://prose.io/#indexmod/encyclopedia/edit/master/zaitsev-vyacheslav.md)
+ (Rus. Слава Зайцев, born 1938, Ivanovo) a Soviet in the past and Russian fashion designer, painter, graphic artist and theatrical costume designer, founder, CEO, creative director of Slava Zaitsev fashion house in Moscow  <span id="a1">[\[1\]](#f1)</span>.
 
 ![](http://www.ng.ru/upload/iblock/3e3/60-9-13.jpg)
 
