@@ -1,7 +1,7 @@
 ---
 layout: default
 published: true
-title: Content page
+title: Content
 ---
 
 <ul>
