@@ -7,7 +7,7 @@ published: true
 
 # Antimuseum II
 
-(Rus. Антимузей, часть 2) is a second part of the exhibition project by Electromuseum in March of 2016. [Edit this page](http://prose.io/#indexmod/encyclopedia/edit/master/antimuseum-2.md)
+(Rus. Антимузей, часть 2) is a second part of the exhibition project by Electromuseum in March of 2016.
 
 # Artists
 
@@ -142,4 +142,3 @@ Vtoraia Zhizn (2015)
 [[3]](#a3) <span id="f3"></span> [Name (Facebook)](http://example.net/article)
 
 [[4]](#a4) <span id="f4"></span> [Name (Instagram)](http://example.net/article)
-
