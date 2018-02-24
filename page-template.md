@@ -1,5 +1,5 @@
 ---
-title: Page template
+title: Template
 permalink: page-template
 layout: default
 published: true
