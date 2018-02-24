@@ -55,6 +55,8 @@ published: true
 
 [[4]](#a4) <span id="f4"></span> [Основной нюанс в развитии бренда — это донести собственное видение до окружающих и не расплескать его, сформировать вокруг себя новую культуру (Андрей Божьев, Ditelegraph)](http://ditelegraph.ru/members/news/37)
 
-[[5]](#a5) <span id="f5"></span> [Lecharlatan (Facebook)](https://www.facebook.com/pg/lecharlatanofficial/community)
+[[5]](#a5) <span id="f5"></span> [{{page.title}} (Facebook)](https://www.facebook.com/pg/lecharlatanofficial/community)
 
-[[6]](#a6) <span id="f6"></span> [Lecharlatan (Instagram)](https://www.instagram.com/lecharlatanru/)
+[[6]](#a6) <span id="f6"></span> [{{page.title}} (Instagram)](https://www.instagram.com/lecharlatanru/)
+
+[[7]](#a7) <span id="f7»></span> [{{page.title}} (YouTube)](https://www.youtube.com/channel/UCBR-dSrqop9Yb5neMGugH5A/about)
