@@ -54,7 +54,4 @@ Indexmod was established as brand and concept from the idea of visualization of 
 [[4]](#a4) <span id="f4"></span> [Name (Instagram)](http://example.net/article)
 
 
-
-
-
 `Last update Feb. 2018 (Andrei Dei)`
