@@ -3,8 +3,7 @@ layout: default
 published: true
 title: ABC
 ---
-\Warning!\
-\\ Attention!
+<!--- Attention --->
 
 # ABC
 
