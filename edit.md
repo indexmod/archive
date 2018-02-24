@@ -2,11 +2,16 @@
 title: How to edit
 permalink: edit
 layout: default
+published: true
 ---
 
-# How to edit
+# Start with template
 
-The aim of Indexmod Encyclopedia to simplify wiki syntax for a pretty and light format. Following checklist explains few steps of creating and editing beautiful articles in Indexmod Encyclopedia. See [Page template](page-template.md) for details.
+Just go [Page template](page-template.md) copy it and paste in to new empty .md file.
+
+# Briefly
+
+The aim of Indexmod Encyclopedia to simplify wiki syntax for a pretty and light format. Following checklist explains few steps of creating and editing beautiful articles in Indexmod Encyclopedia.
 
 #  Front matter
 
