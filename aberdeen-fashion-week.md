@@ -35,4 +35,6 @@ published: true
 
 [[1]](#a1) <span id="f1"></span> [Facebook event Aberdeen Fashion & Art Week (AFAW)]()
 
-`Last edited Feb. 2018 (Andrei Dei)`
+Last edited Feb. 2018 {{github.user}})
+
+[Edit the "{{page.title}} page now](http://prose.io/#indexmod/encyclopedia/edit/master/{{page.path}})
