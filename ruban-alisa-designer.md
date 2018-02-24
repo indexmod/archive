@@ -1,7 +1,8 @@
 ---
 title: Page template
-permalink: ruban-alisa-designer
+permalink: x
 layout: default
+published: true
 ---
 
 
