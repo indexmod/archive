@@ -59,4 +59,4 @@ published: true
 
 [[6]](#a6) <span id="f6"></span> [{{page.title}} (Instagram)](https://www.instagram.com/lecharlatanru/)
 
-[[7]](#a7) <span id="f7"></span> [{{page.title}} (YouTube)](https://www.youtube.com/channelUCBR-dSrqop9Yb5neMGugH5A/about)
+[[7]](#a7) <span id="f7"></span> [Lecharlatan Show (YouTube)](https://www.youtube.com/channelUCBR-dSrqop9Yb5neMGugH5A/about)
