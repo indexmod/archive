@@ -43,7 +43,7 @@ published: true
 
 |Year|Facebook|Instagram|YouTube|Age|LCI|
 |-|-|-|-|-|-|
-|2018|719 <span id="a5">[\[5\]](#f5)</span>|4235 <span id="a6">[\[6\]](#f6)</span>|3380|5|0,021854|
+|2018|719 <span id="a5">[\[5\]](#f5)</span>|4235 <span id="a6">[\[6\]](#f6)</span>|3380 <span id="a7">[\[7\]](#f7)</span>|5|0,021854|
 
 # Footnotes
 
