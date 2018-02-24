@@ -5,8 +5,8 @@ layout: default
 published: true
 ---
 ---
-title: Template
-permalink: template
+title: Артём Ушан о “Вайп”
+permalink: artem-ushan-o-festivale-vipe
 layout: default
 published: true
 ---
