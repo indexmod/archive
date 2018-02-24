@@ -8,11 +8,8 @@ published: true
 # Spletnik (site)
 
 
-<<<<<<< HEAD
-(Est. 2007, Moscow) Russian web-site about celebrities founded by Polina Deripaska on the base of blog by Tatiana Nikonova <span id="a1">[\[1\]](#f1)</span>, including with other sites as The Village, Wonderzine, Look at me and operate under "Creative Media" LLC under Forward Media Group. Monthly readers about 4 and 36 million of auditoria and visits with head office on Rochelskaya street in Moscow <span id="a2">[\[2\]](#f2)</span>. [Edit this page](http://prose.io/#indexmod/encyclopedia/edit/master/spletnik-site.md)
-=======
-(Est. 2007, Moscow) is site about celebrities founded by Polina Deripaska on the base of blog by Tatiana Nikonova <span id="a1">[\[1\]](#f1)</span>, included together with The Village, Wonderzine, Look At Me sites, managing under "Creative Media" LLC with monthly readers about 4 and 36 million of auditoria and visits <span id="a2">[\[2\]](#f2)</span>. [Edit this page](http://prose.io/#indexmod/encyclopedia/edit/master/spletnik-site.md)
->>>>>>> cc6d43f6b7467cfccfed9df1f541ed2bc5474cdd
+
+(Est. 2007, Moscow) Russian web-site about celebrities founded by Polina Deripaska on the base of blog by Tatiana Nikonova <span id="a1">[\[1\]](#f1)</span>, including with other sites as The Village, Wonderzine, Look at me and operate under "Creative Media" LLC under Forward Media Group. Monthly readers about 4 and 36 million of auditoria and visits with head office on Rochelskaya street in Moscow <span id="a2">[\[2\]](#f2)</span>.
 
 ![](http://www.vsedomarossii.ru/photos/area_77/city_2815/street_12408/148205_1.jpg)
 
@@ -28,21 +25,12 @@ published: true
 
 
 # Spletnik Indexmod
-<<<<<<< HEAD
 
 |Year|Facebook|280000|Age|Indexmod|
 |----|-----|||
 |2017|61796|310000|11|
 |2018|||11|
 |Indexmod|61796|310000|11||
-=======
-
-|Year|Facebook|Instagram|Age|SPI|
-|-|-|-|-|-|
-|2017|61796 <span id="a2">[\[3\]](#f2)</span>|310000 <span id="a2">[\[4\]](#f2)</span>|11|4,089756|
-|2018|||12||
-
->>>>>>> cc6d43f6b7467cfccfed9df1f541ed2bc5474cdd
 
 # See also
 

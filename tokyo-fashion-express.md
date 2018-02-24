@@ -6,7 +6,7 @@ layout: default
 
 # Tokyo Fashion Express
 
-(Est. 2013, city) is a TV programm produced by NHK, <span id="a1">[\[1\]](#f1)</span>. [Edit this page](http://prose.io/#indexmod/encyclopedia/edit/master/tokyo-fashion-express.md)
+(Est. 2013, city) is a TV programm produced by NHK, <span id="a1">[\[1\]](#f1)</span>.
 
 ![](https://www3.nhk.or.jp/nhkworld/en/tv/tokyofashion/update/program20180212_3.jpg)
 

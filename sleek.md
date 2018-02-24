@@ -6,7 +6,7 @@ layout: default
 
 # Sleek
 
-(Est. 2003, Berlin) is an online and quarterly printed magazine with an avant-garde attitude to art and fashion. Devoted to the artists, designers and photographers, a connector between art, fashion and their related disciplines <span id="a1">[\[1\]](#f1)</span>. [Edit this page](http://prose.io/#indexmod/encyclopedia/edit/master/sleek.md)
+(Est. 2003, Berlin) is an online and quarterly printed magazine with an avant-garde attitude to art and fashion. Devoted to the artists, designers and photographers, a connector between art, fashion and their related disciplines <span id="a1">[\[1\]](#f1)</span>.
 
 ![](/encyclopedia/images/image-name.jpg)
 
