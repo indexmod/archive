@@ -7,7 +7,7 @@ published: true
 
 # {{page.title}}
 
-(Est. 2013, city) is a subject, description <span id="a1">[\[1\]](#f1)</span> extra text.
+(Rus. АЕС+Ф, est. 1987, Moscow) is one of the most commercially successful Russian art group formedi by Tatiana Arzamasova, Lev Evzovich and Evgeny Svyatsky, and than expanded with the addition of the photographer Vladimir Fridkes in 1995 <span id="a1">[\[1\]](#f1)</span>.
 
 ![](/encyclopedia/images/image-name.jpg)
 
