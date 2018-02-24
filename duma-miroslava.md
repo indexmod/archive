@@ -41,7 +41,7 @@ On January 23, designer Ulyana Sergeyenko presented her summer collection of clo
 
 |Year|Facebook|Instagram|YouTube|Age|IMD|
 |-|-|-|-|-|
-|2018|100 <span id="a3">[\[3\]](#f3)</span>|200 <span id="a4">[\[4\]](#f4)</span>|300 <span id="a4">[\[4\]](#f4)</span>|12|0,0025|
+|2018|100 <span id="a3">[\[3\]](#f3)</span>|200 <span id="a4">[\[4\]](#f4)</span>|xx <span id="a4">[\[4\]](#f4)</span>|12|0,0025|
 
 # Footnotes
 
