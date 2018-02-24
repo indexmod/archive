@@ -1,15 +1,11 @@
 ---
-title: Артем Ушан о фестивале Вайп
+title: Артем Ушан о фестивале "Вайп"
 permalink: artyom-ushan-o-festivale-wipe
 layout: default
 published: true
 ---
 ---
-title: Артём Ушан о “Вайп”
-permalink: artem-ushan-o-festivale-vipe
-layout: default
-published: true
----
+title: Артём Ушан о “В
 
 # {{page.title}}
 
