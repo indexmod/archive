@@ -6,7 +6,7 @@ layout: default
 
 # Zhunev, Alexander
 
- (Rus. Александр Жунев) born 1984, Perm1—Russian street artist working in different technics like 3D drawings on the facades, stencils and posters, paintings on the facades, Perm animal style and other ethnic motifs, drawings on volumetric objects with play on shapes, installation of unusual materials <span id="a1">[\[1\]](#f1)</span>, description-two <span id="a2">[\[2\]](#f2)</span> description-3 <span id="a3">[\[3\]](#f3)</span>, extra text.
+ (Rus. Александр Жунев) born 1984, Perm1—Russian street artist working in different technics like 3D drawings on the facades, stencils and posters, paintings on the facades, Perm animal style and other ethnic motifs, drawings on volumetric objects with play on shapes, installation of unusual materials <span id="a1">[\[1\]](#f1)</span>, description-two <span id="a2">[\[2\]](#f2)</span> description-3 <span id="a3">[\[3\]](#f3)</span>, extra text. [Edit this page](http://prose.io/#indexmod/encyclopedia/edit/master/zhunev-alexander.md)
 
 ![](/images/image-name.jpg)
 

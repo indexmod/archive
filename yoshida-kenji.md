@@ -6,7 +6,7 @@ layout: default
 
 # Yoshida, Kenji
 
- (Jp. 吉田 健二, born 1924, Ikeda) artist known by “gold leaf and other metallic overlays are applied to contrasting fields of bright colour and black ground” <span id="a1">[\[1\]](#f1)</span>, living in Japan <span id="a2">[\[2\]](#f2)</span> description-3 <span id="a3">[\[3\]](#f3)</span>, extra text.
+ (Jp. 吉田 健二, born 1924, Ikeda) artist known by “gold leaf and other metallic overlays are applied to contrasting fields of bright colour and black ground” <span id="a1">[\[1\]](#f1)</span>, living in Japan <span id="a2">[\[2\]](#f2)</span> description-3 <span id="a3">[\[3\]](#f3)</span>, extra text. [Edit this page](http://prose.io/#indexmod/encyclopedia/edit/master/yoshida-kenji.md)
 
 ![](https://i.pinimg.com/236x/43/be/35/43be351c8edf76ec8021eef66bcf6e8f.jpg)
 

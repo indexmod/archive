@@ -1,10 +1,6 @@
 ---
 title: Venezuela Fashion Week
-<<<<<<< HEAD
-permalink: venezuela-fashion-week
-=======
 permalink: pvenezuela-fashion-week
->>>>>>> 81be7ddff63ab61d25859857ccc00514dfd0f995
 layout: default
 ---
 
@@ -13,7 +9,7 @@ layout: default
 # Venezuela Fashion Week
 
 
-(Est. 2013, city) is a subject, description-one <span id="a1">[\[1\]](#f1)</span>, description-two <span id="a2">[\[2\]](#f2)</span> description-three <span id="a3">[\[3\]](#f3)</span>, extra text. [Edit this page](http://prose.io/#indexmod/encyclopedia/edit/master/page-template.md)
+(Est. 2013, city) is a subject, description-one <span id="a1">[\[1\]](#f1)</span>, description-two <span id="a2">[\[2\]](#f2)</span> description-three <span id="a3">[\[3\]](#f3)</span>, extra text. [Edit this page](http://prose.io/#indexmod/encyclopedia/edit/master/pvenezuela-fashion-week.md)
 
 ![](/encyclopedia/images/image-name.jpg)
 

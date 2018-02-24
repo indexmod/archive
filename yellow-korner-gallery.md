@@ -6,7 +6,7 @@ layout: default
 
 # Yellow Korner (gallery)
 
-(Est. 2013, city) French online gallery and publishing house established in 2006 by Alexandre de Metz and Paul-Antoine Briat. Gallery introduces the photographers from all over the world increasing the number of copies to make it accessible to many collectors <span id="a1">[\[1\]](#f1)</span>, description-two <span id="a2">[\[2\]](#f2)</span> description-3 <span id="a3">[\[3\]](#f3)</span>, extra text.
+(Est. 2013, city) French online gallery and publishing house established in 2006 by Alexandre de Metz and Paul-Antoine Briat. Gallery introduces the photographers from all over the world increasing the number of copies to make it accessible to many collectors <span id="a1">[\[1\]](#f1)</span>, description-two <span id="a2">[\[2\]](#f2)</span> description-3 <span id="a3">[\[3\]](#f3)</span>, extra text. [Edit this page](http://prose.io/#indexmod/encyclopedia/edit/master/yellow-korner-gallery.md)
 
 ![](/images/image-name.jpg)
 
@@ -38,7 +38,7 @@ layout: default
 Artfido
 Bert Stern
 Léon Gimpel
-Vincent Sung 
+Vincent Sung
 
 - [Source name](http://example.net/)
 - [Source name](http://example.net/)

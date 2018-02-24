@@ -1,8 +1,7 @@
 ---
-title: 'Sergeenko, Ulyana'
+title: Sergeenko, Ulyana
 permalink: sergeenko-ulyana
 layout: default
-published: true
 ---
 
 # Sergeenko, Ulyana

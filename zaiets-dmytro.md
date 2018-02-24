@@ -6,7 +6,7 @@ layout: default
 
 # Zaiets, Dmytro
 
-(Rus. Дмитрий Заец) born 1985, Kharkiv—an independed cultural sociologist, co-counder of Partizaning movement, M.A. in Sociology at Lancaster University, Ph.D in Sociology at V. Karazin Kharkiv National University. <span id="a1">[\[1\]](#f1)</span>, description-two <span id="a2">[\[2\]](#f2)</span> description-3 <span id="a3">[\[3\]](#f3)</span>, extra text.
+(Rus. Дмитрий Заец) born 1985, Kharkiv—an independed cultural sociologist, co-counder of Partizaning movement, M.A. in Sociology at Lancaster University, Ph.D in Sociology at V. Karazin Kharkiv National University. <span id="a1">[\[1\]](#f1)</span>, description-two <span id="a2">[\[2\]](#f2)</span> description-3 <span id="a3">[\[3\]](#f3)</span>, extra text. [Edit this page](http://prose.io/#indexmod/encyclopedia/edit/master/zaiets-dmytro.md)
 
 ![](/images/image-name.jpg)
 
@@ -27,7 +27,7 @@ layout: default
 Partizaning (disambiguation)
 Anton Polsky (Make)
 Igor Ponosov
-Shriya Malhotra 
+Shriya Malhotra
 
 - [Source name](http://example.net/)
 - [Source name](http://example.net/)
