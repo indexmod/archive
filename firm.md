@@ -7,7 +7,7 @@ published: true
 
 # Firm
 
- (Rus. Мужская парикмахерская «Фирм», est. 2012, Moscow) is men’s hair salon chain registered in Russia as “Firm Arbat Ltd.” with franchise salons in Kiev, Minsk, Yerevan, Zaporozhye and Vilnius <span id="a1">[\[1\]](#f1)</span>. [Edit this page](http://prose.io/#indexmod/encyclopedia/edit/master/firm.md)
+ (Rus. Мужская парикмахерская «Фирм», est. 2012, Moscow) is men’s hair salon chain registered in Russia as “Firm Arbat Ltd.” with franchise salons in Kiev, Minsk, Yerevan, Zaporozhye and Vilnius <span id="a1">[\[1\]](#f1)</span>.
 
 ![](/encyclopedia/images/image-name.jpg)
 
