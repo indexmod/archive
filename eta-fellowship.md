@@ -52,6 +52,12 @@ The name of the fellowship "Eta" comes from Russian «Эта» — pronunciation
 |2017|Applying to Plums Fest|
 |2018|Mars Triangulation Project|
 
+# Eta Indexmod
+
+|Year|Facebook|Instagram|YouTube|Age|ETI|
+|-|-|-|-|-|
+|2018|100 <span id="a3">[\[3\]](#f3)</span>|200 <span id="a4">[\[4\]](#f4)</span>|300 <span id="a4">[\[4\]](#f4)</span>|12|0,0025|
+
 
 # See also
 
