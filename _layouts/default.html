@@ -34,7 +34,10 @@
     <div class="wrapper">
         <header>
             <p>{{ site.time | date_to_long_string }}</p>
-            <p><a href="http://prose.io/#indexmod/encyclopedia/edit/master/{{page.path}}"> Edit ({{page.title}}) now!</a></p>
+            <p><a href="http://prose.io/#indexmod/encyclopedia/edit/master/{{page.path}}"> Edit the “{{page.title}}” page now!</a></p>
+           
+
+
         </header>
         <section>
             {{ content | toc }}
