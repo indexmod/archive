@@ -1,5 +1,5 @@
 ---
-title: Артем Ушан о фестивале "Вайп"
+title: Артем Ушан о фестивале Вайп
 permalink: artyom-ushan-o-festivale-wipe
 layout: default
 published: true
