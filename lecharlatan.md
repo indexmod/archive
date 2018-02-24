@@ -49,14 +49,14 @@ published: true
 
 [[1]](#a1) <span id="f1"></span> [Spelling it out: why Cyrillic slogan streetwear is the new punk uniform for post-Soviet teens (Sasha Raspopina, The Calvert Journal)](http://calvertjournal.com/articles/show/6278/cyrillic-slogan-streetwear-clothing-rubchinskiy-vetements)
 
-[[2]](#a2) <span id="f2"></span> [Молодая кровь: LECHARLATAN (Лена Нагаева, Be in)](http://www.be-in.ru/people/35783-lecharlatan)
+[[2]](#a2) <span id="f2"></span> [Молодая кровь: Lecharlatan (Лена Нагаева, Be in)](http://www.be-in.ru/people/35783-lecharlatan)
 
 [[3]](#a3) <span id="f3"></span> [Le Charlatan: Носки и гольфы родом из Москвы (Олеся Ива, Wonderzine)](http://www.wonderzine.com/wonderzine/style/new_faces/200619-le-charlatan-socks)
 
 [[4]](#a4) <span id="f4"></span> [Основной нюанс в развитии бренда — это донести собственное видение до окружающих и не расплескать его, сформировать вокруг себя новую культуру (Андрей Божьев, Ditelegraph)](http://ditelegraph.ru/members/news/37)
 
-[[5]](#a5) <span id="f5"></span> [{{page.title}} (Facebook)](https://www.facebook.com/pg/lecharlatanofficial/community)
+[[5]](#a5) <span id="f5"></span> [Lecharlatan (Facebook)](https://www.facebook.com/pg/lecharlatanofficial/community)
 
-[[6]](#a6) <span id="f6"></span> [{{page.title}} (Instagram)](https://www.instagram.com/lecharlatanru/)
+[[6]](#a6) <span id="f6"></span> [Lecharlatan (Instagram)](https://www.instagram.com/lecharlatanru/)
 
 [[7]](#a7) <span id="f7"></span> [Lecharlatan Show (YouTube)](https://www.youtube.com/channelUCBR-dSrqop9Yb5neMGugH5A/about)
