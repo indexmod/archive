@@ -1,10 +1,10 @@
 ---
 permalink: portfolio
 layout: default
-title: Portfolio Andrei Deinichenko
+title: Portfolio
 ---
 
-# Portfolio Andrei Deinichenko
+# Porfolio
 
 # Инфографика
 
@@ -14,19 +14,22 @@ title: Portfolio Andrei Deinichenko
 
 |A 001|002|
 |--|--|
-|Видео-презентация для конференции Французская компания «Tempo Money Transfer», Москва, 2015|Видео-презентация для конференции Французская компания «Tempo Money Transfer», Москва, 2015|
+|Видео-презентация для конференции|Видео-презентация для конференции|
+|«Tempo Money Transfer», Москва, 2015|«Tempo Money Transfer», Москва, 2015|
 
 
 
-
-
+![](/encyclopedia/images/oprf-1.png) ![](/encyclopedia/images/oprf-2.png)
 
 **B 001	 B 002**
 
-*B 001, 002
-Инфографика Общественная палата Российской Федерации, Москва, 2015*
+|B 001|002|
+|-|-|
+|Инфографика|
+|Общественная палата Российской Федерации, Москва, 2015
 
 
+![](/encyclopedia/images/atlas-1.png) ![](/encyclopedia/images/atlas-2.png)
 
 **C 003	 C 004**
 
@@ -102,10 +105,6 @@ J 005
 Совместный проект с журналом «Новости космонавтики», Москва 2009 — 2010
 
 Редактор
-
-
-
-
 
 Съемки, макеты и редактура для раздела «Стиль» в журнале GQ
 ЗАО «Конде Наст», Москва, 2001 — 2004
