@@ -8,25 +8,19 @@ title: Portfolio
 
 # Инфографика
 
-![](/encyclopedia/images/tempo-1.png) ![](/encyclopedia/images/tempo-2.png)
-
-**A 001 A 002**
-
-|A 001|002|
+|![](/encyclopedia/images/tempo-1.png)| ![](/encyclopedia/images/tempo-2.png)|
 |--|--|
-|Видео-презентация для конференции|Видео-презентация для конференции|
+|A 001|A 002|
+| A 001 Видео-презентация для конференции| A 002 Видео-презентация для конференции|
 |«Tempo Money Transfer», Москва, 2015|«Tempo Money Transfer», Москва, 2015|
 
 
 
-![](/encyclopedia/images/oprf-1.png) ![](/encyclopedia/images/oprf-2.png)
-
-**B 001	 B 002**
-
-|B 001|002|
+|![](/encyclopedia/images/oprf-1.png)| ![](/encyclopedia/images/oprf-2.png)|
 |-|-|
-|Инфографика|
-|Общественная палата Российской Федерации, Москва, 2015
+|B 001|002|
+|Инфографика|Инфографика|
+|Общественная палата Российской Федерации, Москва, 2015|Общественная палата Российской Федерации, Москва, 2015|
 
 
 ![](/encyclopedia/images/atlas-1.png) ![](/encyclopedia/images/atlas-2.png)
@@ -39,7 +33,8 @@ title: Portfolio
 
 # Видео-интервью
 
-![](/encyclopedia/images/bkk-1.png) ![](/encyclopedia/images/alena-1.png)
+![](/encyclopedia/images/bkk-1.png)
+![](/encyclopedia/images/alena-1.png)
 ![](/encyclopedia/images/batin-1.png)
 
 
@@ -58,6 +53,11 @@ title: Portfolio
 Фонд «Наука за продление жизни», Москва, 2013*
 
 # Арт-директор
+
+![](/encyclopedia/images/spisok-1.jpg)
+![](/encyclopedia/images/spisok-2.jpg)
+![](/encyclopedia/images/spisok-3.jpg)
+![](/encyclopedia/images/spisok-4.jpg)
 
 **G 001	G 002	G 003	G 004**
 
