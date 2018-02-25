@@ -2,6 +2,7 @@
 title: Sleek
 permalink: sleek
 layout: default
+published: true
 ---
 
 # Sleek

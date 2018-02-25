@@ -7,7 +7,7 @@ published: true
 
 # Lecharlatan (socks)
 
-(Est. 2013, Moscow) is a clothing brand, Russian streetwear brand <span id="a1">[\[1\]](#f1)</span>, an independent label providing high quality socks founded Le Charlatan by Andrey Bozhyev <span id="a2">[\[2\]](#f2)</span> and Maria Aldarova <span id="a3">[\[3\]](#f3)</span>, later purchased from co-founder and registered as Lecharlatan by Andrey Bozhyev (2015). Partner of the TEDxSadovoeRing <span id="a4">[\[4\]](#f4)</span>. [Edit this page](http://prose.io/#indexmod/encyclopedia/edit/master/lecharlatan.md)
+(Est. 2013, Moscow) is a clothing brand, Russian streetwear brand <span id="a1">[\[1\]](#f1)</span>, an independent label providing high quality socks founded Le Charlatan by Andrey Bozhyev <span id="a2">[\[2\]](#f2)</span> and Maria Aldarova <span id="a3">[\[3\]](#f3)</span>, later purchased from co-founder and registered as Lecharlatan by Andrey Bozhyev (2015). Partner of the TEDxSadovoeRing <span id="a4">[\[4\]](#f4)</span>. 
 
 ![](https://static01.nyt.com/images/2015/07/05/arts/05SNAPSHOT/05SNAPSHOT-blog427.jpg)
 
@@ -41,16 +41,15 @@ published: true
 
 # Lecharlatan Indexmod
 
-|Year|Facebook|Instagram|Age|LCI|
-|-|-|-|-|-|
-|2018|719 <span id="a5">[\[5\]](#f5)</span>|4235 <span id="a6">[\[6\]](#f6)</span>|5|0,02477|
-|2019|||6||
+|Year|Facebook|Instagram|YouTube|Age|LCI|
+|-|-|-|-|-|-|
+|2018|719 <span id="a5">[\[5\]](#f5)</span>|4235 <span id="a6">[\[6\]](#f6)</span>|3380 <span id="a7">[\[7\]](#f7)</span>|5|0,021854|
 
 # Footnotes
 
 [[1]](#a1) <span id="f1"></span> [Spelling it out: why Cyrillic slogan streetwear is the new punk uniform for post-Soviet teens (Sasha Raspopina, The Calvert Journal)](http://calvertjournal.com/articles/show/6278/cyrillic-slogan-streetwear-clothing-rubchinskiy-vetements)
 
-[[2]](#a2) <span id="f2"></span> [Молодая кровь: LECHARLATAN (Лена Нагаева, Be in)](http://www.be-in.ru/people/35783-lecharlatan)
+[[2]](#a2) <span id="f2"></span> [Молодая кровь: Lecharlatan (Лена Нагаева, Be in)](http://www.be-in.ru/people/35783-lecharlatan)
 
 [[3]](#a3) <span id="f3"></span> [Le Charlatan: Носки и гольфы родом из Москвы (Олеся Ива, Wonderzine)](http://www.wonderzine.com/wonderzine/style/new_faces/200619-le-charlatan-socks)
 
@@ -59,3 +58,5 @@ published: true
 [[5]](#a5) <span id="f5"></span> [Lecharlatan (Facebook)](https://www.facebook.com/pg/lecharlatanofficial/community)
 
 [[6]](#a6) <span id="f6"></span> [Lecharlatan (Instagram)](https://www.instagram.com/lecharlatanru/)
+
+[[7]](#a7) <span id="f7"></span> [Lecharlatan Show (YouTube)](https://www.youtube.com/channelUCBR-dSrqop9Yb5neMGugH5A/about)

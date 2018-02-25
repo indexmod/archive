@@ -2,11 +2,12 @@
 title: Seoul Fashion Week
 permalink: seoul-fashion-week
 layout: default
+published: true
 ---
 
 # Seoul Fashion Week
 
-(Est. 2013, city) is a subject, description-one <span id="a1">[\[1\]](#f1)</span>, description-two <span id="a2">[\[2\]](#f2)</span> description-three <span id="a3">[\[3\]](#f3)</span>, extra text. [Edit this page](http://prose.io/#indexmod/encyclopedia/edit/master/seoul-fashion-week.md)
+(Est. 2013, city) is a subject, description-one <span id="a1">[\[1\]](#f1)</span>, description-two <span id="a2">[\[2\]](#f2)</span> description-three <span id="a3">[\[3\]](#f3)</span>, extra text.
 
 ![](/encyclopedia/images/image-name.jpg)
 

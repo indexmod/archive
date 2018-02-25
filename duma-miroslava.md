@@ -5,7 +5,7 @@ layout: default
 published: true
 ---
 
-# Duma, Miroslava
+# {{page.title}}
 
 (Born 1985, Surgut) model, journalist from Russia <span id="a1">[\[1\]](#f1)</span>, founder of Buro 24/7, ambassador of Chanel (2013), spokeswoman in "Chime for Change" by Gucci <span id="a2">[\[2\]](#f2)</span>, graduated MGIMO (Masters in International Business Administration). From 2007 worked for Harper’s Bazaar, Axel Springer Russia, Conde Nast and TSUM Moscow.
 
@@ -36,6 +36,12 @@ On January 23, designer Ulyana Sergeyenko presented her summer collection of clo
 + [Buro 24/7](buro-24-7)
 + [Fashion Tech Lab](fashion-tech-lab)
 + [Ulyana Sergeenko](sergeenko-ulyana)
+
+# {{page.title}} Indexmod
+
+|Year|Facebook|Instagram|YouTube|Age|IMD|
+|-|-|-|-|-|
+|2018|100 <span id="a3">[\[3\]](#f3)</span>|200 <span id="a4">[\[4\]](#f4)</span>|xx <span id="a4">[\[4\]](#f4)</span>|12|0,0025|
 
 # Footnotes
 

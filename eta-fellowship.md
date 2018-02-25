@@ -6,7 +6,7 @@ published: true
 ---
 # Eta (fellowship)
 
-(Rus. Товарищество «Эта», est. 2017, Mozzhinka) is a creative fellowship based in Moscow, founded by Maksim Kamo and Andrei Dei with aim to visualize of science data. In 2017 also collaborated with Petro Sanchuk, Elvira Kuznetsova and Mikhael Oshin. [Edit this page](http://prose.io/#indexmod/encyclopedia/edit/master/eta-fellowship.md)
+(Rus. Товарищество «Эта», est. 2017, Mozzhinka) is a creative fellowship based in Moscow, founded by Maksim Kamo and Andrei Dei with aim to visualize of science data. In 2017 also collaborated with Petro Sanchuk, Elvira Kuznetsova and Mikhael Oshin.
 
 ![](/encyclopedia/images/eta-2018.png)
 
@@ -51,6 +51,12 @@ The name of the fellowship "Eta" comes from Russian «Эта» — pronunciation
 |2017|The Geophysical Center of the Russian Academy of Sciences <span id="a1">[\[1\]](#f1)</span>|
 |2017|Applying to Plums Fest|
 |2018|Mars Triangulation Project|
+
+# Eta Indexmod
+
+|Year|Facebook|Instagram|YouTube|Age|ETI|
+|-|-|-|-|-|
+|2018|100 <span id="a3">[\[3\]](#f3)</span>|200 <span id="a4">[\[4\]](#f4)</span>|300 <span id="a4">[\[4\]](#f4)</span>|12|0,0025|
 
 
 # See also

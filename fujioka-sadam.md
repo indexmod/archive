@@ -1,7 +1,8 @@
 ---
-title: Фуджиока, Садам
+title: 'Фуджиока, Садам'
 permalink: fujioka-sadam
 layout: default
+published: true
 ---
 
 
@@ -45,6 +46,11 @@ layout: default
 |2017|Лондон|
 |2018|Базель|
 
+# {{page.title}} Indexmod
+​
+|Год|Facebook|Instagram|YouTube|Лет|YII|
+|-|-|-|-|-|
+|2018|000 <span id="a3">[\[3\]](#f3)</span>|000 <span id="a4">[\[4\]](#f4)</span>|000 <span id="a4">[\[4\]](#f4)</span>|6|0,00000|
 
 # См. также
 

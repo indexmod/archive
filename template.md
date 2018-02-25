@@ -1,6 +1,6 @@
 ---
 title: Template
-permalink: page-template
+permalink: template
 layout: default
 published: true
 ---
@@ -24,9 +24,9 @@ published: true
 
 # {{page.title}} Indexmod
 
-|Year|Facebook|Instagram|Age|IMD|
+|Year|Facebook|Instagram|YouTube|Age|IMD|
 |-|-|-|-|-|
-|2018|100 <span id="a3">[\[3\]](#f3)</span>|200 <span id="a4">[\[4\]](#f4)</span>|12|0,0025|
+|2018|100 <span id="a3">[\[3\]](#f3)</span>|200 <span id="a4">[\[4\]](#f4)</span>|300 <span id="a4">[\[4\]](#f4)</span>|12|0,0025|
 
 
 # See also
@@ -39,5 +39,7 @@ published: true
 [[3]](#a3) <span id="f3"></span> [{{page.title}} (Facebook)](index)
 
 [[4]](#a4) <span id="f4"></span> [{{page.title}} (Instagram)](index)
+
+[[5]](#a5) <span id="f5"></span> [{{page.title}} (YouTube)](index)
 
 `Last edit Feb. 2018 (Andrei Dei)`

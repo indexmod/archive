@@ -5,9 +5,9 @@ layout: default
 published: true
 ---
 
-# Start with template
+# Start with Template
 
-Just go [Page template](page-template.md) copy it and paste in to new empty .md file.
+Just go [Template](template.md) copy it and paste in to new empty .md file.
 
 # Briefly
 

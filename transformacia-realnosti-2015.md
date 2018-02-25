@@ -2,6 +2,7 @@
 title: Transformacia Realnosti (2015)
 permalink: transformacia-realnosti-2015
 layout: default
+published: true
 ---
 
 # Transformacia Realnosti (2015)

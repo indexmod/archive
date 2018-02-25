@@ -4,11 +4,11 @@ permalink: indexmod-encyclopedia
 layout: default
 published: true
 ---
-(Est. 2006, Moscow) a wiki-site based on the conseption of gybriding wiki, blockchain, ICO and social networking developing by Andrei Deinichenko from 2006 <span id="a1">[\[1\]](#f1)</span>. [Edit this page]
+(Est. 2006, Moscow) a wiki-site based on the conseption of gybriding wiki, blockchain, ICO and social networking developing by Andrei Deinichenko from 2006 <span id="a1">[\[1\]](#f1)</span>.
 
 # Manifesto  
 
-The aim of Indexmod Encyclopedia to simplify wiki syntax for a pretty and light format. Following checklist explains few steps of creating and editing beautiful articles in Indexmod Encyclopedia. [Edit this page](http://prose.io/#indexmod/encyclopedia/edit/master/indexmod-encyclopedia.md)
+The aim of Indexmod Encyclopedia to simplify wiki syntax for a pretty and light format. Following checklist explains few steps of creating and editing beautiful articles in Indexmod Encyclopedia.
 
 # History
 
@@ -52,9 +52,6 @@ Indexmod was established as brand and concept from the idea of visualization of 
 [[3]](#a3) <span id="f3"></span> [Name (Facebook)](http://example.net/article)
 
 [[4]](#a4) <span id="f4"></span> [Name (Instagram)](http://example.net/article)
-
-
-
 
 
 `Last update Feb. 2018 (Andrei Dei)`
