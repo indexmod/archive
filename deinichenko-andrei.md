@@ -8,7 +8,7 @@ published: true
 # Deinichenko, Andrei
 
 
-(Rus. Андрей Дейниченко, Dei, born 1971, Aksai) Russian journalist founder of Indexmod, multimedia artist, actor, visioner at the Eta fellowship, <span id="a1">[\[1\]](#f1)</span>, layout and prints designer <span id="a2">[\[2\]](#f2)</span>. 
+(Rus. Андрей Дейниченко, Dei, born 1971, Aksai) Russian journalist founder of Indexmod, multimedia artist, actor, visioner at the Eta fellowship, <span id="a1">[\[1\]](#f1)</span>, layout and prints designer <span id="a2">[\[2\]](#f2)</span>.
 
 ![](https://www.ljplus.ru/img4/d/o/donor_darom/deynichenko.jpg)
 
@@ -40,10 +40,9 @@ Andrei has worked with scientists at the “Science for Life Extension”, train
 
 # Deinichenko Indexmod
 
-|Year|Facebook|Instagram|Age|DEI|
-|-|-|-|-|-|
-|2018|292 <span id="a3">[\[3\]](#f3)</span>|32 <span id="a4">[\[4\]](#f4)</span>|47|0,001796|
-|2019|||48||
+|Year|Facebook|Instagram|YouTube|Age|DEI|
+|-|-|-|-|-|-|
+|2018|292 <span id="a3">[\[3\]](#f3)</span>|32 <span id="a4">[\[4\]](#f4)</span>|2759|47|0,144901|
 
 # Filmography
 
@@ -74,6 +73,8 @@ Andrei has worked with scientists at the “Science for Life Extension”, train
 [[3]](#a3) <span id="f3"></span> [Andrei Deinichenko (Facebook)](https://www.facebook.com/deinichenkoandrei/friends)
 
 [[4]](#a4) <span id="f4"></span> [Andrei Deinichenko (Instagram)](https://www.instagram.com/deinichenkoandrei/)
+
+https://www.youtube.com/channel/UC2AP3VC8Nc_lD6JBc0VVv4g/about?disable_polymer=1
 
 [[5, 6, 7, 8]](#a5) <span id="f5"></span> [Andrei Deinichenko (IMDB)](http://www.imdb.com/name/nm6826609/)
 
