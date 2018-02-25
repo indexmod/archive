@@ -39,6 +39,9 @@ title: Portfolio
 
 # Видео-интервью
 
+![](/encyclopedia/images/bkk-1.png) ![](/encyclopedia/images/alena-1.png)
+![](/encyclopedia/images/batin-1.png)
+
 
 **D 001	 E 001	 F 001**
 
