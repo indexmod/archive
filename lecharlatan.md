@@ -7,7 +7,7 @@ published: true
 
 # Lecharlatan (socks)
 
-(Est. 2013, Moscow) is a clothing brand, Russian streetwear brand <span id="a1">[\[1\]](#f1)</span>, an independent label providing high quality socks founded Le Charlatan by Andrey Bozhyev <span id="a2">[\[2\]](#f2)</span> and Maria Aldarova <span id="a3">[\[3\]](#f3)</span>, later purchased from co-founder and registered as Lecharlatan by Andrey Bozhyev (2015). Partner of the TEDxSadovoeRing <span id="a4">[\[4\]](#f4)</span>. 
+(Est. 2013, Moscow) is a clothing brand, Russian streetwear brand <span id="a1">[\[1\]](#f1)</span>, an independent label providing high quality socks founded Le Charlatan by Andrey Bozhyev <span id="a2">[\[2\]](#f2)</span> and Maria Aldarova <span id="a3">[\[3\]](#f3)</span>, later purchased from co-founder and registered as Lecharlatan by Andrey Bozhyev (2015). Partner of the TEDxSadovoeRing <span id="a4">[\[4\]](#f4)</span>.
 
 ![](https://static01.nyt.com/images/2015/07/05/arts/05SNAPSHOT/05SNAPSHOT-blog427.jpg)
 
@@ -51,7 +51,7 @@ published: true
 |2016|Music video|Obladaet — Timelapse / Mask <span id="a10">[\[10\]](#f10)</span>|Unidentified character|
 |2016|Music video|Nadyulya — Pati y Nadyuli <span id="a11">[\[11\]](#f11)</span>|Dancer|
 |2015|Music video|Ligalaiz — Karavan <span id="a12">[\[12\]](#f12)</span>|Dancer|
-|2015|TV show|Years and Years King Live at The Tonight Show with Jimmy Fallon <span id="a13">[\13\]](#f13)</span>|Olly Alexander|
+|2015|TV show|Years and Years King Live at The Tonight Show with Jimmy Fallon <span id="a13">[\[13\]](#f13)</span>|Olly Alexander|
 
 # Lecharlatan Indexmod
 
@@ -71,23 +71,23 @@ published: true
 
 [[5]](#a5) <span id="f5"></span> [Poshlaya Molly — Tipichnaya vecherinka s basseynom (YouTube)](https://www.youtube.com/watch?v=ccdHspHSJQ8)
 
-[[6]](#a6) <span id="f6"></span> [Lecharlatan (YouTube)](https://www.facebook.com/pg/lecharlatanofficial/community)
+[[6]](#a6) <span id="f6"></span> [Monetochka — Poslednyaya diskoteka (YouTube)](https://www.youtube.com/watch?v=Z-R2xO3phVM)
 
-[[7]](#a7) <span id="f7"></span> [Lecharlatan (YouTube)](https://www.facebook.com/pg/lecharlatanofficial/community)
+[[7]](#a7) <span id="f7"></span> [Nusha — Nebya lubit (YouTube)](https://www.facebook.com/pg/lecharlatanofficial/community)
 
-[[8]](#a7) <span id="f8"></span> [Lecharlatan (Vimeo)](https://www.facebook.com/pg/lecharlatanofficial/community)
+[[8]](#a7) <span id="f8"></span> [Lecharlatan, Featuring Anna Modo, Lookbook (Vimeo)](https://www.facebook.com/pg/lecharlatanofficial/community)
 
-[[9]](#a9) <span id="f9"></span> [Lecharlatan (YouTube)](https://www.facebook.com/pg/lecharlatanofficial/community)
+[[9]](#a9) <span id="f9"></span> [Mezza — Dlya neyo (Net lyubvi) (YouTube)](https://www.facebook.com/pg/lecharlatanofficial/community)
 
-[[10]](#a10) <span id="f10"></span> [Lecharlatan (YouTube)](https://www.facebook.com/pg/lecharlatanofficial/community)
+[[10]](#a10) <span id="f10"></span> [Obladaet — Timelapse / Mask (YouTube)](https://www.facebook.com/pg/lecharlatanofficial/community)
 
-[[11]](#a11) <span id="f11"></span> [Lecharlatan (YouTube)](https://www.facebook.com/pg/lecharlatanofficial/community)
+[[11]](#a11) <span id="f11"></span> [Nadyulya — Pati y Nadyuli (YouTube)](https://www.facebook.com/pg/lecharlatanofficial/community)
 
-[[12]](#a12) <span id="f12"></span> [Lecharlatan (YouTube)](https://www.facebook.com/pg/lecharlatanofficial/community)
+[[12]](#a12) <span id="f12"></span> [Nadyulya — Pati y Nadyuli (YouTube)](https://www.facebook.com/pg/lecharlatanofficial/community)
 
-[[13]](#a13) <span id="f13"></span> [Lecharlatan (YouTube)](https://www.facebook.com/pg/lecharlatanofficial/community)
+[[13]](#a13) <span id="f13"></span> [Ligalaiz — Karavan (YouTube)](https://www.facebook.com/pg/lecharlatanofficial/community)
 
-[[14]](#a14) <span id="f14"></span> [Lecharlatan (YouTube)](https://www.facebook.com/pg/lecharlatanofficial/community)
+[[14]](#a14) <span id="f14"></span> [Years and Years King Live at The Tonight Show with Jimmy Fallon (YouTube)](https://www.facebook.com/pg/lecharlatanofficial/community)
 
 [[15]](#a15) <span id="15"></span> [Lecharlatan (Instagram)](https://www.instagram.com/lecharlatanru/)
 
