@@ -1,3 +1,3 @@
 # Test
 
-<a href="{{ site.pages | sample2 }}</a>
+<a href="{{ site.pages | sample2 }}"></a>
