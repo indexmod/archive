@@ -1,12 +1,12 @@
 ---
-layout: index
+layout: cover
 published: true
 title: Index
 ---
 <!--- Do not change the "index.md" --->
 
 
-# Index Mod
+# Index
 
 <ul>
 
