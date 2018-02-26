@@ -3,7 +3,7 @@ layout: index
 published: true
 title: Index
 ---
-<!--- Do not change index page if you not sure --->
+<!--- Do not change the "index.md" --->
 
 
 # Index
