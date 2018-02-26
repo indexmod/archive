@@ -6,7 +6,7 @@ title: Index
 <!--- Do not change the "index.md" --->
 
 
-# Index Mod
+# Index
 
 <ul>
 
