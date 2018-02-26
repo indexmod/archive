@@ -1,6 +1,6 @@
 ---
 title: Zlye (art group)
-permalink: azlye-art-group
+permalink: zlye-art-group
 layout: default
 ---
 

@@ -2,6 +2,7 @@
 title: Buro 24/7
 permalink: buro-24-7
 layout: default
+published: true
 ---
 
 # Buro 24/7
@@ -17,9 +18,15 @@ layout: default
 # Conspectus
 
 |Year|Chief-Editor|
-|----|---------|
+|----|---|
 |2010|Duma, Miroslava|
 |2017|Darma, Ekaterina|
+
+# {{page.title}} Indexmod
+
+|Year|Facebook|Instagram|YouTube|Age|IMD|
+|-|-|-|-|-|
+|2018|180964 <span id="a3">[\[3\]](#f3)</span>|332000 <span id="a4">[\[4\]](#f4)</span>|11251 <span id="a4">[\[4\]](#f4)</span>|12|4,19372|
 
 
 # See also
@@ -32,5 +39,11 @@ layout: default
 # Footnotes
 
 [[1]](#a1) <span id="f1"></span> [У издания о моде Buro 24/7 появился новый главный редактор (Vedomosti, Oct. 2017)](https://www.vedomosti.ru/technology/news/2017/10/30/739822-buro-247)
+
+[[2]](#a2) <span id="f2"></span> [{{page.title}} (Facebook)](https://www.facebook.com/Buro247/)
+
+[[3]](#a3) <span id="f3"></span> [{{page.title}} (Instagram)](https://www.instagram.com/buro247ru/?hl=ru)
+
+[[4]](#a4) <span id="f4"></span> [{{page.title}} Russia (YouTube)](https://www.youtube.com/channel/UCE0w0Nyu7XjBSoF9o1LBDLA/about)
 
 `Last update Jan 2018 by Andrei Dei`

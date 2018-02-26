@@ -2,11 +2,12 @@
 title: Lecharlatan (socks)
 permalink: lecharlatan
 layout: default
+published: true
 ---
 
 # Lecharlatan (socks)
 
-(Est. 2013, Moscow) is a clothing brand, Russian streetwear brand <span id="a1">[\[1\]](#f1)</span>, an independent label providing high quality socks founded as **Le Charlatan** by Andrey Bozhyev <span id="a2">[\[2\]](#f2)</span> and Maria Aldarova <span id="a3">[\[3\]](#f3)</span>, later purchased from co-founder and registered as **Lecharlatan** by Andrey Bozhyev (2015). Participant of the TEDxSadovoeRing <span id="a4">[\[4\]](#f4)</span>. [Edit this page](http://prose.io/#indexmod/encyclopedia/edit/master/lecharlatan.md)
+(Est. 2013, Moscow) is a clothing brand, Russian streetwear brand <span id="a1">[\[1\]](#f1)</span>, an independent label providing high quality socks founded Le Charlatan by Andrey Bozhyev <span id="a2">[\[2\]](#f2)</span> and Maria Aldarova <span id="a3">[\[3\]](#f3)</span>, later purchased from co-founder and registered as Lecharlatan by Andrey Bozhyev (2015). Partner of the TEDxSadovoeRing <span id="a4">[\[4\]](#f4)</span>. 
 
 ![](https://static01.nyt.com/images/2015/07/05/arts/05SNAPSHOT/05SNAPSHOT-blog427.jpg)
 
@@ -22,10 +23,11 @@ layout: default
 |2015|Registering of Lecharlatan|
 |2016|Launching of Строгий юноша|
 |2017|Launching of Русский успех by Vika Rynski|
+|2017|Production socks for TEDxSadovoeRing|
 
-![](https://upload.wikimedia.org/wikipedia/commons/1/16/%D0%98%D0%B2%D0%B0%D0%BD_%D0%94%D0%BE%D1%80%D0%BD_%D1%84%D0%BE%D1%82%D0%BE%D1%81%D0%B5%D1%81%D1%81%D0%B8%D1%8F.png)
+![](https://upload.wikimedia.org/wikipedia/commons/1/16/Иван_Дорн_фотосессия.png)
 
-**Russian-Ukrainian raper Ivan Dorn wears Lecharlatan socks**
+**Russian-Ukrainian musician Ivan Dorn wears Lecharlatan socks**
 
 *Photo: [Jurij Treskow](/jurij-treskow) / [Wikipedia](https://en.wikipedia.org/wiki/Ivan_Dorn)*
 
@@ -37,12 +39,24 @@ layout: default
 |2015|Podium Market|Russia|
 |2016|Uggla|Japan|
 
+# Lecharlatan Indexmod
+
+|Year|Facebook|Instagram|YouTube|Age|LCI|
+|-|-|-|-|-|-|
+|2018|719 <span id="a5">[\[5\]](#f5)</span>|4235 <span id="a6">[\[6\]](#f6)</span>|3380 <span id="a7">[\[7\]](#f7)</span>|5|0,021854|
+
 # Footnotes
 
 [[1]](#a1) <span id="f1"></span> [Spelling it out: why Cyrillic slogan streetwear is the new punk uniform for post-Soviet teens (Sasha Raspopina, The Calvert Journal)](http://calvertjournal.com/articles/show/6278/cyrillic-slogan-streetwear-clothing-rubchinskiy-vetements)
 
-[[2]](#a2) <span id="f2"></span> [Молодая кровь: LECHARLATAN (Лена Нагаева, Be in)](http://www.be-in.ru/people/35783-lecharlatan)
+[[2]](#a2) <span id="f2"></span> [Молодая кровь: Lecharlatan (Лена Нагаева, Be in)](http://www.be-in.ru/people/35783-lecharlatan)
 
 [[3]](#a3) <span id="f3"></span> [Le Charlatan: Носки и гольфы родом из Москвы (Олеся Ива, Wonderzine)](http://www.wonderzine.com/wonderzine/style/new_faces/200619-le-charlatan-socks)
 
 [[4]](#a4) <span id="f4"></span> [Основной нюанс в развитии бренда — это донести собственное видение до окружающих и не расплескать его, сформировать вокруг себя новую культуру (Андрей Божьев, Ditelegraph)](http://ditelegraph.ru/members/news/37)
+
+[[5]](#a5) <span id="f5"></span> [Lecharlatan (Facebook)](https://www.facebook.com/pg/lecharlatanofficial/community)
+
+[[6]](#a6) <span id="f6"></span> [Lecharlatan (Instagram)](https://www.instagram.com/lecharlatanru/)
+
+[[7]](#a7) <span id="f7"></span> [Lecharlatan Show (YouTube)](https://www.youtube.com/channelUCBR-dSrqop9Yb5neMGugH5A/about)

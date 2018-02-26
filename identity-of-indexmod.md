@@ -2,45 +2,57 @@
 title: Identity of Indexmod
 permalink: identity-of-indexmod
 layout: default
+published: true
 ---
 
 # Identity of Indexmod
 
 
-(Est. 2013, city) is a subject, description-one <span id="a1">[\[1\]](#f1)</span>, description-two <span id="a2">[\[2\]](#f2)</span> description-three <span id="a3">[\[3\]](#f3)</span>, extra text. [Edit this page](http://prose.io/#indexmod/encyclopedia/edit/master/page-template.md)
+(Est. 2006, Moscow) a sign for Indexmod Encyclopedia of Art and Fashion created by Andrei Deinichenko in 2015 based on the earlier image of 2011 by Andrei Abramov (Odinmay). [Edit this page](http://prose.io/#indexmod/encyclopedia/edit/master/identity-of-indexmod.md)
 
-![](/encyclopedia/images/image-name.jpg)
+![](/encyclopedia/images/indexmod-2011.png)
 
-**Image caption title**
+**An “Eye” of Indexmod of 2011**
 
-*Photo: [Photographer name](/photographer-name-page) / [Source name](/source-name-page)*
+*Image: [Andrei Abramov](abramov-andrei) / [Indexmod](indexmod)*
+
+![](/encyclopedia/images/eye-2018.png)
+
+**An “Orbit with Eye” of Indexmod of 2018**
+
+*Image: [Andrei Dei](dei-andrei) / [Indexmod](indexmod)*
 
 # Conspectus
 
-|Year|City|
+|Year|Image keys|
 |----|-----|
-|2014|Tokyo|
-|2015|Moscow|
-|2017|Paris|
+|2011|Eye on "IM"|
+|2015|Eye in gold|
+|2016|Eye and waves|
+|2018|Orbit with Eye|
+
+![](/encyclopedia/images/eye-gold.png)
+
+**An “Eye” of Indexmod  in gold 2015**
+
+*Image: [Andrei Dei](dei-andrei) / [Indexmod](indexmod)*
+
+![](/encyclopedia/images/vector.jpg)
+
+**Vector of developing of Indexmod identity**
+
+*Image: [Andrei Dei](dei-andrei) / [Indexmod](indexmod)*
 
 # See also
 
-+ [See also title one](page-template)
-+ [See also title two](page-template)
-+ [See also title three](page-template)
++ [Odinmay](odinmay)
++ [Andrei Abramov](abramov-Andrei)
++ [Eta](eta)
 
 # Footnotes
 
 [[1]](#a1) <span id="f1"></span> [Article name short (Author name)](http://example.net/article)
 
-[[2]](#a2) <span id="f2"></span> [Article name little longer (Author name longer)](http://example.net/article)
+`Last edit Feb. 2018 (Andrei Dei)`
 
-[[3]](#a3) <span id="f3"></span> [Article name longer so far (Author name too long and much longer)](http://example.net/article)
 
----
-
-`Editorial`
-
-`Warnings`
-
-`Notes`

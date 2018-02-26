@@ -8,17 +8,16 @@ collections:
   uploads:
     title: Uploads
     output: false
+<<<<<<< HEAD
 description: Indexmod Encyclopedia — first blochain wiki with pretty syntax
+=======
+description: Indexmod Encyclopedia — blockchain wiki with pretty syntax
+>>>>>>> 657c6c6eb6f838625200bf511430fa234b06be1b
 
 show_sidebar: false
 show_downloads: false
 show_title: false
 show_description: false
 google_analytics: 'UA-112478299-1'
-
-gems:
-plugins:
-  - jekyll-toc
-
 theme: jekyll-theme-minimal
 include: ['.htaccess']

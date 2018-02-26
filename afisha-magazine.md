@@ -24,9 +24,8 @@ layout: default
 
 # See also
 
-- [Source name](http://example.net/)
-- [Source name](http://example.net/)
-- [Source name](http://example.net/)
++ [Africa Fashion Week Dubai](africa-fashion-week-dubai)
++ [AES+F](aes+f)
 
 # Footnotes
 

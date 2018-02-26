@@ -1,8 +1,9 @@
 ---
 title: AWASP Jewellery
 permalink: wasp-jewellery
-position:
+position: null
 layout: default
+published: true
 ---
 
 # WASP Jewellery

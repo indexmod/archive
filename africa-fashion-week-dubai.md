@@ -24,7 +24,7 @@ layout: default
 
 # See also
 
-- [Source name](http://example.net/)
+- [Africa Fashion Week London](africa-fashion-week-london)
 - [Source name](http://example.net/)
 - [Source name](http://example.net/)
 

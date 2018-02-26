@@ -1,8 +1,14 @@
 --- 
 --- 
-
 @import "jekyll-theme-minimal";
 
+ .intro {
+     font-family: 'Georgia', serif;
+     font-size: 25px;
+     font-weight: 200;
+     line-height: 1.3em;
+     list-style-type: none;
+}
  h1, h2, h3, h4, h5, h6 {
      font-family: 'Georgia', serif;
      font-size: 40px;
@@ -11,50 +17,65 @@
      color: black;
 }
  table {
-     font-family: 'Georgia', serif;
-     font-size: 20px;
-     line-height: 1.6em;
+     font-family: 'Monaco', serif;
+     font-size: 17px;
+     line-height: 1em;
      font-weight: 200;
-     color:  black;
+     color: black;
      border-collapse: collapse;
 }
  th {
      background-color: #f5f5f5;
-     color: black;
-     font-weight: normal;
-     padding: 10px;
+     color: green;
+     font-weight: 300;
+     padding: 9px;
      text-align: left;
      height: auto;
      vertical-align: top;
      border: 0.1px solid #e0e0e0;
 }
  td {
-     padding: 10px;
+     padding: 9px;
      text-align: left;
      height: auto;
      vertical-align: top;
      border: 0.1px solid #e0e0e0;
 }
  tr:hover {
-    background-color: #f5f5f5;
+     background-color: #f5f5f5;
 }
+
+ .highlighter-rouge {
+     font-family: 'Monaco';
+     font-size: 17px;
+     line-height: 4em;
+     font-weight: 200;
+     color: green;
+     border: solid 0.1px #e0e0e0;
+     background-color: #f5f5f5;
+     -moz-border-radius: 5px;
+     -webkit-border-radius: 5px;
+     border-radius: 5px;
+     padding: 9px 9px;
+}
+ 
  p {
      font-family: 'Georgia', serif;
-     font-size: 20px;
-     line-height: 1.6em;
+     font-size: 25px;
+     line-height: 1.3em;
      font-weight: 200;
      color: black;
 }
  li {
      font-family: 'Georgia', serif;
-     font-size: 20px;
+     font-size: 25px;
      line-height: 1.6em;
      font-weight: 200;
      color: black;
 }
  ul {
      font-family: 'Georgia', serif;
-     font-size: 20px;
+     font-size: 25px;
      line-height: 1.6em;
      font-weight: 200;
      color: black;
@@ -75,7 +96,6 @@
      color: #4286f4;
      text-decoration: none;
 }
-
  img {
      max-width: 60%;
      min-width: 55%;
@@ -84,27 +104,9 @@
      -webkit-filter: grayscale(100%);
      filter: grayscale(100%);
 }
-
  footer {
      font-family: 'Georgia', serif;
-     font-size: 20px;
-     line-height: 1.6em;
      font-weight: 300;
-     color: black;
+     font-size: 25px;
+     line-height: 1.3em;
 }
-
-.highlighter-rouge {
-     font-family: 'Monaco';
-     font-size: 16px;
-     line-height: 3em;
-     font-weight: 100;     
-     color: green;
-     border: solid 1px #e0e0e0;
-     background-color: #f5f5f5;
-     -moz-border-radius: 4px;
-     -webkit-border-radius: 4px;
-     border-radius: 4px;
-     padding: 10px 10px;
-}
-
-

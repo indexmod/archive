@@ -1,5 +1,5 @@
 ---
-title: Bordoque Vladimir
+title: Bordoque, Vladimir
 permalink: bordoque-vladimir
 layout: default
 published: true

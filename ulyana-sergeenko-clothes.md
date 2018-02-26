@@ -4,9 +4,9 @@ permalink: ulyana-sergeenko-clothes
 layout: default
 ---
 
-# Sergeenko, Ulyana
+# Ulyana Sergeenko (clothes)
 
-(Rus. Ульяна Сергеенко, born 1979, Ust'-Kamennogorsk) is a is a Russian fashion womans clothes brand, founded and owned by Ulyana Sergeenko. [Edit this page](http://prose.io/#indexmod/encyclopedia/edit/master/ulyana-sergeenko-clothes.md)
+(Est. 2011, Moscow) fashion women's clothes brand, founded and owned by Ulyana Sergeenko. [Edit this page](http://prose.io/#indexmod/encyclopedia/edit/master/ulyana-sergeenko-clothes.md)
 
 ![](https://scontent-arn2-1.xx.fbcdn.net/v/t31.0-8/22770558_1768476000111783_4495064588254077060_o.jpg?oh=70301987ef1f9e9dd7eba597e5b55cb3&oe=5ADCBBE2)
 
@@ -44,17 +44,24 @@ layout: default
 |2012|Fall-Winter 2013/2014|Paris|
 |2011|Fall-Winter 2011/2012|Paris|
 
-Starting with only five people, the Moscow studio now has over one hundred employees. One of the dresses designed by Ulyana Sergeenko has been selected to appear in the upscale exhibition “The little black dress” at the Mona Bismarck foundation in Paris. Celebrities such as Natalia Vodianova, Dita von Teese, Rihanna, Lady Gaga, Beyoncé, Fan Bingbing, Marion Cotillard and Ornella Muti appear on red carpets in her creations. Madonna and Beyoncé have worn custom made gowns in their music videos, all helping to bring international recognition to the signature style of Ulyana Sergeenko <span id="a1">[\[1\]](#f1)</span>.
+# Mona Bismarck foundation
+
+One of the dresses designed by Ulyana Sergeenko has been selected to appear in the upscale exhibition “The little black dress” at the Mona Bismarck foundation in Paris <span id="a1">[\[1\]](#f1)</span>.
+
+# Celebrities
+
+Celebrities such as Natalia Vodianova, Dita von Teese, Rihanna, Lady Gaga, Beyoncé, Fan Bingbing, Marion Cotillard and Ornella Muti appear on red carpets in her creations. Madonna and Beyoncé have worn custom made gowns in their music videos <span id="a1">[\[2\]](#f1)</span>.
 
 # See also
 
 + [Buro 24/7](buro-24-7)
 + [Duma, Miroslava](duma-miroslava)
-+ [Ulyana Sergeenko](sergeenko-ulyana)
++ [Sergeenko, Ulyana](sergeenko-ulyana)
++ [Vodianova, Natalia](vodianova-natalia)
 
 # Footnotes
 
-[[1]](#a1) <span id="f1"></span> [About Ulyana Sergeenko](ulyanasergeenko.net)](http://ulyanasergeenko.net/#about)
+[[1, 2]](#a1) <span id="f1"></span> [About Ulyana Sergeenko](http://ulyanasergeenko.net/#about)
 
 ---
 

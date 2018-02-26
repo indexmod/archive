@@ -1,6 +1,6 @@
 ---
 title: Zambia Fashion Week, The
-permalink: azambia-fashion-week-the
+permalink: zambia-fashion-week-the
 layout: default
 ---
 
@@ -22,6 +22,13 @@ layout: default
 |2015|Moscow|
 |2017|Kiev|
 
+# Indexmod
+
+|Year|Facebook|Instagram|Age|IMD|
+|-|-|-|-|-|
+|2018|100000|5000|30|0,25|
+|2019|||31||
+
 # See also
 
 - [Source name](http://example.net/)
@@ -35,3 +42,5 @@ layout: default
 [[2]](#a2) <span id="f2"></span> [Article name (Author name)](http://example.net/article)
 
 [[3]](#a3) <span id="f3"></span> [Article name (Author name)](http://example.net/article)
+
+`Last update Feb. 2018 by Andrei Dei`
