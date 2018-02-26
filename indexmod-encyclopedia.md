@@ -4,7 +4,7 @@ permalink: indexmod-encyclopedia
 layout: default
 published: true
 ---
-(Est. 2006, Moscow) a wiki-site based on the conseption of gybriding wiki, blockchain, ICO and social networking developing by Andrei Deinichenko from 2006 <span id="a1">[\[1\]](#f1)</span>.
+(Est. 2006, Moscow) a wiki-site based on the conception of hybriding wiki, blockchain, ICO and social networking developing by Andrei Deinichenko from 2006 <span id="a1">[\[1\]](#f1)</span>.
 
 # Manifesto  
 
