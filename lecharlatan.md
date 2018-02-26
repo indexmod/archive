@@ -73,21 +73,21 @@ published: true
 
 [[6]](#a6) <span id="f6"></span> [Monetochka — Poslednyaya diskoteka (YouTube)](https://www.youtube.com/watch?v=Z-R2xO3phVM)
 
-[[7]](#a7) <span id="f7"></span> [Nusha — Nebya lubit (YouTube)](https://www.facebook.com/pg/lecharlatanofficial/community)
+[[7]](#a7) <span id="f7"></span> [Nusha — Nebya lubit (YouTube)](https://www.youtube.com/watch?v=lMWmUYAkxw8)
 
-[[8]](#a7) <span id="f8"></span> [Lecharlatan, Featuring Anna Modo, Lookbook (Vimeo)](https://www.facebook.com/pg/lecharlatanofficial/community)
+[[8]](#a7) <span id="f8"></span> [Lecharlatan, Featuring Anna Modo, Lookbook (Vimeo)](https://vimeo.com/201676515)
 
-[[9]](#a9) <span id="f9"></span> [Mezza — Dlya neyo (Net lyubvi) (YouTube)](https://www.facebook.com/pg/lecharlatanofficial/community)
+[[9]](#a9) <span id="f9"></span> [Mezza — Dlya neyo (Net lyubvi) (YouTube)](https://www.youtube.com/watch?v=3IAPMqSPLIA)
 
-[[10]](#a10) <span id="f10"></span> [Obladaet — Timelapse / Mask (YouTube)](https://www.facebook.com/pg/lecharlatanofficial/community)
+[[10]](#a10) <span id="f10"></span> [Obladaet — Timelapse / Mask (YouTube)](https://www.youtube.com/watch?v=mK4Y_mOpdWk)
 
-[[11]](#a11) <span id="f11"></span> [Nadyulya — Pati y Nadyuli (YouTube)](https://www.facebook.com/pg/lecharlatanofficial/community)
+[[11]](#a11) <span id="f11"></span> [Nadyulya — Pati y Nadyuli (YouTube)](https://www.youtube.com/watch?v=SHkh7hOAhWI)
 
-[[12]](#a12) <span id="f12"></span> [Nadyulya — Pati y Nadyuli (YouTube)](https://www.facebook.com/pg/lecharlatanofficial/community)
+[[12]](#a12) <span id="f12"></span> [Ligalaiz — Karavan (YouTube)](https://www.youtube.com/watch?v=ZBl9eMXKfDs)
 
-[[13]](#a13) <span id="f13"></span> [Ligalaiz — Karavan (YouTube)](https://www.facebook.com/pg/lecharlatanofficial/community)
+[[13]](#a13) <span id="f13"></span> [Years and Years King Live at The Tonight Show with Jimmy Fallon (YouTube)](https://www.youtube.com/watch?v=BXFtLA5Cj0o)
 
-[[14]](#a14) <span id="f14"></span> [Years and Years King Live at The Tonight Show with Jimmy Fallon (YouTube)](https://www.facebook.com/pg/lecharlatanofficial/community)
+[[14]](#a14) <span id="f14"></span> [Lecharlatan (Facebook)](https://www.facebook.com/pg/lecharlatanofficial/community)
 
 [[15]](#a15) <span id="15"></span> [Lecharlatan (Instagram)](https://www.instagram.com/lecharlatanru/)
 
