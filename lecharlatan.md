@@ -39,11 +39,25 @@ published: true
 |2015|Podium Market|Russia|
 |2016|Uggla|Japan|
 
+# Filmography
+
+|Year|Category|Name|Who wear|
+|---|---|---|---|
+|2018|Music video|Poshlaya Molly — Tipichnaya vecherinka s basseynom <span id="a5">[\[5\]](#f5)</span>|Main character|
+|2017|Music video|Monetochka — Poslednyaya diskoteka <span id="a6">[\[6\]](#f6)</span>|Main character|
+|2017|Music video|Nusha — Nebya lubit <span id="a7">[\[7\]](#f7)</span>|Dancer|
+|2017|Fashion film|Lecharlatan, Featuring Anna Modo, Lookbook <span id="a8">[\[8\]](#f8)</span>|Main character|
+|2016|Music video|Mezza — Dlya nee (Net lyubvi) <span id="a9">[\[9\]](#f9)</span>|Singer|
+|2016|Music video|Obladaet — Timelapse / Mask <span id="a10">[\[10\]](#f10)</span>|Unidentified character|
+|2016|Music video|Nadyulya — Pati y Nadyuli <span id="a11">[\[11\]](#f11)</span>|Dancer|
+|2015|Music video|Ligalaiz — Karavan <span id="a12">[\[12\]](#f12)</span>|Dancer|
+|2015|TV show|Years and Years King Live at The Tonight Show with Jimmy Fallon <span id="a13">[\13\]](#f13)</span>|Olly Alexander|
+
 # Lecharlatan Indexmod
 
 |Year|Facebook|Instagram|YouTube|Age|LCI|
 |-|-|-|-|-|-|
-|2018|719 <span id="a5">[\[5\]](#f5)</span>|4235 <span id="a6">[\[6\]](#f6)</span>|3380 <span id="a7">[\[7\]](#f7)</span>|5|0,021854|
+|2018|719 <span id="a14">[\[14\]](#f14)</span>|4235 <span id="a15">[\[15\]](#f15)</span>|3380 <span id="a16">[\[16\]](#f16)</span>|5|0,021854|
 
 # Footnotes
 
@@ -55,8 +69,26 @@ published: true
 
 [[4]](#a4) <span id="f4"></span> [Основной нюанс в развитии бренда — это донести собственное видение до окружающих и не расплескать его, сформировать вокруг себя новую культуру (Андрей Божьев, Ditelegraph)](http://ditelegraph.ru/members/news/37)
 
-[[5]](#a5) <span id="f5"></span> [Lecharlatan (Facebook)](https://www.facebook.com/pg/lecharlatanofficial/community)
+[[5]](#a5) <span id="f5"></span> [Poshlaya Molly — Tipichnaya vecherinka s basseynom (YouTube)](https://www.youtube.com/watch?v=ccdHspHSJQ8)
 
-[[6]](#a6) <span id="f6"></span> [Lecharlatan (Instagram)](https://www.instagram.com/lecharlatanru/)
+[[6]](#a6) <span id="f6"></span> [Lecharlatan (YouTube)](https://www.facebook.com/pg/lecharlatanofficial/community)
 
-[[7]](#a7) <span id="f7"></span> [Lecharlatan Show (YouTube)](https://www.youtube.com/channelUCBR-dSrqop9Yb5neMGugH5A/about)
+[[7]](#a7) <span id="f7"></span> [Lecharlatan (YouTube)](https://www.facebook.com/pg/lecharlatanofficial/community)
+
+[[8]](#a7) <span id="f8"></span> [Lecharlatan (Vimeo)](https://www.facebook.com/pg/lecharlatanofficial/community)
+
+[[9]](#a9) <span id="f9"></span> [Lecharlatan (YouTube)](https://www.facebook.com/pg/lecharlatanofficial/community)
+
+[[10]](#a10) <span id="f10"></span> [Lecharlatan (YouTube)](https://www.facebook.com/pg/lecharlatanofficial/community)
+
+[[11]](#a11) <span id="f11"></span> [Lecharlatan (YouTube)](https://www.facebook.com/pg/lecharlatanofficial/community)
+
+[[12]](#a12) <span id="f12"></span> [Lecharlatan (YouTube)](https://www.facebook.com/pg/lecharlatanofficial/community)
+
+[[13]](#a13) <span id="f13"></span> [Lecharlatan (YouTube)](https://www.facebook.com/pg/lecharlatanofficial/community)
+
+[[14]](#a14) <span id="f14"></span> [Lecharlatan (YouTube)](https://www.facebook.com/pg/lecharlatanofficial/community)
+
+[[15]](#a15) <span id="15"></span> [Lecharlatan (Instagram)](https://www.instagram.com/lecharlatanru/)
+
+[[16]](#a16) <span id="f16"></span> [Lecharlatan Show (YouTube)](https://www.youtube.com/channelUCBR-dSrqop9Yb5neMGugH5A/about)
