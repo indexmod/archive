@@ -1,3 +1,3 @@
 # Test
 
-<a href="{{ page.url | absolute_url }}">{{ page.title }}</a>
+<a href="{{ site.pages | sample2 }}</a>
