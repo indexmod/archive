@@ -1,24 +1,15 @@
 ---
 layout: cover
 published: true
-title: Index
+title: All pages
 ---
 <!--- Do not change the "index.md" --->
 
 
-# Index
+# All pages
 
-<ul>
+{{ site.pages | sample:2 }}
 
-  {% assign mypages = site.pages | sort: "order" %}
-  {% for page in mypages %}
-   <li class="intro">
-  <a href="{{ site.pages | sample }}">{{ page.title }}</a>
-  </li>
-  {% endfor %}
-
-
-</ul>
 
 
 
