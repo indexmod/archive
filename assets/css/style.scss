@@ -4,30 +4,30 @@
 
  .intro {
      font-family: 'Georgia', serif;
-     font-size: 25px;
-     font-weight: 200;
+     font-size: 24px;
+     font-weight: 100;
      line-height: 1.3em;
      list-style-type: none;
 }
  h1, h2, h3, h4, h5, h6 {
      font-family: 'Georgia', serif;
-     font-size: 40px;
+     font-size: 39px;
      font-weight: 100;
      line-height: 1.2em;
      color: black;
 }
  table {
      font-family: 'Monaco', serif;
-     font-size: 17px;
+     font-size: 18px;
      line-height: 1em;
-     font-weight: 200;
+     font-weight: 100;
      color: black;
      border-collapse: collapse;
 }
  th {
      background-color: #f5f5f5;
      color: green;
-     font-weight: 300;
+     font-weight: 100;
      padding: 9px;
      text-align: left;
      height: auto;
@@ -47,9 +47,9 @@
 
  .highlighter-rouge {
      font-family: 'Monaco';
-     font-size: 17px;
+     font-size: 19px;
      line-height: 4em;
-     font-weight: 200;
+     font-weight: 100;
      color: green;
      border: solid 0.1px #e0e0e0;
      background-color: #f5f5f5;
@@ -61,23 +61,23 @@
  
  p {
      font-family: 'Georgia', serif;
-     font-size: 25px;
-     line-height: 1.3em;
-     font-weight: 200;
+     font-size: 24px;
+     line-height: 1.2em;
+     font-weight: 100;
      color: black;
 }
  li {
      font-family: 'Georgia', serif;
-     font-size: 25px;
+     font-size: 24px;
      line-height: 1.6em;
-     font-weight: 200;
+     font-weight: 100;
      color: black;
 }
  ul {
      font-family: 'Georgia', serif;
-     font-size: 25px;
+     font-size: 24px;
      line-height: 1.6em;
-     font-weight: 200;
+     font-weight: 100;
      color: black;
 }
  a:link {
@@ -97,8 +97,8 @@
      text-decoration: none;
 }
  img {
-     max-width: 60%;
-     min-width: 55%;
+     max-width: 100%;
+     min-width: 100%;
      height: auto;
      margin: 0em 0em 0em 0em;
      -webkit-filter: grayscale(100%);
@@ -106,7 +106,7 @@
 }
  footer {
      font-family: 'Georgia', serif;
-     font-weight: 300;
-     font-size: 25px;
+     font-weight: 100;
+     font-size: 24px;
      line-height: 1.3em;
 }
