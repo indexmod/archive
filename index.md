@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: cover
 published: true
 title: Index
 ---
