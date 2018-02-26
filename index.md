@@ -1,9 +1,9 @@
 ---
-layout: default
+layout: index
 published: true
 title: Index
 ---
-<!--- Do not change index page --->
+<!--- Do not change index page if you not sure --->
 
 
 # Index
