@@ -17,9 +17,7 @@ published: true
 
 # "Sergeenko-Niggas" scandal
 
-On January 23, designer Ulyana Sergeyenko presented her summer collection of clothes in Paris. Media paid more attention not to the collection itself, but to the invitation that Sergeyenko sent to her friend Duma. On the envelope it was written: "To my niggas in Paris". The day before the show, Miroslava Duma posted an invitation. Bloggers and fashion magazines were vigorously discussing the expression that caused a series of accusatory public statements and the release of Miroslova from the board of directors of the store The Tot <span id="a3">[\[3\]](#f3)</span>.
-
-[Edit this page](http://prose.io/#indexmod/encyclopedia/edit/master/duma-miroslava.md)
+On January 23, designer Ulyana Sergeyenko presented her summer collection of clothes in Paris. Media paid more attention not to the collection itself, but to the invitation that Sergeyenko sent to her friend Duma. On the envelope it was written: "To my niggas in Paris". The day before the show, Miroslava Duma posted an invitation. Bloggers and fashion magazines were vigorously discussing the expression that caused a series of accusatory public statements and the release of Miroslova from the board of directors of the store The Tot <span id="a3">[\[3\]](#f3)</span>. [Edit this page](http://prose.io/#indexmod/encyclopedia/edit/master/duma-miroslava.md)
 
 # Conspectus
 
@@ -36,12 +34,15 @@ On January 23, designer Ulyana Sergeyenko presented her summer collection of clo
 + [Buro 24/7](buro-24-7)
 + [Fashion Tech Lab](fashion-tech-lab)
 + [Ulyana Sergeenko](sergeenko-ulyana)
+<<<<<<< HEAD
+=======
 
 # {{page.title}} Indexmod
 
 |Year|Facebook|Instagram|YouTube|Age|IMD|
 |-|-|-|-|-|
 |2018|100 <span id="a3">[\[3\]](#f3)</span>|200 <span id="a4">[\[4\]](#f4)</span>|xx <span id="a4">[\[4\]](#f4)</span>|12|0,0025|
+>>>>>>> 657c6c6eb6f838625200bf511430fa234b06be1b
 
 # Footnotes
 

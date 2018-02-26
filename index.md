@@ -1,11 +1,12 @@
 ---
-layout: default
+layout: index
 published: true
-title: ABC
+title: Index
 ---
-<!--- Attention --->
+<!--- Do not change the "index.md" --->
 
-# ABC
+
+# Index
 
 <ul>
  
