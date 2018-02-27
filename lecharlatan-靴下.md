@@ -95,4 +95,4 @@ published: true
 
 [[16]](#a16) <span id="f16"></span> [Lecharlatan Show (YouTube)](https://www.youtube.com/channelUCBR-dSrqop9Yb5neMGugH5A/about)
 
-`ラス編集2018年2月（アンドレイ・デイ)`
+`2018年2月の最後の編集（Andrei Dei)`
