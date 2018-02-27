@@ -121,17 +121,12 @@ Will be rendered as
 
 Connect some text using short links <span id="a1">[\[1\]](#f1)</span>, <span id="a2">[\[2\]](#f2)</span>, <span id="a3">[\[3\]](#f3)</span> with links and source in **Footnote** edit. Kepp numbering in links organized: [[1]](#a1) <span id="f1"></span> [Article 1 (Author 1)](http://example.net/article)
 
+![Снимок экрана 2018-02-27 в 8.19.05.png]({{site.baseurl}}/Снимок экрана 2018-02-27 в 8.19.05.png)
 
-# Prose.io editor linking
+**This is screen of Prose.io editor during editing section below. Note the Save "disk" icon on rignt menu.**
 
-This is code for link to editing app
+# Prose.io editor
 
-`[Edit this page](http://prose.io/#indexmod/encyclopedia/edit/master/edit.md)`
-
-Will be rendered as
-
-[Edit this page](http://prose.io/#indexmod/encyclopedia/edit/master/edit.md)
-
-You may edit every page in Prose.io editor using above sample link with **/page-name.md**. To push edit changes you may need authorize as [GitHub](https://github.com/join) user.
+You may edit every page in Prose.io editor using link "Edit the "page name"" at top-left section of each page. To save  changes you may need authorize as [GitHub](https://github.com/join) user.
 
 `Last edit Feb. 2018 (Andrei Dei)`

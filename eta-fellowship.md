@@ -16,7 +16,7 @@ published: true
 
 # Naming and identity
 
-The name of the fellowship "Eta" comes from Russian «Эта» — pronunciation of the eighth letter of the Phoenician alphabet "heth". Because "Eta" is not an abbreviation, but a noun and a pronoun, the semantic, morphological and syntactic properties determine the rules for writing "Eta" as a proper name.
+The name of the fellowship "Eta" comes from Russian «Эта» — pronunciation of the eighth letter of the phoenician alphabet "heth". Because "Eta" is not an abbreviation, but a noun and a pronoun, the semantic, morphological and syntactic properties determine the rules for writing "Eta" as a proper name.
 
 # Fonts
 
@@ -52,12 +52,11 @@ The name of the fellowship "Eta" comes from Russian «Эта» — pronunciation
 |2017|Applying to Plums Fest|
 |2018|Mars Triangulation Project|
 
-# Eta Indexmod
+# Eta Indexmod (void)
 
 |Year|Facebook|Instagram|YouTube|Age|ETI|
 |-|-|-|-|-|
-|2018|100 <span id="a3">[\[3\]](#f3)</span>|200 <span id="a4">[\[4\]](#f4)</span>|300 <span id="a4">[\[4\]](#f4)</span>|12|0,0025|
-
+|0000|000 <span id="a0">[\[0\]](#f0)</span>|000 <span id="a0">[\[0\]](#f0)</span>|000 <span id="a0">[\[0\]](#f0)</span>|00|0,0000|
 
 # See also
 
