@@ -13,6 +13,8 @@ published: true
 
 **Olly Alexander が Lecharlatan 靴下**
 
+*写真: [Tom Jamieson](tom-jamieson) / [The New York Times](https://www.nytimes.com/2015/07/05/arts/music/olly-alexander-releases-his-debut-album-with-years-years)*
+
 # コンセンサス
 
 |年|イベント|
@@ -22,3 +24,17 @@ published: true
 |2016|Строгий юноша の立ち上げ|
 |2017|Vika Rynski による Русский успех の立ち上げ|
 |2017|TEDxサドーヴェリング用生産靴下|
+
+![](https://upload.wikimedia.org/wikipedia/commons/1/16/Иван_Дорн_фотосессия.png)
+
+**ロシア - ウクライナのミュージシャン Ivan Dorn が Lecharlatanの靴下を着用**
+
+*写真: [Jurij Treskow](/jurij-treskow) / [Wikipedia](https://en.wikipedia.org/wiki/Ivan_Dorn)*
+
+# お店のリスト
+
+|年|ショップ|国|
+|----|---------|---|
+|2014|ツヴェトノイ中央市場 (Tsvetnoy Central Market)|ロシア|
+|2015|表彰台市場 (Podium Market)|ロシア|
+|2016|Uggla|日本|
