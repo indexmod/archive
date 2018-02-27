@@ -32,20 +32,12 @@ In August 2017, producer Yuri Bardash stated that on December 31, 2017 the band 
 
 # See also update in Feb. 2018
 
-+ [Ilia Varegin](varegin-ilia)
 + [Vetements](vetements)
 + [Vemina](vemina)
-+ [Romanyuk Lisa](romanyuk-lisa)
-+ [Raare Fashion Days](raare-fashion-days)
-+ [Nina Donis](nina-donis)
-+ [Moscow Fashion House Slava Zaitsev](moscow-fashion-house-slava-zaitsev)
 + [Infundibulum](infundibulum)
-+ [Griby](griby)
 + [Gosha Gazinskaya](gosha-gazinskaya)
 + [Gazinskaya Vika](gazinskaya-vika)
 + [Galetsky Moscow](galetsky-moscow)
-+ [Galetsky Anton](galetsky-anton)
-+ [Deinichenko Andrei](deinichenko-andrei)
 + [Indexmod Encyclopedia](indexmod-encyclopedia)
 + [Antimuseum](antimuseum)
 + [Antimuseum-2](antimuseum-2)
@@ -55,10 +47,8 @@ In August 2017, producer Yuri Bardash stated that on December 31, 2017 the band 
 + [Firm](firm)
 + [Tamkovich Friske Ian](tamkovich-friske-ian)
 + [Zaitsev Vyacheslav](zaitsev-vyacheslav)
-+ [Gop Fashion](gop-fashion)
 + [Gosha Gazinskaya](gasha-gazinskaya)
 + [AVEC](avec)
-+ [Gop House](gop-house)
 
 
 # Footnotes
