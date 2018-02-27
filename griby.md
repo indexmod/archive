@@ -22,7 +22,13 @@ published: true
 |Year|Facebook|Instagram|Age|GBI|
 |-|-|-|-|-|
 |2018|1983 <span id="a4">[\[4\]](#f4)</span>|7065 <span id="a5">[\[5\]](#f5)</span>|2|0,018096|
-|2019|||3||
+
+# Disintegration
+
+In August 2017, producer Yuri Bardash stated that on December 31, 2017 the band would cease its concert activity <span id="a6">[\[6\]](#f6)</span>. In late November, the band canceled all the concerts planned for the end of the year, after which rumors began spreading about the disintegration of the "Griby"<span id="a6">[\[7\]](#f6)</span>.
+
+
+
 
 # See also update in Feb. 2018
 
@@ -66,5 +72,8 @@ published: true
 [[4]](#a4) <span id="f4"></span> [Name (Facebook)](https://www.facebook.com/grebzlife/)
 
 [[5]](#a5) <span id="f5"></span> [Name (Instagram)](https://www.instagram.com/gribi__official/)
+
+[[6, 7]](#a6) <span id="f6"></span> [Грибы (группа) (Википедия)](https://ru.wikipedia.org/wiki/Грибы_(группа))
+
 
 `Last update Feb. 2018 (Andrei Dei)`
