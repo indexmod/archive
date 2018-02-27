@@ -47,7 +47,7 @@ published: true
 |2017|ミュージックビデオ|Monetochka — 最後のディスコ <span id="a6">[\[6\]](#f6)</span>|メインキャラクター|
 |2017|ミュージックビデオ|Nusha — Nebya lubit <span id="a7">[\[7\]](#f7)</span>|ダンサー|
 |2017|ファッション映画|Lecharlatan、 Anna Modo、Lookbook を特集した <span id="a8">[\[8\]](#f8)</span>|メインキャラクター|
-|2016|ミュージックビデオ|Mezza — Dlya nee (Net lyubvi) <span id="a9">[\[9\]](#f9)</span>|Singer|
+|2016|ミュージックビデオ|Mezza — Dlya nee (Net lyubvi) <span id="a9">[\[9\]](#f9)</span>|歌手|
 |2016|ミュージックビデオ|Obladaet — タイムラプス/マスク <span id="a10">[\[10\]](#f10)</span>|未確認キャラクター|
 |2016|ミュージックビデオ|Nadyulya — Pati y Nadyuli <span id="a11">[\[11\]](#f11)</span>|ダンサー|
 |2015|ミュージックビデオ|Ligalaiz — Karavan <span id="a12">[\[12\]](#f12)</span>|ダンサー|
@@ -91,6 +91,3 @@ published: true
 [[15]](#a15) <span id="15"></span> [Lecharlatan (Instagram)](https://www.instagram.com/lecharlatanru/)
 
 [[16]](#a16) <span id="f16"></span> [Lecharlatan Show (YouTube)](https://www.youtube.com/channelUCBR-dSrqop9Yb5neMGugH5A/about)
-
-
-
