@@ -7,7 +7,7 @@ published: true
 
 # Griby
 
-(Ukr. Гриби, est. 2016, Kiev) Ukrainian, UkrPop emotional phenomenon, styled as ‘gopniks’ [hoodlum] <span id="a1">[\[1\]](#f1)</span>, hiphop-house <span id="a2">[\[2\]](#f2)</span> band founded by musician from Lugansk <span id="a3">[\[3\]](#f3)</span>, Yuri Bardash (Kruzheva), Ilya Kapustin (4atty aka Tilla), Symptom NZHN and Kyivstoner (Correspondent Raduzhny) who “incorporate elements of Russian hip-hop and turns them into well-made house music.”, with 2017 Spring hit Tayet Lyod (“The Ice is Melting”) in one month have reached 50 million number of views <span id="a3">[\[3\]](#f3)</span>.
+(Ukr. Гриби, est. 2016, Kiev, dis. 2017) Ukrainian, UkrPop emotional phenomenon, styled as ‘gopniks’ [hoodlum] <span id="a1">[\[1\]](#f1)</span>, hiphop-house <span id="a2">[\[2\]](#f2)</span> band founded by musician from Lugansk <span id="a3">[\[3\]](#f3)</span>, Yuri Bardash (Kruzheva), Ilya Kapustin (4atty aka Tilla), Symptom NZHN and Kyivstoner (Correspondent Raduzhny) who “incorporate elements of Russian hip-hop and turns them into well-made house music.”, with 2017 Spring hit Tayet Lyod (“The Ice is Melting”) in one month have reached 50 million number of views <span id="a3">[\[3\]](#f3)</span>.
 
 ![](http://the-flow.ru/uploads/images/catalog/element/58a0817cd5fe0.jpg)
 
@@ -23,7 +23,7 @@ published: true
 |-|-|-|-|-|
 |2018|1983 <span id="a4">[\[4\]](#f4)</span>|7065 <span id="a5">[\[5\]](#f5)</span>|2|0,018096|
 
-# Disintegration
+# Disintegration in 2017
 
 In August 2017, producer Yuri Bardash stated that on December 31, 2017 the band would cease its concert activity <span id="a6">[\[6\]](#f6)</span>. In late November, the band canceled all the concerts planned for the end of the year, after which rumors began spreading about the disintegration of the "Griby"<span id="a6">[\[7\]](#f6)</span>.
 
