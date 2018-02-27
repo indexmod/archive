@@ -7,7 +7,7 @@ published: true
 
 # Griby
 
-(Ukr. Гриби, est. 2016, Kiev) Ukrainian, UkrPop emotional phenomenon, styled as ‘gopniks’ [hoodlum] <span id="a1">[\[1\]](#f1)</span>, hiphop-house <span id="a2">[\[2\]](#f2)</span> band founded by musician from Lugansk <span id="a3">[\[3\]](#f3)</span>, Yuri Bardash (Kruzheva), Ilya Kapustin (4atty aka Tilla), Symptom NZHN and Kyivstoner (Correspondent Raduzhny) who “incorporate elements of Russian hip-hop and turns them into well-made house music.”, with 2017 Spring hit Tayet Lyod (“The Ice is Melting”) in one month have reached 50 million number of views <span id="a3">[\[3\]](#f3)</span>. [Edit this page](http://prose.io/#indexmod/encyclopedia/edit/master/griby.md)
+(Ukr. Гриби, est. 2016, Kiev) Ukrainian, UkrPop emotional phenomenon, styled as ‘gopniks’ [hoodlum] <span id="a1">[\[1\]](#f1)</span>, hiphop-house <span id="a2">[\[2\]](#f2)</span> band founded by musician from Lugansk <span id="a3">[\[3\]](#f3)</span>, Yuri Bardash (Kruzheva), Ilya Kapustin (4atty aka Tilla), Symptom NZHN and Kyivstoner (Correspondent Raduzhny) who “incorporate elements of Russian hip-hop and turns them into well-made house music.”, with 2017 Spring hit Tayet Lyod (“The Ice is Melting”) in one month have reached 50 million number of views <span id="a3">[\[3\]](#f3)</span>.
 
 ![](http://the-flow.ru/uploads/images/catalog/element/58a0817cd5fe0.jpg)
 
