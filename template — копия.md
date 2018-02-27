@@ -13,7 +13,7 @@ published: true
 
 **Image title**
 
-*Photo: [Name](index) / [Source](index)*
+*Photo: [Unidentified](photo-caption-sample) / [Source](photo-caption-sample)*
 
 # {{page.title}} Conspectus
 
@@ -31,15 +31,15 @@ published: true
 
 # See also
 
-+ [One](index)
-+ [Two](index)
++ [One](see-also-sample)
++ [Two](see-also-sample)
 
 # Footnotes
 
-[[3]](#a3) <span id="f3"></span> [{{page.title}} (Facebook)](index)
+[[3]](#a3) <span id="f3"></span> [{{page.title}} (Facebook)](footnotes-sample)
 
-[[4]](#a4) <span id="f4"></span> [{{page.title}} (Instagram)](index)
+[[4]](#a4) <span id="f4"></span> [{{page.title}} (Instagram)](footnotes-sample)
 
-[[5]](#a5) <span id="f5"></span> [{{page.title}} (YouTube)](index)
+[[5]](#a5) <span id="f5"></span> [{{page.title}} (YouTube)](footnotes-sample)
 
 `Last edit Feb. 2018 (Andrei Dei)`
