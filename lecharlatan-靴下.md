@@ -55,8 +55,8 @@ published: true
 
 # も参照してください
 
-+[Ssanye tryapki (服)](ssanye-tryapki-clothes)
-+[Be In (サイト)](be-in-site)
++ [Ssanye tryapki (服)](ssanye-tryapki-clothes)
++ [Be In (サイト)](be-in-site)
 
 # 脚注
 
