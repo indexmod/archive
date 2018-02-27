@@ -16,7 +16,7 @@ published: true
 
 # Naming and identity
 
-The name of the fellowship "Eta" comes from Russian «Эта» — pronunciation of the eighth letter of the Phoenician alphabet "heth". Because "Eta" is not an abbreviation, but a noun and a pronoun, the semantic, morphological and syntactic properties determine the rules for writing "Eta" as a proper name.
+The name of the fellowship "Eta" comes from Russian «Эта» — pronunciation of the eighth letter of the phoenician alphabet "heth". Because "Eta" is not an abbreviation, but a noun and a pronoun, the semantic, morphological and syntactic properties determine the rules for writing "Eta" as a proper name.
 
 # Fonts
 
