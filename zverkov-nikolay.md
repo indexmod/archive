@@ -23,3 +23,6 @@ layout: default
 # Footnotes
 
 [[1]](#a1) <span id="f1"></span> [100 самых влиятельных в русской моде (SNC)](http://www.sncmedia.ru/rating/)
+
+
+`Las edit Feb. 2018 (Andrei Dei)`
