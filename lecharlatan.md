@@ -59,6 +59,14 @@ published: true
 |-|-|-|-|-|-|
 |2018|719 <span id="a14">[\[14\]](#f14)</span>|4235 <span id="a15">[\[15\]](#f15)</span>|3380 <span id="a16">[\[16\]](#f16)</span>|5|0,021854|
 
+# See also
+
++ [Be In (サイト)](be-in-site)
++ [Berdyansk Marketplace (ブランド)](berdyansk-marketplace)
++ [Gosha Gazinskaya (服)](gosha-gazinskaya)
++ [Lecharlatan (靴下)](lecharlatan-靴下)
++ [Ssanaia tryapka (服)](ssanye-tryapki-clothes)
+
 # Footnotes
 
 [[1]](#a1) <span id="f1"></span> [Spelling it out: why Cyrillic slogan streetwear is the new punk uniform for post-Soviet teens (Sasha Raspopina, The Calvert Journal)](http://calvertjournal.com/articles/show/6278/cyrillic-slogan-streetwear-clothing-rubchinskiy-vetements)
@@ -93,4 +101,4 @@ published: true
 
 [[16]](#a16) <span id="f16"></span> [Lecharlatan Show (YouTube)](https://www.youtube.com/channelUCBR-dSrqop9Yb5neMGugH5A/about)
 
-`Last edit Feb. 2018 (Andrei Dei)`
+`Updated Mar. 2018 (Andrei Dei)`
