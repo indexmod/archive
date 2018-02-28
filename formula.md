@@ -1,4 +1,10 @@
-# {{page.title}} Indexmod*
+---
+title: Formula
+permalink: formula
+layout: default
+---
+
+# {{page.title}} of Indexmod
 
 |Data|2018|
 |-|-|
@@ -9,6 +15,6 @@
 |SNC|100 <span id="a3">[\[3\]](#f3)</span>|
 |Youtube|100 <span id="a3">[\[3\]](#f3)</span>|
 
-|Indexmod formula|`BEN+BOF+FAB+INS+SNC+YTB*AGE`|
+|Formula|`BEN+BOF+FAB+INS+SNC+YTB*AGE`|
 |-|-|
 |1|2|

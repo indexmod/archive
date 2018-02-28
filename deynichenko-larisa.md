@@ -1,7 +1,8 @@
 ---
-title: Deynichenko, Larisa
+title: 'Deynichenko, Larisa'
 permalink: deynichenko-larisa
 layout: default
+published: true
 ---
 
 # Deynichenko, Larisa
@@ -34,4 +35,9 @@ layout: default
 
 [[2]](#a2) <span id="f2"></span> [В гостях у качков (Super Yulik, Miles and Looks, Live Journal)](http://super-yulik.livejournal.com/86192.html)
 
+<<<<<<< HEAD
 `Updated Mar. 2018 (Andrei Dei)`
+=======
+
+`Last edited Feb. 2018 (Andrei Dei)`
+>>>>>>> f329f1679d1e713a045bee006a0375c78abf6bfa
