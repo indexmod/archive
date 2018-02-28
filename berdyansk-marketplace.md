@@ -7,7 +7,7 @@ published: true
 
 # Berdyansk Marketplace
 
-(Rus. Бердянск Маркетплейс, est. 2016, Moscow) Russian brand of alternative wear with reflective prints, named after "Berdyansk workshop" on Bukhvostova street in Moscow (Мастерская Бердянск) and after city of Berdyansk in Ukrane (Бердянськ). [Edit this page](http://prose.io/#indexmod/encyclopedia/edit/master/berdyansk-marketplace.md)
+(Rus. Бердянск Маркетплейс, est. 2016, Moscow) Russian brand of alternative wear with reflective prints, named after "Berdyansk workshop" on Bukhvostova street in Moscow (Мастерская Бердянск) and after city of Berdyansk in Ukrane (Бердянськ).
 
 ![](https://pp.userapi.com/c841228/v841228571/6124d/V-76vqQaZ7s.jpg)
 
@@ -25,4 +25,4 @@ published: true
 
 [[1]](#a1) <span id="f1"></span> [Berdyansk Marketplace (Pinterest)](https://ru.pinterest.com/berdyanskmarketplace/)
 
-`Last edited Feb. 2018 (Andrei Dei)`
+`Updated Mar. 2018 (Andrei Dei)`

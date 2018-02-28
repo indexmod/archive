@@ -4,12 +4,9 @@ permalink: farmani-hossein
 layout: default
 ---
 
-
-
 # Фармани, Хоссейн
 
-
-(Eng. Hossein Farmani, Pers. حسین فرمانی, род. 1969, Tehran)  иранский фотограф и коллекционер, основатель Группы Фармани [(Farmani Group)](farmani-group), базирующуюся в Лондоне и Бангкоке, основатель премии Lucie Awards, работал с Хельмутом Ньютоном, Ричардом Аведоном, Стивом Маккарри <span id="a1">[\[1\]](#f1)</span>. [Edit this page](http://prose.io/#indexmod/encyclopedia/edit/master/page-template.md)
+(Eng. Hossein Farmani, Pers. حسین فرمانی, род. 1969, Tehran)  иранский фотограф и коллекционер, основатель Группы Фармани [(Farmani Group)](farmani-group), базирующуюся в Лондоне и Бангкоке, основатель премии Lucie Awards, работал с Хельмутом Ньютоном, Ричардом Аведоном, Стивом Маккарри <span id="a1">[\[1\]](#f1)</span>.
 
 ![](http://schoolva.ru/wp-content/uploads/2015/10/hossein_farmani-by_cattleya_jaruthavee.jpg)
 
@@ -46,4 +43,4 @@ layout: default
 
 [[1]](#a1) <span id="f1"></span> [Лекция Хоссейна Фармани — Фотография. Маркетинг и бизнес. (Школа Визуальных Искусств)](http://example.net/article)
 
-`Последняя редакция, февраль 2018 (Андрей Дей)`
+`Обновлено, фев. 2018 (Андрей Дей)`

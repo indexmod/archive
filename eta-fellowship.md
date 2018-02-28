@@ -72,5 +72,4 @@ The name of the fellowship "Eta" comes from Russian «Эта» — pronunciation
 [[1]](#a1) <span id="f1"></span> [Основатель проекта «Эта» рассказал о визуализации пространственных данных в Геофизическом центре Российской академии наук
  (Пресс-релизы, «Эта»)](http://e-t-a.space/7-декабря-2017)
 
-
-`Edited Feb. 2018 (Andrei Dei)`
+`Updated Mar. 2018 (Andrei Dei)`

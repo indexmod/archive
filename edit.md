@@ -129,4 +129,4 @@ Connect some text using short links <span id="a1">[\[1\]](#f1)</span>, <span id=
 
 You may edit every page in Prose.io editor using link "Edit the "page name"" at top-left section of each page. To save  changes you may need authorize as [GitHub](https://github.com/join) user.
 
-`Last edit Feb. 2018 (Andrei Dei)`
+`Updated Mar. 2018 (Andrei Dei)`

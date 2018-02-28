@@ -52,5 +52,4 @@ On January 23, designer Ulyana Sergeyenko presented her summer collection of clo
 
 [[3]](#a3) <span id="f3"></span> [Ульяна Сергеенко пригласила Мирославу Думу на свой показ в Париже словом «niggas». Теперь у обеих проблемы (Meduza, Olga Strakhovskaya)](https://meduza.io/feature/2018/01/24/ulyana-sergeenko-priglasila-miroslavu-dumu-na-svoy-pokaz-v-parizhe-slovom-niggas-teper-u-obeih-problemy)
 
-
-`Last update Jan. 2018 by Andrei Dei`
+`Updated Mar. 2018 (Andrei Dei)`
