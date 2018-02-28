@@ -55,11 +55,12 @@ published: true
 
 # も参照してください
 
-+ [Be In (サイト)](be-in-site)
-+ [Berdyansk Marketplace (ブランド)](berdyansk-marketplace)
-+ [Gosha Gazinskaya (服)](gosha-gazinskaya)
-+ [Ssanaia tryapka (服)](ssanye-tryapki-clothes)
-
++ [Be In (サイト)](be-in-site)(英語で)
++ [Berdyansk Marketplace (ブランド)](berdyansk-marketplace)(英語で)
++ [Gosha Gazinskaya (服)](gosha-gazinskaya)(英語で)
++ [インターネットヤミ市](internet-yami-ichi)(ロシア語で)
++ [Lecharlatan (socks)](lecharlatan)(英語で)
++ [Ssanaia tryapka (服)](ssanye-tryapki-clothes)(英語で)
 
 # 脚注
 
