@@ -2,11 +2,12 @@
 title: Indexmod Curators
 permalink: indexmod-curators
 layout: default
+published: true
 ---
 
 # Indexmod Curators
 
-1. Bangkok [Vincent Sung](index)
+1 Bangkok [Vincent Sung](index)
 + Bali [Uma Kumari](index)
 + Basel
 + Beijing
