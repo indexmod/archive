@@ -19,7 +19,7 @@ layout: default
 
 Description-two <span id="a2">[\[2\]](#f2)</span> description-three <span id="a3">[\[3\]](#f3)</span>, extra text.
 
-![](/encyclopedia/images/fedorov-2.jpg)
+![](http://aroundart.ru/wp-content/uploads/2014/02/1-8.jpg)
 
 **Vladimir Fedorov (Phedot), “Cloud Rorschach”, 2010**
 
@@ -35,7 +35,7 @@ Description-two <span id="a2">[\[2\]](#f2)</span> description-three <span id="a3
 |2016|Solovki|
 |2017|Moscow|
 
-![](/encyclopedia/images/fedorov-3.png)
+![](https://i.vimeocdn.com/video/480311116.jpg?mw=600&mh=338)
 
 **Vladimir Fedorov, fragment of documentary interview**
 
