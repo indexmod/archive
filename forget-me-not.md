@@ -6,22 +6,32 @@ layout: default
 
 # Forget Me Not
 
-
-(Rus. Незабудка, est. 2010) is a Russian unisex clothes brand based in Moscow founded by Artur Lomakin  <span id="a1">[\[1\]](#f1)</span>  floor-length coats, heavy-knit sweaters and lambskin collars have become part of his signature style, finds inspiration in the grey anonymity of Moscow's suburbs <span id="a2">[\[2\]](#f2)</span>,  <span id="a3">[\[3\]](#f3)</span>, extra text.
+(Rus. Незабудка, est. 2010) is a Russian unisex clothes brand based in Moscow founded by Artur Lomakin  <span id="a1">[\[1\]](#f1)</span>  floor-length coats, heavy-knit sweaters and lambskin collars have become part of his signature style, finds inspiration in the grey anonymity of Moscow's suburbs <span id="a2">[\[2\]](#f2)</span>, living and working in "the Southern suburb of Chertanovo" <span id="a3">[\[3\]](#f3)</span> in Moscow.
 
 ![](https://static.vogue.ru/iblock/3df/3dfb13364f53e8fed1a38a9c5c772f00.jpg)
 
-**Image caption title**
+**Image from 2015  Winter lookbook**
 
-*Photo: [Photographer name](/photographer-name-page) / [Source name](/source-name-page)*
+*Photo: [Svetlana Tanakina](tanakina-svetlana) / [Vogue](https://www.vogue.ru/fashion/news/istoriya_krasnoy_shapochki_v_zimnem_lukbuke_forget_me_not/)*
 
-# Stockist Transatlantique
+# Lomakin's Bio
+
+Artur Lomakin is a stylist turned fashion designer. In 2010 he founded Forget Me Not. The brand has shown at PREVIEW during Cycles&Seasons Fashion Week in Moscow and has garnered reviews in Russian and international style press including Vogue, Elle, Dazeddigital, Vice Style and Wallpaper <span id="a4">[\[4\]](#f4)</span>.
+
+![](/encyclopedia/images/lomakin-2.jpg)
+
+**Coat S with contrast black back, ₽ 8500**
+
+*Photo: [Forget Me Not](index) / [Facebook](https://scontent-lht6-1.xx.fbcdn.net/v/t1.0-9/28471994_1893753737333424_4214354906090153448_n.jpg)*
+
+# Stockist*
 
 |Year|City|
 |----|-----|
 |2010|Moscow|
 |2015|MY|
 
+`* Update request`
 
 # See also
 
@@ -46,5 +56,7 @@ layout: default
 [[2]](#a2) <span id="f2"></span> [Dark kingdom: how Artur Lomakin went from Moscow’s suburbs to global fashion’s avant-garde (Anastasiia Fedorova, The Calvert Journal)](http://www.calvertjournal.com/articles/show/546/artur-lomakin-forget-me-not-conceptual-fashion-moscow)
 
 [[3]](#a3) <span id="f3"></span> [The emerging designer making knitwear for Russian winters (Josephine Platt, Hunger)](http://www.hungertv.com/feature/the-emerging-designer-making-knitwear-for-russian-winters/)
+
+[[4]](#a4) <span id="f4"></span> [Defining a Post-Soviet Aesthetic in Fashion (Event of 22 Mar 2017, Institute of Contemporary Arts)](http://www.hungertv.com/feature/the-emerging-designer-making-knitwear-for-russian-winters/)
 
 `Update Mar. 2018 (Andrei Dei)`
