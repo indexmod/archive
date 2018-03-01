@@ -1,8 +1,9 @@
 ---
 title: Australian Fashion Chamber
 permalink: australian-fashion-chamber
-position:
+position: null
 layout: default
+published: true
 ---
 
 # Australian Fashion Chamber
@@ -24,9 +25,9 @@ layout: default
 
 ![](https://cdn.newsapi.com.au/image/v1/1d60521c6a829d88b5bc72824895ff05)
 
-**Australian Designers Abroad showroom to debut in New York**
+**Australian Designers Abroad showroom to debut in New York in 2017**
 
-*Photo: [: Australian Fashion Chamber](afc) / [: Australian Fashion Chamber](afc)*
+*Photo: [Australian Fashion Chamber](afc) / [Australian Fashion Chamber](afc)*
 
 # Activities
 
