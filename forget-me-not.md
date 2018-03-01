@@ -30,13 +30,13 @@ layout: default
 + [Svetlana Tanakina](tanakina-svetlana)
 + [Anna Diulgerova](diulgerova-anna)
 + [Gosha Rubchinsky](rubchinsky-gosha)
-+ [Alexandr Gershevich](create-page)
-+ [Chaos Reigns](create-page)
-+ [Lesya Myata](create-page)
-+ [Lick the Star](create-page)
-+ [Not Just A Label](create-page)
-+ [Panika Derevya](create-page)
-+ [Polina Pe](create-page)
++ [Alexandr Gershevich](http://prose.io/#indexmod/encyclopedia/edit/master/alexandr-gershevich.md)
++ [Chaos Reigns](http://prose.io/#indexmod/encyclopedia/edit/master/alexandr-gershevich.md)
++ [Lesya Myata](http://prose.io/#indexmod/encyclopedia/edit/master/Chaos-Reigns.md)
++ [Lick the Star](http://prose.io/#indexmod/encyclopedia/edit/master/lick-the-star.md)
++ [Not Just A Label](http://prose.io/#indexmod/encyclopedia/edit/master/not-just-a-label.md)
++ [Panika Derevya](http://prose.io/#indexmod/encyclopedia/edit/master/panika-derevya.md)
++ [Polina Pe](http://prose.io/#indexmod/encyclopedia/edit/master/polina-pe.md)
 
 
 # Footnotes
