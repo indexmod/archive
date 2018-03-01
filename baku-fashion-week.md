@@ -19,3 +19,5 @@ layout: default
 - [Raare Fashion Days](raare-fashion-days)
 - [Azerbaijan Fashion Week](azerbaijan-fashion-week)
 - [Baku](baku)
+
+`Updated Mar. 2018 (Andrei Dei)`

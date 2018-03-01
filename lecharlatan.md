@@ -59,6 +59,14 @@ published: true
 |-|-|-|-|-|-|
 |2018|719 <span id="a14">[\[14\]](#f14)</span>|4235 <span id="a15">[\[15\]](#f15)</span>|3380 <span id="a16">[\[16\]](#f16)</span>|5|0,021854|
 
+# See also
+
++ [Be In (サイト)](be-in-site)
++ [Berdyansk Marketplace (ブランド)](berdyansk-marketplace)
++ [Gosha Gazinskaya (服)](gosha-gazinskaya)
++ [Lecharlatan (靴下)](lecharlatan-靴下)
++ [Ssanaia tryapka (服)](ssanye-tryapki-clothes)
+
 # Footnotes
 
 [[1]](#a1) <span id="f1"></span> [Spelling it out: why Cyrillic slogan streetwear is the new punk uniform for post-Soviet teens (Sasha Raspopina, The Calvert Journal)](http://calvertjournal.com/articles/show/6278/cyrillic-slogan-streetwear-clothing-rubchinskiy-vetements)
@@ -71,7 +79,7 @@ published: true
 
 [[5]](#a5) <span id="f5"></span> [Poshlaya Molly — Tipichnaya vecherinka s basseynom (YouTube)](https://www.youtube.com/watch?v=ccdHspHSJQ8)
 
-[[6]](#a6) <span id="f6"></span> [Monetochka — Poslednyaya diskoteka (YouTube)](https://www.youtube.com/watch?v=Z-R2xO3phVM)
+[[6]](#a6) <span id="f6"></span> [Monetochka — Poslednyaya diskoteka (YouTube)](https://www.youtube.com/watch?v=lMWmUYAkxw8)
 
 [[7]](#a7) <span id="f7"></span> [Nusha — Nebya lubit (YouTube)](https://www.youtube.com/watch?v=lMWmUYAkxw8)
 
@@ -83,12 +91,22 @@ published: true
 
 [[11]](#a11) <span id="f11"></span> [Nadyulya — Pati y Nadyuli (YouTube)](https://www.youtube.com/watch?v=SHkh7hOAhWI)
 
+<<<<<<< HEAD
 [[12]](#a12) <span id="f12"></span> [Ligalaiz — Karavan (YouTube)](https://www.youtube.com/watch?v=ZBl9eMXKfDs)
 
 [[13]](#a13) <span id="f13"></span> [Years and Years King Live at The Tonight Show with Jimmy Fallon (YouTube)](https://www.youtube.com/watch?v=BXFtLA5Cj0o)
 
 [[14]](#a14) <span id="f14"></span> [Lecharlatan (Facebook)](https://www.facebook.com/pg/lecharlatanofficial/community)
+=======
+[[12]](#a12) <span id="f12"></span> [Ligalaiz — Karava (YouTube)](https://www.youtube.com/watch?v=ZBl9eMXKfDs)
+
+[[13]](#a13) <span id="f13"></span> [Years and Years King Live at The Tonight Show with Jimmy Fallon (YouTube)](https://www.youtube.com/watch?v=BXFtLA5Cj0o)
+
+[[14]](#a14) <span id="f14"></span> [Lecharlatan Show (YouTube)](https://www.youtube.com/channel/UCBR-dSrqop9Yb5neMGugH5A)
+>>>>>>> 666053a15b6902bc89763552fd8a611daaaf9033
 
 [[15]](#a15) <span id="15"></span> [Lecharlatan (Instagram)](https://www.instagram.com/lecharlatanru/)
 
 [[16]](#a16) <span id="f16"></span> [Lecharlatan Show (YouTube)](https://www.youtube.com/channelUCBR-dSrqop9Yb5neMGugH5A/about)
+
+`Updated Mar. 2018 (Andrei Dei)`

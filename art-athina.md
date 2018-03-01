@@ -94,3 +94,5 @@ Zina Athanassiadou Gallery
 [[3]](#a3) <span id="f3"></span> [Name (Facebook)](http://example.net/article)
 
 [[4]](#a4) <span id="f4"></span> [Name (Instagram)](http://example.net/article)
+
+`Updated Mar. 2018 (Andrei Dei)`

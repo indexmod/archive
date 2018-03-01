@@ -46,4 +46,4 @@ published: true
 
 [[4]](#a4) <span id="f4"></span> [{{page.title}} Russia (YouTube)](https://www.youtube.com/channel/UCE0w0Nyu7XjBSoF9o1LBDLA/about)
 
-`Last update Jan 2018 by Andrei Dei`
+`Updated Mar. 2018 (Andrei Dei)`
