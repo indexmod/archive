@@ -40,4 +40,4 @@ published: true
 
 [[4]](#a4) <span id="f4"></span> [{{page.title}} (Instagram)](index)
 
-`Last edit Feb. 2018 (Andrei Dei)`
+`Update Mar. 2018 (Andrei Dei)`
