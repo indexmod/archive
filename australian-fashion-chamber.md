@@ -43,7 +43,7 @@ The Chamber has a host of activities  from guest lecture series for educational 
 + Malcolm Carfrae, Global Head of Communications, Public Relations and Media, Ralph Lauren International
 + Melissa Grace, Global Marketing Communications Manager, The Woolmark Company
 
-# Conspectus
+# Non-Executive Directors
 
 + Alicia Kemp, Fashion Category Executive, AMP Capital Shopping Centres
 + Alison Veness, Editor and Publisher, 10 Magazine
