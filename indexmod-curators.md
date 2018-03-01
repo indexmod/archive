@@ -8,12 +8,12 @@ published: true
 # Indexmod Curators
 
 1 Bangkok [Vincent Sung](index)
-+ Bali [Uma Kumari](index)
-+ Basel
-+ Beijing
-+ Berlin
-+ Bombay
-+ Buenos Aires
+* Bali [Uma Kumari](index)
+* Basel
+- Beijing
+- Berlin
+Bombay
+Buenos Aires
 + Chicago
 + Delhi [Shriya Malhotra](malhotra-shriya)
 + Guangzhou
