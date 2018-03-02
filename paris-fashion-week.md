@@ -4,12 +4,9 @@ permalink: paris-fashion-week
 layout: default
 ---
 
-
-
 # Paris Fashion Week
 
-
-(Est. 2013, city) is a subject, description-one <span id="a1">[\[1\]](#f1)</span>, description-two <span id="a2">[\[2\]](#f2)</span> description-three <span id="a3">[\[3\]](#f3)</span>, extra text. [Edit this page](http://prose.io/#indexmod/encyclopedia/edit/master/page-template.md)
+(Est. 2013, city) is a subject, description-one <span id="a1">[\[1\]](#f1)</span>, description-two <span id="a2">[\[2\]](#f2)</span> description-three <span id="a3">[\[3\]](#f3)</span>, extra text.
 
 ![](/encyclopedia/images/image-name.jpg)
 
@@ -38,11 +35,3 @@ layout: default
 [[2]](#a2) <span id="f2"></span> [Article name little longer (Author name longer)](http://example.net/article)
 
 [[3]](#a3) <span id="f3"></span> [Article name longer so far (Author name too long and much longer)](http://example.net/article)
-
----
-
-`Editorial`
-
-`Warnings`
-
-`Notes`

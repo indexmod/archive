@@ -4,45 +4,28 @@ permalink: reserve-vintage-la
 layout: default
 ---
 
-
-
 # Reserve Vintage, La
 
+(Rus. Ла Резерв Винтаж, est. 2013, Moscow) an online store with popups in Moscow and Yekaterinburg. The barand was founded by Anna Yaroshenko in Moscow in 1998 from personal vintage jewelry collection, clothing, and accessories <span id="a1">[\[1\]](#f1)</span>.
 
-(Est. 2013, city) is a subject, description-one <span id="a1">[\[1\]](#f1)</span>, description-two <span id="a2">[\[2\]](#f2)</span> description-three <span id="a3">[\[3\]](#f3)</span>, extra text. [Edit this page](http://prose.io/#indexmod/encyclopedia/edit/master/page-template.md)
+|![](/encyclopedia/images/brooch.jpg)|![](/encyclopedia/images/brooch.jpg)|
+|**Brooch by Jean-Louis Scherrer, 80th**|**Layout sketch of the “La Reserve” stickers and packaging**|
 
-![](/encyclopedia/images/image-name.jpg)
+*Photo: [La Reserve Vintage](index) / [La Reserve Vintage](index)*
 
-**Image caption title**
+# Selected partners
 
-*Photo: [Photographer name](/photographer-name-page) / [Source name](/source-name-page)*
-
-# Conspectus
-
-|Year|City|
-|----|-----|
-|2014|Tokyo|
-|2015|Moscow|
-|2017|Paris|
+|Year|Store|City|
+|-|-|-|
+|2013|Shop Liberty|Yekaterinburg
+|2014|Aizel|Moscow|
 
 # See also
 
-+ [See also title one](page-template)
-+ [See also title two](page-template)
-+ [See also title three](page-template)
++ [Aizel Trudel](trudel-aizel)
 
 # Footnotes
 
 [[1]](#a1) <span id="f1"></span> [Article name short (Author name)](http://example.net/article)
 
-[[2]](#a2) <span id="f2"></span> [Article name little longer (Author name longer)](http://example.net/article)
-
-[[3]](#a3) <span id="f3"></span> [Article name longer so far (Author name too long and much longer)](http://example.net/article)
-
----
-
-`Editorial`
-
-`Warnings`
-
-`Notes`
+`Updated Mar. 2018 (Andrei Dei)`
