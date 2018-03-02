@@ -2,14 +2,15 @@
 permalink: migration
 title: Migration
 layout: default
+published: true
 ---
-
 # Migration
 
+![Снимок экрана 2018-03-02 в 13.39.21.png]({{site.baseurl}}/Снимок экрана 2018-03-02 в 13.39.21.png)
 
 # 2 March 
 
-Artcom Media
+~~Artcom Media
 Artfido
 Artomat (site)
 Artyomov, Andrey
@@ -18,6 +19,11 @@ Atelier Radost
 Avedon, Richard
 Axenoff Jewellery
 Axenoff, Petr (jeweler)
+Wacher, Brit
+Walk of Shame (brand)
+Washington
+Webster, Will (photographer)
+Wood Mem~~
 
 # 3 March 
 
@@ -401,11 +407,3 @@ Vodianova, Natalia
 Vogoς
 Volkova, Lotta
 Voronov, Evdokia
-
-# 25 March 
-
-Wacher, Brit
-Walk of Shame (brand)
-Washington
-Webster, Will (photographer)
-Wood Mem
