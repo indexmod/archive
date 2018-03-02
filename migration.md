@@ -18,7 +18,12 @@ Arutunov, Alexandr
 Atelier Radost
 Avedon, Richard
 Axenoff Jewellery
-Axenoff, Petr (jeweler)~~
+Axenoff, Petr (jeweler)
+Wacher, Brit
+Walk of Shame (brand)
+Washington
+Webster, Will (photographer)
+Wood Mem~~
 
 # 3 March 
 
@@ -402,11 +407,3 @@ Vodianova, Natalia
 Vogoς
 Volkova, Lotta
 Voronov, Evdokia
-
-# 25 March 
-
-Wacher, Brit
-Walk of Shame (brand)
-Washington
-Webster, Will (photographer)
-Wood Mem
