@@ -4,45 +4,30 @@ permalink: modem
 layout: default
 ---
 
-
-
 # Modem
 
+(Est. 1997, Paris) is an online platform founded by Ezio Barbaro, the Modem editions “are the working tool and source of professional information dedicated to those who operate in the fields of fashion and design” <span id="a1">[\[1\]](#f1)</span>.
 
-(Est. 2013, city) is a subject, description-one <span id="a1">[\[1\]](#f1)</span>, description-two <span id="a2">[\[2\]](#f2)</span> description-three <span id="a3">[\[3\]](#f3)</span>, extra text. [Edit this page](http://prose.io/#indexmod/encyclopedia/edit/master/page-template.md)
+![](http://www.modemonline.com/img/_cover/modem-paris-women-spring-summer-2018/interlayer/07.jpg)
 
-![](/encyclopedia/images/image-name.jpg)
+**Cover by Modem 20th Anniversary**
 
-**Image caption title**
-
-*Photo: [Photographer name](/photographer-name-page) / [Source name](/source-name-page)*
+*Photo: [Modem](modem) / [Modemonline.com](http://www.modemonline.com/img/_cover/modem-paris-women-spring-summer-2018/interlayer/07.jpg)*
 
 # Conspectus
 
-|Year|City|
-|----|-----|
-|2014|Tokyo|
-|2015|Moscow|
-|2017|Paris|
+|Year|City|Company|
+|--|--|--|
+|1997|Paris, France, Europe|13524R SARL|
+|2002|Milano, Italy, Eastern Europe|13524R SARL|
+|2005|New York, USA|Vedra inc.|
 
 # See also
 
-+ [See also title one](page-template)
-+ [See also title two](page-template)
-+ [See also title three](page-template)
++ [Paris Fashion Week](paris-fashion-week)
 
 # Footnotes
 
-[[1]](#a1) <span id="f1"></span> [Article name short (Author name)](http://example.net/article)
+[[1]](#a1) <span id="f1"></span> [ModemOnline.com (Author name)](http://example.net/article)
 
-[[2]](#a2) <span id="f2"></span> [Article name little longer (Author name longer)](http://example.net/article)
-
-[[3]](#a3) <span id="f3"></span> [Article name longer so far (Author name too long and much longer)](http://example.net/article)
-
----
-
-`Editorial`
-
-`Warnings`
-
-`Notes`
+`Updated Mar. 2018 (Andrei Dei)`
