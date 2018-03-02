@@ -6,7 +6,7 @@ layout: default
 
 # Pantaloon Femina Swimsuit
 
-(Est. 2013, city) is a subject, description-one <span id="a1">[\[1\]](#f1)</span>, description-two <span id="a2">[\[2\]](#f2)</span> description-three <span id="a3">[\[3\]](#f3)</span>, extra text. 
+(Est. 2013, city) is a subject, description-one <span id="a1">[\[1\]](#f1)</span>, description-two <span id="a2">[\[2\]](#f2)</span> description-three <span id="a3">[\[3\]](#f3)</span>, extra text.
 
 ![](/encyclopedia/images/image-name.jpg)
 
@@ -36,10 +36,4 @@ layout: default
 
 [[3]](#a3) <span id="f3"></span> [Article name longer so far (Author name too long and much longer)](http://example.net/article)
 
----
-
-`Editorial`
-
-`Warnings`
-
-`Notes`
+`Updated Mar. 2018 (Andrei Dei)`

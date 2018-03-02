@@ -20,19 +20,17 @@ published: true
 |Year|City|
 |----|---------|
 |2014|Tokyo|
-|2015|Moscow|
+
 |2017|Paris|
 
 # See also
 
 - [Source name](http://example.net/)
 - [Source name](http://example.net/)
-- [Source name](http://example.net/)
+
 
 # Footnotes
 
 [[1]](#a1) <span id="f1"></span> [Article name (Author name short)](http://example.net/article)
 
-[[2]](#a2) <span id="f2"></span> [Article name (Author name long and)](http://example.net/article)
-
-[[3]](#a3) <span id="f3"></span> [Article name (Author name looooonger)](http://example.net/article)
+`Updated Mar. 2018 (Andrei Dei)`
