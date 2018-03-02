@@ -2,6 +2,7 @@
 title: Modem
 permalink: modem
 layout: default
+published: true
 ---
 
 # Modem
@@ -28,6 +29,6 @@ layout: default
 
 # Footnotes
 
-[[1]](#a1) <span id="f1"></span> [ModemOnline.com (Author name)](http://example.net/article)
+[[1]](#a1) <span id="f1"></span> [ModemOnline.com](ModemOnline.com)
 
 `Updated Mar. 2018 (Andrei Dei)`
