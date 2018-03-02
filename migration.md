@@ -10,15 +10,15 @@ published: true
 
 # 2 March 
 
-~~Artcom Media~~
+~~Artcom Media
 Artfido
 Artomat (site)
 Artyomov, Andrey
 Arutunov, Alexandr
 Atelier Radost
-~~Avedon, Richard~~
+Avedon, Richard
 Axenoff Jewellery
-Axenoff, Petr (jeweler)
+Axenoff, Petr (jeweler)~~
 
 # 3 March 
 
