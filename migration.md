@@ -2,10 +2,11 @@
 permalink: migration
 title: Migration
 layout: default
+published: true
 ---
+![Снимок экрана 2018-03-02 в 13.39.21.png]({{site.baseurl}}/Снимок экрана 2018-03-02 в 13.39.21.png)
 
 # Migration
-
 
 # 2 March 
 
