@@ -25,7 +25,7 @@ published: true
 
 **Консультанты моды Садэ Ноэ и Чадэ Ноколь позируют на мероприятии 23 февраля 2017 года в посольстве Гаити в Вашингтоне**
 
-*Photo: [Erin Schaff )](Erin Schaff Erin Schaff) / [The Washington Post)](https://www.washingtonpost.com/news/reliable-source/wp/2018/02/25/the-scene-diplomacy-by-design-at-the-haitian-embassy/?utm_term=.247d3963eb4d)*
+*Photo: [Erin Schaff ](Erin Schaff Erin Schaff) / [The Washington Post](https://www.washingtonpost.com/news/reliable-source/wp/2018/02/25/the-scene-diplomacy-by-design-at-the-haitian-embassy/?utm_term=.247d3963eb4d)*
 
 # Галереи и стритарт
 
@@ -35,7 +35,7 @@ published: true
 
 **Графити с актрисой Элизабет Тейлор в кафе "Дача Бир Гарден" на улице 7th St NW**
 
-*Photo: [Photographer name](http://example.net/) / [Source name](http://example.net/)*
+*Photo: [travelandleisure](travelandleisure) / [travelandleisure](travelandleisure)*
 
 # См. также
 
