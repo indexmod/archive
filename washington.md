@@ -1,54 +1,48 @@
 ---
-title: Washington
+title: Вашингтон
 permalink: washington
 position:
 layout: default
 ---
 
-# Washington
+# Вашингтон
 
-(Est. 2013, city) Washington (Washington, D.C.) est. in 1790—formally the District of Columbia and commonly referred to as “Washington” is a national center for the arts.  <span id="a1">[\[1\]](#f1)</span>, description-two <span id="a2">[\[2\]](#f2)</span> description-3 <span id="a3">[\[3\]](#f3)</span>, extra text.
+(Осн. 1790, США) формально Округ Колумбия, в Вашингтоне находится Центр искусств имени Джона Кеннеди, каждый год в центре вручается премия Центра Кеннеди, Президент и первая леди обычно присутствуют на церемонии, поскольку Первая леди является почётным председателем совета попечителей Центра Кеннеди. Вашингтон является центром независимой музыкальной культуры. Лейбл Dischord Records, основанный Яном Маккеем, был одним из значимых независимых в панк-культуре 1980-х годов и инди-рока в 1990-х. Также есть независимые лейблы TeenBeat Records и ESL Music. <span id="a1">[\[1\]](#f1)</span>.
 
-![](/images/image-name.jpg)
+![](https://upload.wikimedia.org/wikipedia/commons/c/cf/Kennedy_Center_-_panoramio.jpg)
 
-**Image caption**
+**Центр искусств имени Кеннеди**
 
-View to Dacha Beer Garden—place where “friends getting a buzz on outdoors”2
-Photo: Indexmod / Google Maps
+*Photo: [Jiazi](jiazi) / [Panoramio ](http://example.net/)*
+
+# Мода
+
+В готоде проходит неделя моды "Неделя моды Округа Колумбия" основанная Ианом Вильямсоном как "некоммерческая организаця"  исключительно для благотворительных и образовательных целей, консультационных услуг и содействия развитию бизнеса в области дизайна одежды, мерчандайзинга одежды и моделирования для новых или малоимущих дизайнеров моды в округе Колумбия, которые хотят войти в индустрию моды, с целью предоставление стипендий и помощь в обучении малообеспеченным студентам, желающим стать участниками программы обучения в области моды и для образования в области постановки модных представлений <span id="a2">[\[2\]](#f2)</span>.
+
+
+![](https://www.washingtonpost.com/resizer/C1DSbEIaXHSkBXnEsODl5f9yZDI=/1484x0/arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/64OZJICLEI6H3G3FMKMC5ICDK4.jpg)
+
+**Консультанты моды Садэ Ноэ и Чадэ Ноколь позируют на мероприятии 23 февраля 2017 года в посольстве Гаити в Вашингтоне**
+
+*Photo: [Erin Schaff )](Erin Schaff Erin Schaff) / [The Washington Post)](https://www.washingtonpost.com/news/reliable-source/wp/2018/02/25/the-scene-diplomacy-by-design-at-the-haitian-embassy/?utm_term=.247d3963eb4d)*
+
+# Галереи и стритарт
+
+Художественные галереи Вашингтона являются местом для изучения произведений искусства среди них Touchstone Gallery и Artist's Proof Gallery, вашингтонская  палитра не ограничивается музеями — стены кварталов города покрыты уникальными современными фресками, которые со временем признаются и становятся частью культурногот наследия города.
+
+![](http://cdn-image.travelandleisure.com/sites/default/files/styles/marquee_large_2x/public/1444076834/DCGUIDE1015-dacha.jpg)
+
+**Графити с актрисой Элизабет Тейлор в кафе "Дача Бир Гарден" на улице 7th St NW**
 
 *Photo: [Photographer name](http://example.net/) / [Source name](http://example.net/)*
 
-# Cultural
+# См. также
 
-The John F. Kennedy Center for the Performing Arts is home to the National Symphony Orchestra, the Washington National Opera, and the Washington Ballet. The Kennedy Center Honors are awarded each year to those in the performing arts who have contributed greatly to the cultural life of the United States.  
+- [DC Fashion Week](dc-fachion-week)
+- [Ean Williams](williams-ean)
 
+# Сноски
 
-Washington has a strong local theater tradition. Founded in 1950, Arena Stage achieved national attention and spurred growth in the city's independent theater movement that now includes organizations such as the Shakespeare Theatre Company, Woolly Mammoth Theatre Company, and the Studio Theatre.
+[[1]](#a1) <span id="f1"></span> [Washington, D.C. (Википедия)](https://en.wikipedia.org/wiki/Washington,_D.C.)
 
-
-D.C. Fashion Week Founder Ean Williams
-Photo: Julian Skinner / Bizbash
-
-# Conspectus
-
-|Year|City|
-|----|---------|
-|2014|Tokyo|
-|2015|Moscow|
-|2017|Kiev|
-
-The District is an important center for indie culture and music in the United States. The label Dischord Records, formed by Ian MacKaye, was one of the most crucial independent labels in the genesis of 1980 s punk and eventually indie rock in the 1990s. Modern alternative and indie music venues like The Black Cat and the 9:30 Club bring popular acts to the U Street area.
-
-# See also
-
-- [Source name](http://example.net/)
-- [Source name](http://example.net/)
-- [Source name](http://example.net/)
-
-# Footnotes
-
-[[1]](#a1) <span id="f1"></span> [Article name (Author name)](http://example.net/article)
-
-[[2]](#a2) <span id="f2"></span> [Article name (Author name)](http://example.net/article)
-
-[[3]](#a3) <span id="f3"></span> [Article name (Author name)](http://example.net/article)
+[[2]](#a2) <span id="f2"></span> [DC Fashion Week (Facebook)](https://www.facebook.com/dcfashionweek/)
