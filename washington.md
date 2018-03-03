@@ -37,7 +37,7 @@ Photo: Julian Skinner / Bizbash
 |2015|Moscow|
 |2017|Kiev|
 
-The District is an important center for indie culture and music in the United States. The label Dischord Records, formed by Ian MacKaye, was one of the most crucial independent labels in the genesis of 1980 s punk and eventually indie rock in the 1990s. Modern alternative and indie music venues like The Black Cat and the 9:30 Club bring popular acts to the U Street area.1
+The District is an important center for indie culture and music in the United States. The label Dischord Records, formed by Ian MacKaye, was one of the most crucial independent labels in the genesis of 1980 s punk and eventually indie rock in the 1990s. Modern alternative and indie music venues like The Black Cat and the 9:30 Club bring popular acts to the U Street area.
 
 # See also
 
