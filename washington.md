@@ -27,7 +27,7 @@ published: true
 
 *Photo: [Erin Schaff ](Erin Schaff Erin Schaff) / [The Washington Post](https://www.washingtonpost.com/news/reliable-source/wp/2018/02/25/the-scene-diplomacy-by-design-at-the-haitian-embassy/?utm_term=.247d3963eb4d)*
 
-# Галереи и стритарт
+# Галереи и стрит-арт
 
 Художественные галереи Вашингтона являются местом для изучения произведений искусства среди них Touchstone Gallery и Artist's Proof Gallery, вашингтонская  палитра не ограничивается музеями — стены кварталов города покрыты уникальными современными фресками, которые со временем признаются и становятся частью культурногот наследия города.
 
