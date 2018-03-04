@@ -27,7 +27,7 @@ published: true
 
 ![](https://www.japantimes.co.jp/wp-content/uploads/2018/02/f-koranalysis-a-20180212-870x687.jpg)
 
-**Ким Йо Чон и южнокорейский президент в президентском Голубом доме в Сеуле**
+**Ким Ё Чен и южнокорейский президент в президентском Голубом доме в Сеуле в марте в 2018 году**
 
 *Фото: [AP](ap) / [The Japan Times, Ltd.](https://www.japantimes.co.jp/news/2018/02/11/asia-pacific/politics-diplomacy-asia-pacific/divide-conquer-north-korean-charm-offensive-likely-exacerbate-fissures-u-s-alliance/#.WpxuUJO5vzY)*
 
