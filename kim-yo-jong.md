@@ -19,7 +19,7 @@ published: true
 
 |Год|Супруг|
 |-|-|
-|2014|Choe Song <span id="a3">[\[3\]](#f3)</span>|
+|2014|Чо Сон <span id="a3">[\[3\]](#f3)</span>|
 
 
 ![](https://www.japantimes.co.jp/wp-content/uploads/2018/02/f-koranalysis-a-20180212-870x687.jpg)
