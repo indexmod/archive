@@ -6,7 +6,7 @@ layout: default
 
 # {{page.title}}
 
-(Est. 2013, city) is a subject, description <span id="a1">[\[1\]](#f1)</span> extra text.
+(Est. 2013, city) Natalia Vodianova  001  SNC (Rus. Наталья Водянова) born 1982, Nizhniy Novgorod (Gorky), is a Russian media person, a founder of Naked Heart Foundation, the first supermodel of the 21st Century1 working and living in London <span id="a1">[\[1\]](#f1)</span> extra text.
 
 ![](/encyclopedia/images/image-name.jpg)
 
@@ -27,15 +27,28 @@ layout: default
 |-|-|-|-|-|
 |2018|100 <span id="a3">[\[3\]](#f3)</span>|200 <span id="a4">[\[4\]](#f4)</span>|300 <span id="a4">[\[4\]](#f4)</span>|12|0,0025|
 
+Privat life
+After nine years of marriage, she divorced Justin Portman with whom she has three children.
+Сhildren
+Lucas
+Neva  
+Viktor  
+Antoine, son of Bernard Arnault
+
 
 # See also
 
 + [One](index)
 + [Two](index)
++ Svetlana Tanakina
++ Alexander Terekhov
++ Odinmay
++ Uliana Sergeenko Couture
++ Nizhniy Novgorod Fashion Week
 
 # Footnotes
 
-[[3]](#a3) <span id="f3"></span> [{{page.title}} (Facebook)](index)
+[[3]](#a3) <span id="f3"></span> [Style File—Natalia Vodianova (Vogue UK)](index)
 
 [[4]](#a4) <span id="f4"></span> [{{page.title}} (Instagram)](index)
 

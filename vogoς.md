@@ -6,7 +6,7 @@ layout: default
 
 # {{page.title}}
 
-(Est. 2013, city) is a subject, description <span id="a1">[\[1\]](#f1)</span> extra text.
+Vogoς, Vogoς magazine (Rus. Журнал Вогос) est. 2016, Moscow—is a “magazine about glamor and discourse” announced by a group of Moscow contemporary art enthusiasts. Expected release date June 2016. <span id="a1">[\[1\]](#f1)</span> extra text.
 
 ![](/encyclopedia/images/image-name.jpg)
 
@@ -37,11 +37,15 @@ Photo: Pierre-Ange Carlotti / Dazed Digital**
 + [One](index)
 + [Two](index)
 
+Peter Shirkovskiy
+Vladimir Fedorov
+Mityai Silberstein
+Yevgeny Mandelshtam
+Raw Magic
+Pavel Pepperstein
+
 # Footnotes
 
-[[1]](#a1) <span id="f1"></span> [Русский марш: 7 новых влиятельных героев российской моды (Собака)](index)
-
-[[2]](#a3) <span id="f3"></span> [The Future of the Fashion Show: Super-Stylist Lotta Volkova (Vogue)](index)
 
 [[3]](#a3) <span id="f3"></span> [{{page.title}} (Facebook)](index)
 

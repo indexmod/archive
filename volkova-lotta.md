@@ -35,6 +35,10 @@ layout: default
 
 # Footnotes
 
+[[1]](#a1) <span id="f1"></span> [Русский марш: 7 новых влиятельных героев российской моды (Собака)](index)
+
+[[2]](#a3) <span id="f3"></span> [The Future of the Fashion Show: Super-Stylist Lotta Volkova (Vogue)](index)
+
 [[3]](#a3) <span id="f3"></span> [{{page.title}} (Facebook)](index)
 
 [[4]](#a4) <span id="f4"></span> [{{page.title}} (Instagram)](index)
