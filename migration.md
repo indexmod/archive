@@ -47,7 +47,16 @@ Bourdine, Natalia
 Brateevo (project)
 Butenop, Olga
 Buterin, Vitalik
-Buyer (magazine)~~
+Buyer (magazine)
+Varenye Organizm
+Vassiliev, Alexandre
+Verber, Alla
+Vergazova, Julia
+Vishnevski, Oleg
+Vodianova, Natalia
+Vogoς
+Volkova, Lotta~~
+
 
 # 7 March 
 
@@ -398,12 +407,3 @@ Transatlantique (gallery)
 Turchin, Valeriy
 Undefined (gadgets)
 Urban Fauna Laboratory
-Varenye Organizm
-Vassiliev, Alexandre
-Verber, Alla
-Vergazova, Julia
-Vishnevski, Oleg
-Vodianova, Natalia
-Vogoς
-Volkova, Lotta
-Voronov, Evdokia

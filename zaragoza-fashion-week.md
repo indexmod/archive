@@ -2,6 +2,7 @@
 title: Zaragoza Fashion Week
 permalink: zaragoza-fashion-week
 layout: default
+published: true
 ---
 
 
@@ -35,4 +36,4 @@ layout: default
 
 [[1]](#a1) <span id="f1"></span> [Semana de la Moda, Zaragoza at Federación de industrias Textiles y de la Confección de Aragón, (FITCA)](http://fitca.com/?p=2560)
 
-`Last edit Feb. 2018 (Andrei Dei)`
+`Updated Mar. 2018 (Andrei Dei)`
