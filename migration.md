@@ -25,7 +25,7 @@ Washington
 Webster, Will (photographer)
 Wood Mem~~
 
-# 3 March 
+# 6 March 
 
 Bali
 Bangkok
@@ -49,7 +49,7 @@ Butenop, Olga
 Buterin, Vitalik
 Buyer (magazine)
 
-# 4 March 
+# 7 March 
 
 Central Children's Store
 Charisma, Ali
@@ -69,7 +69,7 @@ Coty Russia
 Curiosity Index (2014)
 Cycles and Seasons by Master Card
 
-# 5 March 
+# 8 March 
 
 Dancing In St. Petersburg (2015)
 DC Fashion Week
@@ -84,7 +84,7 @@ Dover Street Market
 Dropbox bag
 Dva Myacha
 
-# 6 March 
+# 9 March 
 
 Egorova, Ekaterina
 Elagin, Oleg
@@ -100,7 +100,7 @@ Fisher, Lilia
 Flux Lounge, Le
 Foundation Pit, The
 
-# 7 March 
+# 10 March 
 
 Galustiants, Tatiana
 Gassiline, Cyrille
@@ -109,7 +109,7 @@ Gorlov, Lex
 Gosdacha Miusera
 Gvasalia, Demna
 
-# 8 March 
+# 11 March 
 
 Head of Pakhom, The (2016)
 HOF Art
@@ -119,7 +119,7 @@ Hurdy-Gurdy (2016)
 Hypno TV (2016)
 
 
-# 9 March 
+# 12 March 
 
 Iced Architects
 Identity / Distance of Lewenstein (2015)
@@ -134,7 +134,7 @@ Isolation (2012)
 Jakarta
 Jonas, Joan
 
-# 10 March 
+# 13 March 
 
 Kakhiani, Anna
 Kalinkina, Svetlana
@@ -161,7 +161,7 @@ Kurbanov, Ramil
 Kurbanova, Lina
 Kusnirovich, Mikhail
 
-# 11 March 
+# 14 March 
 
 Lambada Market
 Lamp of MD (2015)
@@ -182,7 +182,7 @@ Loyal Royal
 Lucky cookies
 Lumpen (agency)
 
-# 12 March 
+# 15 March 
 
 Machine of Memories, The (2014)
 Machine Vision
@@ -203,7 +203,7 @@ Mishmash
 Modebadze, Nutsa
 Modebadze, Tamar
 
-# 13 March 
+# 16 March 
 
 Moiseenko, Nikita (designer)
 Moiseeva, Ekaterina
@@ -220,7 +220,7 @@ Musaeva, Nazrin Adyl (Marmot)
 Mutasov, Gennady
 Muzeon Park of Arts
 
-# 14 March 
+# 17 March 
 
 Nazarova, Kristina
 Neretina, Nina
@@ -234,7 +234,7 @@ Nocuous Rift
 Nora Kaza
 Not Art (2014)
 
-15 March 
+# 18 March 
 
 O'Leary, Sophie
 Obolentseva, Nadezhda
@@ -247,7 +247,7 @@ Oriflame (company)
 Orlov, Alexei
 Otokomae (art-space)
 
-# 16 March 
+# 19 March 
 
 Panika Derevya (brand)
 Paradromnye Sviazi (2015)
@@ -270,7 +270,7 @@ Pierce, Signe
 Pinea Chrome
 Pivnich Magazine
 
-# 16 March 
+# 20 March 
 
 Pixel lifestyle
 Platonov, Alex
@@ -289,7 +289,7 @@ Prudko, Julia
 Pupis, Donis
 Putyatin, Roman
 
-# 17 March 
+# 21 March 
 
 Quoris Art
 R.E.D.
@@ -308,7 +308,7 @@ Rozanov, Mikhail
 Rozendaal, Rafaël
 Ruban (brand)
 
-# 18 March 
+# 22 March 
 
 Ruban, Alisa (designer)
 Ruban, Youlia (designer)
@@ -319,7 +319,7 @@ Russia Cola
 Russian Fashion Indexmod RGB Chart
 Réserve De Beaulieu, La
 
-# 19 March 
+# 23 March 
 
 Sachkov, Mikhail
 Saint Petersburg
@@ -334,7 +334,7 @@ Serra, Richard
 Sgustok
 Shalphey Radio
 
-# 21 March 
+# 24 March 
 
 Shanti, Meli (Mouse)
 Sheep on the ship (sweaters)
@@ -354,7 +354,7 @@ Solo (2015)
 Sorokina, Olga
 Sorry, I'm not (brand)
 
-# 22 March 
+# 25 March 
 
 St. Radost
 Stasenko, Evgeniy
@@ -373,7 +373,7 @@ São Paulo
 São Paulo Art Biennial
 São Paulo Fashion Week
 
-# 23 March 
+# 26 March 
 
 Tactile Chat Bot
 Taiga (jewelry)
@@ -389,7 +389,7 @@ Temporary Autonomous Art
 Terekhov, Alexander (designer)
 The Art Newspaper
 
-# 24  March 
+# 27  March 
 
 The Diary of Space Journeys (project)
 Tilda Publishing
