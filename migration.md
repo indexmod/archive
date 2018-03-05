@@ -4,9 +4,8 @@ title: Migration
 layout: default
 published: true
 ---
-# Migration
+# Migration: ~~Google~~ → GitHub migration
 
-~~Google~~ → GitHub
 
 # 2 March 
 
