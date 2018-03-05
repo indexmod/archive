@@ -14,17 +14,10 @@ layout: default
 
 *Photo: [Photographer name](http://example.net/) / [Source name](http://example.net/)*
 
-# Conspectus
-
-|Year|City|
-|----|---------|
-|2014|Tokyo|
-|2015|Moscow|
-|2017|Kiev|
-
 # See also
 
 + [Andrei Abolenkin](abolenkin-andrei)
 + [Adelaide Fashion Festival](adelaide-fashion-festival)
-+ [Source name](http://example.net/)
-+ [Source name](http://example.net/)
+
+
+`Updated Mar. 2018 (Andrei Dei)`
