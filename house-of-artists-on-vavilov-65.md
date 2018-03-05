@@ -10,7 +10,7 @@ layout: default
 
 ![](/images/image-name.jpg)
 
-*Image caption*
+**Image caption**
 
 *Photo: [Photographer name](http://example.net/) / [Source name](http://example.net/)*
 
@@ -31,6 +31,4 @@ In the middle of 2014 in the room No. 1309 was turned to “Like Shisha”—a h
 
 [[1]](#a1) <span id="f1"></span> [Article name (Author name)](http://example.net/article)
 
-[[2]](#a2) <span id="f2"></span> [Article name (Author name)](http://example.net/article)
-
-[[3]](#a3) <span id="f3"></span> [Article name (Author name)](http://example.net/article)
+`Updated Mar. 2018 (Andrei Dei)`
