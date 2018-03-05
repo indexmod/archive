@@ -25,9 +25,9 @@ Washington
 Webster, Will (photographer)
 Wood Mem~~
 
-# 6 March 
+# 5 March 
 
-Bali
+~~Bali
 Bangkok
 Basel
 Become a Successful Artist (2014)
@@ -47,7 +47,7 @@ Bourdine, Natalia
 Brateevo (project)
 Butenop, Olga
 Buterin, Vitalik
-Buyer (magazine)
+Buyer (magazine)~~
 
 # 7 March 
 
