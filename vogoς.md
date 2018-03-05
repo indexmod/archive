@@ -10,7 +10,8 @@ layout: default
 
 ![](/encyclopedia/images/image-name.jpg)
 
-**Image title**
+**Lotta Volkova
+Photo: Pierre-Ange Carlotti / Dazed Digital**
 
 *Photo: [Name](index) / [Source](index)*
 
@@ -21,12 +22,15 @@ layout: default
 |2014|Tokyo|
 |2017|Paris|
 
+# Interesting facts
+
++ Lotta appears as woman in military dress in the movie directed by Renata Litvinova for Gosha Rubchinsky collection
+
 # {{page.title}} Indexmod
 
 |Year|Facebook|Instagram|YouTube|Age|IMD|
 |-|-|-|-|-|
 |2018|100 <span id="a3">[\[3\]](#f3)</span>|200 <span id="a4">[\[4\]](#f4)</span>|300 <span id="a4">[\[4\]](#f4)</span>|12|0,0025|
-
 
 # See also
 
@@ -34,6 +38,10 @@ layout: default
 + [Two](index)
 
 # Footnotes
+
+[[1]](#a1) <span id="f1"></span> [Русский марш: 7 новых влиятельных героев российской моды (Собака)](index)
+
+[[2]](#a3) <span id="f3"></span> [The Future of the Fashion Show: Super-Stylist Lotta Volkova (Vogue)](index)
 
 [[3]](#a3) <span id="f3"></span> [{{page.title}} (Facebook)](index)
 

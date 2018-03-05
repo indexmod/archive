@@ -6,7 +6,7 @@ layout: default
 
 # {{page.title}}
 
-(Est. 2013, city) is a subject, description <span id="a1">[\[1\]](#f1)</span> extra text.
+((Rus. Лотта Волкова, born, Vladivostok) is a Russian stylist, photographer, filmmaker, founder of the brand Lotta Skeletrix, “coolest stylist in the industry,” “queen of the Parisian underground”, “fashion arbiter of her generation" <span id="a1">[\[1\]](#f1)</span>.
 
 ![](/encyclopedia/images/image-name.jpg)
 

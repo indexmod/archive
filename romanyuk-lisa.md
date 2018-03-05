@@ -5,58 +5,41 @@ layout: default
 published: true
 ---
 
-# Romanyuk, Lisa
+# {{page.title}}
 
-(Est. 2013, city) is a subject, description-one <span id="a1">[\[1\]](#f1)</span>. [Edit this page](http://prose.io/#indexmod/encyclopedia/edit/master/romanyuk-lisa.md)
+(Est. 2013, city) is a subject, description <span id="a1">[\[1\]](#f1)</span> extra text.
 
 ![](/encyclopedia/images/image-name.jpg)
 
-**Image caption title**
+**Image title**
 
-*Photo: [Photographer name](/photographer-name-page) / [Source name](/source-name-page)*
+*Photo: [Name](index) / [Source](index)*
 
-# Conspectus
+# {{page.title}} Conspectus
 
 |Year|City|
-|----|-----|
+|-|-|
 |2014|Tokyo|
-|2015|Moscow|
 |2017|Paris|
 
-# Romanyuk Indexmod
+# {{page.title}} Indexmod
 
-|Year|Facebook|Instagram|Age|RMI|
+|Year|Facebook|Instagram|YouTube|Age|IMD|
 |-|-|-|-|-|
-|2018|ХХ <span id="aХ">[\[Х\]](#fХ)</span>||ХХ|Х,ХХ|
-|2019|||ХХ||
+|2018|100 <span id="a3">[\[3\]](#f3)</span>|200 <span id="a4">[\[4\]](#f4)</span>|300 <span id="a4">[\[4\]](#f4)</span>|12|0,0025|
+
 
 # See also
 
-+ [vetements](vetements)
-+ [vemina](vemina)
-+ [romanyuk-lisa](romanyuk-lisa)
-+ [raare-fashion-days](raare-fashion-days)
-+ [nina-donis](nina-donis)
-+ [moscow-fashion-house-slava-zaitsev](moscow-fashion-house-slava-zaitsev)
-+ [infundibulum](infundibulum)
-+ [griby](griby)
-+ [gosha-gazinskaya](gosha-gazinskaya)
-+ [gazinskaya-vika](gazinskaya-vika)
-+ [galetsky-moscow](galetsky-moscow)
-+ [galetsky-anton](galetsky-anton)
-+ [deinichenko-andrei](deinichenko-andrei)
-+ [indexmod-encyclopedia](indexmod-encyclopedia)
-+ [antimuseum](antimuseum)
-+ [antimuseum-2](antimuseum-2)
-+ [antarctic-biennale](antarctic-biennale)
-+ [apxl](apxl)
-+ [art-athina](art-athina)
-+ [firm](firm)
-+ [tamkovich-friske-ian](tamkovich-friske-ian)
-+ [zaitsev-vyacheslav](zaitsev-vyacheslav)
++ [One](index)
++ [Two](index)
 
 # Footnotes
 
-[[1]](#a1) <span id="f1"></span> [Article name short (Author name)](http://example.net/article)
+[[3]](#a3) <span id="f3"></span> [{{page.title}} (Facebook)](index)
 
-`Last update Feb. 2018 (Andrei Dei)`
+[[4]](#a4) <span id="f4"></span> [{{page.title}} (Instagram)](index)
+
+[[5]](#a5) <span id="f5"></span> [{{page.title}} (YouTube)](index)
+
+`Last edit Feb. 2018 (Andrei Dei)`
