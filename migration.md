@@ -4,7 +4,7 @@ title: Migration
 layout: default
 published: true
 ---
-# Migration: ~~Google~~ → GitHub Pages Jekyll
+# Migration: ~~Google Pages~~ → GitHub Pages Jekyll
 
 
 `02 March 2018` 
