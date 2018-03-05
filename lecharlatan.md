@@ -90,19 +90,11 @@ published: true
 
 [[11]](#a11) <span id="f11"></span> [Nadyulya — Pati y Nadyuli (YouTube)](https://www.youtube.com/watch?v=SHkh7hOAhWI)
 
-<<<<<<< HEAD
 [[12]](#a12) <span id="f12"></span> [Ligalaiz — Karavan (YouTube)](https://www.youtube.com/watch?v=ZBl9eMXKfDs)
 
 [[13]](#a13) <span id="f13"></span> [Years and Years King Live at The Tonight Show with Jimmy Fallon (YouTube)](https://www.youtube.com/watch?v=BXFtLA5Cj0o)
 
 [[14]](#a14) <span id="f14"></span> [Lecharlatan (Facebook)](https://www.facebook.com/pg/lecharlatanofficial/community)
-=======
-[[12]](#a12) <span id="f12"></span> [Ligalaiz — Karava (YouTube)](https://www.youtube.com/watch?v=ZBl9eMXKfDs)
-
-[[13]](#a13) <span id="f13"></span> [Years and Years King Live at The Tonight Show with Jimmy Fallon (YouTube)](https://www.youtube.com/watch?v=BXFtLA5Cj0o)
-
-[[14]](#a14) <span id="f14"></span> [Lecharlatan Show (YouTube)](https://www.youtube.com/channel/UCBR-dSrqop9Yb5neMGugH5A)
->>>>>>> 666053a15b6902bc89763552fd8a611daaaf9033
 
 [[15]](#a15) <span id="15"></span> [Lecharlatan (Instagram)](https://www.instagram.com/lecharlatanru/)
 
