@@ -6,7 +6,7 @@ published: true
 ---
 # Migration
 
-![Снимок экрана 2018-03-02 в 13.39.21.png]({{site.baseurl}}/Снимок экрана 2018-03-02 в 13.39.21.png)
+~~Google~~ → GitHub
 
 # 2 March 
 
