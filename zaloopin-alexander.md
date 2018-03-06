@@ -1,6 +1,6 @@
 ---
 title: 'Zaloopin, Aleksander'
-permalink: zaloopin-aleksandr
+permalink: zaloopin-aleksander
 layout: default
 published: true
 ---
