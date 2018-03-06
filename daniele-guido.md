@@ -4,8 +4,6 @@ permalink: daniele-guido
 layout: default
 ---
 
-
-
 # Daniele, Guido
 
 
