@@ -7,7 +7,11 @@ published: true
 
 # {{page.title}}
 
-(Est. 2013, city) is a subject, description <span id="a1">[\[1\]](#f1)</span> extra text.
+(Est. 2013, city)
+
+description 
+
+<span id="a1">[\[1\]](#f1)</span>.
 
 ![](/encyclopedia/images/image-name.jpg)
 
@@ -42,4 +46,4 @@ published: true
 
 [[5]](#a5) <span id="f5"></span> [{{page.title}} (YouTube)](index)
 
-`Last edit Feb. 2018 (Andrei Dei)`
+`Updated Mar. 2018 (Andrei Dei)`
