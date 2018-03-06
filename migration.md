@@ -345,7 +345,7 @@ Taiga Space  
 Tamkovych-Friske, Yan  
 Tanakina, Svetlana  
 Tarakanova (brand)  
-Tarakanova, Ludmila (designer)  
+~~Tarakanova, Ludmila (designer)~~
 Tegin (brand)  
 Tegin, Svetlana (designer)  
 Temen, Protey  
@@ -356,4 +356,4 @@ The Diary of Space Journeys (project)  
 Tilda Publishing  
 Tovpyha, Oleksii  
 Transatlantique (gallery)  
-Turchin, Valeriy  
+Turchin, Valeriy
