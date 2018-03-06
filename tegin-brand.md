@@ -4,45 +4,64 @@ permalink: tegin-brand
 layout: default
 ---
 
+# {{page.title}}
 
+(Est. 2013, city)
 
-# Tegin (brand)
+Tegin, Tegin Fashion House (Rus. Тегин) is a name for haute couture and prêt-à-porter wear for woman and kids and fashion house founded in 2001 by Russian-Ukrainian designer Svetlana Tegin1, “Svetlana is often called “the queen of cashmere” due to an exclusive quality of her products that use Mongolian Cashmere
 
-
-(Est. 2013, city) is a subject, description-one <span id="a1">[\[1\]](#f1)</span>, description-two <span id="a2">[\[2\]](#f2)</span> description-three <span id="a3">[\[3\]](#f3)</span>, extra text.
+<span id="a1">[\[1\]](#f1)</span>.
 
 ![](/encyclopedia/images/image-name.jpg)
 
-**Image caption title**
+**Image title**
 
-*Photo: [Photographer name](/photographer-name-page) / [Source name](/source-name-page)*
+*Photo: [Name](index) / [Source](index)*
 
-# Conspectus
+# {{page.title}} Conspectus
 
 |Year|City|
-|----|-----|
+|-|-|
 |2014|Tokyo|
-|2015|Moscow|
 |2017|Paris|
+
+# Stores in Moscow
+
+Bosco 
+Detsky GUM
+DLT TSUM
+Fashion Code
+Five Kids
+Garderob
+Le Form
+Le Premiera
+Litz Collection
+Mozart
+Parad
+TSUM
+
+
+Cover look of the Tegin AW 16-17 collection at Vogue Russia online edition
+Photos: Tegin / Vogue
+
+# {{page.title}} Indexmod
+
+|Year|Facebook|Instagram|YouTube|Age|IMD|
+|-|-|-|-|-|
+|2018|100 <span id="a3">[\[3\]](#f3)</span>|200 <span id="a4">[\[4\]](#f4)</span>|300 <span id="a4">[\[4\]](#f4)</span>|12|0,0025|
+
 
 # See also
 
-+ [See also title one](page-template)
-+ [See also title two](page-template)
-+ [See also title three](page-template)
++ [One](index)
++ [Two](index)
 
 # Footnotes
 
-[[1]](#a1) <span id="f1"></span> [Article name short (Author name)](http://example.net/article)
+[[3]](#a3) <span id="f3"></span> [{{page.title}} (Facebook)](index)
 
-[[2]](#a2) <span id="f2"></span> [Article name little longer (Author name longer)](http://example.net/article)
+[[4]](#a4) <span id="f4"></span> [{{page.title}} (Instagram)](index)
 
-[[3]](#a3) <span id="f3"></span> [Article name longer so far (Author name too long and much longer)](http://example.net/article)
+[[5]](#a5) <span id="f5"></span> [{{page.title}} (YouTube)](index)
 
----
-
-`Editorial`
-
-`Warnings`
-
-`Notes`
+`Updated Mar. 2018 (Andrei Dei)`

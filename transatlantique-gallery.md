@@ -4,45 +4,48 @@ permalink: transatlantique-gallery
 layout: default
 ---
 
+# {{page.title}}
 
+(Est. 2013, city)
 
-# Transatlantique (gallery)
+Transatlantique (Rus. Трансатлантик) est. 2008, Moscow—is a showroom, store and gallery at Winzavod Contemporary Art Center at 4th Syromyatnichesky pereulok founded and owned by Daria Antseva who's activity is promoting, collecting, restoring and selling pieces of European decorative arts of the 1920-40s with a special focus on Art Deco in collaborating with the most prominent experts in between-the-wars art both from Russia and the World.
 
-
-(Est. 2013, city) is a subject, description-one <span id="a1">[\[1\]](#f1)</span>, description-two <span id="a2">[\[2\]](#f2)</span> description-three <span id="a3">[\[3\]](#f3)</span>, extra text.
+<span id="a1">[\[1\]](#f1)</span>.
 
 ![](/encyclopedia/images/image-name.jpg)
 
-**Image caption title**
+**Rosa Press visiting a party by Anna Yaroshenko at Transatlantique gallery in 2012
+Photo: Andrei Gurotesuku / IEFCA**
 
-*Photo: [Photographer name](/photographer-name-page) / [Source name](/source-name-page)*
+*Photo: [Name](index) / [Source](index)*
 
-# Conspectus
+# {{page.title}} Conspectus
 
 |Year|City|
-|----|-----|
+|-|-|
 |2014|Tokyo|
-|2015|Moscow|
 |2017|Paris|
+
+More info
+
+All items in Transatlantique gallery  have been evaluated and are guaranteed authentic, offers original and rare pieces by such legendary designers as Jacques Adnet, Maurice Dufrène, Maxime Old, André Arbus, Louis Süe and André Mare, René Lalique and other grand masters.1 Sign in to edit Transatlantique
+
 
 # See also
 
-+ [See also title one](page-template)
-+ [See also title two](page-template)
-+ [See also title three](page-template)
++ [One](index)
++ [Two](index)
+Daria Antseva
+La Reserve
+Rosa Press
+The Art Newspaper
 
 # Footnotes
 
-[[1]](#a1) <span id="f1"></span> [Article name short (Author name)](http://example.net/article)
+[[3]](#a3) <span id="f3"></span> [{{page.title}} (Facebook)](index)
 
-[[2]](#a2) <span id="f2"></span> [Article name little longer (Author name longer)](http://example.net/article)
+[[4]](#a4) <span id="f4"></span> [{{page.title}} (Instagram)](index)
 
-[[3]](#a3) <span id="f3"></span> [Article name longer so far (Author name too long and much longer)](http://example.net/article)
+[[5]](#a5) <span id="f5"></span> [{{page.title}} (YouTube)](index)
 
----
-
-`Editorial`
-
-`Warnings`
-
-`Notes`
+`Updated Mar. 2018 (Andrei Dei)`
