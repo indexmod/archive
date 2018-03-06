@@ -10,7 +10,9 @@ The Indexmod Encyclopedia data core are articles in English, but you can create 
 
 # How can I translate page in Indexmod Encyclopedia?
 
-Create copy of the page which you want to be translated. Paste [sample of the page](internet-yami-ichi) translated into simplified Russian. Use 
+Create copy of the page which you want to be translated. Paste [sample of the page](internet-yami-ichi) translated into simplified Russian. 
+
+Use 
 
 `Translation mode` 
 
