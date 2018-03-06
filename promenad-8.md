@@ -30,7 +30,7 @@ Coda, The Nutcracker| Pyotr Tchaikovsky|
 |2017|Ice melts (Between us)|Gryby, Youry Bardash|
 |1869|Entry of the Gods Into Valhalla|Richard Wagner|
 
-# Premiere perfomace
+# Premiere perfomance
 
 The Premiere perfomace of the concert took place in the object of cultural heritage of the city of Moscow "The Chambers of the Ukrainian" (Палаты Украинцева) in Khokhlovskiy Lane. In 18-th centyry there was the archive of the Ministry of Foreign Affairs, Russian Imperator Nicholas sent poet Alexander Pushkin with the commission to compile the history of the Pugachev Rebellion. Also before the Russian Revolution the music publishing house of Jurgenson was located. Today (2018) the offices of experts in marketing, the group "Communicator" are located in the chambers.
 
