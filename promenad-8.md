@@ -7,7 +7,7 @@ published: true
 
 # {{page.title}}
 
-(Perf. 2018, Moscow) is a multimedia concert of eight parts created and performed by [Andrei Deinichenko](deinichenko-andrei) to the anniversary of the creation of the fellowship [Eta](eta-fellowship) <span id="a1">[\[1\]](#f1)</span>.
+(Rus. «Променад 8», 2018, Moscow) is a multimedia concert of eight parts created and performed by [Andrei Deinichenko](deinichenko-andrei) to the anniversary of the creation of the fellowship [Eta](eta-fellowship) <span id="a1">[\[1\]](#f1)</span>.
 
 
 ![](/encyclopedia/images/list.png)
@@ -23,8 +23,7 @@ published: true
 |1732|Ich ruf zu dir, Herr Jesu Christ|Johann Bach|
 |1691|What Power art thou, who from below, The Cold Song, King Arthur|Henry Purcell|
 |1890|Cavalleria rusticana, Intermezzo|Pietro Mascagni|
-|1892|Dance of the Sugar Plum Fairy
-Coda, The Nutcracker| Pyotr Tchaikovsky|
+|1892|Dance of the Sugar Plum Fairy, The Nutcracker|Pyotr Tchaikovsky|
 |1900|Piano Concerto No. 2|Sergei Rachmaninoff|
 |1897|Dark Eyes|Florian Herman and Adaldiso Ferraris|
 |2017|Ice melts (Between us)|Gryby, Youry Bardash|
