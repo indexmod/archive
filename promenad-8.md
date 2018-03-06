@@ -23,8 +23,7 @@ published: true
 |1732|Ich ruf zu dir, Herr Jesu Christ|Johann Bach|
 |1691|What Power art thou, who from below, The Cold Song, King Arthur|Henry Purcell|
 |1890|Cavalleria rusticana, Intermezzo|Pietro Mascagni|
-|1892|Dance of the Sugar Plum Fairy
-Coda, The Nutcracker| Pyotr Tchaikovsky|
+|1892|Dance of the Sugar Plum Fairy, The Nutcracker|Pyotr Tchaikovsky|
 |1900|Piano Concerto No. 2|Sergei Rachmaninoff|
 |1897|Dark Eyes|Florian Herman and Adaldiso Ferraris|
 |2017|Ice melts (Between us)|Gryby, Youry Bardash|
