@@ -1,18 +1,19 @@
 ---
-title: Yaroshenko, Anna
+title: 'Yaroshenko, Anna'
 permalink: yaroshenko-anna
 layout: default
+published: true
 ---
 
 # Yaroshenko, Anna
 
-(Rus. Анна Ярошенко, born. 1976, Baku) a collector, photographer and anthropologist, founder of online store La Reserve Vintage based in Moscow. Sign in to edit Anna Yaroshenko is a subject, description-one <span id="a1">[\[1\]](#f1)</span>.
+(Rus. Анна Ярошенко, born. 1976, Baku) a collector of vintage fashion, photographer and anthropologist, founder of La Reserve Vintage (online store) based in Moscow <span id="a1">[\[1\]](#f1)</span>.
 
-![](https://scontent-ort2-2.cdninstagram.com/t51.2885-19/11311092_1617933711799346_2055031780_a.jpg)
+![](/images/yaroshenko.jpg)
 
-*Anna Yaroshenko*
+**Anna Yaroshenko in Penino**
 
-*Photo: [Photographer name](http://example.net/) / [Source name](http://example.net/)*
+*Photo: [Andrei Dei](deinichenko-andrei) / [ Indexmod Encyclopedia](index)*
 
 # Conspectus
 
