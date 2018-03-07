@@ -20,7 +20,7 @@ published: true
 |Children|Name|
 |--|--|
 |Son|Alexei Volkogonov (2005)|
-|Dauter|Valentina Volkogonov(2010)|
+|Daughter|Valentina Volkogonov(2010)|
 
 
 # See also
