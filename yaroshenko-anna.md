@@ -9,7 +9,7 @@ published: true
 
 (Rus. Анна Ярошенко, born. 1976, Baku) a collector of vintage fashion, photographer and anthropologist, founder of La Reserve Vintage (online store) based in Moscow <span id="a1">[\[1\]](#f1)</span>.
 
-![](/images/yaroshenko.jpg)
+![](/encyclopedia/images/yaroshenko.jpg)
 
 **Anna Yaroshenko in Penino**
 
