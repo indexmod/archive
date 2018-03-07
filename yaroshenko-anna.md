@@ -17,17 +17,17 @@ published: true
 
 # Children
 
-|Children|Name|
-|--|--|
-|Son|Alexei Volkogonov (2005)|
-|Daughter|Valentina Volkogonov(2010)|
+|Children|Name|Birth|
+|--|--|--|
+|Son|Alexei Volkogonov|2005|
+|Daughter|Valentina Volkogonov|2010|
 
 
 # See also
 
 - [La Reserve Vintage](reserve-vintage-la)
-- [Source name](http://example.net/)
-- [Source name](http://example.net/)
+- [Natalia Turovnikova](turovnikova-natalia)
+
 
 # Footnotes
 
