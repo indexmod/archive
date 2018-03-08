@@ -6,24 +6,25 @@ layout: default
 
 # {{page.title}}
 
-(Est. 2013, city)
+(Est. 2012, Bangkok)
 
-description
+Digital Fashion Week (DFW), est. 2012—is the world’s first shoppable live streamed fashion week where viewers can make instant purchases on the runway, is a platform for modern, current and lifestyle-forward brands, held in collaboration with British Council and DFW Creative in Singapore and Siam Paragon Group in Bangkok, the only fashion event that promotes the best young fashion designers through events and digital platforms in Asia.
 
 <span id="a1">[\[1\]](#f1)</span>.
 
 ![](/encyclopedia/images/image-name.jpg)
 
 **Image title**
-
+82-year-old Carmen Dell’Orefice at DFW'15 in Singapore
+Photo: Digital Fashion Week / Popspoken
 *Photo: [Name](index) / [Source](index)*
 
-# {{page.title}} Conspectus
+# {{page.title}} Selected events
 
 |Year|City|
 |-|-|
-|2014|Tokyo|
-|2017|Paris|
+|2015|National Design Centre, Singapore|
+|2016|Siam Centre, Bangkok|
 
 # {{page.title}} Indexmod
 
@@ -36,10 +37,15 @@ description
 
 + [One](index)
 + [Two](index)
+Bangkok
+British Council
+DFW Creative
+Siam Paragon Group
+Singapore
 
 # Footnotes
 
-[[3]](#a3) <span id="f3"></span> [{{page.title}} (Facebook)](index)
+[[3]](#a3) <span id="f3"></span> [{{page.title}} About (Facebook)](index)
 
 [[4]](#a4) <span id="f4"></span> [{{page.title}} (Instagram)](index)
 

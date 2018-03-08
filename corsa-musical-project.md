@@ -8,7 +8,7 @@ layout: default
 
 (Est. 2013, city)
 
-description
+CorsA est. 2016, Moscow—is a musical project founded by an international group of enthusiast to explore a modern problems of humanity.
 
 <span id="a1">[\[1\]](#f1)</span>.
 
@@ -18,19 +18,9 @@ description
 
 *Photo: [Name](index) / [Source](index)*
 
-# {{page.title}} Conspectus
+# Selected
 
-|Year|City|
-|-|-|
-|2014|Tokyo|
-|2017|Paris|
-
-# {{page.title}} Indexmod
-
-|Year|Facebook|Instagram|YouTube|Age|IMD|
-|-|-|-|-|-|
-|2018|100 <span id="a3">[\[3\]](#f3)</span>|200 <span id="a4">[\[4\]](#f4)</span>|300 <span id="a4">[\[4\]](#f4)</span>|12|0,0025|
-
++ Hiding in love
 
 # See also
 

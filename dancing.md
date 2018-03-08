@@ -1,14 +1,15 @@
 ---
-title: Yusipov, Ruslan
-permalink: yusipov-ruslan
+title: Dancing In St. Petersburg (2015)
+permalink: dancing-in-st-petersburg-2015
 layout: default
+published: true
 ---
 
 # {{page.title}}
 
 (Est. 2013, city)
 
-description
+Dancing in St. Petersburg (St. Petersburg travel guide) 2015, St. Petersburg—is a video by Leonid Kalyadin, music by A. Pomogiev
 
 <span id="a1">[\[1\]](#f1)</span>.
 
@@ -36,6 +37,9 @@ description
 
 + [One](index)
 + [Two](index)
+Antimuseum
+Electromuseum
+Depot (2012)
 
 # Footnotes
 

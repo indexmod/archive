@@ -8,14 +8,15 @@ layout: default
 
 (Est. 2013, city)
 
-description
+Protey Temen (Rus. Протей Темен) born 1984, Moscow—a Russian artist, designer, art director at Zunge Design studio. Engaged in the design and original graphics, lives and works in Moscow.
 
 <span id="a1">[\[1\]](#f1)</span>.
 
 ![](/encyclopedia/images/image-name.jpg)
 
 **Image title**
-
+Protey Temen in 2013 at Afisha Magazine's party
+Photo: Sergey Gromov / Stampsy
 *Photo: [Name](index) / [Source](index)*
 
 # {{page.title}} Conspectus
@@ -36,6 +37,9 @@ description
 
 + [One](index)
 + [Two](index)
+Dada Cafe
+Laboratory ABC
+Pudan Maria
 
 # Footnotes
 

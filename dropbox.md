@@ -1,14 +1,15 @@
 ---
-title: Yusipov, Ruslan
-permalink: yusipov-ruslan
+title: Template
+permalink: template
 layout: default
+published: true
 ---
 
 # {{page.title}}
 
 (Est. 2013, city)
 
-description
+Dropbox bag, pres. 2016, Moscow—is a souvenir bag by Intektra, was sold at the Internet Yami-Ichi,1 allows  “to share” files everyday, it does not burden users hype, does not offer to download files for the money and has a friendly interface ease even a child.
 
 <span id="a1">[\[1\]](#f1)</span>.
 
@@ -36,6 +37,9 @@ description
 
 + [One](index)
 + [Two](index)
+Internet Yami-Ichi
+Intektra
+Nora Kaza
 
 # Footnotes
 

@@ -5,7 +5,7 @@ layout: default
 ---
 # {{page.title}}
 
-(Est. 2013, city) is a subject, description <span id="a1">[\[1\]](#f1)</span> extra text.
+(Est. 2013, city) Temporary Autonomous Art (born in squatted venues in London)—an exhibition that are organised and constructed by the artists themselves to present photography, painting, mixed media and sculpture, mash-up, spoken word, short films, live performance and live music. They operate under an open-access policy, everyone is free to exhibit their work or perform. Time-honoured art forms sit comfortably amongst digital work, sculptures, installations, films, performance and music, encouraging artists and audience to find their own level of creative involvement <span id="a1">[\[1\]](#f1)</span> extra text.
 
 ![](/encyclopedia/images/image-name.jpg)
 
@@ -31,6 +31,11 @@ layout: default
 
 + [One](index)
 + [Two](index)
+Artcore
+Antumuseum
+Crows Nest
+Electromuseum
+Temporary Autonomous Zone
 
 # Footnotes
 

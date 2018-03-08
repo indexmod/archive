@@ -8,14 +8,15 @@ layout: default
 
 (Est. 2013, city)
 
-description
+Coty Russia (Rus. Коти Россия) a global leader in beauty with 47 brands in 40 countries with the capitalisation of $4.4b in revenue.1 In Russia Coty have more than 150 employees and representatives in different regions.
 
 <span id="a1">[\[1\]](#f1)</span>.
 
 ![](/encyclopedia/images/image-name.jpg)
 
 **Image title**
-
+Svetlana Omelchenko, Coty’s Vice President of Global Marketing Insights
+Photo: Coty Inc. / Coty
 *Photo: [Name](index) / [Source](index)*
 
 # {{page.title}} Conspectus
@@ -25,17 +26,22 @@ description
 |2014|Tokyo|
 |2017|Paris|
 
-# {{page.title}} Indexmod
 
-|Year|Facebook|Instagram|YouTube|Age|IMD|
-|-|-|-|-|-|
-|2018|100 <span id="a3">[\[3\]](#f3)</span>|200 <span id="a4">[\[4\]](#f4)</span>|300 <span id="a4">[\[4\]](#f4)</span>|12|0,0025|
+# History
+
+Coty was founded in Paris in 1904 by François Coty, a “visionary”3 in the perfume industry. Portfolio of widely known brands in fragrance, color cosmetics, skin and body care supports net revenues of $4.6 billion for the fiscal year ended June 30, 2013. Portfolio in Russia includes such brands as Adidas, Balenciaga, Bottega Veneta, Calvin Klein, Chloe, Davidoff, Lancaster, Lady Gaga, Marc Jacobs, OPI, Playboy, Rimmel, Roberto Cavalli, Sally Hansen, etc. With offices in more than 30 countries and strong presence in 130 markets. Coty Inc. has 10,000 employees worldwide. The headquarters of the Company are located in New York, USA.
+
+# President
+
++ Alexandr Terekhov (2015)
 
 
 # See also
 
 + [One](index)
 + [Two](index)
+André Leon Talley
+Capri Publishing 
 
 # Footnotes
 

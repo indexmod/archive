@@ -9,7 +9,7 @@ layout: default
 
 (Est. 2013, city)
 
-description
+Cycles and Seasons by Master Card (Cycles and Seasons) Est. 2009, Moscow, is a seasonal, alternative, parallel fashion week in Moscow founded and sponsored by Master Card Russia. Closed in 2012.
 
 <span id="a1">[\[1\]](#f1)</span>.
 
@@ -39,6 +39,8 @@ description
 + [Two](index)
 
 # Footnotes
+
+Cycles & Seasons прекращает свое существование — Vogue 
 
 [[3]](#a3) <span id="f3"></span> [{{page.title}} (Facebook)](index)
 
