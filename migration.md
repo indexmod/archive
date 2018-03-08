@@ -67,7 +67,7 @@ Chistova, Anna  
 CorsA (musical project)  
 Coty Russia  
 Curiosity Index (2014)  
-Cycles and Seasons by Master Card
+Cycles and Seasons by Master Card~~
 
 `08 March 2018`
 
@@ -79,7 +79,7 @@ Diogenes project  
 Djerih, Angela  
 Dover Street Market  
 Dropbox bag  
-Dva Myacha
+Dva Myacha~~
 
 ~~Tactile Chat Bot  
 Taiga (jewelry)  
@@ -98,7 +98,7 @@ The Diary of Space Journeys (project)  
 Tilda Publishing  
 Tovpyha, Oleksii  
 Transatlantique (gallery)  
-Turchin, Valeriy
+Turchin, Valeriy~~
 
 
 `09 March 2018`
@@ -355,6 +355,4 @@ Sygma  
 
 ~~São Paulo  
 São Paulo Art Biennial  
-São Paulo Fashion Week
-
-
+São Paulo Fashion Week~~
