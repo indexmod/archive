@@ -59,7 +59,7 @@ Volkova, Lotta~~
 
 `07 March 2018`
 
-Central Children's Store  
+~~Central Children's Store  
 Charisma, Ali  
 Chernei, Katerina (VJ Kat4er)  
 Chistova  
@@ -71,7 +71,7 @@ Cycles and Seasons by Master Card
 
 `08 March 2018`
 
-Dancing In St. Petersburg (2015)  
+~~Dancing In St. Petersburg (2015)  
 DC Fashion Week  
 Depot (2012)  
 Digital Fashion Week  
