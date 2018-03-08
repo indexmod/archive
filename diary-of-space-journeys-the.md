@@ -1,6 +1,6 @@
 ---
-title: The Diary of Space Journeys (project)
-permalink: the-diary-of-space-journeys
+title: Diary of Space Journeys, The (project)
+permalink: diary-of-space-journeys-the
 layout: default
 published: true
 ---
