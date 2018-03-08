@@ -67,7 +67,7 @@ Chistova, Anna  
 CorsA (musical project)  
 Coty Russia  
 Curiosity Index (2014)  
-Cycles and Seasons by Master Card
+Cycles and Seasons by Master Card~~
 
 `08 March 2018`
 
@@ -79,7 +79,27 @@ Diogenes project  
 Djerih, Angela  
 Dover Street Market  
 Dropbox bag  
-Dva Myacha
+Dva Myacha~~
+
+~~Tactile Chat Bot  
+Taiga (jewelry)  
+Taiga Space  
+Tamkovych-Friske, Yan  
+Tanakina, Svetlana  
+Tarakanova (brand)  
+Tarakanova, Ludmila (designer)
+Tegin (brand)  
+Tegin, Svetlana (designer)  
+Temen, Protey  
+Temporary Autonomous Art  
+Terekhov, Alexander (designer)  
+The Art Newspaper  
+The Diary of Space Journeys (project)  
+Tilda Publishing  
+Tovpyha, Oleksii  
+Transatlantique (gallery)  
+Turchin, Valeriy~~
+
 
 `09 March 2018`
 
@@ -331,29 +351,8 @@ Sung, Vincent  
 Swims (brand)  
 Sydney  
 Sygma  
-São Paulo  
+
+
+~~São Paulo  
 São Paulo Art Biennial  
-São Paulo Fashion Week
-
-
-
-`27  March 2018`
-
-Tactile Chat Bot  
-Taiga (jewelry)  
-Taiga Space  
-Tamkovych-Friske, Yan  
-Tanakina, Svetlana  
-Tarakanova (brand)  
-~~Tarakanova, Ludmila (designer)~~
-Tegin (brand)  
-Tegin, Svetlana (designer)  
-Temen, Protey  
-Temporary Autonomous Art  
-Terekhov, Alexander (designer)  
-The Art Newspaper  
-The Diary of Space Journeys (project)  
-Tilda Publishing  
-Tovpyha, Oleksii  
-Transatlantique (gallery)  
-Turchin, Valeriy
+São Paulo Fashion Week~~
