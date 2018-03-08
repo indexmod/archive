@@ -4,18 +4,26 @@ permalink: edit
 layout: default
 published: true
 ---
+# Edit any page following link on top-left section 
 
-# Start with Template
+You may edit every page with Prose.io editor using link "Edit the "page name"" at top-left section of each page. To save  changes you may need authorize as [GitHub](https://github.com/join) user.
 
-Just go [Template](template.md) copy it and paste in to new empty .md file.
 
-# Briefly
+# Create new pages from Template
+
+Just go to [Template](template) copy it and paste in to new empty .md file. 
+
+# Charachter by charachter 
 
 The aim of Indexmod Encyclopedia to simplify wiki syntax for a pretty and light format. Following checklist explains few steps of creating and editing beautiful articles in Indexmod Encyclopedia.
 
-#  Front matter
+# Markdown
 
-Every page is written with [Markdown](https://daringfireball.net/projects/markdown/syntax) and must have invisible **front matter** area set with triple-dashed lines.
+Every page is written with [Markdown](https://daringfireball.net/projects/markdown/syntax) lightest and easiest language for static pages generating.
+
+#  A Front matter
+
+Each page on top have spacial are with meta data. This invisible **front matter** area is set with triple-dashed lines.
 
 `---`
 `title: How to edit`
@@ -27,10 +35,9 @@ Above code is a **front matter** of this page **How to edit**. Any **front matte
 
 # Page structure
 
-The visible area of the page template must have **Title** and **Front** section, an image with **caption** and **credits**, **Conspectus** section, **See also** section and **Footnotes** section.
+The visible area of the page have **Title** and **Front** section, an image with **caption** and **credits**, **Conspectus** section, **See also** section and **Footnotes** section.
 
 # Title  
-
 
 `# Aberdeen Fashion Week`
 `# Tailor, Victoria`
@@ -127,6 +134,6 @@ Connect some text using short links <span id="a1">[\[1\]](#f1)</span>, <span id=
 
 # Prose.io editor
 
-You may edit every page in Prose.io editor using link "Edit the "page name"" at top-left section of each page. To save  changes you may need authorize as [GitHub](https://github.com/join) user.
+Every page may be edited in [Prose.io](www.prose.io) editor using link "Edit the "page name"" at top-left section of each page. To save  changes you may need have an account and be authorized as [GitHub](https://github.com/join) user.
 
 `Updated Mar. 2018 (Andrei Dei)`
