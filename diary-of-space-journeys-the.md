@@ -1,5 +1,5 @@
 ---
-title: Diary of Space Journeys, The (project)
+title: 'Diary of Space Journeys, The (project)'
 permalink: diary-of-space-journeys-the
 layout: default
 published: true
@@ -15,7 +15,7 @@ published: true
 
 *Photo: [The Diary of Space Journeys](index) / [Expanding Space](index)*
 
-# About {{page.title}}
+# About "The Diary of Space Journeys"
 
 With the end of the Cold War and the arms race it seems that we have lost all interest in space. Cosmonauts' going to the space station has become a routine event, science fiction's popularity as a genre has become limited, and the majority of people stopped dreaming about discovering new worlds. Half a century ago it was dramatically different. There was a feeling that conquering new planets would be achieved within a matter of several decades. The official ideology supported that great dream: the conquest of space became a symbolof humanity's victory over the powers of nature.
 
