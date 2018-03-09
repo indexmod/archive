@@ -1,7 +1,7 @@
 ---
 title: 'Diary of Space Journeys, The (project)'
 permalink: diary-of-space-journeys-the
-layout: social
+layout: default
 published: true
 ---
 
