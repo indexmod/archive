@@ -9,7 +9,7 @@ published: true
 Edit any page following link on top-left section: you may edit every page with Prose.io editor using link "Edit the "page name"" at top-left section of each page. To save  changes you may need authorize as [GitHub](https://github.com/join) user.
 
 
-# Create new pages from Template
+# New pages from Template
 
 Just go to [Template](template) copy it and paste in to new empty .md file. 
 
