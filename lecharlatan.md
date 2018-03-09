@@ -101,5 +101,3 @@ published: true
 [[16]](#a16) <span id="f16"></span> [Lecharlatan Show (YouTube)](https://www.youtube.com/channelUCBR-dSrqop9Yb5neMGugH5A/about)
 
 `Updated Mar. 2018 (Andrei Dei)`
-`Nominated`
-`|T|H|E| |B|E|S|T| |O|F| |M|A|R|C|H|`
