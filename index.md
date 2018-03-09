@@ -1,6 +1,5 @@
 ---
 layout: default
-permalink: index
 title: Index
 ---
 
@@ -16,6 +15,5 @@ title: Index
   <a href="{{ page.url | absolute_url }}">{{ page.title }}</a>
   </li>
   {% endfor %}
-
-
+  
 </ul>
