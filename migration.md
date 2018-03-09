@@ -103,7 +103,7 @@ Turchin, Valeriy~~
 
 `09 March 2018`
 
-Egorova, Ekaterina  
+~~Egorova, Ekaterina  
 Elagin, Oleg  
 Electromuseum  
 Electronic Arts Intermix  
@@ -114,21 +114,20 @@ Eykhbaum, Cecilia  
 Fashion Collection  
 Fedotov, Alexander  
 Fisher, Lilia  
-Flux Lounge, Le
+Flux Lounge, Le~~
 
-`10 March 2018`
-
-Galustiants, Tatiana  
+~~Galustiants, Tatiana  
 Gassiline, Cyrille  
 Glowing Helmet (2008)  
 Gorlov, Lex  
 Gosdacha Miusera  
-Gvasalia, Demna
+Gvasalia, Demna~~
+
+~~Jakarta  
+Jonas, Joan~~
 
 
-
-
-`12 March 2018`
+`10 March 2018`
 
 Iced Architects  
 Ikona Mag  
@@ -138,10 +137,9 @@ Indexhibit  
 Indexmod Encyclopedia NFC  
 Inkult Magazine  
 Instinct (agency)  
-Jakarta  
-Jonas, Joan
 
-`13 March 2018`
+
+`11 March 2018`
 
 Kakhiani, Anna  
 Kalinkina, Svetlana  
@@ -167,7 +165,7 @@ Kurbanov, Ramil  
 Kurbanova, Lina  
 Kusnirovich, Mikhail 
 
-`14 March 2018`
+`12 March 2018`
 
 Lambada Market  
 Lamp of MD (2015)  
@@ -188,7 +186,7 @@ Loyal Royal  
 Lucky cookies  
 Lumpen (agency)
 
-`15 March 2018`
+`13 March 2018`
 
 Machine of Memories, The (2014)  
 Machine Vision  
@@ -221,7 +219,7 @@ Musaeva, Nazrin Adyl (Marmot)  
 Mutasov, Gennady  
 Muzeon Park of Arts
 
-`17 March 2018`
+`14 March 2018`
 
 Neretina, Nina  
 New York  
@@ -232,7 +230,7 @@ Nocuous Rift  
 Nora Kaza  
 Not Art (2014)
 
-`18 March 2018`
+`15 March 2018`
 
 O'Leary, Sophie  
 Obolentseva, Nadezhda  
@@ -245,7 +243,7 @@ Oriflame (company)  
 Orlov, Alexei  
 Otokomae (art-space)
 
-`20 March 2018`
+`16 March 2018`
 
 Panika Derevya (brand)  
 Paradromnye Sviazi (2015)  
@@ -284,7 +282,7 @@ Prudko, Julia  
 Pupis, Donis  
 Putyatin, Roman
 
-`21 March 2018`
+`17 March 2018`
 
 Quoris Art  
 R.E.D.  
@@ -311,7 +309,7 @@ Russian Fashion Indexmod RGB Chart  
 Réserve De Beaulieu, La
 
 
-`25 March 2018`
+`18 March 2018`
 
 Sachkov, Mikhail  
 Saint Petersburg  
