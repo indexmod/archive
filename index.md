@@ -1,5 +1,5 @@
 ---
-layout: cover
+layout: default
 permalink: index
 title: Index
 ---
