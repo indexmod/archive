@@ -26,6 +26,15 @@
     <title></title>
 </head>
 <body>
+    <div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = 'https://connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.12&appId=173711889938607';
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+    
     {% seo %}
     <link href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}" rel="stylesheet">
     <meta content="width=device-width" name="viewport"><!--[if lt IE 9]>
@@ -38,23 +47,8 @@
 
         </header>
         <section>
-          <!-- Load Facebook SDK for JavaScript -->
-  <div id="fb-root"></div>
-  <script>(function(d, s, id) {
-    var js, fjs = d.getElementsByTagName(s)[0];
-    if (d.getElementById(id)) return;
-    js = d.createElement(s); js.id = id;
-    js.src = "https://connect.facebook.net/en_US/sdk.js#xfbml=1";
-    fjs.parentNode.insertBefore(js, fjs);
-  }(document, 'script', 'facebook-jssdk'));</script>
-
-  <!-- Your share button code -->
-  <div class="fb-share-button" 
-    data-href="https://indexmod.github.io/encyclopedia/{{page.permalink}}" 
-    data-layout="button_count">
-  </div>
-  
-            {{ content | toc }}
+          <div class="fb-share-button" data-href="https://indexmod.github.io/encyclopedia/diary-of-space-journeys-the" data-layout="box_count" data-size="small" data-mobile-iframe="true"><a target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Findexmod.github.io%2Fencyclopedia%2Fdiary-of-space-journeys-the&amp;src=sdkpreparse" class="fb-xfbml-parse-ignore">Поделиться</a></div>
+            {{ content }}
         </section>
         <footer>
             {% include footer.html %}
