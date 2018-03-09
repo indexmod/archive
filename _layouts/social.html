@@ -19,7 +19,6 @@
     <link href="/favicon-96x96.png" rel="icon" sizes="96x96" type="image/png">
     <link href="/favicon-16x16.png" rel="icon" sizes="16x16" type="image/png">
     <link href="/manifest.json" rel="manifest">
-    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/social-likes/dist/social-likes_flat.css">
     <meta content="#ffffff" name="msapplication-TileColor">
     <meta content="/ms-icon-144x144.png" name="msapplication-TileImage">
     <meta content="#ffffff" name="theme-color">
@@ -27,26 +26,22 @@
     <title></title>
 </head>
 <body>
-    <div id="fb-root"></div>
-<script>(function(d, s, id) {
-  var js, fjs = d.getElementsByTagName(s)[0];
-  if (d.getElementById(id)) return;
-  js = d.createElement(s); js.id = id;
-  js.src = 'https://connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.12&appId=173711889938607';
-  fjs.parentNode.insertBefore(js, fjs);
-}(document, 'script', 'facebook-jssdk'));</script>
-<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.8.0/jquery.min.js"></script>
-<script src="https://cdn.jsdelivr.net/npm/social-likes/dist/social-likes.min.js"></script>
     {% seo %}
     <link href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}" rel="stylesheet">
     <meta content="width=device-width" name="viewport"><!--[if lt IE 9]>
     <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
     <![endif]-->
     <div class="wrapper">
+	    var socialLikesButtons = {
+	surfingbird: {
+		popupUrl: 'http://surfingbird.ru/share?url={url}',
+		popupWidth: 650,
+		popupHeight: 500
+	}
+};
         <header>
             <p>{{ site.time | date_to_long_string }}</p>
-<div class="social-likes social-likes_vertical social-likes_light" data-url="https://indexmod.github.io/encyclopedia/{{ page.url }}" data-title="{{ page.title }}">
-	<div class="facebook" title="Share link on Facebook">Facebook</div>
+<div class="surfingbird">Surf</div>
 </div>
         </header>
         <section>
