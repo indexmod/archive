@@ -34,10 +34,9 @@
     <div class="wrapper">
         <header>
             <p>{{ site.time | date_to_long_string }}</p>
-            <p><font color="red">Agenda:<br></font"> <a href="https://indexmod.github.io/encyclopedia/lecharlatan">Lecharlatan</a></p>
         </header>
         <section>
-            {{ content | toc }}
+            {{ content }}
         </section>
         <footer>
             {% include footer.html %}
