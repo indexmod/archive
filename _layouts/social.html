@@ -23,6 +23,13 @@
     <meta content="/ms-icon-144x144.png" name="msapplication-TileImage">
     <meta content="#ffffff" name="theme-color">
     <meta content="bd6cadbefee34d7e" name="yandex-verification">
+	var socialLikesButtons = {
+	surfingbird: {
+		popupUrl: 'http://surfingbird.ru/share?url={url}',
+		popupWidth: 650,
+		popupHeight: 500
+	}
+};
     <title></title>
 </head>
 <body>
@@ -32,13 +39,6 @@
     <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
     <![endif]-->
     <div class="wrapper">
-	    var socialLikesButtons = {
-	surfingbird: {
-		popupUrl: 'http://surfingbird.ru/share?url={url}',
-		popupWidth: 650,
-		popupHeight: 500
-	}
-};
         <header>
             <p>{{ site.time | date_to_long_string }}</p>
 <div class="surfingbird">Surf</div>
@@ -94,3 +94,5 @@
      {% endif %}
 </body>
 </html>
+
+
