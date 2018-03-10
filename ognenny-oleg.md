@@ -1,32 +1,18 @@
 ---
-title: Ognenny, Oleg
+title: 'Ognenny, Oleg'
 permalink: ognenny-oleg
 layout: default
+published: true
 ---
 
 # {{page.title}}
 
-(Est. 2013, city)
-
-Oleg Ognenny, Ognennaya lady, Oleg Gusaev (Rus. Олег Огненный, Олег Гусаев) born 1969, Baku, is a Russian artist, leader of national transvestite movement.
-
-<span id="a1">[\[1\]](#f1)</span>.
+(Rus. Олег Огненный, Олег Гусаев, born. 1969, Baku) is a Russian artist of performance, leader of national transvestite movement <span id="a1">[\[1\]](#f1)</span>.
 
 ![](/encyclopedia/images/ognennaya.jpg)
 
-**Image title**
-
-Artist Oleg Ognenny as “Ognennaya lady”, Moscow, 90-s
-Photo: Point author here / Link to source here
-
-*Photo: [Name](index) / [Source](index)*
-
-# {{page.title}} Conspectus
-
-|Year|City|
-|-|-|
-|2014|Tokyo|
-|2017|Paris|
+**Artist Oleg Ognenny as “Ognennaya lady”, Moscow, 90-s**
+*Photo: [Indexmod](index) / [Indexmod](index)*
 
 # {{page.title}} Indexmod
 
