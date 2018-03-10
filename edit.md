@@ -6,7 +6,7 @@ published: true
 ---
 # Link on the top-left 
 
-Edit any page following link on top-left section: you may edit every page with Prose.io editor using link "Edit the "page name"" at top-left section of each page. To save  changes you may need authorize as [GitHub](https://github.com/join) user.
+Edit any page following link on top-left section: you may edit every page with Prose.io editor using link "Edit the "page name" at top-left section of each page. To save  changes you may need authorize as [GitHub](https://github.com/join) user.
 
 
 # New pages from Template
