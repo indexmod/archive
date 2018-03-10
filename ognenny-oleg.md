@@ -7,7 +7,7 @@ published: true
 
 # {{page.title}}
 
-(Rus. Олег Огненный, Олег Гусаев, born. 1969, Baku) is a Russian artist of performance, leader of national transvestite movement <span id="a1">[\[1\]](#f1)</span>.
+(Rus. Олег Огненный, Олег Гусаев, born 1969 <span id="a1">[\[?\]](#f1)</span>, Baku <span id="a1">[\[?\]](#f1)</span>) is a Russian artist of performance, leader of national transvestite movement <span id="a1">[\[1\]](#f1)</span>.
 
 ![](/encyclopedia/images/ognennaya.jpg)
 
