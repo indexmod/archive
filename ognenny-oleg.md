@@ -12,7 +12,6 @@ published: true
 ![](/encyclopedia/images/ognennaya.jpg)
 
 **Artist Oleg Ognenny as “Ognennaya lady”, Moscow, 90-s**
-
 *Photo: [Indexmod](index) / [Indexmod](index)*
 
 # {{page.title}} Indexmod
@@ -24,15 +23,13 @@ published: true
 
 # See also
 
-+ [One](index)
-+ [Two](index)
-+ Andrei Bartenev
-+ Katya Filippova
-+ Larisa Lazareva
-+ Tatiana Mamedova
-+ Alexandr Petlura
-+ Alexander Osadchi
-+ Polushkiny Brothers
++ [Andrei Bartenev](index)
++ [Katya Filippova](index)
++ [Larisa Lazareva](index)
++ [Tatiana Mamedova](index)
++ [Alexandr Petlura](index)
++ [Alexander Osadchi](index)
++ [Polushkiny Brothers](index)
 
 # Footnotes
 
