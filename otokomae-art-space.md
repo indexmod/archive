@@ -4,34 +4,41 @@ permalink: otokomae-art-space
 layout: default
 ---
 
-# Otokomae (art-space)
+# {{page.title}}
 
-(Est. 2013, city) is a subject, description-one <span id="a1">[\[1\]](#f1)</span>, description-two <span id="a2">[\[2\]](#f2)</span> description-3 <span id="a3">[\[3\]](#f3)</span>, extra text.
+(Rus. Отокомае, est. 2016, Moscow) is a conceptual, 24/7 open space at Kuznetsky Most in Moscow with beauty and image saloon, design and multimedia production studio, art gallery, cafe and art-boutique hotel <span id="a1">[\[1\]](#f1)</span>.
 
-![](/images/image-name.jpg)
+![](https://irs1.4sqi.net/img/general/original/3249224_bwiSRLG75iGmi-CxKNwbCGW_wHaZZ-zoe7aJA26qvIY.jpg)
 
-*Image caption*
+**Beauty saloon**
 
-*Photo: [Photographer name](http://example.net/) / [Source name](http://example.net/)*
+*Photo: [Yell](index) / [Yell](https://www.yell.ru/moscow/com/proekt-otokomae_10705666/)*
 
-# Conspectus
+# {{page.title}} Indexmod
 
-|Year|City|
-|----|---------|
-|2014|Tokyo|
-|2015|Moscow|
-|2017|Kiev|
+|Year|Facebook|Instagram|YouTube|Age|IMD|
+|-|-|-|-|-|
+|2018|100 <span id="a3">[\[3\]](#f3)</span>|200 <span id="a4">[\[4\]](#f4)</span>|300 <span id="a4">[\[4\]](#f4)</span>|12|0,0025|
+
 
 # See also
 
-- [Source name](http://example.net/)
-- [Source name](http://example.net/)
-- [Source name](http://example.net/)
++ [One](index)
++ [Two](index)
++ Alexander Kononov
++ Sergey Tabunov
++ Goldwell
 
 # Footnotes
 
-[[1]](#a1) <span id="f1"></span> [Article name (Author name)](http://example.net/article)
 
-[[2]](#a2) <span id="f2"></span> [Article name (Author name)](http://example.net/article)
 
-[[3]](#a3) <span id="f3"></span> [Article name (Author name)](http://example.net/article)
+[[1]](#a1) <span id="f1"></span> [Otokomae Art Boutique Hotel (Trip Advisor)](https://www.tripadvisor.ru/Hotel_Review-g298484-d4609149-Reviews-Otokomae_Art_Boutique_Hotel-Moscow_Central_Russia.html)
+
+[[3]](#a3) <span id="f3"></span> [{{page.title}} (Facebook)](index)
+
+[[4]](#a4) <span id="f4"></span> [{{page.title}} (Instagram)](index)
+
+[[5]](#a5) <span id="f5"></span> [{{page.title}} (YouTube)](index)
+
+`Updated Mar. 2018 (Andrei Dei)`

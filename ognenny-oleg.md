@@ -49,6 +49,9 @@ Photo: Point author here / Link to source here
 
 # Footnotes
 
+
+[[1]](#a1) <span id="f1"></span> [History of the Moscow clubs (Bolshoi Gorod)](http://bg.ru/entertainment/istorija_moskovskih_klubov-15640/?chapter=5)
+
 [[3]](#a3) <span id="f3"></span> [{{page.title}} (Facebook)](index)
 
 [[4]](#a4) <span id="f4"></span> [{{page.title}} (Instagram)](index)
