@@ -24,7 +24,7 @@ published: true
 
 # Svetlana Levadnaja about the brand 
 
-"All our work, all the work of our masters is dedicated to Russian beauty. We want to show how it is harmonious and necessary in the modern context. Our embroidery is a subject of pride of our masters. It is the only one of its kind, patented, and is a huge intellectual technology of traditions of traditions of embroidery (both folk and royal court) with modern geometry and shapes. Our embroidery is a drawing of frost on the glass, it is a painting in embroidery, it is a recognizable vintessence of Russian drawing." — Svetlana Levadnaja says about Levadnaja Details
+"All our work, all the work of our masters is dedicated to Russian beauty. We want to show how it is harmonious and necessary in the modern context. Our embroidery is a subject of pride of our masters. It is the only one of its kind, patented, and is a huge intellectual technology of traditions of traditions of embroidery (both folk and royal court) with modern geometry and shapes. Our embroidery is a drawing of frost on the glass, it is a painting in embroidery, it is a recognizable vintessence of Russian drawing." <span id="a2">[\[2\]](#f2)</span> — Svetlana Levadnaja says about Levadnaja Details
 
 ![](http://en.levadnajadetails.com/d/1771324/d/logo_0.png)
 
@@ -37,7 +37,7 @@ published: true
 
 |Year|Facebook|Instagram|YouTube|Age|Indexmod|
 |-|-|-|-|-|
-|2018|17673 <span id="a3">[\[3\]](#f3)</span>|27500 <span id="a4">[\[4\]](#f4)</span>|6800 <span id="a4">[\[4\]](#f4)</span>|11|0,119973|
+|2018|17673 <span id="a3">[\[3\]](#f3)</span>|27500 <span id="a4">[\[4\]](#f4)</span>|6800 <span id="a5">[\[5\]](#f5)</span>|11|0,119973|
 
 
 # See also
@@ -59,4 +59,4 @@ http://en.levadnajadetails.com/
 
 [[5]](#a5) <span id="f5"></span> [{{page.title}} (YouTube)](https://www.youtube.com/channel/UCko1ZlAIcKPUiHcugwB90ew/featured)
 
-`Updated Mar. 2018 (Andrei Dei)`
+`Updated Mar. 2018 (Andrei Dej)`
