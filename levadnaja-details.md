@@ -59,4 +59,4 @@ http://en.levadnajadetails.com/
 
 [[5]](#a5) <span id="f5"></span> [{{page.title}} (YouTube)](https://www.youtube.com/channel/UCko1ZlAIcKPUiHcugwB90ew/featured)
 
-`Updated Mar. 2018 (Andrei Dei)`
+`Updated Mar. 2018 (Andrei Dej)`
