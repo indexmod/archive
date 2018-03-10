@@ -12,6 +12,8 @@ published: true
 ![](/encyclopedia/images/ognennaya.jpg)
 
 **Artist Oleg Ognenny as “Ognennaya lady”, Moscow, 90-s**
+
+
 *Photo: [Indexmod](index) / [Indexmod](index)*
 
 # {{page.title}} Indexmod
