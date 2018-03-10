@@ -54,7 +54,7 @@ The name of the fellowship "Eta" comes from Russian «Эта» — pronunciation
 
 # Eta Indexmod (void)
 
-|Year|Facebook|Instagram|YouTube|Age|ETI|
+|Year|Facebook|Instagram|YouTube|Age|Indexmod|
 |-|-|-|-|-|
 |0000|000 <span id="a0">[\[0\]](#f0)</span>|000 <span id="a0">[\[0\]](#f0)</span>|000 <span id="a0">[\[0\]](#f0)</span>|00|0,0000|
 
