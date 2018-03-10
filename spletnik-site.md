@@ -5,9 +5,7 @@ layout: default
 published: true
 ---
 
-# Spletnik (site)
-
-
+# {{page.title}}
 
 (Est. 2007, Moscow) Russian web-site about celebrities founded by Polina Deripaska on the base of blog by Tatiana Nikonova <span id="a1">[\[1\]](#f1)</span>, including with other sites as The Village, Wonderzine, Look at me and operate under "Creative Media" LLC under Forward Media Group. Monthly readers about 4 and 36 million of auditoria and visits with head office on Rochelskaya street in Moscow <span id="a2">[\[2\]](#f2)</span>.
 
@@ -24,13 +22,11 @@ published: true
 |2017|Becoming part of Creative Media|
 
 
-# Spletnik Indexmod
+# {{page.title}} Indexmod
 
-|Year|Facebook|280000|Age|Indexmod|
-|----|-----|||
-|2017|61796|310000|11|
-|2018|||11|
-|Indexmod|61796|310000|11||
+|Year|Facebook|Instagram|YouTube|Age|IMD|
+|-|-|-|-|-|
+|2018|100 <span id="a3">[\[3\]](#f3)</span>|200 <span id="a4">[\[4\]](#f4)</span>|300 <span id="a4">[\[4\]](#f4)</span>|12|0,0025|
 
 # See also
 
