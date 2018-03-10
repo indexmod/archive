@@ -9,11 +9,11 @@ published: true
 
 (Est. 2006, Moscow) is a brand, established by clothes, bags, accessories and ceramics designer Svetlana Levadnaja to combine the rich Russian traditions with the modern context <span id="a1">[\[1\]](#f1)</span>.
 
-![](http://en.levadnajadetails.com/d/1771324/d/logo_0.png)
+![](/encyclopedia/images/levadnaja.png)
 
-**Levadnaja Details logo**
+**Fragment of vase "Steppe" from Levadnaja Ceramics collection by Levadnaja Details**
 
-*Photo: [Levadnaja](index) / [Levadnaja Details](index)*
+*Photo: [Levadnaja](index) / [Levadnaja Ceramics](http://en.levadnajadetails.com/magazin/product/vase-steppe)*
 
 # {{page.title}} Conspectus
 
@@ -25,6 +25,12 @@ published: true
 # Svetlana Levadnaja about the brand 
 
 "All our work, all the work of our masters is dedicated to Russian beauty. We want to show how it is harmonious and necessary in the modern context. Our embroidery is a subject of pride of our masters. It is the only one of its kind, patented, and is a huge intellectual technology of traditions of traditions of embroidery (both folk and royal court) with modern geometry and shapes. Our embroidery is a drawing of frost on the glass, it is a painting in embroidery, it is a recognizable vintessence of Russian drawing." — Svetlana Levadnaja says about Levadnaja Details
+
+![](http://en.levadnajadetails.com/d/1771324/d/logo_0.png)
+
+**Levadnaja Details logo**
+
+*Photo: [Levadnaja](index) / [Levadnaja Details](index)*
 
 
 # {{page.title}} Indexmod
