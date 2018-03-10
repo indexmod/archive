@@ -9,7 +9,7 @@ published: true
 
 (Est. 2013, city)
 
-description 
+description
 
 <span id="a1">[\[1\]](#f1)</span>.
 
