@@ -13,7 +13,7 @@ published: true
 
 **Sophie in 1978 in Farnham, Surrey; Sophie in 2014 at Avebury, Wiltshire; Laser and Bubble, Linocut, 2015; Morley Gallery, Lambeth, London. Summer 2015**
 
-*Photo: [Michael O'Leary](index) / [O'Leary's Family Archives](index) / [Leigh Dickson](index) / [O'Leary's Family Archives](index) / [Sophie O'Leary](index) / [Sophie O'Leary Art](index)*
+*Photos: [Michael O'Leary](index) / [O'Leary's Family Archives](index) / [Leigh Dickson](index) / [O'Leary's Family Archives](index) / [Sophie O'Leary](index) / [Sophie O'Leary Art](index)*
 
 # {{page.title}} Conspectus
 
