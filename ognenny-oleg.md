@@ -39,6 +39,13 @@ Photo: Point author here / Link to source here
 
 + [One](index)
 + [Two](index)
++ Andrei Bartenev
++ Katya Filippova
++ Larisa Lazareva
++ Tatiana Mamedova
++ Alexandr Petlura
++ Alexander Osadchi
++ Polushkiny Brothers
 
 # Footnotes
 
