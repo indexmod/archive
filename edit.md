@@ -130,7 +130,7 @@ Connect some text using short links <span id="a1">[\[1\]](#f1)</span>, <span id=
 
 ![Снимок экрана 2018-02-27 в 8.19.05.png]({{site.baseurl}}/Снимок экрана 2018-02-27 в 8.19.05.png)
 
-**This is screen of Prose.io editor during editing section below. Note the Save "disk" icon on rignt menu.**
+**The screen of Prose.io editor. Note a Save "disk" icon on rignt menu**
 
 # Prose.io editor
 
