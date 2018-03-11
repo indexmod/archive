@@ -1,16 +1,13 @@
 ---
-title: India Kids Fashion Show
-permalink: india-kids-fashion-show
+title: Neretina, Nina
+permalink: neretina-nina
 layout: default
+published: true
 ---
 
 # {{page.title}}
 
-(Est. 2013, city)
-
-description
-
-<span id="a1">[\[1\]](#f1)</span>.
+(Est. 2013, city) Nina Neretina 71 SNC (Rus. Нина Неретина) born 1967, Voronezhskaya Oblast Russian fashion designer, a graduate of Moscow Textile Academy, co-founder of the brand Nina Donis living and working in Cyprus and Moscow <span id="a1">[\[1\]](#f1)</span>.
 
 ![](/encyclopedia/images/image-name.jpg)
 
@@ -36,6 +33,9 @@ description
 
 + [One](index)
 + [Two](index)
+(070) Dmitry Loginov
+(072) Donis Pupis
+Nina Donis 
 
 # Footnotes
 

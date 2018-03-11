@@ -1,16 +1,13 @@
 ---
-title: India Kids Fashion Show
-permalink: india-kids-fashion-show
+title: Not Art (2014)
+permalink: not-art-2014
 layout: default
+published: true
 ---
 
 # {{page.title}}
 
-(Est. 2013, city)
-
-description
-
-<span id="a1">[\[1\]](#f1)</span>.
+(Rus. Не искусство, 2014, Moscow) is a perfomance by Roman Putyatin in a genre of media happening <span id="a1">[\[1\]](#f1)</span>.
 
 ![](/encyclopedia/images/image-name.jpg)
 
@@ -36,6 +33,9 @@ description
 
 + [One](index)
 + [Two](index)
++ Antimuseum
++ Electromuseum
++ Pixel portraits of colored adhesive tape on the walls of chain-link fencing (2014)
 
 # Footnotes
 
