@@ -2,6 +2,7 @@
 title: Otokomae (art-space)
 permalink: otokomae-art-space
 layout: default
+published: true
 ---
 
 # {{page.title}}
@@ -18,20 +19,15 @@ layout: default
 
 |Year|Facebook|Instagram|YouTube|Age|IMD|
 |-|-|-|-|-|
-|2018|100 <span id="a3">[\[3\]](#f3)</span>|200 <span id="a4">[\[4\]](#f4)</span>|300 <span id="a4">[\[4\]](#f4)</span>|12|0,0025|
-
+|2018|00000 <span id="a3">[\[3\]](#f3)</span>|00000 <span id="a4">[\[4\]](#f4)</span>|00000 <span id="a4">[\[4\]](#f4)</span>|2|0,00000|
 
 # See also
 
-+ [One](index)
-+ [Two](index)
-+ Alexander Kononov
-+ Sergey Tabunov
-+ Goldwell
++ [Alexander Kononov](index)
++ [Sergey Tabunov](index)
++ [Goldwell](index)
 
 # Footnotes
-
-
 
 [[1]](#a1) <span id="f1"></span> [Otokomae Art Boutique Hotel (Trip Advisor)](https://www.tripadvisor.ru/Hotel_Review-g298484-d4609149-Reviews-Otokomae_Art_Boutique_Hotel-Moscow_Central_Russia.html)
 

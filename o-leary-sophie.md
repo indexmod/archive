@@ -1,5 +1,5 @@
 ---
-title: O'Leary, Sophie
+title: 'O''Leary, Sophie'
 permalink: o-leary-sophie
 layout: default
 published: true
@@ -7,15 +7,13 @@ published: true
 
 # {{page.title}}
 
-(Est. 1973, Hampshire)
-
-(Sophichka), born in 1973 Hampshire, UK—British artist, founder of “Sophie O'Leary Art” brand, London Curator at Indexmod Encyclopedia, living and working in London <span id="a1">[\[1\]](#f1)</span>.
+(Aka Sophichka, born. 1973, Hampshire) is an UK British artist, founder of “Sophie O'Leary Art", The Curator at Indexmod Encyclopedia in London, living and working in London <span id="a1">[\[1\]](#f1)</span>.
 
 ![](/encyclopedia/images/sophie.png)
 
 **Sophie in 1978 in Farnham, Surrey; Sophie in 2014 at Avebury, Wiltshire; Laser and Bubble, Linocut, 2015; Morley Gallery, Lambeth, London. Summer 2015**
 
-*Photo: [Michael O'Leary](index) / [O'Leary's Family Archives](index) / Photo: [Leigh Dickson](index) / [O'Leary's Family Archives](index) / Photo: [Sophie O'Leary](index) / [ Sophie O'Leary Art ](index)*
+*Photos: [Michael O'Leary](index) / [O'Leary's Family Archives](index) / [Leigh Dickson](index) / [O'Leary's Family Archives](index) / [Sophie O'Leary](index) / [Sophie O'Leary Art](index)*
 
 # {{page.title}} Conspectus
 
@@ -33,9 +31,9 @@ published: true
 
 # See also
 
-+ [Kristi Malakoff](index)
-+ [London](index)
-+ [Moscow](index)
++ [Kristi Malakoff](malakoff-kristi)
++ [London](london)
++ [Moscow](moscow)
 
 
 # Footnotes

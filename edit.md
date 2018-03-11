@@ -6,7 +6,7 @@ published: true
 ---
 # Link on the top-left 
 
-Edit any page following link on top-left section: you may edit every page with Prose.io editor using link "Edit the "page name"" at top-left section of each page. To save  changes you may need authorize as [GitHub](https://github.com/join) user.
+Edit any page following link on top-left section: you may edit every page with Prose.io editor using link "Editing The "How to edit" page" at top-left section of each page. To save  changes you may need authorize as [GitHub](https://github.com/join) user.
 
 
 # New pages from Template
@@ -130,7 +130,7 @@ Connect some text using short links <span id="a1">[\[1\]](#f1)</span>, <span id=
 
 ![Снимок экрана 2018-02-27 в 8.19.05.png]({{site.baseurl}}/Снимок экрана 2018-02-27 в 8.19.05.png)
 
-**This is screen of Prose.io editor during editing section below. Note the Save "disk" icon on rignt menu.**
+**The screen of Prose.io editor. Note a Save "disk" icon on rignt menu**
 
 # Prose.io editor
 
