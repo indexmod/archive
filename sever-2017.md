@@ -17,10 +17,10 @@ published: true
 
 # {{page.title}} Conspectus
 
-|Year|City|
+|Year|Place|
 |-|-|
-|2014|Tokyo|
-|2017|Paris|
+|2017|Moscow, Strelka|
+|2018|Slack|
 
 # {{page.title}} Indexmod
 
