@@ -15,7 +15,7 @@ published: true
 
 **Big Felix from Lubianka at Muzeon Park of Arts**
 
-*Photo: [Unknown](index) / [Unknown](index)*
+*Photo: [Unknown](index) / [Trip Advisor](index)*
 
 **View to Muzeon Park of Arts from Moscow River's waterfront**
 
