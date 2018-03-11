@@ -7,13 +7,9 @@ published: true
 
 # {{page.title}}
 
-(Rus. Север, 2017, Moscow) is a speculative design project by Francesco Sebregondi, Alexey Platonov, Inna Pokazanyeva and Ildar Iakubov with visuals by Alexey Orlov, intervening into current Arctic debates by offering a new vision of its possible future, developed during The New Normal programme at Strelka Institute in Moscow.
+(Rus. Север, 2017, Moscow) is a speculative design project by Francesco Sebregondi, Alexey Platonov, Inna Pokazanyeva and Ildar Iakubov with visuals by Alexey Orlov, intervening into current Arctic debates by offering a new vision of its possible future, developed during The New Normal programme at Strelka Institute in Moscow <span id="a1">[\[1\]](#f1)</span>.
 
-
-<span id="a1">[\[1\]](#f1)</span>.
-
-![](/encyclopedia/images/sever-1.png)
-![](/encyclopedia/images/sever-2.png)
+![](/encyclopedia/images/sever-1.png)![](/encyclopedia/images/sever-2.png)
 
 **Stills from Sever site**
 
@@ -31,7 +27,6 @@ published: true
 |Year|Facebook|Instagram|YouTube|Age|Indexmod|
 |-|-|-|-|-|
 |2018|000 <span id="a3">[\[3\]](#f3)</span>|000 <span id="a4">[\[4\]](#f4)</span>|000 <span id="a4">[\[4\]](#f4)</span>|1|0,0001|
-
 
 # See also
 
