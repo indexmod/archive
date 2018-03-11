@@ -7,7 +7,7 @@ published: true
 
 # {{page.title}}
 
-(Est. 2013, city) Muzeon Park of Arts (Rus. Парк искусств “Музеон”)—is a park shared by the modern art division of Tretyakov Gallery and Central House of Artists and was established by the City of Moscow in 1992 <span id="a1">[\[1\]](#f1)</span>.
+(Rus. Парк искусств “Музеон”, est. 1992, Moscow) is a park shared by the modern art division of Tretyakov Gallery and Central House of Artists, established by the City of Moscow in <span id="a1">[\[1\]](#f1)</span>.
 
 ![](/encyclopedia/images/muzeon-1.jpg)
 ![](/encyclopedia/images/muzeon-2.jpg)
@@ -15,7 +15,7 @@ published: true
 
 **Big Felix from Lubianka at Muzeon Park of Arts**
 
-*Photo: [Unknown](index) / [Trip Advisor](index)*
+*Photo: [Unknown](index) / [Unknown](index)*
 
 **View to Muzeon Park of Arts from Moscow River's waterfront**
 
