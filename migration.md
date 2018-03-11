@@ -142,29 +142,29 @@ Otokomae (art-space)~~
 
 `11 March 2018`
 
-Iced Architects  
+~~Iced Architects  
 Ikona Mag  
 Ilminskih, Tatiana  
 Implementation (2015)  
 Indexhibit  
 Indexmod Encyclopedia NFC  
 Inkult Magazine  
-Instinct (agency)  
+Instinct (agency)  ~~
 
-Neretina, Nina  
+~~Neretina, Nina  
 New York  
 Nicolaeva, Veronika  
 Nipstick (stickers)  
 Nizhniy Novgorod Fashion Week  
 Nocuous Rift  
 Nora Kaza  
-Not Art (2014)
+Not Art (2014)~~
 
 
 `12 March 2018`
 
-Kakhiani, Anna  
-Kalinkina, Svetlana  
+~~Kakhiani, Anna  
+Kalinkina, Svetlana  ~~
 Kalmis, Denis  
 Kalyadin, Leonid  
 Kazumi, Mico  
@@ -239,11 +239,11 @@ Muhadin, Kishev  
 Mukhina, Ekaterina  
 Musaeva, Nazrin Adyl (Marmot)  
 Mutasov, Gennady  
-Muzeon Park of Arts
+~~Muzeon Park of Arts~~
 
 `15 March 2018`
 
-Panika Derevya (brand)  
+~~Panika Derevya (brand)  ~~
 Paradromnye Sviazi (2015)  
 Parfenova, Tatiana  
 Park, Jene (designer)  
