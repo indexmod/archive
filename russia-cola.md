@@ -2,11 +2,12 @@
 title: Russia Cola
 permalink: russia-cola
 layout: default
+published: true
 ---
 
 # {{page.title}}
 
-(Est. 2006, La Réserve de Beaulieu) Russia Cola is an organic drink without artificial colors, sweeteners, preservatives or flavouring made from black tea, nitrate-free spring water, cleansing power of citruses and antioxidant spices such as cinnamon, cardamom, ginger, and cloves. Sign in to edit Russia Cola <span id="a1">[\[1\]](#f1)</span>.
+(Est. 2006, La Réserve de Beaulieu) Russia Cola is an organic drink without artificial colors, sweeteners, preservatives or flavouring made from black tea, nitrate-free spring water, cleansing power of citruses and antioxidant spices such as cinnamon, cardamom, ginger, and cloves presented at the restaurant of the La Réserve de Beaulieu hotel <span id="a1">[\[1\]](#f1)</span>.
 
 ![](/encyclopedia/images/cola.jpg)
 
