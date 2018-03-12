@@ -21,9 +21,9 @@ The aim of Indexmod Encyclopedia to simplify wiki syntax for a pretty and light 
 
 Every page is written with [Markdown](https://daringfireball.net/projects/markdown/syntax) lightest and easiest language for static pages generating.
 
-#  A Front matter
+#  Front matter
 
-Each page on top have spacial are with meta data. This invisible **front matter** area is set with triple-dashed lines.
+Each page on top have hidden section with meta data. This **front matter** area is set with triple-dashed lines.
 
 `---`
 `title: How to edit`
@@ -31,18 +31,17 @@ Each page on top have spacial are with meta data. This invisible **front matter*
 `layout: default`
 `---`
 
-Above code is a **front matter** of this page **How to edit**. Any **front matter** may contain **page title**, **permalink**, **layout** and other metadata.
+Above code is a **front matter** of page with title **How to edit**. A typical **front matter** may contain **page title**, **permalink**, **layout** and other metadata.
 
 # Page structure
 
-The visible area of the page have **Title** and **Front** section, an image with **caption** and **credits**, **Conspectus** section, **See also** section and **Footnotes** section.
+The visible area of the page have **title**, **cover** section, an **image** with **caption** and **credits**, **Conspectus** section, **See also** section and **Footnotes** section.
 
 # Title  
 
 `# Aberdeen Fashion Week`
 `# Tailor, Victoria`
 `# Duma, Miroslava (publisher)`
-
 
 Title includes the subject's name **Aberdeen Fashion Week**, surname and name **Tailor, Victoria** and may be added with specification with round brackets **Tailor, Victoria (designer)**.
 
