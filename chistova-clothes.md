@@ -2,21 +2,18 @@
 title: Chistova (clothes)
 permalink: chistova-clothes
 layout: default
+published: true
 ---
 
 # {{page.title}}
 
-(Est. 2013, city)
-
-Chistova (Rus. Чистова) est. in 2013, Moscow, fashion brand created by a Russian designer Anna Chistova who has experience working in the fashion industry since 2003 and considered as a pioneer of new Russian fashion.
-
-<span id="a1">[\[1\]](#f1)</span>.
+(Est. in 2013, Moscow) fashion brand created by a Russian designer Anna Chistova who has experience working in the fashion industry since 2003 and considered as a pioneer of new Russian fashion <span id="a1">[\[1\]](#f1)</span>.
 
 ![](/encyclopedia/images/image-name.jpg)
 
 **Image title**
 Sample from 2013 AW collection
-Photo: author unknown / AnnaChistova
+Photo: author unknown / Anna Chistova
 
 Fragment of Chistova logo
 Photo: author unknown / Facebook
