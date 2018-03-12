@@ -1,12 +1,13 @@
 ---
-title: Yee, Evan Desmond
+title: 'Yee, Evan Desmond'
 permalink: yee-evan-desmond
 layout: default
+published: true
 ---
 
 # Yee, Evan Desmond
 
-(Born 1990, Oakland) American sculpture, multimedia artist living and working in New York <span id="a1">[\[1\]](#f1)</span>, description-two <span id="a2">[\[2\]](#f2)</span> description-3 <span id="a3">[\[3\]](#f3)</span>, extra text.
+(Born 1990, Oakland) American sculpture, multimedia artist living and working in New York <span id="a1">[\[1\]](#f1)</span>.
 
 ![](https://static1.squarespace.com/static/551abb1ae4b07fa7d5fc159c/t/55369db5e4b00d4e60023460/1429642692711/Evan+Yee)
 
@@ -35,14 +36,6 @@ layout: default
 + 2012 “Presentrapments”, Gallery Bar
 + 2010 “Catharsis”, Gallery B, Sag Harbor
 
-# Conspectus
-
-|Year|City|
-|----|---------|
-|2014|Tokyo|
-|2015|Moscow|
-|2017|Kiev|
-
 # Collectors
 
 + Donna Karan
@@ -54,18 +47,11 @@ layout: default
 
 # See also
 
-Nocuous Rift
-The Fueled Collective
-Gallery 151
++ Nocuous Rift
++ The Fueled Collective
++ Gallery 151
 
-- [Source name](http://example.net/)
-- [Source name](http://example.net/)
-- [Source name](http://example.net/)
 
 # Footnotes
 
-[[1]](#a1) <span id="f1"></span> [“Artist Creates A Fake Apple Store Filled With Crazy, Dystopian Tech” Collectively)](http://example.net/article)
-
-[[2]](#a2) <span id="f2"></span> [Article name (Author name)](http://example.net/article)
-
-[[3]](#a3) <span id="f3"></span> [Article name (Author name)](http://example.net/article)
+[[1]](#a1) <span id="f1"></span> [“Artist Creates A Fake Apple Store Filled With Crazy, Dystopian Tech” Collectively (Swaraj Art Archive)](https://swarajarchive.wordpress.com/2015/08/31/start-up-a-twisted-apple-store-filled-with-crazy-dystopian-tech/)
