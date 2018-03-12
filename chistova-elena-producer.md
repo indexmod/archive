@@ -34,8 +34,8 @@ published: true
 
 # See also
 
-+ [One](index)
-+ [Two](index)
++ [Anna Chistova](chistova-anna)
++ [Chistova (clothes)](chistova-clothes)
 
 # Footnotes
 
