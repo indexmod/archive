@@ -1,5 +1,5 @@
 ---
-title: 'Chistova, Elena'
+title: 'Chistova, Elena (producer)'
 permalink: chistova-elena-producer
 layout: default
 published: true
