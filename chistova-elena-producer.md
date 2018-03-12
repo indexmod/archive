@@ -1,5 +1,5 @@
 ---
-title: 'Chistova, Elena (producer)'
+title: 'Chistova, Elena'
 permalink: chistova-elena-producer
 layout: default
 published: true
@@ -30,7 +30,7 @@ published: true
 
 |Year|Facebook|Instagram|YouTube|Age|IMD|
 |-|-|-|-|-|
-|2018|100 <span id="a3">[\[3\]](#f3)</span>|200 <span id="a4">[\[4\]](#f4)</span>|300 <span id="a4">[\[4\]](#f4)</span>|12|0,0025|
+|2018|000 <span id="a3">[\[3\]](#f3)</span>|000 <span id="a4">[\[4\]](#f4)</span>|000 <span id="a4">[\[4\]](#f4)</span>|00|0,0000|
 
 # See also
 
