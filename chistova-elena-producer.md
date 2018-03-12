@@ -1,5 +1,5 @@
 ---
-title: Chistova, Elena
+title: 'Chistova, Elena'
 permalink: chistova-elena-producer
 layout: default
 published: true
@@ -7,9 +7,7 @@ published: true
 
 # {{page.title}}
 
-(Rus. Елена Чистова, born. 1958, Sverdlovsk) Russian music producer working and living in Moscow.
-
-<span id="a1">[\[1\]](#f1)</span>.
+(Rus. Елена Чистова, born. 1958, Sverdlovsk) Russian music producer working and living in Moscow <span id="a1">[\[1\]](#f1)</span>.
 
 ![](/encyclopedia/images/chistova-elena.jpg)
 
