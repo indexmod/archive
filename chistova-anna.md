@@ -6,27 +6,18 @@ layout: default
 
 # {{page.title}}
 
-(Est. 2013, city)
-
-Anna Chistova (Rus. Анна Чистова)—Russian designer of evening dresses, ex-co-founder ChistovaEndourova brand, owner of Chistova brand. Anna also known as costume designer of «Духless» (2005) and «Духless 2» (2015).
-
-<span id="a1">[\[1\]](#f1)</span>.
+(Rus. Анна Чистова, born. 1980, Ekaterinburg) Russian designer of evening dresses, costumes artist and actress <span id="a1">[\[1\]](#f1)</span>, co-founder ChistovaEndourova brand, founder and owner of [Chistova](chistova-clothes) brand. Anna also known as costume creator and stylist for «Духless» (2005) and «Духless 2» (2015).
 
 ![](/encyclopedia/images/image-name.jpg)
 
-**Image title**
-Anna Chistova at «Духless 2» premiere day
-Photo: Anna Chistova / Otokomae
-
-Maria Andreeva in Chistova dresses at «Okyabr» cinema
-Photo: Anna Chistova  / Facebook
+**Anna Chistova at «Духless 2» premiere day**
 *Photo: [Name](index) / [Source](index)*
 
-# Personal life of {{page.title}}
+# Private life of {{page.title}}
 
 |Year|City|
 |-|-|
-|Mother|Elena Chistova|
+|Mother|[Elena Chistova](chistova-elena-producer) <span id="a2">[\[2\]](#f2)</span>|
 |Husband|Oleg Zotkin (Promoter)|
 |Son|Egor Zotkin|
 
@@ -42,13 +33,17 @@ Photo: Anna Chistova  / Facebook
 
 + [One](index)
 + [Two](index)
-Chistova
-Agata Cristi (a Soviet band)
-Духless (the movie) 
++ Chistova
++ Agata Cristi (a Soviet band)
++ Духless (the movie)
 
 # Footnotes
 
-[[3]](#a3) <span id="f3"></span> [{{page.title}} (Facebook)](index)
+[[1]](#a1) <span id="f1"></span> [Анна Чистова (КиноПоиск)](https://www.kinopoisk.ru/name/2004249/)
+
+[[3]](#a3) <span id="f3"></span> [Продюсер Елена Чистова (Chistova.info)](http://chistova.info/biografiya)
+
+[[3]](#a3) <span id="f3"></span> [{{page.title}} (Facebook)](https://www.kinopoisk.ru/name/2004249/)
 
 [[4]](#a4) <span id="f4"></span> [{{page.title}} (Instagram)](index)
 
