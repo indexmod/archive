@@ -47,9 +47,10 @@ published: true
 
 # See also
 
-+ Nocuous Rift
-+ The Fueled Collective
-+ Gallery 151
++ [Anton Bundenko](bundenko-anton)
++ [Fueled Collective, The](index)
++ [Gallery 151](index)
++ [Nocuous Rift](index)
 
 
 # Footnotes
