@@ -4,42 +4,71 @@ permalink: samokhvalov-pavel-photographer
 layout: default
 ---
 
-# Samokhvalov, Pavel (photographer)
+# {{page.title}}
 
-(Est. 2013, city) is a subject, description-one <span id="a1">[\[1\]](#f1)</span>, description-two <span id="a2">[\[2\]](#f2)</span> description-three <span id="a3">[\[3\]](#f3)</span>, extra text. [Edit this page](http://prose.io/#indexmod/encyclopedia/edit/master/samokhvalov-pavel-photographer.md)
+(Est. 2013, city) is a ----------- <span id="a1">[\[1\]](#f1)</span>.
 
 ![](/encyclopedia/images/image-name.jpg)
 
-**Image caption title**
+**Image title**
 
-*Photo: [Photographer name](/photographer-name-page) / [Source name](/source-name-page)*
+*Photo: [Name](index) / [Source](index)*
 
-# Conspectus
+# {{page.title}} Conspectus
 
 |Year|City|
-|----|-----|
-|2014|Tokyo|
-|2015|Moscow|
-|2017|Paris|
+|-|-|
+|2017|Moscow|
+
+# {{page.title}} Indexmod
+
+|Year|Facebook|Instagram|YouTube|Age|Indexmod|
+|-|-|-|-|-|
+|2018|000 <span id="a3">[\[3\]](#f3)</span>|000 <span id="a4">[\[4\]](#f4)</span>|000 <span id="a5">[\[5\]](#f5)</span>|00|0,0000|
+
 
 # See also
 
-+ [See also title one](page-template)
-+ [See also title two](page-template)
-+ [See also title three](page-template)
++ [About {{page.title}}](index)
++ [{{page.title}} at Wikipedia](index)
 
 # Footnotes
 
-[[1]](#a1) <span id="f1"></span> [Article name short (Author name)](http://example.net/article)
+[[3]](#a3) <span id="f3"></span> [{{page.title}} (Facebook)](index)
 
-[[2]](#a2) <span id="f2"></span> [Article name little longer (Author name longer)](http://example.net/article)
+[[4]](#a4) <span id="f4"></span> [{{page.title}} (Instagram)](index)
 
-[[3]](#a3) <span id="f3"></span> [Article name longer so far (Author name too long and much longer)](http://example.net/article)
+[[5]](#a5) <span id="f5"></span> [{{page.title}} (YouTube)](index)
 
----
+Pavel Samokhvalov (Rus. Павел Самохвалов) born 1976, Moscow, is a Russian photographer, gif-artist and video-artist, “a glossy photographer who have decided to get out of comfort zone and transfer work from a static format to video”3, co-working of SBPCh 4 band, living and working in Moscow.1
 
-`Editorial`
 
-`Warnings`
 
-`Notes`
+Pavel Samokhvalov in 2016
+Photo: Paul Cmyk / Facebook
+
+
+Istanbul
+One of the latest works made under SBPCh brand is a “combination of gleaming 3D graphics and hypnotising sound layered with dialogues from old films and the narrator’s own diaries makes for an immersive journey into the universe created by both the SBPCh and Samokhvalov as a director.”4
+
+
+
+Fragments of commercial campaign Kaspersky Lab; Editorial for Mir magazine
+Photographer: Pavel Samokhvalov / Indexhibit
+Selected works
+ 2014, Istanbul, SBPCh, Moscow
+ 2015, Nelzya skazat koroche, Acid Noodles, Moscow
+See also
+Daniel Eatock
+Maria Pudan
+Mic Sachkov
+Fashion Film Digest
+Acid Noodles
+The Calvert Journal
+
+1, 2 To be specified
+3 Fashion Film Digest—Facebook
+4 Istanbul—The Calvert Journal
+
+
+`Updated Mar. 2018 (Andrei Dei)`
