@@ -21,8 +21,8 @@ published: true
 |Year|City|
 |-|-|
 |Mother|[Elena Chistova](chistova-elena-producer) <span id="a2">[\[2\]](#f2)</span>|
-|Ex-Husband|Gleb Samoilov (musisian)<span id="a2">[\[2\]](#f2)</span>|
-|Husband|Oleg Zotkin (Promoter)|
+|Ex-Husband|Gleb Samoilov (musisian)<span id="a3">[\[3\]](#f3)</span>|
+|Husband|Oleg Zotkin (promoter)|
 |Son|Egor Zotkin|
 
 
@@ -30,7 +30,7 @@ published: true
 
 |Year|Facebook|Instagram|YouTube|Age|IMD|
 |-|-|-|-|-|
-|2018|000 <span id="a3">[\[3\]](#f3)</span>|000 <span id="a4">[\[4\]](#f4)</span>|000 <span id="a4">[\[4\]](#f4)</span>|00|0,0000|
+|2018|000 <span id="a4">[\[4\]](#f4)</span>|000 <span id="a5">[\[5\]](#f5)</span>|000 <span id="a6">[\[6\]](#f6)</span>|00|0,0000|
 
 
 # See also
@@ -43,15 +43,15 @@ published: true
 
 [[1]](#a1) <span id="f1"></span> [Анна Чистова (КиноПоиск)](https://www.kinopoisk.ru/name/2004249/)
 
-[[2]](#a2) <span id="f2"></span> [Как Валерия Гай Германика породнила мир кинематографа, рок-музыки и бальных танцев (Woman Hit,
+[[2]](#a2) <span id="f2"></span> [Продюсер Елена Чистова (Chistova.info)](http://chistova.info/biografiya)
+
+[[3]](#a3) <span id="f3"></span> [Как Валерия Гай Германика породнила мир кинематографа, рок-музыки и бальных танцев (Woman Hit,
 Alevtina Letopisceva)](http://www.womanhit.ru/stars/interview/2017-09-08-kak-valerija-gaj-germanika-porodnila-mir-kinematografa-rok-muzyki-i-balnyh-tantsev/)
 
-[[3]](#a3) <span id="f3"></span> [Продюсер Елена Чистова (Chistova.info)](http://chistova.info/biografiya)
+[[4]](#a4) <span id="f4"></span> [{{page.title}} (Facebook)](https://www.kinopoisk.ru/name/2004249/)
 
-[[3]](#a3) <span id="f3"></span> [{{page.title}} (Facebook)](https://www.kinopoisk.ru/name/2004249/)
+[[5]](#a5) <span id="f5"></span> [{{page.title}} (Instagram)](index)
 
-[[4]](#a4) <span id="f4"></span> [{{page.title}} (Instagram)](index)
-
-[[5]](#a5) <span id="f5"></span> [{{page.title}} (YouTube)](index)
+[[5]](#a6) <span id="f6"></span> [{{page.title}} (YouTube)](index)
 
 `Updated Mar. 2018 (Andrei Dei)`
