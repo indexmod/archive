@@ -1,6 +1,6 @@
 ---
 title: Келли-Брант, Мегин Мари
-permalink: template
+permalink: kelly-brunt megyn-marie
 layout: default
 published: true
 ---
