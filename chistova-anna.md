@@ -8,16 +8,17 @@ layout: default
 
 (Rus. Анна Чистова, born. 1980, Ekaterinburg) Russian designer of evening dresses, costumes artist and actress <span id="a1">[\[1\]](#f1)</span>, co-founder ChistovaEndourova brand, founder and owner of [Chistova](chistova-clothes) brand. Anna also known as costume creator and stylist for «Духless» (2005) and «Духless 2» (2015).
 
-![](http://www.spletnik.ru/img/gallery/comthumb/932/20150514-stilhel-22.jpg)
+![](http://www.womanhit.ru/media/CACHE/images/dynasty/dinastii4_6bRa2As/18341685626b30ca1e4f2497cdeabd74.png)
 
-**Anna Chistova (right)**
-*Photo: [Unknown](index) / [HELLO!-2015](index)*
+**Anna Chistova and Gleb Samoilov**
+*Photo: [Gennadi Avramenko](avramenko-gennadi) / [Woman Hit](woman-hit)*
 
 # Private life of {{page.title}}
 
 |Year|City|
 |-|-|
 |Mother|[Elena Chistova](chistova-elena-producer) <span id="a2">[\[2\]](#f2)</span>|
+|Ex-Husband|Gleb Samoilov (musisian)<span id="a2">[\[2\]](#f2)</span>|
 |Husband|Oleg Zotkin (Promoter)|
 |Son|Egor Zotkin|
 
@@ -31,8 +32,6 @@ layout: default
 
 # See also
 
-+ [One](index)
-+ [Two](index)
 + [Chistova (clothes)](chistova-clothes)
 + [Agata Cristi (a Soviet band)](index)
 + [Духless (the movie)](index)
@@ -40,6 +39,9 @@ layout: default
 # Footnotes
 
 [[1]](#a1) <span id="f1"></span> [Анна Чистова (КиноПоиск)](https://www.kinopoisk.ru/name/2004249/)
+
+[[2]](#a2) <span id="f2"></span> [Как Валерия Гай Германика породнила мир кинематографа, рок-музыки и бальных танцев (Woman Hit,
+Alevtina Letopisceva)](http://www.womanhit.ru/stars/interview/2017-09-08-kak-valerija-gaj-germanika-porodnila-mir-kinematografa-rok-muzyki-i-balnyh-tantsev/)
 
 [[3]](#a3) <span id="f3"></span> [Продюсер Елена Чистова (Chistova.info)](http://chistova.info/biografiya)
 
