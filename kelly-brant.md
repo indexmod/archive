@@ -1,5 +1,5 @@
 ---
-title: Келли-Брант, Мегин Мари
+title: 'Келли-Брант, Мегин Мари'
 permalink: kelly-brunt-megyn-marie
 layout: default
 published: true
@@ -7,7 +7,7 @@ published: true
 
 # {{page.title}}
 
-(Eng. Megyn Marie Kelly-Brunt; Укр. Мегін Келлі, род. 1970, Шампейн) американская журналистка и телеведущая <span id="a1">[\[1\]](#f1)</span>.
+(Eng. Megyn Marie Kelly-Brunt; Укр. Мегін Келлі, род. 1970, Шампейн) американская журналистка и телеведущая, стала известна после интервью с Владимором Путиным, также известна в США поддержкой анти-ЛГБТ групп <span id="a1">[\[1\]](#f1)</span>.
 
 ![](https://media.toofab.com/2017/12/09/megyn-kelly-810x610.jpg)
 
