@@ -10,8 +10,8 @@ layout: default
 
 ![](http://www.spletnik.ru/img/gallery/comthumb/932/20150514-stilhel-22.jpg)
 
-**Anna Chistova at «Духless 2» premiere day**
-*Photo: [Name](index) / [HELLO!-2015](index)*
+**Anna Chistova (right)**
+*Photo: [Unknown](index) / [HELLO!-2015](index)*
 
 # Private life of {{page.title}}
 
@@ -33,9 +33,9 @@ layout: default
 
 + [One](index)
 + [Two](index)
-+ Chistova
-+ Agata Cristi (a Soviet band)
-+ Духless (the movie)
++ [Chistova (clothes)](chistova-clothes)
++ [Agata Cristi (a Soviet band)](index)
++ [Духless (the movie)](index)
 
 # Footnotes
 
