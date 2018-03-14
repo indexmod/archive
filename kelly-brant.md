@@ -7,38 +7,29 @@ published: true
 
 # {{page.title}}
 
-(Eng. Megyn Marie Kelly-Brunt; Укр. Мегін Келлі, род. 1970, Шампейн) американская журналистка и телеведущая, стала известна после интервью с Владимором Путиным, также известна в США поддержкой анти-ЛГБТ групп <span id="a1">[\[1\]](#f1)</span>.
+(Eng. Megyn Marie Kelly-Brunt; Укр. Мегін Келлі, род. 1970, Шампейн) американская журналистка и телеведущая стала изветстна в России после интервью с Дональдом Трампом и Владимиром Путиным, также известна в США поддержкой анти-ЛГБТ групп <span id="a1">[\[1\]](#f1)</span>.
 
 ![](https://media.toofab.com/2017/12/09/megyn-kelly-810x610.jpg)
 
 **Мегин Келли**
 
-*Photo: [Getty](index) / [Source](index)*
+*Photo: [Getty](getty) / [TooFab](toobab)*
 
-# {{page.title}} Conspectus
+# Избранные интервью {{page.title}} 
 
-|Year|City|
-|-|-|
-|2017|Moscow|
-
-# {{page.title}} Indexmod
-
-|Year|Facebook|Instagram|YouTube|Age|Indexmod|
-|-|-|-|-|-|
-|2018|000 <span id="a3">[\[3\]](#f3)</span>|000 <span id="a4">[\[4\]](#f4)</span>|000 <span id="a5">[\[5\]](#f5)</span>|00|0,0000|
+|Год|Герой|Город|
+|-|-|-|
+|2017|Дональд Трамп||
+|2018|Владимир Путин|Калининград|
 
 
 # See also
 
-+ [About {{page.title}}](index)
-+ [{{page.title}} at Wikipedia](index)
++ [О {{page.title}}](index)
++ [{{page.title}} из Википедии](index)
 
 # Footnotes
 
 [[1]](#a1) <span id="f1"></span> [Why GLAAD Ripped Megyn Kelly For 'Failing' the LGBTQ Community (TooFab)](http://toofab.com/2017/12/09/why-glaad-ripped-megyn-kelly-for-failing-the-lgbtq-community/)
-
-[[4]](#a4) <span id="f4"></span> [{{page.title}} (Instagram)](index)
-
-[[5]](#a5) <span id="f5"></span> [{{page.title}} (YouTube)](index)
 
 `Updated Mar. 2018 (Andrei Dei)`
