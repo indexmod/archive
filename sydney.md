@@ -4,43 +4,42 @@ permalink: sydney
 layout: default
 ---
 
-# Sydney
+# {{page.title}}
 
-
-(Est. 2013, city) is a subject, description-one <span id="a1">[\[1\]](#f1)</span>, description-two <span id="a2">[\[2\]](#f2)</span> description-three <span id="a3">[\[3\]](#f3)</span>, extra text.
+(Est. 2013, city) is the state capital of New South Wales and the most populous city in Australia and Oceania. Residents of Sydney are known as “Sydneysiders”. The population of Sydney at the time of the 2011 census was 4.39 million,1.5 million of which were born overseas, representing many different nationalities and making Sydney one of the most multicultural cities in the world. There are more than 250 different languages spoken in Sydney and about one-third of residents speak a language other than English at home. Sydney has a disproportionately large concentration of many of Australia's migrant communities, making it one of the world's most multicultural cities. <span id="a1">[\[1\]](#f1)</span>.
 
 ![](/encyclopedia/images/image-name.jpg)
 
-**Image caption title**
+**Image title**
+Ugg boots—sheepskin boot in Australia and New Zealand
+Photo: Snowball181 / Wikipedia
+*Photo: [Name](index) / [Source](index)*
 
-*Photo: [Photographer name](/photographer-name-page) / [Source name](/source-name-page)*
+# {{page.title}} Conspectus
 
-# Conspectus
+There is a significant concentration of foreign banks and multinational corporations in Sydney and the city is promoted as Asia Pacific's leading financial hub. In addition, to hosting events such as the 2000 Summer Olympics, millions of tourists come to Sydney each year to see the city's landmarks. Sydney is also a gateway to Australia for many international visitors. Its natural features include Sydney Harbour, the Royal National Park, Bondi Beach, and the Royal Botanic Gardens. Man-made attractions such as the Sydney Opera House and the Sydney Harbour Bridge are also well known to international visitors.
 
-|Year|City|
-|----|-----|
-|2014|Tokyo|
-|2015|Moscow|
-|2017|Paris|
+# {{page.title}} Indexmod
+
+|Year|Facebook|Instagram|YouTube|Age|Indexmod|
+|-|-|-|-|-|
+|2018|000 <span id="a3">[\[3\]](#f3)</span>|000 <span id="a4">[\[4\]](#f4)</span>|000 <span id="a5">[\[5\]](#f5)</span>|00|0,0000|
+
 
 # See also
 
-+ [See also title one](page-template)
-+ [See also title two](page-template)
-+ [See also title three](page-template)
++ [About {{page.title}}](index)
++ [{{page.title}} at Wikipedia](index)
+Australian Fashion Chamber
+Kylie Minogue
+Ugg boots
 
 # Footnotes
 
-[[1]](#a1) <span id="f1"></span> [Article name short (Author name)](http://example.net/article)
+[[3]](#a3) <span id="f3"></span> [{{page.title}} (Facebook)](index)
 
-[[2]](#a2) <span id="f2"></span> [Article name little longer (Author name longer)](http://example.net/article)
+[[4]](#a4) <span id="f4"></span> [{{page.title}} (Instagram)](index)
 
-[[3]](#a3) <span id="f3"></span> [Article name longer so far (Author name too long and much longer)](http://example.net/article)
+[[5]](#a5) <span id="f5"></span> [{{page.title}} (YouTube)](index)
 
----
-
-`Editorial`
-
-`Warnings`
-
-`Notes`
+`Updated Mar. 2018 (Andrei Dei)`

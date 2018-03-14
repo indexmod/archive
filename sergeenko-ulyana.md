@@ -6,7 +6,6 @@ layout: default
 
 # Sergeenko, Ulyana
 
-
 (Rus. Ульяна Сергеенко, born 1979, Ust'-Kamennogorsk) Russian fashion designer, founder and owner of the brand Ulyana Sergeenko, "the oligarch’s ex-wife who changed the way Russians dress" <span id="a1">[\[1\]](#f1)</span>, living in Moscow. [Edit this page](http://prose.io/#indexmod/encyclopedia/edit/master/sergeenko-ulyana.md)
 
 ![](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/908b1256271565.59a74e16318d4.jpg)

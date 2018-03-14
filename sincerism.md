@@ -4,45 +4,43 @@ permalink: sincerism
 layout: default
 ---
 
+# {{page.title}}
 
-
-# Sincerism
-
-
-(Est. 2013, city) is a subject, description-one <span id="a1">[\[1\]](#f1)</span>, description-two <span id="a2">[\[2\]](#f2)</span> description-three <span id="a3">[\[3\]](#f3)</span>, extra text.
+(Est. 2013, city) is a (Rus. Синсеризм) 1st dec. 00s, Moscow, is a term for vector in contemporary art evolution that follows after postmodernism. The term of Sincerism firstly was noted by Evgeny Stasenko. <span id="a1">[\[1\]](#f1)</span>.
 
 ![](/encyclopedia/images/image-name.jpg)
 
-**Image caption title**
+**Image title**
 
-*Photo: [Photographer name](/photographer-name-page) / [Source name](/source-name-page)*
+*Photo: [Name](index) / [Source](index)*
 
-# Conspectus
+# {{page.title}} Basic characteristics
+The lack of a unified style
+Sincerity
+Immediacy
+The subordination of form and content
+No frills and layers
+The impossibility of imitation
+Arts separated from creativity
+Each piece is self-sufficient
+Conversation of the author and the viewer
+Humanism
+Clear ethical position
 
 |Year|City|
-|----|-----|
-|2014|Tokyo|
-|2015|Moscow|
-|2017|Paris|
+|-|-|
+|2017|Moscow|
+
 
 # See also
 
-+ [See also title one](page-template)
-+ [See also title two](page-template)
-+ [See also title three](page-template)
++ [About {{page.title}}](index)
++ [{{page.title}} at Wikipedia](index)
+Postmodernism
+Modernism
 
 # Footnotes
 
-[[1]](#a1) <span id="f1"></span> [Article name short (Author name)](http://example.net/article)
+[[1]](#a1) <span id="f1"></span> [Авгиевы конюшни нашего времени (Сноб, Евгений Стасенко)](https://snob.ru/profile/29066/blog/85052)
 
-[[2]](#a2) <span id="f2"></span> [Article name little longer (Author name longer)](http://example.net/article)
-
-[[3]](#a3) <span id="f3"></span> [Article name longer so far (Author name too long and much longer)](http://example.net/article)
-
----
-
-`Editorial`
-
-`Warnings`
-
-`Notes`
+`Updated Mar. 2018 (Andrei Dei)`

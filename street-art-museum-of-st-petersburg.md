@@ -4,42 +4,72 @@ permalink: street-art-museum-of-st-petersburg
 layout: default
 ---
 
-# Street Art Museum of St. Petersburg
+# {{page.title}}
 
-(Est. 2013, city) is a subject, description-one <span id="a1">[\[1\]](#f1)</span>, description-two <span id="a2">[\[2\]](#f2)</span> description-three <span id="a3">[\[3\]](#f3)</span>, extra text.
+(Est. 2013, city) is a Street Art Museum (Street Art Museum of St. Petersburg; Rus. Музей уличного искусства в Санкт Петербурге), is a private institution established in 2012 by Dmitry Zaitsev Chairman of the Advisory Board of the Museum1, a contemporary cultural phenomenon2 of the suburban Krasnogvardeyskiy area of St. Petersburg is divided into two separate zones “Permanent exposition” and “Open public space” <span id="a1">[\[1\]](#f1)</span>.
 
-![](/encyclopedia/images/image-name.jpg)
+![](/encyclopedia/images/street-art.jpg)
 
-**Image caption title**
+**Image title**
 
-*Photo: [Photographer name](/photographer-name-page) / [Source name](/source-name-page)*
+Zavod Sloistykh Plastikov court in 2013 (a work on photo is not presented at this moment)
+Photo: Street Art Museum / Superfuture
 
-# Conspectus
+*Photo: [Name](index) / [Source](index)*
+
+# {{page.title}} Permanent exposition
+Retreat (2012) Akue
+Vortex (2012) Arseny Sergeyev
+Conversation (2012) Alexey Luchko (Luka)
+On the Road (2012) Maxim Revansh
+Sometimes Yes, Sometimes No (2012) Kirill Kto
+Art Interventions (2012) Escif
+Whole (2012) Nikita Nomerz
+Untitled (2012) Ilya Blinov (Slak)
+
+
+# Excursions in 2015
+ Mo 	 Tu 	 We 	 Th	 Fr	 Sa	 Su
+ 	 	 	 	 	 	 13:00  
+ 	 	 	 	 	 	 250₽
+
+             Excursions are held every Sunday in groups (up to 25 persons), gathering group at the entrance of the Zavod Sloistykh Plastikov on the Uman side street.3
+
+             * Payment in cash to a tour guide
 
 |Year|City|
-|----|-----|
-|2014|Tokyo|
-|2015|Moscow|
-|2017|Paris|
+|-|-|
+|2017|Moscow|
+
+# Activities
+
+The museum deals with the educational activities in cooperation with the Russian Museum, St. Petersburg State University and the Youth Center of the Hermitage with lectures, discussions and meetings, as well as master classes by foreign researchers: Rafael Schacter, Peter Bengtsen and Evert Verhagen.
+
+# {{page.title}} Indexmod
+
+|Year|Facebook|Instagram|YouTube|Age|Indexmod|
+|-|-|-|-|-|
+|2018|000 <span id="a3">[\[3\]](#f3)</span>|000 <span id="a4">[\[4\]](#f4)</span>|000 <span id="a5">[\[5\]](#f5)</span>|00|0,0000|
+
 
 # See also
 
-+ [See also title one](page-template)
-+ [See also title two](page-template)
-+ [See also title three](page-template)
++ [About {{page.title}}](index)
++ [{{page.title}} at Wikipedia](index)
+Aurora Fashion Week
+Amsterdam Street Art
+DIY
+Russian Museum
+Saint Petersburg
 
 # Footnotes
 
-[[1]](#a1) <span id="f1"></span> [Article name short (Author name)](http://example.net/article)
+[[1]](#a1) <span id="f1"></span> [“St. Petersburg: Street Art Museum opening”(Superfuture)](https://superfuture.com/supernews/st-petersburg-street-art-museum-opening)
 
-[[2]](#a2) <span id="f2"></span> [Article name little longer (Author name longer)](http://example.net/article)
+[[3]](#a3) <span id="f3"></span> [{{page.title}} (Facebook)](https://superfuture.com/supernews/st-petersburg-street-art-museum-opening)
 
-[[3]](#a3) <span id="f3"></span> [Article name longer so far (Author name too long and much longer)](http://example.net/article)
+[[4]](#a4) <span id="f4"></span> [{{page.title}} (Instagram)](index)
 
----
+[[5]](#a5) <span id="f5"></span> [{{page.title}} (YouTube)](index)
 
-`Editorial`
-
-`Warnings`
-
-`Notes`
+`Updated Mar. 2018 (Andrei Dei)`

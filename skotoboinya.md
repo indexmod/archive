@@ -6,15 +6,18 @@ layout: default
 
 # {{page.title}}
 
-(Est. 2013, city)
-
-description
-
-<span id="a1">[\[1\]](#f1)</span>.
+(Est. 2013, city) is a (Rus. Скотобойня for “slaughterhouse”)—the 90s-inspired, “new rave” party in Moscow in 2015, or a “rave-themed dress up party” with wild atmosphere1 founded by Kira Borisova and Viktor Eroshenko known earlier as founders of Withchout (VV17CHØU7) party <span id="a1">[\[1\]](#f1)</span>.
 
 ![](/encyclopedia/images/image-name.jpg)
 
 **Image title**
+A “new raver”
+Photo: Sasha Mademuaselle / Mademuasellediary
+
+
+Skotoboinya announcement poster for party of 10th October 2015
+Photo: W17chøu7 / Facebook
+
 
 *Photo: [Name](index) / [Source](index)*
 
@@ -22,22 +25,29 @@ description
 
 |Year|City|
 |-|-|
-|2014|Tokyo|
-|2017|Paris|
+|2017|Moscow|
 
 # {{page.title}} Indexmod
 
-|Year|Facebook|Instagram|YouTube|Age|IMD|
+|Year|Facebook|Instagram|YouTube|Age|Indexmod|
 |-|-|-|-|-|
-|2018|100 <span id="a3">[\[3\]](#f3)</span>|200 <span id="a4">[\[4\]](#f4)</span>|300 <span id="a4">[\[4\]](#f4)</span>|12|0,0025|
+|2018|000 <span id="a3">[\[3\]](#f3)</span>|000 <span id="a4">[\[4\]](#f4)</span>|000 <span id="a5">[\[5\]](#f5)</span>|00|0,0000|
 
 
 # See also
 
-+ [One](index)
-+ [Two](index)
++ [About {{page.title}}](index)
++ [{{page.title}} at Wikipedia](index)
+Gabber
+Gosha Rubchinskiy
+Hood by Air
+Palace
+Sasha Mademuaselle
+SupremeWithchout
 
 # Footnotes
+
+[“Documenting a rising new rave scene in Moscow” at Dazeddigital](http://www.dazeddigital.com/photography/article/26313/1/gabber-raves-new-rave-scene-in-moscow-sasha-mademuaselle)
 
 [[3]](#a3) <span id="f3"></span> [{{page.title}} (Facebook)](index)
 
