@@ -1,7 +1,8 @@
 ---
-title: Chistova, Anna
+title: 'Chistova, Anna'
 permalink: chistova-anna
 layout: default
+published: true
 ---
 
 # {{page.title}}
@@ -11,6 +12,8 @@ layout: default
 ![](http://www.womanhit.ru/media/CACHE/images/dynasty/dinastii4_6bRa2As/18341685626b30ca1e4f2497cdeabd74.png)
 
 **Anna Chistova and Gleb Samoilov**
+
+
 *Photo: [Gennadi Avramenko](avramenko-gennadi) / [Woman Hit](woman-hit)*
 
 # Private life of {{page.title}}
