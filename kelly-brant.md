@@ -25,8 +25,12 @@ published: true
 
 # See also
 
-+ [О {{page.title}}](index)
-+ [{{page.title}} из Википедии](index)
++ [Болен, Диттер](index)
++ [Джексон, Майкл](index)
++ [Дмитренко, Леора](index)
++ [Мадонна](index)
++ [Ярошенко, Анна](index)
+
 
 # Footnotes
 
