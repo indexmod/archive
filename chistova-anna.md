@@ -18,7 +18,7 @@ published: true
 
 # Private life of {{page.title}}
 
-|Year|City|
+|Relatives|Name|
 |-|-|
 |Mother|[Elena Chistova](chistova-elena-producer) <span id="a2">[\[2\]](#f2)</span>|
 |Ex-Husband|Gleb Samoilov (musisian)<span id="a3">[\[3\]](#f3)</span>|
