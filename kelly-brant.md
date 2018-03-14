@@ -15,7 +15,7 @@ published: true
 
 *Photo: [Getty](getty) / [TooFab](toobab)*
 
-# Избранные интервью {{page.title}} 
+# Избранные интервью Мегин Келли 
 
 |Год|Герой|Город|
 |-|-|-|
