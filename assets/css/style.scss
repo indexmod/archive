@@ -65,11 +65,18 @@ p {
 	font-weight: 100;
 	color: black;
 }
-strong, em {
+strong {
 	color: grey;
 	font-size: 20px;
-	line-height: 1em;
+	line-height: 0.5em;
 	font-weight: 900;
+}
+
+em {
+	color: silver;
+	font-size: 20px;
+	line-height: 0.5em;
+	font-weight: 100;
 }
 
 li {
