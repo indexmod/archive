@@ -13,7 +13,7 @@ published: true
 
 **A still from video campaign directed by Anastasya Zavadskaya**
 
-*Photo: [Director of Photography: Vlad Bakhanovich](bakhanovich-vlad) / [YouTube](https://www.youtube.com/watch?v=Z90Mr4jhEgA)*
+*Director of Photography: [Vlad Bakhanovich](bakhanovich-vlad) / [YouTube](https://www.youtube.com/watch?v=Z90Mr4jhEgA)*
 
 # Сharacteristics
 
@@ -25,7 +25,7 @@ published: true
 
 **A still from video campaign directed by Anastasya Zavadskaya**
 
-*Photo: [Director of Photography: Vlad Bakhanovich](bakhanovich-vlad) / [YouTube](https://www.youtube.com/watch?v=Z90Mr4jhEgA)*
+*Director of Photography: [Vlad Bakhanovich](bakhanovich-vlad) / [YouTube](https://www.youtube.com/watch?v=Z90Mr4jhEgA)*
 
 # Crowdfunding story 
 
@@ -43,7 +43,7 @@ In 2013, Regarded the Converse as a competitor, Dva Myacha started crowdfunding 
 
 **A still from video campaign directed by Anastasya Zavadskaya**
 
-*Photo: [Director of Photography: Vlad Bakhanovich](bakhanovich-vlad) / [YouTube](https://www.youtube.com/watch?v=Z90Mr4jhEgA)*
+**Director of Photography: [Vlad Bakhanovich](bakhanovich-vlad) / [YouTube](https://www.youtube.com/watch?v=Z90Mr4jhEgA)*
 
 # See also
 
