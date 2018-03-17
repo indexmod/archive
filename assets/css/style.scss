@@ -65,12 +65,13 @@ p {
 	font-weight: 100;
 	color: black;
 }
-strong {
+strong, em {
 	color: grey;
+	font-size: 20px;
+	line-height: 1em;
+	font-weight: 900;
 }
-em {
-	color: grey;
-}
+
 li {
 	font-family: 'Georgia', serif;
 	font-size: 24px;
