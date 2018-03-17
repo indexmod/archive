@@ -6,7 +6,7 @@ layout: default
 
 # {{page.title}}
 
-(Est. 2013, city) is a ----------- <span id="a1">[\[1\]](#f1)</span>.
+(Est. 2013, city) is a J. Kim 64 SNC est, 19??, in ??—is a Russian brand person working and living in Moscow <span id="a1">[\[1\]](#f1)</span>.
 
 ![](/encyclopedia/images/image-name.jpg)
 
@@ -31,6 +31,10 @@ layout: default
 
 + [About {{page.title}}](index)
 + [{{page.title}} at Wikipedia](index)
+(062) Cyrille Gassiline
+(064) Oleg Ovsiev
+SNC 100 MIPRF
+Masterpease by J. Kim
 
 # Footnotes
 

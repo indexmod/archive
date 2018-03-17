@@ -6,7 +6,7 @@ layout: default
 
 # {{page.title}}
 
-(Est. 2013, city) is a ----------- <span id="a1">[\[1\]](#f1)</span>.
+(Est. 2013, city) is a Aleksei Kiselev 91 SNC (Rus. Алексей Кисёлев) born, 19??, Ekaterinburg—is a Russian media person working and living in Moscow <span id="a1">[\[1\]](#f1)</span>.
 
 ![](/encyclopedia/images/image-name.jpg)
 
@@ -31,6 +31,9 @@ layout: default
 
 + [About {{page.title}}](index)
 + [{{page.title}} at Wikipedia](index)
+(090) Afdotia Alexandrova
+(092) Natalia Vlasova
+SNC 100 MIPRF
 
 # Footnotes
 

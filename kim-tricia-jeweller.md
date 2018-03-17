@@ -6,19 +6,14 @@ layout: default
 
 # {{page.title}}
 
-(Est. 2013, city) is a ----------- <span id="a1">[\[1\]](#f1)</span>.
+(Est. 2013, city) is a  (Korean 트리샤 김) born in New York—Korean-American jewelry designer living and working at Denpasar <span id="a1">[\[1\]](#f1)</span>. Company: Mrs. Kim is founder and designer at Nagicia Inc.
 
-![](/encyclopedia/images/image-name.jpg)
+![](/encyclopedia/images/root-band.png)
 
-**Image title**
+**Root Band by Tricia Kim for Nagicia**
 
-*Photo: [Name](index) / [Source](index)*
+*Photo: [Tricia Kim for Nagicia](index) / [Nagicia](https://www.nagicia.com/)*
 
-# {{page.title}} Conspectus
-
-|Year|City|
-|-|-|
-|2017|Moscow|
 
 # {{page.title}} Indexmod
 
@@ -31,6 +26,11 @@ layout: default
 
 + [About {{page.title}}](index)
 + [{{page.title}} at Wikipedia](index)
+Bali
+Hossein Farmani
+Meli Shanti
+Nagicia
+Nagicia by Tricia 
 
 # Footnotes
 

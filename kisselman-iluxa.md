@@ -6,12 +6,13 @@ layout: default
 
 # {{page.title}}
 
-(Est. 2013, city) is a ----------- <span id="a1">[\[1\]](#f1)</span>.
+(Est. 2013, city) is Iluxa Kisselman (Rus. Илья Киссельман) born 1973, Moscow—Russian artist, art director, working with a number of technics from pencil graphics to video and animation, a graduate of Moscow Architectural Institute, founder and teacher of the Kisselman Studio <span id="a1">[\[1\]](#f1)</span>.
 
 ![](/encyclopedia/images/image-name.jpg)
 
 **Image title**
-
+Composition Nr. 17 from Micrografika project
+Pen graphics: Iluxa Kisselman / Behance
 *Photo: [Name](index) / [Source](index)*
 
 # {{page.title}} Conspectus
@@ -31,6 +32,10 @@ layout: default
 
 + [About {{page.title}}](index)
 + [{{page.title}} at Wikipedia](index)
+Dom Shaliapina
+Kisselman Studio
+Sergei Pogosian
+Petra-Ivana Babushkina
 
 # Footnotes
 

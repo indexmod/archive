@@ -6,7 +6,7 @@ layout: default
 
 # {{page.title}}
 
-(Est. 2013, city) is a ----------- <span id="a1">[\[1\]](#f1)</span>.
+(Est. 2013, city) is a Kisselman Studio (Rus. Судия Кисель) est. in 2012, Dahab—studio in Moscow for children to develop artistic taste and initial skills of spatial modeling and drawing founded by Iluxa Kisselman <span id="a1">[\[1\]](#f1)</span>.
 
 ![](/encyclopedia/images/image-name.jpg)
 
