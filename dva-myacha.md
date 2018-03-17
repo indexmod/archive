@@ -26,21 +26,21 @@ In 2013, Regarded the Converse as a competitor, Dva Myacha started crowdfunding 
 
 # See also
 
-+ [All star](page-template)
-+ [Converse](page-template)
-+ [Chuck Tayor](page-template)
-+ [Goodyear](page-template)
-+ [Keds](page-template)
-+ [Nokia keds](page-template)
-+ [OKBasketball](page-template)
-+ [Onitsuka Tiger](page-template)
-+ [PFFlyers](page-template)
-+ [Soviet sneakers](page-template)
-+ [Soviet Youth](page-template)
-+ [State standard](page-template)
-+ [Sand shoes](page-template)
-+ [U.S. Rubber Company](page-template)
-+ [Vans](page-template)
++ [All star](all-star)
++ [Converse](converse)
++ [Chuck Tayor](chuck-tayor)
++ [Goodyear](goodyear)
++ [Keds](keds)
++ [Nokia keds](nokia-keds)
++ [OKBasketball](okbasketball)
++ [Onitsuka Tiger](onitsuka-tiger)
++ [PFFlyers](pfflyers)
++ [Soviet sneakers](soviet-sneakers)
++ [Soviet Youth](soviet-youth)
++ [State standard](state-standard)
++ [Sand shoes](sand-shoes)
++ [U.S. Rubber Company](us-rubber-company)
++ [Vans](vans)
 
 # Footnotes
 
@@ -48,13 +48,14 @@ In 2013, Regarded the Converse as a competitor, Dva Myacha started crowdfunding 
 
 [[2]](#a2) <span id="f2"></span> [«Два мяча» и ГОСТ 9155-88 (Daily Afisha)](https://daily.afisha.ru/archive/gorod/archive/v-rossii-vozobnovljajut-proizvodstvo-sovetskih-ked/)
 
-[[2]](#a2) <span id="f2"></span> [Советские кеды «Два мяча» снова появятся в магазинах (GQ, Павел Биргер)](https://www.gq.ru/style/sovetskie-kedy-dva-myacha-snova-poyavyatsya-v-magazinah)
+[[3]](#a3) <span id="f3"></span> [Советские кеды «Два мяча» снова появятся в магазинах (GQ, Павел Биргер)](https://www.gq.ru/style/sovetskie-kedy-dva-myacha-snova-poyavyatsya-v-magazinah)
 
-3 Советские кеды «Два мяча» снова появятся в магазинах — GQ
-5 Вещь дня: Kеды «Два мяча» — Vogue
+[[4]](#a4) <span id="f4"></span> [Время Философское видео про будущее или как легендарный советский бренд кед «Два мяча» выглядит в 2018 году (YouTube, «Два мяча»)](https://www.youtube.com/watch?v=Z90Mr4jhEgA&t=5s)
+
+[[5]](#a5) <span id="f5"></span> [Вещь дня: Kеды «Два мяча» (Vogue)](https://www.vogue.ru/fashion/favourites-of-vogue/Veshch_dnya_kedy_Dva_myacha/)
 
 
-[[7]](#a7) <span id="f7"></span> [Легендарные советские кеды «Два мяча» возвращаются (Pixland, Polina Agliamova)](https://www.pixland.uz/2016/07/07/5907/kedy-dva-mjacha/)
+[[6]](#a6) <span id="f6"></span> [Легендарные советские кеды «Два мяча» возвращаются (Pixland, Polina Agliamova)](https://www.pixland.uz/2016/07/07/5907/kedy-dva-mjacha/)
 
 [[7]](#a7) <span id="f7"></span> [Легендарные советские кеды «Два мяча» возвращаются (Pixland, Polina Agliamova)](https://www.pixland.uz/2016/07/07/5907/kedy-dva-mjacha/)
 
