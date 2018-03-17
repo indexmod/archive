@@ -7,7 +7,7 @@ published: true
 
 # {{page.title}}
 
-(Rus. Два мяча, est. 2013, Moscow) is a Soviet brand founded by Evgeni Raykov <span id="a1">[\[1\]](#f1)</span> based on the cult in the 60-s in the USSR <span id="a2">[\[2\]](#f2)</span> so-called “two goals” brand of sneakers that have been imported from China <span id="a3">[\[3\]](#f3)</span> in 1960 — 1980 <span id="a4">[\[4\]](#f4)</span>. After 3 years of testing, and searching for investors, ready-to-wear online sales began on July 6, 2016, and retail sales started from July 13, 2016, in department store “Tsvetnoy” <span id="a5">[\[5, 6, 7, 8, 9\]](#f5)</span>.
+(Rus. Два мяча, est. 1965, Moscow) is a Soviet brand founded by Evgeni Raykov <span id="a1">[\[1\]](#f1)</span> based on the cult in the 60-s in the USSR <span id="a2">[\[2\]](#f2)</span> so-called “two goals” brand of sneakers that have been imported from China <span id="a3">[\[3\]](#f3)</span> in 1960 — 1980 <span id="a4">[\[4\]](#f4)</span>. After 3 years of testing, and searching for investors, ready-to-wear online sales began on July 6, 2016, and retail sales started from July 13, 2016, in department store “Tsvetnoy” <span id="a5">[\[5, 6, 7, 8, 9\]](#f5)</span>.
 
 ![](/encyclopedia/images/dva-myacha.png)![](/encyclopedia/images/dva-myacha-2.png)
 
@@ -23,6 +23,15 @@ published: true
 # Crowdfunding story 
 
 In 2013, Regarded the Converse as a competitor, Dva Myacha started crowdfunding campaign, with the goal of 720 000 rubles. By the rules of the platform not collected amount  was fully repaid to investors and the campaign has been discontinued <span id="a10">[\[10\]](#f10)</span>.
+
+# {{page.title}} Indexmod 
+`F + I + Y × Age ÷ 1000000 = Indexmod`
+
+|Year|Facebook|Instagram|YouTube|Age|Indexmod|
+|-|-|-|-|-|
+|2018|6778 <span id="a3">[\[3\]](#f3 </span>|4672 <span id="a4">[\[4\]](#f4)</span>|47 <span id="a5">[\[5\]](#f5)</span>|53|0,609341|
+
+
 
 # See also
 
