@@ -29,18 +29,16 @@ published: true
 
 In 2013, Regarded the Converse as a competitor, Dva Myacha started crowdfunding campaign, with the goal of 720 000 rubles. By the rules of the platform not collected amount  was fully repaid to investors and the campaign has been discontinued <span id="a10">[\[10\]](#f10)</span>.
 
-# {{page.title}} Indexmod*
-
-
-
-|Year|Facebook|Instagram|YouTube|Age|Indexmod|
-|-|-|-|-|-|
-|2018|6778 <span id="a11">[\[11\]](#f11) </span>|4672 <span id="a12">[\[12\]](#f12)</span>|47 <span id="a13">[\[13\]](#f13)</span>|53|0,609341|
-
 ![](/encyclopedia/images/dva-myacha-2.png)
 
 **A still from video campaign directed by Anastasya Zavadskaya**
 *Photo: [Director of Photography: Vlad Bakhanovich](bakhanovich-vlad) / [YouTube](https://www.youtube.com/watch?v=Z90Mr4jhEgA)*
+
+# {{page.title}} Indexmod*
+
+|Year|Facebook|Instagram|YouTube|Age|Indexmod|
+|-|-|-|-|-|
+|2018|6778 <span id="a11">[\[11\]](#f11) </span>|4672 <span id="a12">[\[12\]](#f12)</span>|47 <span id="a13">[\[13\]](#f13)</span>|53|0,609341|
 
 # See also
 
