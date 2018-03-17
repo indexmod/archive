@@ -26,34 +26,30 @@ In 2013, Regarded the Converse as a competitor, Dva Myacha started crowdfunding 
 
 # See also
 
-+ [See also title one](page-template)
-+ [See also title two](page-template)
-+ [See also title three](page-template)
-+ All star
-+ Converse
-+ Chuck Tayor
-+ Goodyear
-+ Keds
-+ Nokia keds
-+ OKBasketball
-+ Onitsuka Tiger
-+ PFFlyers
-+ Soviet sneakers
-+ Soviet Youth
-+ State standard
-+ Sand shoes
-+ U.S. Rubber Company
-+ Vans
++ [All star](page-template)
++ [Converse](page-template)
++ [Chuck Tayor](page-template)
++ [Goodyear](page-template)
++ [Keds](page-template)
++ [Nokia keds](page-template)
++ [OKBasketball](page-template)
++ [Onitsuka Tiger](page-template)
++ [PFFlyers](page-template)
++ [Soviet sneakers](page-template)
++ [Soviet Youth](page-template)
++ [State standard](page-template)
++ [Sand shoes](page-template)
++ [U.S. Rubber Company](page-template)
++ [Vans](page-template)
 
 # Footnotes
 
 [[1]](#a1) <span id="f1"></span> [Кеды: история самой простой спортивной обуви в мире и СССР (Furfur)](http://www.furfur.me/furfur/culture/culture/164015-kedy-sovok-dva-myacha)
 
-[[2]](#a2) <span id="f2"></span> [Article name little longer (Author name longer)](http://example.net/article)
+[[2]](#a2) <span id="f2"></span> [«Два мяча» и ГОСТ 9155-88 (Daily Afisha)](https://daily.afisha.ru/archive/gorod/archive/v-rossii-vozobnovljajut-proizvodstvo-sovetskih-ked/)
 
+[[2]](#a2) <span id="f2"></span> [Советские кеды «Два мяча» снова появятся в магазинах (GQ, Павел Биргер)](https://www.gq.ru/style/sovetskie-kedy-dva-myacha-snova-poyavyatsya-v-magazinah)
 
-1 Кеды: история самой простой спортивной обуви в мире и СССР — Furfur
-2 «Два мяча» и ГОСТ 9155-88 — Афиша Daily
 3 Советские кеды «Два мяча» снова появятся в магазинах — GQ
 5 Вещь дня: Kеды «Два мяча» — Vogue
 
