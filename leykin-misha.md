@@ -6,7 +6,7 @@ layout: default
 
 # {{page.title}}
 
-(Est. 2013, city) is a --------- <span id="a1">[\[1\]](#f1)</span>.
+(Est. 2013, city) is a Misha Leykin (Rus. Миша Лейкин) born 1968—a Russian architect, member of Iced Architects, graduate Moscow Architectural Institute.1 Login to edit Misha Leykin <span id="a1">[\[1\]](#f1)</span>.
 
 ![](/encyclopedia/images/image-name.jpg)
 
@@ -31,6 +31,8 @@ layout: default
 
 + [About {{page.title}}](index)
 + [{{page.title}} at Wikipedia](index)
+Iced Architects
+Mishmash
 
 # Footnotes
 

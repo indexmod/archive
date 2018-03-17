@@ -7,12 +7,13 @@ layout: default
 
 # {{page.title}}
 
-(Est. 2013, city) is a --------- <span id="a1">[\[1\]](#f1)</span>.
+(Est. 2013, city) is a Leform; Le Form; LEFORM (Rus. Леформ) est. 1997, Moscow—is an oldest multibrand conceptual store in Russia founded by Rodion Mamontov1 at Povarskaya street in Moscow. At the beginning of 2016, Leform is a chain of 3 stores including new flagship men's and women's store at 7 Dmitrovsky pereulok and the 17th kilometer from MKAD on Dmitrovskoye Shosse in an area of Kashtanovaya Roshcha in Moscow region2. Sign in to edit Leform <span id="a1">[\[1\]](#f1)</span>.
 
-![](/encyclopedia/images/image-name.jpg)
+![](/encyclopedia/images/leform.jpg)
 
 **Image title**
-
+Party during presentation Nina Donis SS16 collection at Leform flagship store at Dmitrovsky pereulok
+Photo: Andrei Gurotesuku / Indexmod Encyclopedia
 *Photo: [Name](index) / [Source](index)*
 
 # {{page.title}} Conspectus
@@ -32,6 +33,14 @@ layout: default
 
 + [About {{page.title}}](index)
 + [{{page.title}} at Wikipedia](index)
+Gosha Gazinskaya
+Nina Donis
+Rodion Mamontov
+Tom Amelin
+Aliona Doletskaya
+Dirk Bickembergs
+Dries Van Noten
+Martin Margiela
 
 # Footnotes
 
