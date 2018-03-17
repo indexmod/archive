@@ -1,18 +1,16 @@
 ---
-title: Kurbanov, Ramil
-permalink: kurbanov-ramil
+title: Irina Kurbatova
+permalink: kurbatova-irina
 layout: default
 ---
-
-
 # {{page.title}}
 
-(Est. 2013, city) is a Ramil Kurbanov 15 SNC (Rus. Рамиль Курбанов) born, 1962 Kazan—is a Tatarstan businessman, founder of VIP Group, working and living in Kazan.  <span id="a1">[\[1\]](#f1)</span>.
+(Est. 2013, city) -------- <span id="a1">[\[1\]](#f1)</span>.
 
-![](/encyclopedia/images/kurbanov.jpg)
+![](https://st.peopletalk.ru/wp-content/uploads/2016/08/I85A8338-1.jpg)
 
 **Image title**
-Ramil Kurbanov in 2105
+Lina Kurbanova in 2015
 Photo: Giorgi Kardava / Peopletalk
 *Photo: [Name](index) / [Source](index)*
 
@@ -33,13 +31,6 @@ Photo: Giorgi Kardava / Peopletalk
 
 + [About {{page.title}}](index)
 + [{{page.title}} at Wikipedia](index)
-+ Vika Gazinskaya
-+ Lina Kurbanova
-+ SNC 100 MIPRF
-+ Vip Group
-+ A La Russe
-+ Alexander Terekhov
-+ Masterpece
 
 # Footnotes
 

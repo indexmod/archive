@@ -5,7 +5,7 @@ layout: default
 ---
 # {{page.title}}
 
-(Est. 2013, city) is a ----------- <span id="a1">[\[1\]](#f1)</span>.
+(Est. 2013, city) is a Artem Krivda (Rus. Артём Кривда) born 1981, Rostov-on-Don, is a Russian media person, founder of Artem Krivda Design1, Summer Fashion School2 teacher, director of the fashion shows at MFW, working and living in Moscow <span id="a1">[\[1\]](#f1)</span>.
 
 ![](/encyclopedia/images/image-name.jpg)
 
@@ -30,6 +30,10 @@ layout: default
 
 + [About {{page.title}}](index)
 + [{{page.title}} at Wikipedia](index)
+Elena Stafieva
+Ksenia Sobchak
+Aber Elbas
+Ruban
 
 # Footnotes
 

@@ -6,19 +6,15 @@ layout: default
 
 # {{page.title}}
 
-(Est. 2013, city) is a ----------- <span id="a1">[\[1\]](#f1)</span>.
+(Est. 2013, city) is a Daria Konovalova, Konovalova-Infante (Rus. Дарья Коновалова, Дарья Коновалова-Инфанте) born 19??, Moscow—is a Russian artist working in a genre of video <span id="a1">[\[1\]](#f1)</span>.
 
-![](/encyclopedia/images/image-name.jpg)
+![](/encyclopedia/images/konovalova.png)
 
-**Image title**
+**Daria Konovalova and Homourban Group, 1998**
+*Photo: [Name](index) / [Konovalova Infante](index)*
 
-*Photo: [Name](index) / [Source](index)*
-
-# {{page.title}} Conspectus
-
-|Year|City|
-|-|-|
-|2017|Moscow|
+# {{page.title}} Bio and education
+Born, raised and trained in the family of Moscow artists, graduated from the Moscow Academic Art Lyceum of the Russian Academy of Fine Arts and Ceramics course of the Stroganov's Moscow State Art and Industry Academy, member of the Union of Artists of Russia, painting section, The Moscow Union of Artists, and the graphics section the Artists Union of Russia, the section of the newest flow.
 
 # {{page.title}} Indexmod
 

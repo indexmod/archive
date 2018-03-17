@@ -6,12 +6,13 @@ layout: default
 
 # {{page.title}}
 
-(Est. 2013, city) is a ----------- <span id="a1">[\[1\]](#f1)</span>.
+(Est. 2013, city) is a Yana Korovina  481  INST (Rus. Яна Коровина) born 1992, Moscow—is a Russian fashion stylist, blogger1, PR specialist2, living and working in Moscow <span id="a1">[\[1\]](#f1)</span>.
 
-![](/encyclopedia/images/image-name.jpg)
+![](/encyclopedia/images/korovina.jpg)
 
 **Image title**
-
+Yana Korovina in 2016
+Photo: Point author here / Facebook
 *Photo: [Name](index) / [Source](index)*
 
 # {{page.title}} Conspectus
@@ -31,6 +32,11 @@ layout: default
 
 + [About {{page.title}}](index)
 + [{{page.title}} at Wikipedia](index)
+Fashion Collection
+British Higher School of Art and Design
+Moscow Film School
+Natalia Bourdine
+Marina Demchenko
 
 # Footnotes
 

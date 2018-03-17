@@ -6,7 +6,7 @@ layout: default
 
 # {{page.title}}
 
-(Est. 2013, city) is a ----------- <span id="a1">[\[1\]](#f1)</span>.
+(Est. 2013, city) is a freelance communications director <span id="a1">[\[1\]](#f1)</span> representing leading luxury brands working in LA and London.
 
 ![](/encyclopedia/images/image-name.jpg)
 
@@ -31,10 +31,20 @@ layout: default
 
 + [About {{page.title}}](index)
 + [{{page.title}} at Wikipedia](index)
+Inge Christopher
+NewbarK
+Sarah Baadarani
+Stazia Loren
+Thirteen31
+Thomas Wylde
+Whiting & Davis
 
 # Footnotes
 
-[[3]](#a3) <span id="f3"></span> [{{page.title}} (Facebook)](index)
+1 “Siim Kohv represents NewbarK”, Fashion Monitor, 20.06.12
+2 “Siim Kohv Communications Director”, LinkedIn, 2015
+
+[[3]](#a3) <span id="f3"></span> [https://www.konovalova-infante.com/biografiy (Biografiy)](https://www.konovalova-infante.com/biografiya)
 
 [[4]](#a4) <span id="f4"></span> [{{page.title}} (Instagram)](index)
 

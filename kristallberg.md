@@ -7,12 +7,16 @@ layout: default
 
 # {{page.title}}
 
-(Est. 2013, city) is a ----------- <span id="a1">[\[1\]](#f1)</span>.
+(Est. 2013, city) is a Kristallberg (Rus. Кристаллберг)—a fashion brand founded by Polina Bestuzheva in 2010. In the period from 2010 to 2015 under the name Kristallberg got one collection F / W 2010—2011 <span id="a1">[\[1\]](#f1)</span>.
 
 ![](/encyclopedia/images/image-name.jpg)
 
 **Image title**
+Cecilia Eykhbaum in Kristallberg 2010 campaign look book
+Photo: Kristallberg archives / Indexmod
 
+Sample of Kristallberg box of the F / W 2010—2011
+Photo: Kristallberg archives / Indexmod
 *Photo: [Name](index) / [Source](index)*
 
 # {{page.title}} Conspectus
@@ -32,6 +36,8 @@ layout: default
 
 + [About {{page.title}}](index)
 + [{{page.title}} at Wikipedia](index)
+Polina Bestuzheva
+Cecilia Eykhbaum
 
 # Footnotes
 
