@@ -30,7 +30,7 @@ In 2013, Regarded the Converse as a competitor, Dva Myacha started crowdfunding 
 
 |Year|Facebook|Instagram|YouTube|Age|Indexmod|
 |-|-|-|-|-|
-|2018|6778 <span id="a3">[\[3\]](#f3 </span>|4672 <span id="a4">[\[4\]](#f4)</span>|47 <span id="a5">[\[5\]](#f5)</span>|53|0,609341|
+|2018|6778 <span id="a11">[\[11\]](#f11) </span>|4672 <span id="a12">[\[12\]](#f12)</span>|47 <span id="a13">[\[13\]](#f13)</span>|53|0,609341|
 
 
 
@@ -73,5 +73,11 @@ In 2013, Regarded the Converse as a competitor, Dva Myacha started crowdfunding 
 [[9]](#a9) <span id="f9"></span> [В чате с… человеком, возродившим советское прошлое, Евгением Райковым (SNC Media, Аня Батурина)](http://www.sncmedia.ru/fashion/v-chate-s-chelovekom-vozrodivshim-sovetskie-proshloe-evgeniem-raykovym/)
 
 [[10]](#a10) <span id="f10"></span> [Советские кеды: кеды из СССР возвращаются! (Boomstarter, Евгений Райков)](https://boomstarter.ru/projects/ss/sovetskie_kedy_kedy_iz_sssr_vozvraschayutsya)
+
+[[11]](#a11) <span id="f11"></span> [{{page.title}} (Facebook)](index)
+
+[[12]](#a12) <span id="f12"></span> [{{page.title}} (Instagram)](index)
+
+[[13]](#a13) <span id="f13"></span> [{{page.title}} (YouTube)](index)
 
 `Updated Mar. 2018 (Andrei Dei)`
