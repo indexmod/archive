@@ -7,7 +7,7 @@ published: true
 
 # {{page.title}}
 
-(Появл. 1781, Мексика) религиозные картины в стиле наив, с помощью которых мексиканцы благодарят своих небесных покровителей за удачу в жизни. В 20-м веке появились своеобразные ретаблы с криминальными сюжетами из жизни наркоторговцев <span id="a1">[\[1\]](#f1)</span>.
+(Ок. 1780, Мексика) религиозные картины в стиле наив, с помощью которых мексиканцы благодарят своих небесных покровителей за удачу в жизни. В 20-м веке появились своеобразные ретаблы с криминальными сюжетами из жизни наркоторговцев <span id="a1">[\[1\]](#f1)</span>.
 
 ![](/encyclopedia/images/retablo.jpg)
 
@@ -22,10 +22,11 @@ published: true
 
 # See also
 
-+ [Lubok](index)
-+ [Russian naive art](index)
-+ [Alexei Turchin](index)
-+ [Альфредо Вильчис](index)
++ [Альфредо Вильчис](vilchis-alfredo)
++ [Alexei Turchin](turchin-alexei)
++ [Lubok](lubok)
++ [Russian Naive and Outsider Art](russian-naive-and-outsider-art)
+
 
 # Footnotes
 

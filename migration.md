@@ -161,10 +161,54 @@ Nora Kaza  
 Not Art (2014)~~
 
 
-`12 March 2018`
+`14 March 2018`
 
+~~Sachkov, Mikhail  
+Saint Petersburg  
+Samokatyan, Misak  
+Samokhvalov, Pavel (photographer)  
+Saser Sas24p3l (2016)  
+Saveliev, Savva  
+Savina, Liza  
+Serra, Richard  
+Sgustok  
+Shalphey Radio  
+Shanti, Meli (Mouse)  
+Sheep on the ship (sweaters)  
+Shilkov, Andrei  
+Shirkovskiy, Peter  
+Shulgin, Alexei (online curator)  
+Shumsky, Alexandr  
+Sidur, Vadim  
+Sincerism  
+Singing Walls  
+Skotoboinya  
+SNC  
+SNC 100 MIPRF  
+Snowflakes (2016)  
+Sochi  
+Sorry, I'm not (brand)  
+St. Radost  
+Stasenko, Evgeniy  
+Stolie, Ilona  
+Stolyarov, Yuri  
+Stravinsky, Daria  
+Street Art Museum of St. Petersburg  
+Subhashok, Adeler  
+Sukhostat, Alexandra  
+Sumnina, Masha  
+Sung, Vincent  
+Swims (brand)  
+Sydney  
+Sygma  
+São Paulo  
+São Paulo Art Biennial  
+São Paulo Fashion Week~~
 ~~Kakhiani, Anna  
 Kalinkina, Svetlana  ~~
+
+`15 March`
+
 Kalmis, Denis  
 Kalyadin, Leonid  
 Kazumi, Mico  
@@ -187,7 +231,7 @@ Kurbanov, Ramil  
 Kurbanova, Lina  
 Kusnirovich, Mikhail 
 
-`13 March 2018`
+`16 March 2018`
 
 Lambada Market  
 Lamp of MD (2015)  
@@ -208,7 +252,7 @@ Loyal Royal  
 Lucky cookies  
 Lumpen (agency)
 
-`14 March 2018`
+`17 March 2018`
 
 Machine of Memories, The (2014)  
 Machine Vision  
@@ -241,7 +285,7 @@ Musaeva, Nazrin Adyl (Marmot)  
 Mutasov, Gennady  
 ~~Muzeon Park of Arts~~
 
-`15 March 2018`
+`18 March 2018`
 
 ~~Panika Derevya (brand)  ~~
 Paradromnye Sviazi (2015)  
@@ -280,7 +324,7 @@ Prudko, Julia  
 Pupis, Donis  
 Putyatin, Roman
 
-`16 March 2018`
+`19 March 2018`
 
 Quoris Art  
 R.E.D.  
@@ -305,50 +349,3 @@ Rusmoda  
 Russia Cola  
 Russian Fashion Indexmod RGB Chart  
 Réserve De Beaulieu, La
-
-
-`17 March 2018`
-
-Sachkov, Mikhail  
-Saint Petersburg  
-Samokatyan, Misak  
-Samokhvalov, Pavel (photographer)  
-Saser Sas24p3l (2016)  
-Saveliev, Savva  
-Savina, Liza  
-Serra, Richard  
-Sgustok  
-Shalphey Radio  
-Shanti, Meli (Mouse)  
-Sheep on the ship (sweaters)  
-Shilkov, Andrei  
-Shirkovskiy, Peter  
-Shulgin, Alexei (online curator)  
-Shumsky, Alexandr  
-Sidur, Vadim  
-Sincerism  
-Singing Walls  
-Skotoboinya  
-SNC  
-SNC 100 MIPRF  
-Snowflakes (2016)  
-Sochi  
-Sorry, I'm not (brand)  
-St. Radost  
-Stasenko, Evgeniy  
-Stolie, Ilona  
-Stolyarov, Yuri  
-Stravinsky, Daria  
-Street Art Museum of St. Petersburg  
-Subhashok, Adeler  
-Sukhostat, Alexandra  
-Sumnina, Masha  
-Sung, Vincent  
-Swims (brand)  
-Sydney  
-Sygma  
-
-
-~~São Paulo  
-São Paulo Art Biennial  
-São Paulo Fashion Week~~
