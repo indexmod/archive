@@ -1,6 +1,6 @@
 ---
-title: Mukhina, Ekaterina
-permalink: mukhina-ekaterina
+title: Isoxon, Olga
+permalink: isoxon-olga
 layout: default
 published: true
 ---

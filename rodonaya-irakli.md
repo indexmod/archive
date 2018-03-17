@@ -1,6 +1,6 @@
 ---
-title: Mukhina, Ekaterina
-permalink: mukhina-ekaterina
+title: Rodonaya, Irakli
+permalink: rodonaya-irakli
 layout: default
 published: true
 ---

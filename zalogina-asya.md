@@ -1,6 +1,6 @@
 ---
-title: Mukhina, Ekaterina
-permalink: mukhina-ekaterina
+title: Zalogina, Asya
+permalink: zalogina-asya
 layout: default
 published: true
 ---

@@ -1,6 +1,6 @@
 ---
-title: Mukhina, Ekaterina
-permalink: mukhina-ekaterina
+title: Bordeaux, Vlad
+permalink: bordeaux-vlad
 layout: default
 published: true
 ---

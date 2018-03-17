@@ -1,6 +1,6 @@
 ---
-title: Mukhina, Ekaterina
-permalink: mukhina-ekaterina
+title: Vodolazova, Irina
+permalink: vodolazova-irina
 layout: default
 published: true
 ---

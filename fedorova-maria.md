@@ -1,6 +1,6 @@
 ---
-title: Mukhina, Ekaterina
-permalink: mukhina-ekaterina
+title: Fedorova, Maria
+permalink: fedorova-maria
 layout: default
 published: true
 ---

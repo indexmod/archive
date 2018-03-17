@@ -1,6 +1,6 @@
 ---
-title: Mukhina, Ekaterina
-permalink: mukhina-ekaterina
+title: Pavlov-Andreevich, Fedor
+permalink: pavlov-andreevich-fedor
 layout: default
 published: true
 ---

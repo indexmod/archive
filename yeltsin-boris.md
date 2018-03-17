@@ -1,6 +1,6 @@
 ---
-title: Mukhina, Ekaterina
-permalink: mukhina-ekaterina
+title: Yeltsin, Boris
+permalink: yeltsin-boris
 layout: default
 published: true
 ---

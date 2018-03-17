@@ -1,6 +1,6 @@
 ---
-title: Mukhina, Ekaterina
-permalink: mukhina-ekaterina
+title: Rostotsky, Stanislav
+permalink: rostotsky-stanislav
 layout: default
 published: true
 ---

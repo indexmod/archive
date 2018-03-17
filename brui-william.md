@@ -1,6 +1,6 @@
 ---
-title: Mukhina, Ekaterina
-permalink: mukhina-ekaterina
+title: Brui, William
+permalink: brui-william
 layout: default
 published: true
 ---

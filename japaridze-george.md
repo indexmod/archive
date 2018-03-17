@@ -1,6 +1,6 @@
 ---
-title: Mukhina, Ekaterina
-permalink: mukhina-ekaterina
+title: Japaridze, George
+permalink: japaridze-george
 layout: default
 published: true
 ---

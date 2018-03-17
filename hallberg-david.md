@@ -1,6 +1,6 @@
 ---
-title: Mukhina, Ekaterina
-permalink: mukhina-ekaterina
+title: Hallberg, David
+permalink: hallberg-david
 layout: default
 published: true
 ---

@@ -1,6 +1,6 @@
 ---
-title: Mukhina, Ekaterina
-permalink: mukhina-ekaterina
+title: Potelytsin, Nikolay
+permalink: potelytsin-nikolay
 layout: default
 published: true
 ---

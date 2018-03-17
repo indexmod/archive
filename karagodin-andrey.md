@@ -1,6 +1,6 @@
 ---
-title: Mukhina, Ekaterina
-permalink: mukhina-ekaterina
+title: Karagodin, Andrey
+permalink: karagodin-andrey
 layout: default
 published: true
 ---

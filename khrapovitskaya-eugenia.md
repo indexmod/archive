@@ -1,6 +1,6 @@
 ---
-title: Mukhina, Ekaterina
-permalink: mukhina-ekaterina
+title: Khrapovitskaya, Eugenia
+permalink: khrapovitskaya-eugenia
 layout: default
 published: true
 ---

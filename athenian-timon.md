@@ -1,6 +1,6 @@
 ---
-title: Mukhina, Ekaterina
-permalink: mukhina-ekaterina
+title: Athenian, Timon
+permalink: athenian-timon
 layout: default
 published: true
 ---

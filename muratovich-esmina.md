@@ -1,6 +1,6 @@
 ---
-title: Mukhina, Ekaterina
-permalink: mukhina-ekaterina
+title: Muratovich, Esmina
+permalink: muratovich-esmina
 layout: default
 published: true
 ---

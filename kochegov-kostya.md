@@ -1,6 +1,6 @@
 ---
-title: Mukhina, Ekaterina
-permalink: mukhina-ekaterina
+title: Kochegov, Kostya
+permalink: kochegov-kostya
 layout: default
 published: true
 ---

@@ -1,6 +1,6 @@
 ---
-title: Mukhina, Ekaterina
-permalink: mukhina-ekaterina
+title: Chagina, Sabina
+permalink: chagina-sabina
 layout: default
 published: true
 ---

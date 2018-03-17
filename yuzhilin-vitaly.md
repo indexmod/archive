@@ -1,6 +1,6 @@
 ---
-title: Mukhina, Ekaterina
-permalink: mukhina-ekaterina
+title: Yuzhilin, Vitaly
+permalink: yuzhilin-vitaly
 layout: default
 published: true
 ---

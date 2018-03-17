@@ -1,6 +1,6 @@
 ---
-title: Mukhina, Ekaterina
-permalink: mukhina-ekaterina
+title: Trukhina, Julia
+permalink: trukhina-julia
 layout: default
 published: true
 ---

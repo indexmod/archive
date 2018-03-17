@@ -1,6 +1,6 @@
 ---
-title: Mukhina, Ekaterina
-permalink: mukhina-ekaterina
+title: Fridkes, Vladimir (photographer)
+permalink: fridkes-vladimir-photographer
 layout: default
 published: true
 ---

@@ -1,6 +1,6 @@
 ---
-title: Mukhina, Ekaterina
-permalink: mukhina-ekaterina
+title: Homa, Alexander
+permalink: homa-alexander
 layout: default
 published: true
 ---

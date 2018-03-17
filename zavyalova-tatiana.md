@@ -1,6 +1,6 @@
 ---
-title: Mukhina, Ekaterina
-permalink: mukhina-ekaterina
+title: Zavyalova, Tatiana
+permalink: zavyalova-tatiana
 layout: default
 published: true
 ---

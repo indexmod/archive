@@ -1,6 +1,6 @@
 ---
-title: Mukhina, Ekaterina
-permalink: mukhina-ekaterina
+title: Kompaniets, Igor
+permalink: kompaniets-igor
 layout: default
 published: true
 ---

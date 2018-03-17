@@ -1,6 +1,6 @@
 ---
-title: Mukhina, Ekaterina
-permalink: mukhina-ekaterina
+title: Shakhnazarov, Artem
+permalink: shakhnazarov-artem
 layout: default
 published: true
 ---

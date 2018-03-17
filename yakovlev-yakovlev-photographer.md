@@ -1,6 +1,6 @@
 ---
-title: Mukhina, Ekaterina
-permalink: mukhina-ekaterina
+title: Yakovlev, Ernest (photographer)
+permalink: yakovlev-ernest-photographer
 layout: default
 published: true
 ---

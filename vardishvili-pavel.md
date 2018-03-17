@@ -1,6 +1,6 @@
 ---
-title: Mukhina, Ekaterina
-permalink: mukhina-ekaterina
+title: Vardishvili, Pavel
+permalink: vardishvili-pavel
 layout: default
 published: true
 ---

@@ -1,6 +1,6 @@
 ---
-title: Mukhina, Ekaterina
-permalink: mukhina-ekaterina
+title: Similyak, Maxim
+permalink: similyak-maxim
 layout: default
 published: true
 ---

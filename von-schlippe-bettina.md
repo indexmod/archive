@@ -1,6 +1,6 @@
 ---
-title: Mukhina, Ekaterina
-permalink: mukhina-ekaterina
+title: Schlippe, Bettina von
+permalink: schlippe-bettina-von
 layout: default
 published: true
 ---

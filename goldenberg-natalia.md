@@ -1,6 +1,6 @@
 ---
-title: Mukhina, Ekaterina
-permalink: mukhina-ekaterina
+title: Goldenberg, Natalia
+permalink: goldenberg-natalia
 layout: default
 published: true
 ---
