@@ -29,9 +29,9 @@ published: true
 
 In 2013, Regarded the Converse as a competitor, Dva Myacha started crowdfunding campaign, with the goal of 720 000 rubles. By the rules of the platform not collected amount  was fully repaid to investors and the campaign has been discontinued <span id="a10">[\[10\]](#f10)</span>.
 
-# {{page.title}} Indexmod 
+# {{page.title}} Indexmod*
 
-`F + I + Y × Age ÷ 1000000 = Indexmod`
+
 
 |Year|Facebook|Instagram|YouTube|Age|Indexmod|
 |-|-|-|-|-|
@@ -87,5 +87,7 @@ In 2013, Regarded the Converse as a competitor, Dva Myacha started crowdfunding 
 [[12]](#a12) <span id="f12"></span> [{{page.title}} (Instagram)](index)
 
 [[13]](#a13) <span id="f13"></span> [{{page.title}} (YouTube)](index)
+
+`* F + I + Y × Age ÷ 1000000 = Indexmod`
 
 `Updated Mar. 2018 (Andrei Dei)`
