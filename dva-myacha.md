@@ -9,7 +9,7 @@ published: true
 
 (Rus. Два мяча, est. 2013, Moscow) is a Soviet brand founded by Evgeni Raykov <span id="a1">[\[1\]](#f1)</span> based on the cult in the 60-s in the USSR <span id="a2">[\[2\]](#f2)</span> so-called “two goals” brand of sneakers that have been imported from China <span id="a3">[\[3\]](#f3)</span> in 1960 — 1980 <span id="a4">[\[4\]](#f4)</span>. After 3 years of testing, and searching for investors, ready-to-wear online sales began on July 6, 2016, and retail sales started from July 13, 2016, in department store “Tsvetnoy” <span id="a5">[\[5\]](#f5)</span>.
 
-![](/images/2-myacha.png)![](/images/2-myacha-2.png)
+![](/encyclopedia/images/2-myacha.png)![](/encyclopedia/images/2-myacha-2.png)
 
 **A stills “Dva Myacha” from 2018 video campaign directed by Anastasya Zavadskaya ("1994 production" studio)**
 *Photo: [Director of Photography: Vlad Bakhanovich](bakhanovich-vlad) / [YouTube](https://www.youtube.com/watch?v=Z90Mr4jhEgA)*
