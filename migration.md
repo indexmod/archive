@@ -207,9 +207,9 @@ São Paulo Fashion Week~~
 ~~Kakhiani, Anna  
 Kalinkina, Svetlana  ~~
 
-`15 March`
+`17 March`
 
-Kalmis, Denis  
+~~Kalmis, Denis  
 Kalyadin, Leonid  
 Kazumi, Mico  
 Khromtchenko, Evelina  
@@ -229,11 +229,11 @@ Krivda, Artem  
 KTZ  
 Kurbanov, Ramil  
 Kurbanova, Lina  
-Kusnirovich, Mikhail 
+Kusnirovich, Mikhail ~~
 
 `16 March 2018`
 
-Lambada Market  
+~~Lambada Market  
 Lamp of MD (2015)  
 Laska (tattoo)  
 Least, The (2015)  
@@ -250,9 +250,9 @@ London  
 Longevity Cook Book  
 Loyal Royal  
 Lucky cookies  
-Lumpen (agency)
+Lumpen (agency)~~
 
-`17 March 2018`
+`18 March 2018`
 
 Machine of Memories, The (2014)  
 Machine Vision  
@@ -284,8 +284,6 @@ Mukhina, Ekaterina  
 Musaeva, Nazrin Adyl (Marmot)  
 Mutasov, Gennady  
 ~~Muzeon Park of Arts~~
-
-`18 March 2018`
 
 ~~Panika Derevya (brand)  ~~
 Paradromnye Sviazi (2015)  
@@ -323,8 +321,6 @@ Propaganda (2016)  
 Prudko, Julia  
 Pupis, Donis  
 Putyatin, Roman
-
-`19 March 2018`
 
 Quoris Art  
 R.E.D.  
