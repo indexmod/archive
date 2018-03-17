@@ -4,128 +4,122 @@
 
 
  .intro {
-     font-family: 'Georgia', serif;
-     font-size: 24px;
-     font-weight: 100;
-     line-height: 1.3em;
-     list-style-type: none;
+	font-family: 'Georgia', serif;
+	font-size: 24px;
+	font-weight: 100;
+	line-height: 1.3em;
+	list-style-type: none;
 }
- h1, h2, h3, h4, h5, h6 {
-     font-family: 'Georgia', serif;
-     font-size: 39px;
-     font-weight: 100;
-     line-height: 1.2em;
-     color: black;
+h1, h2, h3, h4, h5, h6 {
+	font-family: 'Georgia', serif;
+	font-size: 39px;
+	font-weight: 100;
+	line-height: 1.2em;
+	color: black;
 }
- table {
-     font-family: 'Monaco', serif;
-     font-size: 18px;
-     line-height: 1em;
-     font-weight: 100;
-     color: black;
-     border-collapse: collapse;
+table {
+	font-family: 'Monaco', serif;
+	font-size: 18px;
+	line-height: 1em;
+	font-weight: 100;
+	color: black;
+	border-collapse: collapse;
 }
- th {
-     background-color: #f5f5f5;
-     color: green;
-     font-weight: 100;
-     padding: 9px;
-     text-align: left;
-     height: auto;
-     vertical-align: top;
-     border: 0.1px solid #e0e0e0;
+th {
+	background-color: #f5f5f5;
+	color: green;
+	font-weight: 100;
+	padding: 9px;
+	text-align: left;
+	height: auto;
+	vertical-align: top;
+	border: 0.1px solid #e0e0e0;
 }
- td {
-     padding: 9px;
-     text-align: left;
-     height: auto;
-     vertical-align: top;
-     border: 0.1px solid #e0e0e0;
+td {
+	padding: 9px;
+	text-align: left;
+	height: auto;
+	vertical-align: top;
+	border: 0.1px solid #e0e0e0;
 }
- tr:hover {
-     background-color: #f5f5f5;
+tr:hover {
+	background-color: #f5f5f5;
 }
- .highlighter-rouge {
-     font-family: 'Monaco';
-     font-size: 19px;
-     line-height: 4em;
-     font-weight: 100;
-     color: green;
-     border: solid 0.1px #e0e0e0;
-     background-color: #f5f5f5;
-     -moz-border-radius: 5px;
-     -webkit-border-radius: 5px;
-     border-radius: 5px;
-     padding: 9px 9px;
+.highlighter-rouge {
+	font-family: 'Monaco';
+	font-size: 19px;
+	line-height: 4em;
+	font-weight: 100;
+	color: green;
+	border: solid 0.1px #e0e0e0;
+	background-color: #f5f5f5;
+	-moz-border-radius: 5px;
+	-webkit-border-radius: 5px;
+	border-radius: 5px;
+	padding: 9px 9px;
 }
- 
- p {
-     font-family: 'Georgia', serif;
-     font-size: 24px;
-     line-height: 1.6em;
-     font-weight: 100;
-     color: black;
+p {
+	font-family: 'Georgia', serif;
+	font-size: 24px;
+	line-height: 1.6em;
+	font-weight: 100;
+	color: black;
 }
-
 strong {
-     
- color: grey;
+	color: grey;
 }
-
 em {
-     color: grey;
+	color: grey;
 }
-
-
- li {
-     font-family: 'Georgia', serif;
-     font-size: 24px;
-     line-height: 1.6em;
-     font-weight: 100;
-     color: black;
+li {
+	font-family: 'Georgia', serif;
+	font-size: 24px;
+	line-height: 1.6em;
+	font-weight: 100;
+	color: black;
 }
- ul {
-     font-family: 'Georgia', serif;
-     font-size: 24px;
-     line-height: 1.6em;
-     font-weight: 100;
-     color: black;
+ul {
+	font-family: 'Georgia', serif;
+	font-size: 24px;
+	line-height: 1.6em;
+	font-weight: 100;
+	color: black;
 }
- a:link {
-     color: #4286f4;
-     text-decoration: none;
+a:link {
+	color: #4286f4;
+	text-decoration: none;
 }
- a:visited {
-     color: #4286f4;
-     text-decoration: none;
+a:visited {
+	color: #4286f4;
+	text-decoration: none;
 }
- a:hover {
-     color: green;
-     text-decoration: none;
+a:hover {
+	color: green;
+	text-decoration: none;
 }
- a:active {
-     color: #4286f4;
-     text-decoration: none;
+a:active {
+	color: #4286f4;
+	text-decoration: none;
 }
- img {
-     max-width: 100%;
-     min-width: 100%;
-     height: auto;
-     margin: 0em 0em 0em 0em;
-     -webkit-filter: grayscale(100%);
-     filter: grayscale(100%);
+img {
+	max-width: 100%;
+	min-width: 100%;
+	height: auto;
+	margin: 0em 0em 0em 0em;
+	-webkit-filter: grayscale(100%);
+	filter: grayscale(100%);
 }
- .container {
-     width: 100px;
+.container {
+	width: 100px;
 }
- .container img {
-     display: block;
-     width: 100%;
-     height: auto;
+.container img {
+	display: block;
+	width: 100%;
+	height: auto;
 }
- footer {
-     font-family: 'Georgia', serif;
-     font-weight: 100;
-     font-size: 24px;
-     line-height: 1.3em;
+footer {
+	font-family: 'Georgia', serif;
+	font-weight: 100;
+	font-size: 24px;
+	line-height: 1.3em;
 }
