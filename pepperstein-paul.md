@@ -15,10 +15,7 @@ published: true
 
 *Photo: [Name](index) / [Source](index)*
 
-# {{page.title}} Expositions
-Biorobots (2014), Antimuseum
-Dancing in St. Petersburg (2015),  Antimuseum
-La Primavera, Spring, Весна (2014), Antimuseum
+# {{page.title}} Conspectus
 
 |Year|City|
 |-|-|

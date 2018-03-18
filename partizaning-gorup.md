@@ -4,9 +4,11 @@ permalink: partizaning-gorup
 layout: default
 published: true
 ---
+
+
 # {{page.title}}
 
-(Est. 2013, city) is a subject, description <span id="a1">[\[1\]](#f1)</span> extra text.
+(Est. 2013, city) is a --------- <span id="a1">[\[1\]](#f1)</span>.
 
 ![](/encyclopedia/images/image-name.jpg)
 
@@ -18,25 +20,26 @@ published: true
 
 |Year|City|
 |-|-|
-|2014|Tokyo|
-|2017|Paris|
+|2017|Moscow|
 
 # {{page.title}} Indexmod
 
-|Year|Facebook|Instagram|Age|IMD|
+|Year|Facebook|Instagram|YouTube|Age|Indexmod|
 |-|-|-|-|-|
-|2018|100 <span id="a3">[\[3\]](#f3)</span>|200 <span id="a4">[\[4\]](#f4)</span>|12|0,0025|
+|2018|000 <span id="a3">[\[3\]](#f3)</span>|000 <span id="a4">[\[4\]](#f4)</span>|000 <span id="a5">[\[5\]](#f5)</span>|00|0,0000|
 
 
 # See also
 
-+ [One](index)
-+ [Two](index)
++ [About {{page.title}}](index)
++ [{{page.title}} at Wikipedia](index)
 
 # Footnotes
 
 [[3]](#a3) <span id="f3"></span> [{{page.title}} (Facebook)](index)
 
 [[4]](#a4) <span id="f4"></span> [{{page.title}} (Instagram)](index)
+
+[[5]](#a5) <span id="f5"></span> [{{page.title}} (YouTube)](index)
 
 `Updated Mar. 2018 (Andrei Dei)`

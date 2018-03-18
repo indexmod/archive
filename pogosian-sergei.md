@@ -6,36 +6,37 @@ layout: default
 
 # {{page.title}}
 
-(Est. 2013, city)
-
-description
-
-<span id="a1">[\[1\]](#f1)</span>.
+(Est. 2013, city) is a Sergei Pogosian, Po Ga (Rus. Сергей Погосян, Пога) born 1980, Baku—Russian artist of installations, collector of vintage interior decorations living and working in Moscow and Bali. Sergei have worked as photo editor in OM Magazine, as camera man on the reality show for TNT Channel in Berlin and NY, the artistic director on the film “Духless”, the “Cabinet President” (Kandinsky Prize 2013) project for PG Group, creates light box installations, for many years, works with wood, plaster, metal.1 <span id="a1">[\[1\]](#f1)</span>.
 
 ![](/encyclopedia/images/image-name.jpg)
 
 **Image title**
-
+The “Mushrooms” at “Gals” yacht club (top) and new decoration at workshop (bottom) by Pogosian; Sergei Pogosian (right) and friends at his workshop in Moscow
+Photos: Andrei Gurotesuku / Indexmod; Nadjia Enalieva / Facebook
 *Photo: [Name](index) / [Source](index)*
 
 # {{page.title}} Conspectus
 
 |Year|City|
 |-|-|
-|2014|Tokyo|
-|2017|Paris|
+|2017|Moscow|
 
 # {{page.title}} Indexmod
 
-|Year|Facebook|Instagram|YouTube|Age|IMD|
+|Year|Facebook|Instagram|YouTube|Age|Indexmod|
 |-|-|-|-|-|
-|2018|100 <span id="a3">[\[3\]](#f3)</span>|200 <span id="a4">[\[4\]](#f4)</span>|300 <span id="a4">[\[4\]](#f4)</span>|12|0,0025|
+|2018|000 <span id="a3">[\[3\]](#f3)</span>|000 <span id="a4">[\[4\]](#f4)</span>|000 <span id="a5">[\[5\]](#f5)</span>|00|0,0000|
 
 
 # See also
 
-+ [One](index)
-+ [Two](index)
++ [About {{page.title}}](index)
++ [{{page.title}} at Wikipedia](index)
+
+PG Group
+Petra-Ivana Babushkina
+Uma Kumari
+1 Midsummer Night's Dream 2015
 
 # Footnotes
 

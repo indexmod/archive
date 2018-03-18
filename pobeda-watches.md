@@ -6,36 +6,41 @@ layout: default
 
 # {{page.title}}
 
-(Est. 2013, city)
-
-description
-
-<span id="a1">[\[1\]](#f1)</span>.
+(Est. 2013, city) is a Pobeda (Rus. Победа), is a model of Russian watch by The Petrodvorets Watch Factory “Raketa” launched in 1945.1 Sign in to edit Pobeda <span id="a1">[\[1\]](#f1)</span>.
 
 ![](/encyclopedia/images/image-name.jpg)
 
 **Image title**
+Poster of “The Man from U.N.C.L.E.” with Armie Hammer in Pobeda watches
+Photo: Davis Entertainment, Warner Bros. / Petrodvorets Watch Factory
 
+Pop-up at Pulkovo Airport domestic terminal; 1961 Pobeda. The first watches in space stamp
+Photo: Andrei Gurotesuku / Indexmod.info; Petrodvorets Watch Factory Press / Raketa
 *Photo: [Name](index) / [Source](index)*
 
 # {{page.title}} Conspectus
 
 |Year|City|
 |-|-|
-|2014|Tokyo|
-|2017|Paris|
+|2017|Moscow|
 
 # {{page.title}} Indexmod
 
-|Year|Facebook|Instagram|YouTube|Age|IMD|
+|Year|Facebook|Instagram|YouTube|Age|Indexmod|
 |-|-|-|-|-|
-|2018|100 <span id="a3">[\[3\]](#f3)</span>|200 <span id="a4">[\[4\]](#f4)</span>|300 <span id="a4">[\[4\]](#f4)</span>|12|0,0025|
+|2018|000 <span id="a3">[\[3\]](#f3)</span>|000 <span id="a4">[\[4\]](#f4)</span>|000 <span id="a5">[\[5\]](#f5)</span>|00|0,0000|
 
 
 # See also
 
-+ [One](index)
-+ [Two](index)
++ [About {{page.title}}](index)
++ [{{page.title}} at Wikipedia](index)
++ Armie Hammer
++ Guy Ritchie
++ Basel
++ Petrodvorets Watch Factory
++ Podeda Vesna
++ Raketa Amphibia
 
 # Footnotes
 

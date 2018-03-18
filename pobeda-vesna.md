@@ -6,36 +6,46 @@ layout: default
 
 # {{page.title}}
 
-(Est. 2013, city)
-
-description
-
-<span id="a1">[\[1\]](#f1)</span>.
+(Est. 2013, city) is a
+Pobeda Vesna (Rus. Победа Весна), is a new model of Russian watch by The Petrodvorets Watch Factory “Raketa” launched to Anniversary of the Victory Day of 1945. Sign in to edit Pobeda Vesna <span id="a1">[\[1\]](#f1)</span>.
 
 ![](/encyclopedia/images/image-name.jpg)
 
 **Image title**
+Tri-colour campaign of Pobeda Vesna
+Photo: Petrodvorets Watch Factory / Raketa.com
 
+A sky-blue model of Pobeda Vesna
+Photo: Petrodvorets Watch Factory / Raketa.com
+
+Armie Hammer in Pobeda watches in “The Man from U.N.C.L.E.”—the 60-s spy story directed by Guy Ritchie. Photo: Davis Entertainment, Warner Bros. / Petrodvorets Watch Factory
 *Photo: [Name](index) / [Source](index)*
 
-# {{page.title}} Conspectus
+# {{page.title}} The Watch Factory
+The Petrodvorets Watch Factory is a Russia’s oldest factory.  The Factory was founded by Peter the Great in 1721 and now is producing watches under the brand “Pobeda” since the End of World War II. Login to edit The Watch Factory
+
 
 |Year|City|
 |-|-|
-|2014|Tokyo|
-|2017|Paris|
+|2017|Moscow|
 
 # {{page.title}} Indexmod
 
-|Year|Facebook|Instagram|YouTube|Age|IMD|
+|Year|Facebook|Instagram|YouTube|Age|Indexmod|
 |-|-|-|-|-|
-|2018|100 <span id="a3">[\[3\]](#f3)</span>|200 <span id="a4">[\[4\]](#f4)</span>|300 <span id="a4">[\[4\]](#f4)</span>|12|0,0025|
+|2018|000 <span id="a3">[\[3\]](#f3)</span>|000 <span id="a4">[\[4\]](#f4)</span>|000 <span id="a5">[\[5\]](#f5)</span>|00|0,0000|
 
 
 # See also
 
-+ [One](index)
-+ [Two](index)
++ [About {{page.title}}](index)
++ [{{page.title}} at Wikipedia](index)
+Armie Hammer
+Guy Ritchie
+Basel
+Petrodvorets Watch Factory
+Raketa Amphibia
+Pobeda
 
 # Footnotes
 
