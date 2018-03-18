@@ -6,7 +6,13 @@ layout: default
 
 # {{page.title}}
 
-(Est. 2013, city) is a --------- <span id="a1">[\[1\]](#f1)</span>.
+(Est. 2013, city) is a
+Litvinova, Violetta
+Violetta Litvinova  (Rus. Виолетта Литвинова) born 1970, Tallinn, dead 2015, Moscow—Russian fashion designer, collector.1 Login to edit Violetta Litvinova
+See also
+Andrei Abolenkin
+Nagornaya Gallery‎
+Polina Madeinpolina <span id="a1">[\[1\]](#f1)</span>.
 
 ![](/encyclopedia/images/image-name.jpg)
 

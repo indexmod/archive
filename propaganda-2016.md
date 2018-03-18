@@ -1,12 +1,13 @@
 ---
-title: Puerto Rico High Fashion Week
-permalink: puerto-rico-high-fashion-week
+title: Propaganda (2016)
+permalink: propaganda-2016
 layout: default
+published: true
 ---
 
 # {{page.title}}
 
-(Est. 2013, city) is a --------- <span id="a1">[\[1\]](#f1)</span>.
+(Est. 2013, city) is a Propaganda (Rus. Пропаганда) created in 2016, Moscow—is a sound installation by Kazakov in a genre of sound-art <span id="a1">[\[1\]](#f1)</span>.
 
 ![](/encyclopedia/images/image-name.jpg)
 
@@ -14,7 +15,8 @@ layout: default
 
 *Photo: [Name](index) / [Source](index)*
 
-# {{page.title}} Conspectus
+# {{page.title}} The object
+A cushion, which is integrated into the speaker put an ear to the pillow to hears promotional statements, uttered sweet soothing female voice.1 Login to edit The object
 
 |Year|City|
 |-|-|
@@ -31,6 +33,9 @@ layout: default
 
 + [About {{page.title}}](index)
 + [{{page.title}} at Wikipedia](index)
+Antimuseum
+Electromuseum
+Saser SAS24P3L (2016)
 
 # Footnotes
 

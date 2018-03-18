@@ -6,7 +6,29 @@ layout: default
 
 # {{page.title}}
 
-(Est. 2013, city) is a --------- <span id="a1">[\[1\]](#f1)</span>.
+(Est. 2013, city) is a
+Lisin, Anton (designer)
+Anton Lisin (Rus. Антон Лисин) born 1992 Fedotsevo—Russian designer, model, founder of Anton Lisin brand. Anton living and working in two cities Moscow and Sergiev Posad. Login to edit Anton Lisin <span id="a1">[\[1\]](#f1)</span>.
+
+
+
+Lisin, Anton (designer)
+Anton Lisin (Rus. Антон Лисин) born 1992 Fedotsevo—Russian designer, model, founder of Anton Lisin brand. Anton living and working in two cities Moscow and Sergiev Posad. Login to edit Anton Lisin
+
+
+
+
+Anton Lisin in 2013  
+Photo: Anton Lisin / Vkontakte
+
+Anton Lisin Capsule MFW 2015 e-invitation
+Photo: Andrei Gurotesuku / Indexmod
+
+See also
+
+Moscow Spring Fever
+Sergei Terekhov
+Sonya Kudeeva
 
 ![](/encyclopedia/images/image-name.jpg)
 

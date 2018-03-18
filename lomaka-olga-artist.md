@@ -6,7 +6,22 @@ layout: default
 
 # {{page.title}}
 
-(Est. 2013, city) is a --------- <span id="a1">[\[1\]](#f1)</span>.
+(Est. 2013, city) is a Lomaka, Olga (artist)
+Olga Lomaka (Rus. Ольга Ломака)—British-Russian artist living and studing in London at Central Saint Martins College, Fashion Design Camberwell College of Arts. Lomaka started study at painting courses Central Saint Martins College of Arts and Loyola University in Chicago. Login to edit Olga Lomaka
+
+
+
+
+Olga in Thyssen-Bornemisza Museum In Madrid, Spain
+Photo: Olga Lomaka / Olgalomaka
+
+Illuminati, Mind Parasites, 2014, oil on canvas
+Photo: Olga Lomaka / Olgalomaka
+Works
+Olga's works are currently stored at the Loyola University Collection, 25-Kadr Gallery, M17 Contemporary Art Center Collection, as well as, in private collections throughout Russia and abroad.
+See also
+The World Fashion TV
+Marina Demchenko <span id="a1">[\[1\]](#f1)</span>.
 
 ![](/encyclopedia/images/image-name.jpg)
 

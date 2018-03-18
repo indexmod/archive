@@ -6,7 +6,21 @@ layout: default
 
 # {{page.title}}
 
-(Est. 2013, city) is a --------- <span id="a1">[\[1\]](#f1)</span>.
+(Est. 2013, city) is a Lomakin, Artur (designer)
+Artur Lomakin (Рус. Артур Ломакин)—Russian designer, stylist living and working in Moscow, founder of Forget me not brand.1 Login to edit Artur Lomakin
+
+
+
+“Magic hour” by Artur Lomakin for Opening Ceremony 2014
+Photo: Masha Demianova / Tumblr
+
+Artur Lomakin in 2007
+Photo: Dasha Yastrebova / Livejournal
+See also
+Black Square Magazine
+Huligan Magazine
+Eric Panov
+Gosha Rubchinskiy <span id="a1">[\[1\]](#f1)</span>.
 
 ![](/encyclopedia/images/image-name.jpg)
 

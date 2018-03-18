@@ -1,12 +1,13 @@
 ---
-title: Puerto Rico High Fashion Week
-permalink: puerto-rico-high-fashion-week
+title:  Putyatin, Roman
+permalink: putyatin-roman
 layout: default
+published: true
 ---
 
 # {{page.title}}
 
-(Est. 2013, city) is a --------- <span id="a1">[\[1\]](#f1)</span>.
+(Est. 2013, city) is a Roman Putyatin, U5E7N4M3 (Rus. Роман Путятин) 19??, Moscow—is a Russian artist working in a genre of video <span id="a1">[\[1\]](#f1)</span>.
 
 ![](/encyclopedia/images/image-name.jpg)
 
@@ -31,6 +32,9 @@ layout: default
 
 + [About {{page.title}}](index)
 + [{{page.title}} at Wikipedia](index)
+Antimuseum
+Electromuseum
+Schiller Anna
 
 # Footnotes
 

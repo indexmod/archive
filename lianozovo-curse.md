@@ -6,12 +6,13 @@ layout: default
 
 # {{page.title}}
 
-(Est. 2013, city) is a --------- <span id="a1">[\[1\]](#f1)</span>.
+(Est. 2013, city) is a Lianozovo Curse or Lianozovo platform Curse (Rus. Проклятие платформы Лианозово)—a TV series based on idea and storyboard on following hypothetical novel by Andrei Deinichenko from in 2015 in Moscow and directed by Miс Sachkov.1 Sign in to edit Lianozovo platform Curse <span id="a1">[\[1\]](#f1)</span>.
 
-![](/encyclopedia/images/image-name.jpg)
+![](/encyclopedia/images/lianozovo.jpg)
 
 **Image title**
-
+Cover of the Lianozovo platform Curse, first half of the 2010s
+Illustration: Mic Sachkov / Indexmod 
 *Photo: [Name](index) / [Source](index)*
 
 # {{page.title}} Conspectus

@@ -6,7 +6,18 @@ layout: default
 
 # {{page.title}}
 
-(Est. 2013, city) is a --------- <span id="a1">[\[1\]](#f1)</span>.
+(Est. 2013, city) is a Loyal Royal (Rus. Лоял-роял) est. in 2012, Moscow—an elegant1 online edition about the modern values of the elite, “which puts the aesthetic and ethical criteria at the top of the editorial material”2 founded by Xenia Ferz. Login to edit Loyal Royal
+
+
+
+Xenia Ferz—a founder of Royal Loyal in 2014
+Photo: Balance TV / Vimeo
+See also
+Aristo Twist Shop
+Tatiana Mamedova
+Xenia Ferz
+
+ <span id="a1">[\[1\]](#f1)</span>.
 
 ![](/encyclopedia/images/image-name.jpg)
 

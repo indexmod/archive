@@ -6,7 +6,11 @@ layout: default
 
 # {{page.title}}
 
-(Est. 2013, city) is a --------- <span id="a1">[\[1\]](#f1)</span>.
+(Est. 2013, city) is a Lucky cookies (Rus. Печеньки удачи) re-pres. 2016, Moscow—is an installation by Nora Kaza ltd. at the Internet Yami-Ichi1 in form of legendary Chinese cookies with the predictions in QR-codes. Sign in to edit Lucky cookies
+See also
+Internet Yami-Ichi
+Intektra
+Nora Kaza <span id="a1">[\[1\]](#f1)</span>.
 
 ![](/encyclopedia/images/image-name.jpg)
 

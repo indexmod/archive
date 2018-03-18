@@ -6,36 +6,38 @@ layout: default
 
 # {{page.title}}
 
-(Est. 2013, city)
-
-description
-
-<span id="a1">[\[1\]](#f1)</span>.
+(Est. 2013, city) is a Nina Rasiuk (Rus. Нина Расюк) born 1995, Krasnodar, Russian jewelry designer, founder of Ranina brand, illustrator. Nina and her boyfriend living and working in Moscow. Sign in to edit Nina Rasiuk <span id="a1">[\[1\]](#f1)</span>.
 
 ![](/encyclopedia/images/image-name.jpg)
 
 **Image title**
+Nina Rasiuk in 2012
+Photo: author unknown / Look At M
 
+Twins from Bazaar Russia full horoscope of the 2016 collection
+Graphics: Nina Rasiuk / Bazaar
 *Photo: [Name](index) / [Source](index)*
 
 # {{page.title}} Conspectus
 
 |Year|City|
 |-|-|
-|2014|Tokyo|
-|2017|Paris|
+|2017|Moscow|
 
 # {{page.title}} Indexmod
 
-|Year|Facebook|Instagram|YouTube|Age|IMD|
+|Year|Facebook|Instagram|YouTube|Age|Indexmod|
 |-|-|-|-|-|
-|2018|100 <span id="a3">[\[3\]](#f3)</span>|200 <span id="a4">[\[4\]](#f4)</span>|300 <span id="a4">[\[4\]](#f4)</span>|12|0,0025|
+|2018|000 <span id="a3">[\[3\]](#f3)</span>|000 <span id="a4">[\[4\]](#f4)</span>|000 <span id="a5">[\[5\]](#f5)</span>|00|0,0000|
 
 
 # See also
 
-+ [One](index)
-+ [Two](index)
+Lambada Market
+Misak Samokatjan
+Ranina
++ [About {{page.title}}](index)
++ [{{page.title}} at Wikipedia](index)
 
 # Footnotes
 

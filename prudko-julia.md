@@ -6,36 +6,45 @@ layout: default
 
 # {{page.title}}
 
-(Est. 2013, city)
-
-description
-
-<span id="a1">[\[1\]](#f1)</span>.
+(Est. 2013, city) is a Julia Prudko  009  SNC (Rus. Юлия Прудько) born1, Moscow—is a Russian journalist, a founder of June & July agency, top 10 in Russia of the most influence on fashion scene2, working and living in Moscow. Login to edit Julia Prudko <span id="a1">[\[1\]](#f1)</span>.
 
 ![](/encyclopedia/images/image-name.jpg)
 
 **Image title**
-
+Julia Prudko in 2015
+Photo: Anastasia Branovitskaya (fragment) / Anna Russka Blog
 *Photo: [Name](index) / [Source](index)*
 
 # {{page.title}} Conspectus
 
 |Year|City|
 |-|-|
-|2014|Tokyo|
-|2017|Paris|
+|2017|Moscow|
 
 # {{page.title}} Indexmod
 
-|Year|Facebook|Instagram|YouTube|Age|IMD|
+|Year|Facebook|Instagram|YouTube|Age|Indexmod|
 |-|-|-|-|-|
-|2018|100 <span id="a3">[\[3\]](#f3)</span>|200 <span id="a4">[\[4\]](#f4)</span>|300 <span id="a4">[\[4\]](#f4)</span>|12|0,0025|
+|2018|000 <span id="a3">[\[3\]](#f3)</span>|000 <span id="a4">[\[4\]](#f4)</span>|000 <span id="a5">[\[5\]](#f5)</span>|00|0,0000|
 
 
 # See also
 
-+ [One](index)
-+ [Two](index)
++ [About {{page.title}}](index)
++ [{{page.title}} at Wikipedia](index)
+008  Daniil Berg
+010  Ekaterina Moiseeva
+Arctic Explorer
+Florist Gump
+Independent Media Sanoma Magazines
+Istituto Marangoni
+Izba Rouge
+June & July
+Ksenia Chilingarova
+Leyla Uluhanli
+Lublu
+SNC 100 MIPRF
+Workshop lab
 
 # Footnotes
 
