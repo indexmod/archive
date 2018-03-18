@@ -4,45 +4,64 @@ permalink: muhadin-kishev
 layout: default
 ---
 
+# {{page.title}}
 
+(Est. 2013, city) is a Kishev Muhadin (Rus. Кишев Мухадин) born 1939, Chegem II—Artist of Kabardino-Balkaria, Member of the Russian Academy of Arts, the member of the European Academy of Arts, living and working in Spain and Moscow <span id="a1">[\[1\]](#f1)</span>.
 
-# Muhadin, Kishev
+![](/encyclopedia/images/{{page.permalink}}.jpg)![](/encyclopedia/images/{{page.permalink}}-1.jpg)
 
+**Image title**
+Kishev Muhadin at his Moscow's studio
+Photo: Victor Borzih / Facebook
 
-(Est. 2013, city) is a subject, description-one <span id="a1">[\[1\]](#f1)</span>, description-two <span id="a2">[\[2\]](#f2)</span> description-three <span id="a3">[\[3\]](#f3)</span>, extra text. [Edit this page](http://prose.io/#indexmod/encyclopedia/edit/master/page-template.md)
+The evening call, the evening bell, 2014
+Photo: Kishev Muhadin / Orloff Russian Magazine
+*Photo: [Name](index) / [Source](index)*
 
-![](/encyclopedia/images/image-name.jpg)
+# {{page.title}} Selected milestones
 
-**Image caption title**
-
-*Photo: [Photographer name](/photographer-name-page) / [Source name](/source-name-page)*
-
-# Conspectus
+ 1958—65	 Fine arts in the Krasnodar State University
+ 1966—87	 Monuments in Pyatigorsk and Rostov-on-Don
+ 1972	 Creative trip to Poland and Germany
+ 1973	 Admitted to the Union of Artists
+ 1976	 Creative trip to Italy
+ 1988—91	 Аrtistic director of the “Hot Key” and “Baikal”
+ 1989	 Creative trip to India and Nepal
+ 1993	 Member of the International Union of Artists
+ 1994—98	 The invitation of the Chisenhale
+ 1996	 Creative trip to the Gambia, Senegal and Africa
+ 1997	 Creative trip to Scotland
+ 1998	 Lives and works in Spain, in Los Canes de Meca
+ 2009	 Solo exhibition in Spain, Russia and London
 
 |Year|City|
-|----|-----|
-|2014|Tokyo|
-|2015|Moscow|
-|2017|Paris|
+|-|-|
+|2017|Moscow|
+
+# {{page.title}} Indexmod
+
+|Year|Facebook|Instagram|YouTube|Age|Indexmod|
+|-|-|-|-|-|
+|2018|000 <span id="a3">[\[3\]](#f3)</span>|000 <span id="a4">[\[4\]](#f4)</span>|000 <span id="a5">[\[5\]](#f5)</span>|00|0,0000|
+
 
 # See also
 
-+ [See also title one](page-template)
-+ [See also title two](page-template)
-+ [See also title three](page-template)
++ [About {{page.title}}](index)
++ [{{page.title}} at Wikipedia](index)
++ House of Artists on Vavilov 65а
++ Orloff Russian Magazine
++ Victor Borzih
 
 # Footnotes
 
-[[1]](#a1) <span id="f1"></span> [Article name short (Author name)](http://example.net/article)
+Muhadin Kishev
+http://www.muhadinkishev.com/ru/biography.htm
 
-[[2]](#a2) <span id="f2"></span> [Article name little longer (Author name longer)](http://example.net/article)
+[[3]](#a3) <span id="f3"></span> [{{page.title}} (Facebook)](index)
 
-[[3]](#a3) <span id="f3"></span> [Article name longer so far (Author name too long and much longer)](http://example.net/article)
+[[4]](#a4) <span id="f4"></span> [{{page.title}} (Instagram)](index)
 
----
+[[5]](#a5) <span id="f5"></span> [{{page.title}} (YouTube)](index)
 
-`Editorial`
-
-`Warnings`
-
-`Notes`
+`Updated Mar. 2018 (Andrei Dei)`
