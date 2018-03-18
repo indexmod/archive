@@ -1,25 +1,24 @@
 ---
-title: Mutasov, Gennady
-permalink: mutasov-gennady
+title: Malevich Experience (2016)
+permalink: malevich-experience-2016
 layout: default
 published: true
 ---
 
 # {{page.title}}
 
-(Est. 2013, city) is a Gennady Mutasov (Rus. Геннадий Мутасов) born 1976, Kazakhstan—is a Russian journalist, co-founder of Common App & Community.1 Sign in to edit Gennady Mutasov <span id="a1">[\[1\]](#f1)</span>.
+(Est. 2013, city) is a Malevich Experience, created in 2016, Moscow—is an interactive object of the virtual reality by Denis Semionov <span id="a1">[\[1\]](#f1)</span>.
 
 ![](/encyclopedia/images/{{page.permalink}}.jpg)
 
 **Image title**
-Gennady Mutasov in 2016
-Photo: Point author here / Facebook
+A testing of the Malevich Experience (2016)
+Photo: Denis Semionov / Antimuseum / Indexmod
 *Photo: [Name](index) / [Source](index)*
 
-# {{page.title}} Expositions
-Biorobots (2014), Antimuseum
-Dancing in St. Petersburg (2015),  Antimuseum
-La Primavera, Spring, Весна (2014), Antimuseum
+# {{page.title}} The object
+
+A portal to a new perception of irrelevance and ideas of Malevich. Virtual reality gives the viewer an insight into the “Black Square” the most discussed Suprematist icons of the XX century
 
 |Year|City|
 |-|-|
@@ -36,6 +35,9 @@ La Primavera, Spring, Весна (2014), Antimuseum
 
 + [About {{page.title}}](index)
 + [{{page.title}} at Wikipedia](index)
++ Antimuseum
++ Electromuseum
++ Migration (2015)
 
 # Footnotes
 

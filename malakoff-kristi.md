@@ -6,19 +6,30 @@ layout: default
 
 # {{page.title}}
 
-(Est. 2013, city) is a --------- <span id="a1">[\[1\]](#f1)</span>.
+(Est. 2013, city) is a Kristi Malakoff—is a Canadian visual artist living abroad, most recently in Moscow and previously in Berlin, Germany, Reykjavík, Iceland and London, England where she attended the Chelsea College of Art and Design.  <span id="a1">[\[1\]](#f1)</span>.
 
 ![](/encyclopedia/images/{{page.permalink}}.jpg)
 
 **Image title**
-
+Moon Dog, 2004
+Plywood, 8 000 colored acrylic pegs, lights
+Photo: Kristi Malakoff / Kristimalakoff.com
 *Photo: [Name](index) / [Source](index)*
 
-# {{page.title}} Conspectus
+# {{page.title}} Bio
+
+Kristi is a 2005 BFA graduate of the Emily Carr Institute in Vancouver where she was the recipient of many awards and scholarships, among them the Alvin Balkind Memorial Scholarship, the Helen Pitt Award and the Governor General’s silver medal for the top Emily Carr Institute graduating student of 2005. Since graduating, she has participated in artist residency programs at the Banff Centre, the Stride Gallery, Calgary, SÍM, Reykjavík, Iceland and Proekt Fabrika, Moscow, Russia. She has exhibited in an exhaustive schedule in both group and solo shows throughout Canada and in England, the US, Germany, Mexico and Russia.
 
 |Year|City|
 |-|-|
 |2017|Moscow|
+
+![](/encyclopedia/images/{{page.permalink}}-2.jpg)
+
+**Image title**
+Kristi Malakoff at Sofichka's Picnic at Strogino
+Photo: author unknown / Facebook
+*Photo: [Name](index) / [Source](index)*
 
 # {{page.title}} Indexmod
 
@@ -31,8 +42,14 @@ layout: default
 
 + [About {{page.title}}](index)
 + [{{page.title}} at Wikipedia](index)
++ Canada Council Project Grant for Visual Artists
++ Emily Carr Institute
++ Sophie O'Leary
 
 # Footnotes
+
+1 Bio (Kristi Malakoff)
+http://kristimalakoff.com/Bio.html
 
 [[3]](#a3) <span id="f3"></span> [{{page.title}} (Facebook)](index)
 
