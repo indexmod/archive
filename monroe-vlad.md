@@ -25,7 +25,7 @@ Musée d'art contemporain
 Maison de Photographie de Moscou
 Museum voor Hedendaagse Kunst Antwerpen, Antwerp Fund New Rules, Anvers
 Musée royal des beaux-arts, Anvers
-Museum van Hedendaagse Kunst, Anvers
+Museum van Hedendaagse Kunst, Anvers <span id="a2">[\[2\]](#f2)</span>
 
 |Year|City|
 |-|-|
