@@ -11,6 +11,7 @@ published: true
 ![](/encyclopedia/images/{{page.permalink}}.jpg)
 
 **Self-portrait with Mark Almond, 1992 — 1993**
+
 Photo: Grigoriy Polyakovskiy / Mamm-mdf
 *Photo: [Andrei Pomulev](pomulev-andrei) / [Facebook](https://www.facebook.com/photo.php?fbid=1657445534347751&set=a.102145249877795.3311.100002469602366&type=3&theater)*
 
@@ -35,6 +36,7 @@ Photo: Grigoriy Polyakovskiy / Mamm-mdf
 ![](/encyclopedia/images/{{page.permalink}}-3.jpg)
 
 **Mamyshev-Monroe as Polonium**
+
 *Photo: [Grigoriy Polyakovskiy](index) / [Mamm-mdf](index)*
 
 # Footnotes
