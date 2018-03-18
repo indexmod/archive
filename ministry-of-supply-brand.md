@@ -4,45 +4,54 @@ permalink: ministry-of-supply-brand
 layout: default
 ---
 
+# {{page.title}}
 
+(Est. 2013, city) is a Ministry of Supply est. 2012, Boston—is a  men's fashion brand, producer of the first seamless sweater printed on the 3D printer, inventor of a “1 In, 1 Out” policy, founded by Aman Advani, Kit Hickey, Kevin Rustagi, and Gihan Amarasiriwardena (Massachusetts Institute of Technology), and named after a British government department formed World War I <span id="a1">[\[1\]](#f1)</span>.
 
-# Ministry of Supply (brand)
+![](/encyclopedia/images/{{page.permalink}}.jpg)
 
+**Image title**
+Massachusetts Institute of Technology logo
+Photo: MIT / Ministry of Supply
+*Photo: [Name](index) / [Source](index)*
 
-(Est. 2013, city) is a subject, description-one <span id="a1">[\[1\]](#f1)</span>, description-two <span id="a2">[\[2\]](#f2)</span> description-three <span id="a3">[\[3\]](#f3)</span>, extra text. [Edit this page](http://prose.io/#indexmod/encyclopedia/edit/master/page-template.md)
+# {{page.title}} Brands
 
-![](/encyclopedia/images/image-name.jpg)
-
-**Image caption title**
-
-*Photo: [Photographer name](/photographer-name-page) / [Source name](/source-name-page)*
-
-# Conspectus
++ Apollo
++ Aviator
++ Aero
++ Atlas
++ Aeon
++ Atmos
 
 |Year|City|
-|----|-----|
-|2014|Tokyo|
-|2015|Moscow|
-|2017|Paris|
+|-|-|
+|2017|Moscow|
+
+# {{page.title}} Indexmod
+
+|Year|Facebook|Instagram|YouTube|Age|Indexmod|
+|-|-|-|-|-|
+|2018|000 <span id="a3">[\[3\]](#f3)</span>|000 <span id="a4">[\[4\]](#f4)</span>|000 <span id="a5">[\[5\]](#f5)</span>|00|0,0000|
+
 
 # See also
 
-+ [See also title one](page-template)
-+ [See also title two](page-template)
-+ [See also title three](page-template)
+Aman Advani
+Kit Hickey
+Kevin Rustagi
+Gihan Amarasiriwardena
++ [About {{page.title}}](index)
++ [{{page.title}} at Wikipedia](index)
 
 # Footnotes
 
-[[1]](#a1) <span id="f1"></span> [Article name short (Author name)](http://example.net/article)
+1 Бесшовная одежда, напечатанная на 3D-принтере, уже в продаже (Hightech Fm) https://hightech.fm/2016/04/15/printed-jacket
 
-[[2]](#a2) <span id="f2"></span> [Article name little longer (Author name longer)](http://example.net/article)
+[[3]](#a3) <span id="f3"></span> [{{page.title}} (Facebook)](index)
 
-[[3]](#a3) <span id="f3"></span> [Article name longer so far (Author name too long and much longer)](http://example.net/article)
+[[4]](#a4) <span id="f4"></span> [{{page.title}} (Instagram)](index)
 
----
+[[5]](#a5) <span id="f5"></span> [{{page.title}} (YouTube)](index)
 
-`Editorial`
-
-`Warnings`
-
-`Notes`
+`Updated Mar. 2018 (Andrei Dei)`

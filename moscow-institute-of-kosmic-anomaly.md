@@ -4,45 +4,47 @@ permalink: moscow-institute-of-kosmic-anomaly
 layout: default
 ---
 
+# {{page.title}}
 
+(Est. 2013, city) is a Moscow Institute of Kosmic Anomaly (Rus. Московский институт космических аномалий)—founded by Cecilia Eykhbaum and Mitya Nesterov in 2009, and in 2015 organizer of the parallel program of the second Moscow Biennale of Contemporary Art <span id="a1">[\[1\]](#f1)</span>.
 
-# Moscow Institute of Kosmic Anomaly
+![](/encyclopedia/images/{{page.permalink}}.jpg)
 
+**Image title**
+MIKA on fielding an experimental site, Ritsa Lake, Abkhazia, 2015
+Photo: Anna Yaroshenko / Facebook
+*Photo: [Name](index) / [Source](index)*
 
-(Est. 2013, city) is a subject, description-one <span id="a1">[\[1\]](#f1)</span>, description-two <span id="a2">[\[2\]](#f2)</span> description-three <span id="a3">[\[3\]](#f3)</span>, extra text. [Edit this page](http://prose.io/#indexmod/encyclopedia/edit/master/page-template.md)
+# {{page.title}} Na plenere
 
-![](/encyclopedia/images/image-name.jpg)
-
-**Image caption title**
-
-*Photo: [Photographer name](/photographer-name-page) / [Source name](/source-name-page)*
-
-# Conspectus
+“I am convinced that the plants have their own consciousness, not completely studied, and submitted to human area of mysticism and beliefs. It is to this consciousness and should treat our art work.”—said Vladimir Fyodorov, the artist, the inspector of the Medical Hermeneutics
 
 |Year|City|
-|----|-----|
-|2014|Tokyo|
-|2015|Moscow|
-|2017|Paris|
+|-|-|
+|2017|Moscow|
+
+# {{page.title}} Indexmod
+
+|Year|Facebook|Instagram|YouTube|Age|Indexmod|
+|-|-|-|-|-|
+|2018|000 <span id="a3">[\[3\]](#f3)</span>|000 <span id="a4">[\[4\]](#f4)</span>|000 <span id="a5">[\[5\]](#f5)</span>|00|0,0000|
+
 
 # See also
 
-+ [See also title one](page-template)
-+ [See also title two](page-template)
-+ [See also title three](page-template)
++ [About {{page.title}}](index)
++ [{{page.title}} at Wikipedia](index)
++ Botanical Garden of Moscow State University “Apothecary Garden”
++ Inspection Medical Hermeneutics
++ “Na plenere”
++ “Rassada”
 
 # Footnotes
 
-[[1]](#a1) <span id="f1"></span> [Article name short (Author name)](http://example.net/article)
+[[3]](#a3) <span id="f3"></span> [«Аптекарский огород» станет одной из площадок Московской биеннале (Moslenta)](https://moslenta.ru/city/aptekarskybiennale-14-10-2015.htm)
 
-[[2]](#a2) <span id="f2"></span> [Article name little longer (Author name longer)](http://example.net/article)
+[[4]](#a4) <span id="f4"></span> [{{page.title}} (Instagram)](index)
 
-[[3]](#a3) <span id="f3"></span> [Article name longer so far (Author name too long and much longer)](http://example.net/article)
+[[5]](#a5) <span id="f5"></span> [{{page.title}} (YouTube)](index)
 
----
-
-`Editorial`
-
-`Warnings`
-
-`Notes`
+`Updated Mar. 2018 (Andrei Dei)`
