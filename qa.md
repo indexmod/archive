@@ -22,5 +22,4 @@ label on top section of the page as warning for other editors.
 
 In 2018, Indexmod Encyclopedia has moved from the Google hosting to the own one based on Jekyll and Github Pages. Some of the articles in the status of "claimed for creation" for several years. You can continue to edit such an article right now. 
 
-
 `Updated Mar. 2018 (Andrei Dei)`
