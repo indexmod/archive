@@ -6,12 +6,13 @@ layout: default
 
 # {{page.title}}
 
-(Est. 2013, city) is a --------- <span id="a1">[\[1\]](#f1)</span>.
+(Est. 2013, city) is a Phoenix—is the capital, largest city, of Arizona, most populous state capital, as well as the sixth most populous city in the United States, also known as the Valley of the Sun, is a part of the Salt River Valley, largest metro area by population in the United States, with approximately 4.3 million people in 2010. <span id="a1">[\[1\]](#f1)</span>.
 
 ![](/encyclopedia/images/image-name.jpg)
 
 **Image title**
-
+Arizona Blogger Conference 2102
+Photo: Lauren Pfingstag / Phxfw Wordpress
 *Photo: [Name](index) / [Source](index)*
 
 # {{page.title}} Conspectus
@@ -29,6 +30,7 @@ layout: default
 
 # See also
 
++ PHXFW
 + [About {{page.title}}](index)
 + [{{page.title}} at Wikipedia](index)
 

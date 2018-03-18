@@ -6,12 +6,13 @@ layout: default
 
 # {{page.title}}
 
-(Est. 2013, city) is a --------- <span id="a1">[\[1\]](#f1)</span>.
+(Est. 2013, city) is a Elena Perminova  012  SNC (Rus. Елена Перминова) born 1986, Berdsk—is a Russian model and stylist, working and living in London.1 Login to edit Elena Perminova <span id="a1">[\[1\]](#f1)</span>.
 
 ![](/encyclopedia/images/image-name.jpg)
 
 **Image title**
-
+Elena Perminova in 2015
+Photo: Gareth Cattermole (fragment) / Zimbio
 *Photo: [Name](index) / [Source](index)*
 
 # {{page.title}} Conspectus
@@ -31,6 +32,11 @@ layout: default
 
 + [About {{page.title}}](index)
 + [{{page.title}} at Wikipedia](index)
++ Tatiana Galustiants
++ Yana Raskovalova
++ Giambatistavalli
++ SNC 100 MIPRF
++ Ulyana Sergeenko
 
 # Footnotes
 

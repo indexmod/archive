@@ -6,7 +6,7 @@ published: true
 ---
 # {{page.title}}
 
-(Est. 2013, city) is a --------- <span id="a1">[\[1\]](#f1)</span>.
+(Est. 2013, city) is a Partizaning (From Rus. партизанить)—public art practices which strategically challenge, shape, and reinvent urban and social realities. Login to edit Partizaning <span id="a1">[\[1\]](#f1)</span>.
 
 ![](/encyclopedia/images/image-name.jpg)
 
@@ -31,6 +31,12 @@ published: true
 
 + [About {{page.title}}](index)
 + [{{page.title}} at Wikipedia](index)
+Partizaning (disambiguation)
+Anton Polsky (Make)
+Sonya Polskaya
+Igor Ponosov
+Shriya Malhotra
+Dmytro Zaiets
 
 # Footnotes
 

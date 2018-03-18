@@ -8,14 +8,15 @@ published: true
 
 # {{page.title}}
 
-(Est. 2013, city) is a --------- <span id="a1">[\[1\]](#f1)</span>.
+(Est. 2013, city) is a Partizaning (Rus. Партизанинг)—an international group of street art activists founded in Moscow and running the website, collectively organizing projects, events, and publishing an occasional bulletin.1 Login to edit Partizaning <span id="a1">[\[1\]](#f1)</span>.
 
 ![](/encyclopedia/images/image-name.jpg)
 
 **Image title**
 
 *Photo: [Name](index) / [Source](index)*
-
+A fragment of Partizaning Bulletin #2 edition
+Photo: author unknown / The Polis Blog
 # {{page.title}} Conspectus
 
 |Year|City|
@@ -31,6 +32,11 @@ published: true
 
 # See also
 
+Partizaning (disambiguation)
+Anton Polsky (Make)
+Igor Ponosov
+Shriya Malhotra
+Dmytro Zaiets
 + [About {{page.title}}](index)
 + [{{page.title}} at Wikipedia](index)
 

@@ -7,12 +7,16 @@ published: true
 
 # {{page.title}}
 
-(Est. 2013, city) is a --------- <span id="a1">[\[1\]](#f1)</span>.
+(Est. 2013, city) is a Partizaning (Partizaning.org)—a website about street art, cities and human interactions launched in November 2011 by gorup of Partizaning.1 <span id="a1">[\[1\]](#f1)</span>.
 
 ![](/encyclopedia/images/image-name.jpg)
 
 **Image title**
+Logo of Russian version of Partizaning
+Photo: Partizaning / Partizaning
 
+Founders of Partizaning.org
+Photo: author unknown / Partizaning
 *Photo: [Name](index) / [Source](index)*
 
 # {{page.title}} Conspectus
@@ -30,6 +34,11 @@ published: true
 
 # See also
 
+Partizaning (disambiguation)
+Anton Polsky (Make)
+Igor Ponosov
+Shriya Malhotra
+Dmytro Zaiets
 + [About {{page.title}}](index)
 + [{{page.title}} at Wikipedia](index)
 

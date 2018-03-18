@@ -6,15 +6,23 @@ layout: default
 
 # {{page.title}}
 
-(Est. 2013, city) is a --------- <span id="a1">[\[1\]](#f1)</span>.
+(Est. 2013, city) is a Petr Pavlensky, Pjotr Pawlenski (Rus. Пётр Павленский) born 1984, Leningrad—is a Russian performance artist acts in a genre of protest art1. Petr becomes popular after scandal action “Fixation” on Red Square in Moscow in 2013. Login to edit Petr Pavlensky <span id="a1">[\[1\]](#f1)</span>.
 
 ![](/encyclopedia/images/image-name.jpg)
 
 **Image title**
+Two journalists recording Pavlensky's action on Lubyanka
+Photo: BBC Russia / Youtube / Gif by Indexmod
 
+Petr Pavlensky in 2013
+Photo: Maksim Belousov / Wikipedia
 *Photo: [Name](index) / [Source](index)*
 
-# {{page.title}} Conspectus
+# {{page.title}} Selected actions
+ 2013	 Fixation	 Red Square
+ 2014	 Segregation	 Serbsky Institute
+ 2015	 Menace	 FSB on Lubianka
+
 
 |Year|City|
 |-|-|
@@ -31,8 +39,12 @@ layout: default
 
 + [About {{page.title}}](index)
 + [{{page.title}} at Wikipedia](index)
+Pussy Riot
+Voina Group
 
 # Footnotes
+
+1 Ухо художника: несколько слов о новой акции Петра Павленского
 
 [[3]](#a3) <span id="f3"></span> [{{page.title}} (Facebook)](index)
 

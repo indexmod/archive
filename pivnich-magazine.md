@@ -6,7 +6,8 @@ layout: default
 
 # {{page.title}}
 
-(Est. 2013, city) is a --------- <span id="a1">[\[1\]](#f1)</span>.
+(Est. 2013, city) is a Pivnich Magazine (Ukr. Північ Mегезин) est. 2016, Kiev, is an online edition about places, people and events, a chronicle of independent electronic scene in Ukraine and neighboring countries in reports, releases and directly from the events. Sign in to edit Pivnich Magazine
+ <span id="a1">[\[1\]](#f1)</span>.
 
 ![](/encyclopedia/images/image-name.jpg)
 
@@ -31,6 +32,12 @@ layout: default
 
 + [About {{page.title}}](index)
 + [{{page.title}} at Wikipedia](index)
++ Strichka Festival
++ Ambience
++ Wulffius
++ Peauty-fute
++ Tilda Publishing
++ Petr Shirkovsky
 
 # Footnotes
 

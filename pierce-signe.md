@@ -6,12 +6,14 @@ layout: default
 
 # {{page.title}}
 
-(Est. 2013, city) is a --------- <span id="a1">[\[1\]](#f1)</span>.
+(Est. 2013, city) is a Signe Kristine Pierce born 1988, Tucson— is an American multimedia artist and performer. Pierce studied at the School of Visual Arts in Manhattan, where she received a BFA in Photography with a focus on performance art in 2011. During her time at the School of Visual Arts, Signe interned for Saturday Night Live and the Metropolitan Museum of Art in New York.1 Sign in to edit Signe Pierce <span id="a1">[\[1\]](#f1)</span>. American Reflexxx
+Signe Pierce rose with the 2014 short film, American Reflexxx, in collaboration with director Alli Coates. The film shows masked and portraying a hyper-sexualized personage, becoming an object of derision and then attacked.2
 
 ![](/encyclopedia/images/image-name.jpg)
 
 **Image title**
-
+A fragment of American Reflexxx
+Photo: Dir. Alli Coates / Tumblr
 *Photo: [Name](index) / [Source](index)*
 
 # {{page.title}} Conspectus
@@ -31,8 +33,14 @@ layout: default
 
 + [About {{page.title}}](index)
 + [{{page.title}} at Wikipedia](index)
+Corsa Musical Project
+Alli Coates
+Hiding in love
 
 # Footnotes
+
+1, 2 Signe Pierce—From Wikipedia, the free encyclopedia
+3 American Reflexxx / Hiding in love—Corsa 
 
 [[3]](#a3) <span id="f3"></span> [{{page.title}} (Facebook)](index)
 

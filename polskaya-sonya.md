@@ -14,7 +14,13 @@ layout: default
 
 *Photo: [Name](index) / [Source](index)*
 
-# {{page.title}} Conspectus
+# {{page.title}} Velotsvetochnitsa
+“At first, I work as a laborer for 70 rubles per hour at Timiryazev Agricultural Academy”—Sonya Polskaya said to site “Gorod Afisha” about “Velotsvetochnitsa” service startup.1 Login to edit Velotsvetochnitsa startup
+
+
+
+Sonya Polskaya (left) at “Tsiferblat” space in Moscow
+Photo: Sasha Karelina / Gorod Afisha
 
 |Year|City|
 |-|-|
@@ -28,11 +34,15 @@ layout: default
 
 
 # See also
-
+Partizaning (disambiguation)
+Anton Polsky (Make)
 + [About {{page.title}}](index)
 + [{{page.title}} at Wikipedia](index)
 
 # Footnotes
+
+1 “Velotsvetochnitsa” and inexpensive bouquets of garden and wild flowers
+
 
 [[3]](#a3) <span id="f3"></span> [{{page.title}} (Facebook)](index)
 
