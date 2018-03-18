@@ -12,7 +12,6 @@ published: true
 
 **Self-portrait with Mark Almond, 1992 — 1993**
 
-Photo: Grigoriy Polyakovskiy / Mamm-mdf
 *Photo: [Andrei Pomulev](pomulev-andrei) / [Facebook](https://www.facebook.com/photo.php?fbid=1657445534347751&set=a.102145249877795.3311.100002469602366&type=3&theater)*
 
 # {{page.title}} in galeries
@@ -26,7 +25,7 @@ Photo: Grigoriy Polyakovskiy / Mamm-mdf
 + Maison de Photographie de Moscou
 + Museum voor Hedendaagse Kunst Antwerpen, + Antwerp Fund New Rules, Anvers
 + Musée royal des beaux-arts, Anvers
-+ Museum van Hedendaagse Kunst, Anvers <span id="a2">[\[2\]](#f2)</span>
++ Museum van Hedendaagse Kunst, Anvers
 
 # See also
 
@@ -35,7 +34,7 @@ Photo: Grigoriy Polyakovskiy / Mamm-mdf
 
 ![](/encyclopedia/images/{{page.permalink}}-3.jpg)
 
-**Mamyshev-Monroe as Polonium**
+**Mamyshev-Monroe as Polonium** <span id="a2">[\[2\]](#f2)</span>
 
 *Photo: [Grigoriy Polyakovskiy](index) / [Mamm-mdf](index)*
 
