@@ -1,27 +1,21 @@
 ---
-title: Maksimov, Maksim (designer)
-permalink: maksimov-maksim-designer
+title: Template
+permalink: template
 layout: default
+published: true
 ---
 
 # {{page.title}}
 
-(Est. 2013, city) is a Maksim Maksimov (Rus. Максим Максимов) Ulyanovsk, 1984—the Russian actor, singer and stylist, co-founder of Atelier Radost’ brand, living and working in Moscow.1 Login to edit Maksim Maksimov <span id="a1">[\[1\]](#f1)</span>.
+(Est. 2013, city) is a --------- <span id="a1">[\[1\]](#f1)</span>.
 
 ![](/encyclopedia/images/{{page.permalink}}.jpg)
 
 **Image title**
-Maksim Maksimov in Moscow, 2015
-Photo: Ekaterina Eliseeva / Facebook
-
-Maksim Maksimov at Moscow Fashion Week
-Photo: Radost Creative Group / Facebook
 
 *Photo: [Name](index) / [Source](index)*
 
-# {{page.title}} Quotes
-
-“The style must be around, it should fill any human”.2 Login to edit
+# {{page.title}} Conspectus
 
 |Year|City|
 |-|-|
@@ -36,11 +30,6 @@ Photo: Radost Creative Group / Facebook
 
 # See also
 
-Atelier Radost’
-Ekaterina Egorova
-Radost Creative Group
-St. Radost
-Lera Gavrilova
 + [About {{page.title}}](index)
 + [{{page.title}} at Wikipedia](index)
 
