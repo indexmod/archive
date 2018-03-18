@@ -4,45 +4,56 @@ permalink: rubchinskiy-gosha-designer
 layout: default
 ---
 
+# {{page.title}}
 
-
-# Rubchinskiy, Gosha (designer)
-
-
-(Est. 2013, city) is a subject, description-one <span id="a1">[\[1\]](#f1)</span>, description-two <span id="a2">[\[2\]](#f2)</span> description-three <span id="a3">[\[3\]](#f3)</span>, extra text. [Edit this page](http://prose.io/#indexmod/encyclopedia/edit/master/page-template.md)
+(Est. 2013, city) is a Gosha Rubchinskiy  033  SNC  3124  FB (Rus. Гоша Рубчинский) born 1984, Moscow—a Russian photographer, skater fashion designer, one from contemporary influential designers of luxury1 goods among Russians, founder (2008) of brand Gosha Rubchinskiy, living and working in Moscow. Sign in to edit Gosha Rubchinskiy <span id="a1">[\[1\]](#f1)</span>.
 
 ![](/encyclopedia/images/image-name.jpg)
 
-**Image caption title**
+**Image title**
+Graphics from Arktida collection
+Illustrations: Gosha Rubchinskiy / Gosha Rubchinskiy
 
-*Photo: [Photographer name](/photographer-name-page) / [Source name](/source-name-page)*
+Gosha Rubchinskiy in 2014
+Photo: Unknown / Vogue
+*Photo: [Name](index) / [Source](index)*
 
-# Conspectus
+# {{page.title}} In popular culture
+In 2015, Gosha mentioned in one of the songs in the “Psychedelic Cloud rap” album of the singer from Yekaterinburg.2 In 2016 a Face with Tommy Kruise created a single with name Гоша Рубчинский.3
 
 |Year|City|
-|----|-----|
-|2014|Tokyo|
-|2015|Moscow|
-|2017|Paris|
+|-|-|
+|2017|Moscow|
+
+# {{page.title}} Indexmod
+
+|Year|Facebook|Instagram|YouTube|Age|Indexmod|
+|-|-|-|-|-|
+|2018|000 <span id="a3">[\[3\]](#f3)</span>|000 <span id="a4">[\[4\]](#f4)</span>|000 <span id="a5">[\[5\]](#f5)</span>|00|0,0000|
+
 
 # See also
 
-+ [See also title one](page-template)
-+ [See also title two](page-template)
-+ [See also title three](page-template)
++ [About {{page.title}}](index)
++ [{{page.title}} at Wikipedia](index)
+032  Natalia Alaverdian
+ 034  Ekaterina Zavodchikova
+Anton Lisin
+Boys of Moscow
+032с
+Aglets
+Dover Street Market
 
 # Footnotes
 
-[[1]](#a1) <span id="f1"></span> [Article name short (Author name)](http://example.net/article)
+1 Gosha Rubchinskiy at Farfetch
+2 Monetochka (G. Rubchinskiy)—Youtube
+3 Face Гоша Рубчинский (prod. by Tommy Kruise)—Youtube
 
-[[2]](#a2) <span id="f2"></span> [Article name little longer (Author name longer)](http://example.net/article)
+[[3]](#a3) <span id="f3"></span> [{{page.title}} (Facebook)](index)
 
-[[3]](#a3) <span id="f3"></span> [Article name longer so far (Author name too long and much longer)](http://example.net/article)
+[[4]](#a4) <span id="f4"></span> [{{page.title}} (Instagram)](index)
 
----
+[[5]](#a5) <span id="f5"></span> [{{page.title}} (YouTube)](index)
 
-`Editorial`
-
-`Warnings`
-
-`Notes`
+`Updated Mar. 2018 (Andrei Dei)`

@@ -1,17 +1,12 @@
----
-title: Rio Fashion Week
-permalink: rio-fashion-week
-layout: default
----
-
 # {{page.title}}
 
-(Est. 2013, city) is a --------- <span id="a1">[\[1\]](#f1)</span>.
+(Est. 2013, city) is a Raw Magic (Rus. Сырая магия) April 2016, Moscow—is a project by three independent groups of artists Alina Glazoun, Mitya Zilberstein, Dima Kavko, Petr Kirusha, Sergei Poteryaev, Sergei Rozhin, Alexei Rumin, Matvey Segal, Protey Temen curated by Alexander Jouuravlev at Galerie Iragui in Moscow <span id="a1">[\[1\]](#f1)</span>.
 
 ![](/encyclopedia/images/image-name.jpg)
 
 **Image title**
-
+Fedor Anoufriev
+Photo: Fedor Anoufriev / Glerie Iragui
 *Photo: [Name](index) / [Source](index)*
 
 # {{page.title}} Conspectus
@@ -29,6 +24,8 @@ layout: default
 
 # See also
 
+Protey Temen
+Mitya Zilberstein
 + [About {{page.title}}](index)
 + [{{page.title}} at Wikipedia](index)
 

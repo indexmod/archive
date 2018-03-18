@@ -6,36 +6,36 @@ layout: default
 
 # {{page.title}}
 
-(Est. 2013, city)
+(Est. 2013, city) is a Yana Raskovalova  013  SNC (Rus. Яна Расковалова) born, 19??, St. Petersburg—is a Russian jeweler, founder of Yana Jewellery living in Moscow. Sign in to edit Yana Raskovalova <span id="a1">[\[1\]](#f1)</span>.
 
-description
-
-<span id="a1">[\[1\]](#f1)</span>.
-
-![](/encyclopedia/images/image-name.jpg)
+![](/encyclopedia/images/raskovalova.jpg)
 
 **Image title**
-
+Yana Raskovalova in 2015
+Photo: Alena Chendler (fragment) / Sobaka
 *Photo: [Name](index) / [Source](index)*
 
 # {{page.title}} Conspectus
 
 |Year|City|
 |-|-|
-|2014|Tokyo|
-|2017|Paris|
+|2017|Moscow|
 
 # {{page.title}} Indexmod
 
-|Year|Facebook|Instagram|YouTube|Age|IMD|
+|Year|Facebook|Instagram|YouTube|Age|Indexmod|
 |-|-|-|-|-|
-|2018|100 <span id="a3">[\[3\]](#f3)</span>|200 <span id="a4">[\[4\]](#f4)</span>|300 <span id="a4">[\[4\]](#f4)</span>|12|0,0025|
+|2018|000 <span id="a3">[\[3\]](#f3)</span>|000 <span id="a4">[\[4\]](#f4)</span>|000 <span id="a5">[\[5\]](#f5)</span>|00|0,0000|
 
 
 # See also
 
-+ [One](index)
-+ [Two](index)
++ [About {{page.title}}](index)
++ [{{page.title}} at Wikipedia](index)
+012  Elena Perminova
+014  Vika Gazinskaya
+Yana Jewellery
+Nika Belotserkovskaya
 
 # Footnotes
 
