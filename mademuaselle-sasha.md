@@ -6,12 +6,13 @@ layout: default
 
 # {{page.title}}
 
-(Est. 2013, city) is a --------- <span id="a1">[\[1\]](#f1)</span>.
+(Est. 2013, city) is a Sasha Mademuaselle (Rus. Саша Мадмуазель) born 0000, Russian photographer interesting to rave hangouts, taking pics of drunk friends, and find out how the rave culture in Russia seems to be taking over <span id="a1">[\[1\]](#f1)</span>.
 
-![](/encyclopedia/images/image-name.jpg)
+![](/encyclopedia/images/{{page.permalink}}.jpg)
 
 **Image title**
-
+A fragment of “000024990003copy” by Sasha Mademuaselle, 2013
+Photo: Sasha Mademuaselle / Flickr
 *Photo: [Name](index) / [Source](index)*
 
 # {{page.title}} Conspectus
@@ -31,8 +32,12 @@ layout: default
 
 + [About {{page.title}}](index)
 + [{{page.title}} at Wikipedia](index)
+Artur Lomakin
+Skotoboinya
 
 # Footnotes
+
+1 Sasha Mademuaselle. Rave goddess documenting cool kids—Metal
 
 [[3]](#a3) <span id="f3"></span> [{{page.title}} (Facebook)](index)
 
