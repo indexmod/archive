@@ -6,6 +6,7 @@ published: true
 ---
 
 # {{page.title}}
+(2018) is a mixed media image by Alexey Sovertkov.
 
 ![](/encyclopedia/images/{{page.permalink}}.jpg)
 
