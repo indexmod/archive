@@ -46,11 +46,10 @@
 		</header>
 		<section>
 			<h1>{{page.title}}</h1>
-			<p><a href="http://prose.io/#indexmod/encyclopedia/edit/master/{{page.path}}"><img alt="Edit" src="edit.png" class="icon" style="width:20px;height:20px;border:0;"></a> <span style="color:#3B5998;">or</span></p>
-			<div class="fb-share-button" data-href="https://indexmod.github.io/encyclopedia/{{page.permalink}}" data-layout="button" data-mobile-iframe="true" data-size="small">
-				<a class="fb-xfbml-parse-ignore" href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Findexmod.github.io%2Fencyclopedia%2F{{page.permalink}}&amp;src=sdkpreparse" target="_blank">⟳</a>
-			</div><span style="color:#3B5998;">⤵︎ the "{{page.title}}" page</span>
-			<p></p><br>
+			<p><a href="http://prose.io/#indexmod/encyclopedia/edit/master/{{page.path}}" style="color: white; background: green;"> ⚈⤵︎ Edit</a> or <div class="fb-share-button" data-href="https://indexmod.github.io/encyclopedia/{{page.permalink}}" data-layout="button" data-mobile-iframe="true" data-size="small"> <a class="fb-xfbml-parse-ignore" href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Findexmod.github.io%2Fencyclopedia%2F{{page.permalink}}&amp;src=sdkpreparse" target="_blank">⟳</a>
+			<p><a href="http://prose.io/#indexmod/encyclopedia/edit/master/{{page.path}}" style="color: white; background: green;"> ⦁ Edit</a> or <div class="fb-share-button" data-href="https://indexmod.github.io/encyclopedia/{{page.permalink}}" data-layout="button" data-mobile-iframe="true" data-size="small">
+			</div><span style="color:#3B5998;"> the "{{page.title}}" page</span>
+			</p><br>
 			{{ content | toc }}
 		</section>
 		<footer>
