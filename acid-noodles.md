@@ -7,7 +7,7 @@ published: true
 
 # Acid Noodles
 
-(Est. 2015, Moscow) is an interactive exhibit curated by Maria Pudan for Tsvetnoy Central Market in 2015 in Moscow.
+(2015, Moscow) is an interactive exhibit curated by Maria Pudan for Tsvetnoy Central Market in 2015 in Moscow.
 
 ![](https://static.vogue.ru/iblock/066/066d77e501eb3311e57d4415cf2555b6.jpg)
 
