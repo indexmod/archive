@@ -1,51 +1,32 @@
 ---
-title: Cycles and Seasons by Master Card
+title: Cycles and Seasons by MasterCard
 permalink: cycles-and-seasons-by-master-card
 layout: default
+published: true
 ---
 
 
 # {{page.title}}
 
-(Est. 2013, city)
+(Est. 2009, Moscow, closed 2012) is a seasonal, alternative, parallel fashion week in Moscow founded and sponsored by MasterCard Russia, operated by Anna Diulgerova and Andrei Artemov <span id="a1">[\[1\]](#f1)</span>. Closed in 2012 <span id="a2">[\[2\]](#f2)</span>.
 
-Cycles and Seasons by Master Card (Cycles and Seasons) Est. 2009, Moscow, is a seasonal, alternative, parallel fashion week in Moscow founded and sponsored by Master Card Russia. Closed in 2012.
+![](http://www.spletnik.ru/img/2009/04/sasha/4/BOYKO_90410_1521.jpg)
 
-<span id="a1">[\[1\]](#f1)</span>.
+**Organizers of the Cycles and Seasons by MasterCard: Anna Diulgerova (second from left) and Andrei Artemov (top right) in 2009**
 
-![](/encyclopedia/images/image-name.jpg)
-
-**Image title**
-
-*Photo: [Name](index) / [Source](index)*
-
-# {{page.title}} Conspectus
-
-|Year|City|
-|-|-|
-|2014|Tokyo|
-|2017|Paris|
-
-# {{page.title}} Indexmod
-
-|Year|Facebook|Instagram|YouTube|Age|IMD|
-|-|-|-|-|-|
-|2018|100 <span id="a3">[\[3\]](#f3)</span>|200 <span id="a4">[\[4\]](#f4)</span>|300 <span id="a4">[\[4\]](#f4)</span>|12|0,0025|
+*Photo: [Alexandra Sukhostat](sukhostat-alexandra) / [Spletnik](http://www.spletnik.ru/img/2009/04/sasha/4/BOYKO_90410_1521.jpg)*
 
 
 # See also
 
-+ [One](index)
-+ [Two](index)
++ [Andrei Artemov](artemov-andrei)
++ [Anna Diulgerova](diulgerova-anna)
+
 
 # Footnotes
 
-Cycles & Seasons прекращает свое существование — Vogue 
+[[1]](#a1) <span id="f1"></span> [Неделя моды Cycles and Seasons by MasterCard: День первый (Spletnik)](http://www.spletnik.ru/events/12871-nedelya-mody-cycles-and-seasons-by-mastercard-den-pervyy.html)
 
-[[3]](#a3) <span id="f3"></span> [{{page.title}} (Facebook)](index)
-
-[[4]](#a4) <span id="f4"></span> [{{page.title}} (Instagram)](index)
-
-[[5]](#a5) <span id="f5"></span> [{{page.title}} (YouTube)](index)
+[[2]](#a2) <span id="f2"></span> [Cycles & Seasons прекращает свое существование (Vogue)](https://www.vogue.ru/fashion/news/450518/)
 
 `Updated Mar. 2018 (Andrei Dei)`
