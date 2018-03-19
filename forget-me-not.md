@@ -1,7 +1,7 @@
 ---
 title: Forget Me Not
 permalink: forget-me-not
-layout: default
+layout: social
 published: true
 ---
 
