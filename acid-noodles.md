@@ -11,7 +11,7 @@ published: true
 
 ![](https://static.vogue.ru/iblock/066/066d77e501eb3311e57d4415cf2555b6.jpg)
 
-**Acid Noodles cover image**
+**Acid Noodles cover image by Vasya Kolotusha**
 
 *Photo: [Tsvetnoy Central Market](tsvetnoy-central-market) / [Vogue](https://www.vogue.ru/peopleparties/afisha/interaktivnaya_vystavka_acid_noodles_v_tsvetnom/)*
 
@@ -29,6 +29,7 @@ published: true
 
 # Footnotes
 
-[[1]](#a1) <span id="f1"></span> [Vasya Kolotusha](http://kolotusha.com/Acid-Noodles)
+[[1]](#a1) <span id="f1"></span> [Vasya Kolotusha
+)](http://kolotusha.com/Acid-Noodles)
 
 `Updated Mar. 2018 (Andrei Dei)`
