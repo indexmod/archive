@@ -13,18 +13,18 @@ published: true
 
 **Acid Noodles cover image**
 
-*Photo: [Tsvetnoy](tsvetnoy) / [Vogue](https://www.vogue.ru/peopleparties/afisha/interaktivnaya_vystavka_acid_noodles_v_tsvetnom/)*
+*Photo: [Tsvetnoy Central Market](tsvetnoy-central-market) / [Vogue](https://www.vogue.ru/peopleparties/afisha/interaktivnaya_vystavka_acid_noodles_v_tsvetnom/)*
 
 # See also
 
 + [Andrei Abolenkin](abolenkin-andrei)
 + [Adelaide Fashion Festival](adelaide-fashion-festival)
-+ [Tsvetnoy Central Market](tsvetnoy-central-market)
-+ [Natalia Stuyk](stuyk-natalia)
-+ [Pavel Samokhvalov](samokhvalov-pavel)
-+ [Street art gallery](street-art-gallery)
 + [City Gif by Slava Filimonov](city-gif-by-slava-filimonov)
 + [Chill out cinema by Mic Sachkov (4S4R)](chill-out-cinema-by-mic-sachkov)
 + [Neon Room Vitaly Burykin](neon-room-vitaly-burykin)
++ [Tsvetnoy Central Market](tsvetnoy-central-market)
++ [Pavel Samokhvalov](samokhvalov-pavel)
++ [Street art gallery](street-art-gallery)
++ [Natalia Stuyk](stuyk-natalia)
 
 `Updated Mar. 2018 (Andrei Dei)`
