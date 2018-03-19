@@ -25,6 +25,6 @@ published: true
 
 # Footnotes
 
-[[1]](#a1) <span id="f1"></span> Остров Русский: 20 наших имен в мире моды (Marie Claire)](http://www.marieclaire.ru/moda/ostrov-russkiy-20-nashih-imen-v-mire-modyi/)
+[[1]](#a1) <span id="f1"></span> [Остров Русский: 20 наших имен в мире моды (Marie Claire)](http://www.marieclaire.ru/moda/ostrov-russkiy-20-nashih-imen-v-mire-modyi/)
 
-[[2]](#a2) <span id="f2"></span> Рейтинг года: 100 самых влиятельных персон в русской моде (SNC Media)](http://www.sncmedia.ru/fashion/reyting-goda-100-samykh-vliyatelnykh-v-russkoy-mode/)
+[[2]](#a2) <span id="f2"></span> [Рейтинг года: 100 самых влиятельных персон в русской моде (SNC Media)](http://www.sncmedia.ru/fashion/reyting-goda-100-samykh-vliyatelnykh-v-russkoy-mode/)
