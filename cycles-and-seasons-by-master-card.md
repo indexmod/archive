@@ -1,5 +1,5 @@
 ---
-title: Cycles and Seasons by Master Card
+title: Cycles and Seasons by MasterCard
 permalink: cycles-and-seasons-by-master-card
 layout: default
 published: true
@@ -8,11 +8,11 @@ published: true
 
 # {{page.title}}
 
-(Est. 2009, Moscow, closed 2012) is a seasonal, alternative, parallel fashion week in Moscow founded and sponsored by Master Card Russia, operated by Anna Diulgerova and Andrei Artemov <span id="a1">[\[1\]](#f1)</span>. Closed in 2012 <span id="a2">[\[2\]](#f2)</span>.
+(Est. 2009, Moscow, closed 2012) is a seasonal, alternative, parallel fashion week in Moscow founded and sponsored by MasterCard Russia, operated by Anna Diulgerova and Andrei Artemov <span id="a1">[\[1\]](#f1)</span>. Closed in 2012 <span id="a2">[\[2\]](#f2)</span>.
 
 ![](http://www.spletnik.ru/img/2009/04/sasha/4/BOYKO_90410_1521.jpg)
 
-**Organizers of the Cycles and Seasons by Master Card: Anna Diulgerova (second from left) and Andrei Artemov (top right) in 2009**
+**Organizers of the Cycles and Seasons by MasterCard: Anna Diulgerova (second from left) and Andrei Artemov (top right) in 2009**
 
 *Photo: [Alexandra Sukhostat](sukhostat-alexandra) / [Spletnik](http://www.spletnik.ru/img/2009/04/sasha/4/BOYKO_90410_1521.jpg)*
 
