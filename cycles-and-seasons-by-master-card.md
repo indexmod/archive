@@ -12,9 +12,9 @@ published: true
 
 ![](http://www.spletnik.ru/img/2009/04/sasha/4/BOYKO_90410_1521.jpg)
 
-**Organizers Anna Diulgerova and Andrei Artemov in 2009**
+**Organizers Anna Diulgerova <br>and Andrei Artemov in 2009**
 
-*Photo: [Alexandra Sukhostat](sukhostat-alexandra) / [Source](index)*
+*Photo: [Alexandra Sukhostat](sukhostat-alexandra) / [Spletnik](http://www.spletnik.ru/img/2009/04/sasha/4/BOYKO_90410_1521.jpg)*
 
 
 # See also
