@@ -29,7 +29,6 @@ published: true
 
 # Footnotes
 
-[[1]](#a1) <span id="f1"></span> [Vasya Kolotusha
-)](http://kolotusha.com/Acid-Noodles)
+[[1]](#a1) <span id="f1"></span> [Vasya Kolotusha](http://kolotusha.com/Acid-Noodles)
 
 `Updated Mar. 2018 (Andrei Dei)`
