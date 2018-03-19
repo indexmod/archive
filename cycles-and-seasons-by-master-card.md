@@ -12,7 +12,7 @@ published: true
 
 ![](http://www.spletnik.ru/img/2009/04/sasha/4/BOYKO_90410_1521.jpg)
 
-**Organizers of the Cycles and Seasons by Master Card: Anna Diulgerova (second from left)<br>and Andrei Artemov (top right) in 2009**
+**Organizers of the Cycles and Seasons by Master Card: Anna Diulgerova (second from left) and Andrei Artemov (top right) in 2009**
 
 *Photo: [Alexandra Sukhostat](sukhostat-alexandra) / [Spletnik](http://www.spletnik.ru/img/2009/04/sasha/4/BOYKO_90410_1521.jpg)*
 
