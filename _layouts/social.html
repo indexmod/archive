@@ -26,6 +26,15 @@
     <title></title>
 </head>
 <body>
+    <div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = 'https://connect.facebook.net/ru_RU/sdk.js#xfbml=1&version=v2.12&appId=173711889938607&autoLogAppEvents=1';
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+    
     {% seo %}
     <link href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}" rel="stylesheet">
     <meta content="width=device-width" name="viewport"><!--[if lt IE 9]>
@@ -34,10 +43,13 @@
     <div class="wrapper">
         <header>
             <p>{{ site.time | date_to_long_string }}</p>
-            <p><font color="gold">Edit with Prose.io<br></font"> <a href="http://prose.io/#indexmod/encyclopedia/edit/master/{{page.path}}">the “{{page.title}}” page</a></p>
+            <p><span style="color:#2e2f30;">E</span><span style="color:#3f4349;">d</span><span style="color:#404856;">i</span><span style="color:#45597a;">t</span><span style="color:#4669a3;">i</span><span style="color:#477acc;">n</span><span style="color:#3b7be2;">g</span> <span style="color:#2679ff;">⥀⟳⤵︎</span><br>
+            <a href="http://prose.io/#indexmod/encyclopedia/edit/master/{{page.path}}">The “{{page.title}}” page</a></p>
 
         </header>
         <section>
+            {{page.title}}
+            <div class="fb-share-button" data-href="https://indexmod.github.io/encyclopedia/032c" data-layout="box_count" data-size="large" data-mobile-iframe="true"><a target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Findexmod.github.io%2Fencyclopedia%2{{page.permalink}}&amp;src=sdkpreparse" class="fb-xfbml-parse-ignore">Поделиться</a></div>
             {{ content | toc }}
         </section>
         <footer>
