@@ -1,7 +1,7 @@
 ---
 title: 'Monroe, Vlad'
 permalink: monroe-vlad
-layout: default
+layout: social
 published: true
 ---
 
