@@ -1,18 +1,17 @@
 ---
-title: Youdashkin, Valentin
+title: 'Youdashkin, Valentin'
 permalink: youdashkin-valentin
 layout: default
+published: true
 ---
 
-# Youdashkin, Valentin
+(Est. 2013, city) is a subject, description-one <span id="a1">[\[1\]](#f1)</span>, description-two <span id="a2">[\[2\]](#f2)</span> description-3 <span id="a3">[\[3\]](#f3)</span>, extra text.
 
-(Est. 2013, city) is a subject, description-one <span id="a1">[\[1\]](#f1)</span>, description-two <span id="a2">[\[2\]](#f2)</span> description-3 <span id="a3">[\[3\]](#f3)</span>, extra text. [Edit this page](http://prose.io/#indexmod/encyclopedia/edit/master/youdashkin-valentin.md)
+![](https://s3.cdn.teleprogramma.pro/wp-content/uploads/2018/01/42b6a10b184feed434f4210aabe1cff5.jpg)
 
-![](/images/image-name.jpg)
+*Valentin Youdashkin*
 
-*Image caption*
-
-*Photo: [Photographer name](http://example.net/) / [Source name](http://example.net/)*
+*Photo: [Teleprogramma](teleprogramma) / [Woman Rambler](https://woman.rambler.ru/fashion/38843880-yudashkin-valentin-abramovich/)*
 
 # Conspectus
 
