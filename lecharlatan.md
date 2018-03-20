@@ -52,7 +52,7 @@ published: true
 
 # Lecharlatan Indexmod
 
-|Year||Facebook|Instagram|YouTube|Age|Article|Indexmod|
+|Year|Facebook|Instagram|YouTube|Age|Article|Indexmod|
 |-|-|-|-|-|-|-|
 |2018|719 <span id="a14">[\[14\]](#f14)</span>|4235 <span id="a15">[\[15\]](#f15)</span>|3380 <span id="a16">[\[16\]](#f16)</span>|5|{{ page.content | number_of_words }}|0,021854|
 
