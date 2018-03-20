@@ -2368,7 +2368,7 @@ Lectures in Rutgers University, Mason Gross School of Arts, 1998
 
 |Year|Facebook|Instagram|YouTube|Age|Indexmod|Total|
 |-|-|-|-|-|-|-|
-|2018|13353 <span id="a3">[\[3\]](#f3)</span>|17000000 <span id="a4">[\[4\]](#f4)</span>||30|{{ page.content | number_of_words }}|0,0000|
+|2018|13353 <span id="a3">[\[3\]](#f3)</span>|17000000 <span id="a4">[\[4\]](#f4)</span>||30|{{ page.content | number_of_words }}|5734861,02924|
 
 # Footnotes
 
