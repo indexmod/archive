@@ -14,9 +14,9 @@ published: true
 *Photo: [Teleprogramma](teleprogramma) / [Woman Rambler](https://woman.rambler.ru/fashion/38843880-yudashkin-valentin-abramovich/)*
 
 # Family 
-
-|Wife |Marina|
+|Relative|Name|
 |-|-|
+|Wife |Marina|
 |Dauter |Galina|
 
 
