@@ -1,7 +1,7 @@
 ---
 title: How to edit
 permalink: edit
-layout: cover
+layout: social
 published: true
 ---
 
