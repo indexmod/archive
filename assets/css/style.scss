@@ -15,14 +15,14 @@ h1, h2, h3, h4, h5, h6 {
 	font-size: 39px;
 	font-weight: 100;
 	line-height: 1.2em;
-	color: black;
+	color: #454343;
 }
 table {
 	font-family: 'Monaco', serif;
 	font-size: 18px;
 	line-height: 1em;
 	font-weight: 100;
-	color: black;
+	color: #454343;
 	border-collapse: collapse;
 }
 th {
@@ -58,20 +58,15 @@ tr:hover {
 	border-radius: 5px;
 	padding: 9px 9px;
 }
-
 del {
-
-	color: red;
-	
+	color: silver;
 }
-
-
 p {
 	font-family: 'Georgia', serif;
 	font-size: 24px;
 	line-height: 1.6em;
 	font-weight: 100;
-	color: black;
+	color: #454343;
 }
 strong {
 	color: #454343;
@@ -80,42 +75,40 @@ strong {
 	line-height: 0.1em;
 	font-weight: 900;
 }
-
 em {
-	color: black;
+	color: #454343;
 	font-size: 24px;
 	line-height: 0.1em;
 	font-weight: 100;
 }
-
 li {
 	font-family: 'Georgia', serif;
 	font-size: 24px;
 	line-height: 1.6em;
 	font-weight: 100;
-	color: black;
+	color: #454343;
 }
 ul {
 	font-family: 'Georgia', serif;
 	font-size: 24px;
 	line-height: 1.6em;
 	font-weight: 100;
-	color: black;
+	color: #454343;
 }
 a:link {
-	color: #4286f4;
+	color: #4e80d8;
 	text-decoration: none;
 }
 a:visited {
-	color: #4286f4;
+	color: #4e80d8;
 	text-decoration: none;
 }
 a:hover {
 	color: green;
-	text-decoration: none;
+	text-decoration: underline;
 }
 a:active {
-	color: #4286f4;
+	color: #4e80d8;
 	text-decoration: none;
 }
 img {
@@ -126,6 +119,7 @@ img {
 	-webkit-filter: grayscale(100%);
 	filter: grayscale(100%);
 }
+
 .container {
 	width: 100px;
 }

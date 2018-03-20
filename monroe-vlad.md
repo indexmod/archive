@@ -1,10 +1,9 @@
 ---
 title: 'Monroe, Vlad'
 permalink: monroe-vlad
-layout: default
+layout: social
 published: true
 ---
-# {{page.title}}
 
 (Rus. Влад Мамышев-Монро, born 1969, Leningrad — dead 2013, Bali) Russian artist, performer, laureate of the Kandinsky Prize (2007) in the nomination of the media project of the year <span id="a1">[\[1\]](#f1)</span>.
 

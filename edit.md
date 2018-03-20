@@ -1,7 +1,7 @@
 ---
 title: How to edit
 permalink: edit
-layout: default
+layout: cover
 published: true
 ---
 

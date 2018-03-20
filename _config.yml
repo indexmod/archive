@@ -18,5 +18,5 @@ theme: jekyll-theme-minimal
 include: ['.htaccess']
 gems:
 plugins:
-  - jekyll-toc
-show_TOC: true
+  - jekyll-sitemap
+
