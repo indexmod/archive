@@ -4,7 +4,7 @@ permalink: cycles-and-seasons-by-master-card
 layout: social
 published: true
 ---
-(Est. 2009, Moscow, closed 2012) is aт alternative fashion week in Moscow founded and sponsored by MasterCard Russia, operated by Anna Diulgerova and Andrei Artemov <span id="a1">[\[1\]](#f1)</span>. Closed in 2012 <span id="a2">[\[2\]](#f2)</span>.
+(Est. 2009, Moscow, closed 2012) is an alternative fashion week in Moscow founded and sponsored by MasterCard Russia, operated by Anna Diulgerova and Andrei Artemov <span id="a1">[\[1\]](#f1)</span>. Closed in 2012 <span id="a2">[\[2\]](#f2)</span>.
 
 ![](http://www.spletnik.ru/img/2009/04/sasha/4/BOYKO_90410_1521.jpg)
 
