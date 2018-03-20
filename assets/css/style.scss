@@ -112,8 +112,12 @@ a:active {
 	text-decoration: none;
 }
 
-p.lead {
+.lead {
     font-style: italic;
+	color: black;
+	font-size: 28px;
+	line-height: 0.2em;
+	
 }
 
 a:link.lead {
