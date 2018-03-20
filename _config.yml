@@ -19,4 +19,4 @@ include: ['.htaccess']
 gems:
 plugins:
   - jekyll-sitemap
-show_TOC: true
+
