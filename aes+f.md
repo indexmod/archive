@@ -2368,14 +2368,13 @@ Lectures in Rutgers University, Mason Gross School of Arts, 1998
 
 |Year|Facebook|Instagram|YouTube|Age|Indexmod|Total|
 |-|-|-|-|-|-|-|
-|2018|13353 <span id="a3">[\[3\]](#f3)</span>|17000000 <span id="a4">[\[4\]](#f4)</span>|000 <span id="a5">[\[5\]](#f5)</span>|30|{{ page.content | number_of_words }}|0,0000|
+|2018|13353 <span id="a3">[\[3\]](#f3)</span>|17000000 <span id="a4">[\[4\]](#f4)</span>||30|{{ page.content | number_of_words }}|0,0000|
 
 # Footnotes
 
-[[3]](#a3) <span id="f3"></span> [{{page.title}} (Facebook)](index)
+[[3]](#a3) <span id="f3"></span> [{{page.title}} (Facebook)](https://www.facebook.com/AESplusF/)
 
-[[4]](#a4) <span id="f4"></span> [{{page.title}} (Instagram)](index)
+[[4]](#a4) <span id="f4"></span> [{{page.title}} (Instagram)](https://www.instagram.com/aesplusf/)
 
-[[5]](#a5) <span id="f5"></span> [{{page.title}} (YouTube)](index)
 
 `Update Mar. 2018 (Andrei Dei)`
