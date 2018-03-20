@@ -1,7 +1,7 @@
 ---
 title: 'Youdashkin, Valentin'
 permalink: youdashkin-valentin
-layout: default
+layout: social
 published: true
 ---
 
