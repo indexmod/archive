@@ -1,36 +1,30 @@
 ---
 title: 'Youdashkin, Valentin'
 permalink: youdashkin-valentin
-layout: default
+layout: social
 published: true
 ---
 
-(Est. 2013, city) is a subject, description-one <span id="a1">[\[1\]](#f1)</span>, description-two <span id="a2">[\[2\]](#f2)</span> description-3 <span id="a3">[\[3\]](#f3)</span>, extra text.
+(Rus. Юдашкин, Валентин Абрамович, born. 1963, Bakovka) is a Russian fashion designer <span id="a1">[\[1\]](#f1)</span>.
 
 ![](https://s3.cdn.teleprogramma.pro/wp-content/uploads/2018/01/42b6a10b184feed434f4210aabe1cff5.jpg)
 
-*Valentin Youdashkin*
+**Valentin Youdashkin**
 
 *Photo: [Teleprogramma](teleprogramma) / [Woman Rambler](https://woman.rambler.ru/fashion/38843880-yudashkin-valentin-abramovich/)*
 
-# Conspectus
+# Family 
 
-|Year|City|
-|----|---------|
-|2014|Tokyo|
-|2015|Moscow|
-|2017|Kiev|
+|Relative|Name|
+|-|-|
+|Wife|Marina|
+|Dauter|Galina|
+
 
 # See also
 
-- [Source name](http://example.net/)
-- [Source name](http://example.net/)
-- [Source name](http://example.net/)
+- [Valentin Youdashkin (brand)](valentin-youdashkin-brand)
 
 # Footnotes
 
-[[1]](#a1) <span id="f1"></span> [Article name (Author name)](http://example.net/article)
-
-[[2]](#a2) <span id="f2"></span> [Article name (Author name)](http://example.net/article)
-
-[[3]](#a3) <span id="f3"></span> [Article name (Author name)](http://example.net/article)
+[[1]](#a1) <span id="f1"></span> [Valentin Abramovich Yudashkin (Wikipedia)](https://en.wikipedia.org/wiki/Valentin_Yudashkin)
