@@ -2,40 +2,43 @@
 title: Axenoff Jewellery
 permalink: axenoff-jewellery
 position: null
-layout: default
+layout: social
 published: true
 ---
 
-# Axenoff Jewellery
 
-(Est. 2013, city) Axenoff Jewellery (Rus. Аксёнов Джуэлри) est. 2010, Moscow, is a Russian brand founded by Petr Axenoff <span id="a1">[\[1\]](#f1)</span>, description-two <span id="a2">[\[2\]](#f2)</span> description-3 <span id="a3">[\[3\]](#f3)</span>, extra text.
+(Rus. Аксёнов Джуэлри, est. 2010, Moscow) is a Russian brand founded by Petr Axenoff <span id="a1">[\[1\]](#f1)</span>.
 
-![](/images/image-name.jpg)
+![](/encyclopedia/images/{{page.permalink}}.jpg)
 
-*Image caption*
+**Image title**
 
-*Photo: [Photographer name](http://example.net/) / [Source name](http://example.net/)*
+*Photo: [Name](index) / [Source](index)*
 
-# Conspectus
+# {{page.title}} Conspectus
 
 |Year|City|
-|----|---------|
-|2014|Tokyo|
-|2015|Moscow|
-|2017|Kiev|
+|-|-|
+|2017|Moscow|
+
+# {{page.title}} Indexmod
+
+|Year|Facebook|Instagram|YouTube|Age|Indexmod|Total|
+|-|-|-|-|-|-|
+|2018|000 <span id="a3">[\[3\]](#f3)</span>|000 <span id="a4">[\[4\]](#f4)</span>|000 <span id="a5">[\[5\]](#f5)</span>|00|{{ page.content | number_of_words }}|0,0000|
+
 
 # See also
 
-- [Source name](http://example.net/)
-- [Source name](http://example.net/)
-- [Source name](http://example.net/)
++ [About {{page.title}}](index)
++ [{{page.title}} at Wikipedia](index)
 
 # Footnotes
 
-[[1]](#a1) <span id="f1"></span> [Article name (Author name)](http://example.net/article)
+[[3]](#a3) <span id="f3"></span> [{{page.title}} (Facebook)](index)
 
-[[2]](#a2) <span id="f2"></span> [Article name (Author name)](http://example.net/article)
+[[4]](#a4) <span id="f4"></span> [{{page.title}} (Instagram)](index)
 
-[[3]](#a3) <span id="f3"></span> [Article name (Author name)](http://example.net/article)
+[[5]](#a5) <span id="f5"></span> [{{page.title}} (YouTube)](index)
 
 `Updated Mar. 2018 (Andrei Dei)`
