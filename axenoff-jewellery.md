@@ -11,22 +11,15 @@ published: true
 
 ![](/encyclopedia/images/{{page.permalink}}.jpg)
 
-**Image title**
+**Earrings ‘Eye Guardian’. Silver, agate, topazes. Jeweler Petr Axenoff**
 
-*Photo: [Name](index) / [Source](index)*
-
-# {{page.title}} Conspectus
-
-|Year|City|
-|-|-|
-|2017|Moscow|
+*Photo: [Petr Axenoff](index) / [Nasvete](index)*
 
 # {{page.title}} Indexmod
 
 |Year|Facebook|Instagram|YouTube|Age|Indexmod|Total|
 |-|-|-|-|-|-|
 |2018|000 <span id="a3">[\[3\]](#f3)</span>|000 <span id="a4">[\[4\]](#f4)</span>|000 <span id="a5">[\[5\]](#f5)</span>|00|{{ page.content | number_of_words }}|0,0000|
-
 
 # See also
 
