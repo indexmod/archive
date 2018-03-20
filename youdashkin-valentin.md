@@ -9,9 +9,16 @@ published: true
 
 ![](https://s3.cdn.teleprogramma.pro/wp-content/uploads/2018/01/42b6a10b184feed434f4210aabe1cff5.jpg)
 
-*Valentin Youdashkin*
+**Valentin Youdashkin**
 
 *Photo: [Teleprogramma](teleprogramma) / [Woman Rambler](https://woman.rambler.ru/fashion/38843880-yudashkin-valentin-abramovich/)*
+
+# Family 
+
+|Wife |Marina|
+|-|-|
+|Dauter |Galina|
+
 
 # See also
 
