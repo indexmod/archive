@@ -1,7 +1,7 @@
 ---
 title: Adelaide Fashion Festival
 permalink: adelaide-fashion-festival
-layout: social
+layout: default
 published: true
 ---
 (Est. 2013, Government of South Australia) is fashion event in Australia, nurtured by the City of Norwood, Payneham and St Peters, the festival was elevated onto the international stage in 2015 under the ownership of the South Australian Government and management of Events South Australia, the state’s major events arm.
