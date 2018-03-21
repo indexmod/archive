@@ -4,8 +4,6 @@ permalink: africa-fashion-week-paris
 layout: default
 published: true
 ---
-# {{page.title}}
-
 (Est. 2013, city) is a subject, description <span id="a1">[\[1\]](#f1)</span> extra text.
 
 ![](/encyclopedia/images/image-name.jpg)
