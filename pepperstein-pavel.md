@@ -17,7 +17,7 @@ published: true
 
 # {{page.title}} Bio
 
-Pepperstein  is a son of Irina Pivovarova—an author of children’s books and Viktor Pivovarov—a known painter. From 1985 to 1987, he studied at The Academy of Fine Arts in Prague. In 1987, he co-founded the experimental group of artists called Inspection Medical Hermeneutics (P.Pepperstein, S. Anufriev, Y. Liederman, Vladimir Fedorov). The ideology of Medical Hermeneutics was the fusion of incompatible descriptive language, from contemporary western philosophy and Orthodox theology, Daoism, and Buddhism to the language of psychiatry and pharmacology, which created a completely unique manner of expression.
+Pepperstein  is a son of Irina Pivovarova—an author of children’s books and Viktor Pivovarov—a known painter. From 1985 to 1987, he studied at The Academy of Fine Arts in Prague. In 1987, he co-founded the experimental group of artists called Inspection Medical Hermeneutics (P. Pepperstein, S. Anufriev, Y. Liederman, Vladimir Fedorov). The ideology of Medical Hermeneutics was the fusion of incompatible descriptive language, from contemporary western philosophy and Orthodox theology, Daoism, and Buddhism to the language of psychiatry and pharmacology, which created a completely unique manner of expression.
 
 Since 1989 Pepperstein has been an independent artist, writer, critic, art theorist and rap musician. His work is a continuation of the tradition started by the Moscow Conceptual School. During 1994, he was Visiting Professor at the Städelschule in Frankfurt, Germany.
 
