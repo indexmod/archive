@@ -1,10 +1,9 @@
 ---
 layout: cover
-published: true
 title: Index
 ---
-<!--- Do not change the "index.md" --->
 
+<!--- Do not change the "index.md" --->
 
 # Index
 
@@ -16,6 +15,5 @@ title: Index
   <a href="{{ page.url | absolute_url }}">{{ page.title }}</a>
   </li>
   {% endfor %}
-
-
+  
 </ul>

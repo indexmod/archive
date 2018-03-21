@@ -4,45 +4,57 @@ permalink: petra-ivana-babushkina-artist
 layout: default
 ---
 
+# {{page.title}}
 
+(Est. 2013, city) is a Petra-Ivana Babushkina, Maryjane Përkin, Ivona Babuch (Rus. Мари-Анна Абовян, Петра-Ивана Бабушкина, (2016) Ивона Бабуч) born in 1984, Moscow, is a Russian artist, curator1, graduated from the Moscow Institute of Contemporary Art, founder of “Shalphey Radio” and “Beauty salon Virtualёt”, lives and works in Moscow. Login to edit Petra-Ivana Babushkina. One of the areas of creativity of Ivana is edible objects and buffing of city walls. Another big musical style conception by Petra-Ivana is a mixture of two Russian radio stations “Radio Shanson” and “Radio Orpheus” track lists in one radio for elevators (See Shalphey Radio). <span id="a1">[\[1\]](#f1)</span>.
 
-# Petra-Ivana Babushkina (artist)
+![](/encyclopedia/images/petra-ivana.png)
 
+**Image title**
+Petra-Ivana Babushkina in 2012 (fragment)
+Photo: Pavel Samokhvalov / Indexmod / Facebook
 
-(Est. 2013, city) is a subject, description-one <span id="a1">[\[1\]](#f1)</span>, description-two <span id="a2">[\[2\]](#f2)</span> description-three <span id="a3">[\[3\]](#f3)</span>, extra text. [Edit this page](http://prose.io/#indexmod/encyclopedia/edit/master/page-template.md)
+Buffed arch in Akademicheskaya area of Moscow, 2015; “Holiday of Birth”, Cake, 2014
+Photos: Petra-Ivana Babushkina / Facebook
 
-![](/encyclopedia/images/image-name.jpg)
+Cover of “Dialogue of Arts” issue #4—2015 and article “Art intervention in the Moscow daily”
+Photos: Andrei Gurotesuku / Indexmod
 
-**Image caption title**
+Virtualёt album (fragment)
+Photo: Indexmod / Facebook
+*Photo: [Name](index) / [Source](index)*
 
-*Photo: [Photographer name](/photographer-name-page) / [Source name](/source-name-page)*
-
-# Conspectus
+# {{page.title}} Installations
+2010 Singing Walls, Vinzavod, Moscow
 
 |Year|City|
-|----|-----|
-|2014|Tokyo|
-|2015|Moscow|
-|2017|Paris|
+|-|-|
+|2017|Moscow|
+
+# {{page.title}} Indexmod
+
+|Year|Facebook|Instagram|YouTube|Age|Indexmod|
+|-|-|-|-|-|
+|2018|000 <span id="a3">[\[3\]](#f3)</span>|000 <span id="a4">[\[4\]](#f4)</span>|000 <span id="a5">[\[5\]](#f5)</span>|00|0,0000|
+
 
 # See also
 
-+ [See also title one](page-template)
-+ [See also title two](page-template)
-+ [See also title three](page-template)
++ [About {{page.title}}](index)
++ [{{page.title}} at Wikipedia](index)
++ Cecilia Eykhbaum
++ House of Artists on Vavilov Street
++ Shalphey Radio
++ Urban Fauna Laboratory
 
 # Footnotes
 
-[[1]](#a1) <span id="f1"></span> [Article name short (Author name)](http://example.net/article)
+1 Леопарды и гиперконцептуализм (Митя Нестеров) https://syg.ma/@1943/lieopardy-i-ghipierkontsieptualizm
 
-[[2]](#a2) <span id="f2"></span> [Article name little longer (Author name longer)](http://example.net/article)
+[[3]](#a3) <span id="f3"></span> [{{page.title}} (Facebook)](index)
 
-[[3]](#a3) <span id="f3"></span> [Article name longer so far (Author name too long and much longer)](http://example.net/article)
+[[4]](#a4) <span id="f4"></span> [{{page.title}} (Instagram)](index)
 
----
+[[5]](#a5) <span id="f5"></span> [{{page.title}} (YouTube)](index)
 
-`Editorial`
-
-`Warnings`
-
-`Notes`
+`Updated Mar. 2018 (Andrei Dei)`

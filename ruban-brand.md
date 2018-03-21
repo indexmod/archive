@@ -4,45 +4,65 @@ permalink: ruban-brand
 layout: default
 ---
 
+# {{page.title}}
 
-
-# Ruban (brand)
-
-
-(Est. 2013, city) is a subject, description-one <span id="a1">[\[1\]](#f1)</span>, description-two <span id="a2">[\[2\]](#f2)</span> description-three <span id="a3">[\[3\]](#f3)</span>, extra text. [Edit this page](http://prose.io/#indexmod/encyclopedia/edit/master/page-template.md)
+(Est. 2013, city) is a Ruban—a fashion house established in 2010 by sisters Alisa and Yulia Ruban with flagship office at Kamergerski side-street in Moscow. Since 2013, each season the collections is presented in a large international online retailer Moda Operandi, having the highest popularity on American and English markets.1 Sign in to edit Ruban <span id="a1">[\[1\]](#f1)</span>.
 
 ![](/encyclopedia/images/image-name.jpg)
 
-**Image caption title**
+**Image title**
 
-*Photo: [Photographer name](/photographer-name-page) / [Source name](/source-name-page)*
+*Photo: [Name](index) / [Source](index)*
 
-# Conspectus
+# {{page.title}} Selected customers
+
+Elena Perminova
+Vera Brezhneva
+Evelina Khromchenko
+Ekaterina Mukhina
+Daria Veledeeva (editor-in-chief of Harper’s Bazaar Russia)
+Kseniya Gorbacheva (editor-in-chief of l’Officiel Russia)
+Jurate Gurauskaite (editor-in-chief of InStyle Russia)
+Anna Mikhalkova (actress)
+Anna Chipovskaya (actress)
+TV presenter Olga Shelest
+Zhanna Bianca
 
 |Year|City|
-|----|-----|
-|2014|Tokyo|
-|2015|Moscow|
-|2017|Paris|
+|-|-|
+|2017|Moscow|
+
+# {{page.title}} Indexmod
+
+|Year|Facebook|Instagram|YouTube|Age|Indexmod|
+|-|-|-|-|-|
+|2018|000 <span id="a3">[\[3\]](#f3)</span>|000 <span id="a4">[\[4\]](#f4)</span>|000 <span id="a5">[\[5\]](#f5)</span>|00|0,0000|
+
 
 # See also
 
-+ [See also title one](page-template)
-+ [See also title two](page-template)
-+ [See also title three](page-template)
++ [About {{page.title}}](index)
++ [{{page.title}} at Wikipedia](index)
+CR Fashion Book
+Quoris Art
+MFW
+Moda Operandi
+Trekhgorka
+
+Camel Kimono Coat by Ruban for preorder in 2014
+Photo: Moda Operandi / Pinterest
+
+Fashion director of Glamour Maria Fedorova at Trekhgorka Quoris Art
+Photo: Nikolai Zverkov / Quoris Art
+Selected collections
+ October 2015, SS 16, Trekhgorka, Quoris Art
 
 # Footnotes
 
-[[1]](#a1) <span id="f1"></span> [Article name short (Author name)](http://example.net/article)
+[[3]](#a3) <span id="f3"></span> [{{page.title}} (Facebook)](index)
 
-[[2]](#a2) <span id="f2"></span> [Article name little longer (Author name longer)](http://example.net/article)
+[[4]](#a4) <span id="f4"></span> [{{page.title}} (Instagram)](index)
 
-[[3]](#a3) <span id="f3"></span> [Article name longer so far (Author name too long and much longer)](http://example.net/article)
+[[5]](#a5) <span id="f5"></span> [{{page.title}} (YouTube)](index)
 
----
-
-`Editorial`
-
-`Warnings`
-
-`Notes`
+`Updated Mar. 2018 (Andrei Dei)`

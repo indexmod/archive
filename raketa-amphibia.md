@@ -4,45 +4,57 @@ permalink: raketa-amphibia
 layout: default
 ---
 
+# {{page.title}}
 
+(Est. 2013, city) is a Raketa Amphibia (Rus. Ракета Амфибия), is a model of Russian watch by The Petrodvorets Watch Factory “Raketa” launched and presented in Basel in 2014. Sign in to edit Raketa Amphibia.
 
-# Raketa Amphibia
+# The Watch Factory
 
-
-(Est. 2013, city) is a subject, description-one <span id="a1">[\[1\]](#f1)</span>, description-two <span id="a2">[\[2\]](#f2)</span> description-three <span id="a3">[\[3\]](#f3)</span>, extra text. [Edit this page](http://prose.io/#indexmod/encyclopedia/edit/master/page-template.md)
+The Petrodvorets Watch Factory is a Russia’s oldest factory located in Saint Petersburg.  The Factory was founded by Peter the Great in 1721 and now is producing watches under the brand “Pobeda” since the End of World War II. In 1961, the brand “Raketa” was launched in honor of Russian cosmonaut Yuri Gagarin. The factory is located in its historical building. Login to edit The Watch Factory <span id="a1">[\[1\]](#f1)</span>.
 
 ![](/encyclopedia/images/image-name.jpg)
 
-**Image caption title**
+**Image title**
+Avant-garde poster campaign and elegant model “Raketa Yalta” inspired by vintage of a 1960′s
+Photo: Petrodvorets Watch Factory / Raketa
+*Photo: [Name](index) / [Source](index)*
 
-*Photo: [Photographer name](/photographer-name-page) / [Source name](/source-name-page)*
+# {{page.title}} Conspectus
 
-# Conspectus
+In 2014 Raketa launched its new movement “Raketa Avtomat”, one of the most reliable movements in the world.
+Jean-Claude Quenet
+In 2012 ex-Rolex production director, Jean-Claude Quenet joined the team of “Raketa” brands.
 
 |Year|City|
-|----|-----|
-|2014|Tokyo|
-|2015|Moscow|
-|2017|Paris|
+|-|-|
+|2017|Moscow|
+
+# Other models
+Raketa Crimea
+Raketa Yalta
+
+# {{page.title}} Indexmod
+
+|Year|Facebook|Instagram|YouTube|Age|Indexmod|
+|-|-|-|-|-|
+|2018|000 <span id="a3">[\[3\]](#f3)</span>|000 <span id="a4">[\[4\]](#f4)</span>|000 <span id="a5">[\[5\]](#f5)</span>|00|0,0000|
+
 
 # See also
 
-+ [See also title one](page-template)
-+ [See also title two](page-template)
-+ [See also title three](page-template)
++ [About {{page.title}}](index)
++ [{{page.title}} at Wikipedia](index)
+Basel
+Pobeda Vesna
+Natalia Vodianova
+Marina Krylova
 
 # Footnotes
 
-[[1]](#a1) <span id="f1"></span> [Article name short (Author name)](http://example.net/article)
+[[3]](#a3) <span id="f3"></span> [{{page.title}} (Facebook)](index)
 
-[[2]](#a2) <span id="f2"></span> [Article name little longer (Author name longer)](http://example.net/article)
+[[4]](#a4) <span id="f4"></span> [{{page.title}} (Instagram)](index)
 
-[[3]](#a3) <span id="f3"></span> [Article name longer so far (Author name too long and much longer)](http://example.net/article)
+[[5]](#a5) <span id="f5"></span> [{{page.title}} (YouTube)](index)
 
----
-
-`Editorial`
-
-`Warnings`
-
-`Notes`
+`Updated Mar. 2018 (Andrei Dei)`

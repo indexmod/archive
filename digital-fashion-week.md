@@ -4,39 +4,51 @@ permalink: page-template
 layout: default
 ---
 
+# {{page.title}}
 
+(Est. 2012, Bangkok)
 
-# Digital Fashion Week
+Digital Fashion Week (DFW), est. 2012—is the world’s first shoppable live streamed fashion week where viewers can make instant purchases on the runway, is a platform for modern, current and lifestyle-forward brands, held in collaboration with British Council and DFW Creative in Singapore and Siam Paragon Group in Bangkok, the only fashion event that promotes the best young fashion designers through events and digital platforms in Asia.
 
-
-(Est. 2013, city) is a subject, description-one <span id="a1">[\[1\]](#f1)</span>, description-two <span id="a2">[\[2\]](#f2)</span> description-three <span id="a3">[\[3\]](#f3)</span>, extra text.
+<span id="a1">[\[1\]](#f1)</span>.
 
 ![](/encyclopedia/images/image-name.jpg)
 
-**Image caption title**
+**Image title**
+82-year-old Carmen Dell’Orefice at DFW'15 in Singapore
+Photo: Digital Fashion Week / Popspoken
+*Photo: [Name](index) / [Source](index)*
 
-*Photo: [Photographer name](/photographer-name-page) / [Source name](/source-name-page)*
-
-# Conspectus
+# {{page.title}} Selected events
 
 |Year|City|
-|----|-----|
-|2014|Tokyo|
-|2015|Moscow|
-|2017|Paris|
+|-|-|
+|2015|National Design Centre, Singapore|
+|2016|Siam Centre, Bangkok|
+
+# {{page.title}} Indexmod
+
+|Year|Facebook|Instagram|YouTube|Age|IMD|
+|-|-|-|-|-|
+|2018|100 <span id="a3">[\[3\]](#f3)</span>|200 <span id="a4">[\[4\]](#f4)</span>|300 <span id="a4">[\[4\]](#f4)</span>|12|0,0025|
+
 
 # See also
 
-+ [See also title one](page-template)
-+ [See also title two](page-template)
-+ [See also title three](page-template)
++ [One](index)
++ [Two](index)
+Bangkok
+British Council
+DFW Creative
+Siam Paragon Group
+Singapore
 
 # Footnotes
 
-[[1]](#a1) <span id="f1"></span> [Article name short (Author name)](http://example.net/article)
+[[3]](#a3) <span id="f3"></span> [{{page.title}} About (Facebook)](index)
 
-[[2]](#a2) <span id="f2"></span> [Article name little longer (Author name longer)](http://example.net/article)
+[[4]](#a4) <span id="f4"></span> [{{page.title}} (Instagram)](index)
 
-[[3]](#a3) <span id="f3"></span> [Article name longer so far (Author name too long and much longer)](http://example.net/article)
+[[5]](#a5) <span id="f5"></span> [{{page.title}} (YouTube)](index)
 
 `Updated Mar. 2018 (Andrei Dei)`

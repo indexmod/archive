@@ -4,45 +4,55 @@ permalink: oborotistov-viktor
 layout: default
 ---
 
+# {{page.title}}
 
+(Est. 2013, city)
 
-# Oborotistov, Viktor
+Victor Oborotistov (Rus. Виктор Оборотистов) made in 1965, Karabashka, Sverdlovskaya Oblast—is a Russian artist.
 
-
-(Est. 2013, city) is a subject, description-one <span id="a1">[\[1\]](#f1)</span>, description-two <span id="a2">[\[2\]](#f2)</span> description-three <span id="a3">[\[3\]](#f3)</span>, extra text. [Edit this page](http://prose.io/#indexmod/encyclopedia/edit/master/page-template.md)
+<span id="a1">[\[1\]](#f1)</span>.
 
 ![](/encyclopedia/images/image-name.jpg)
 
-**Image caption title**
+**Image title**
 
-*Photo: [Photographer name](/photographer-name-page) / [Source name](/source-name-page)*
+*Photo: [Name](index) / [Source](index)*
 
-# Conspectus
+# About Victor
 
-|Year|City|
-|----|-----|
-|2014|Tokyo|
-|2015|Moscow|
-|2017|Paris|
+1987 Yekaterinburg
+1990 Evening School Hozhateleva, Ekaterinburg
+1995 Exhibition Activities
+Participation in exhibitions
+2001 Personal exhibition
+2004 Artklyazma Festival, Moscow
+2006 White Rose Shostakovich Str. Lenina, Ekaterinburg, Museum of Contemporary Art, Moscow
+2007 Between Us
+2008 Cuba
+2009 Next to the bright future!, Artzavod Yekaterinburg
+Dispensary in 2012, the 2nd Ural Industrial Biennial of Contemporary Art, Yekaterinburg
+2014 Painting In Style Bo, Ekaterinburg
+2015 “Creators” (film)
+2015 Circulation Celestial Body
+
+# {{page.title}} Indexmod
+
+|Year|Facebook|Instagram|YouTube|Age|IMD|
+|-|-|-|-|-|
+|2018|100 <span id="a3">[\[3\]](#f3)</span>|200 <span id="a4">[\[4\]](#f4)</span>|300 <span id="a4">[\[4\]](#f4)</span>|12|0,0025|
+
 
 # See also
 
-+ [See also title one](page-template)
-+ [See also title two](page-template)
-+ [See also title three](page-template)
++ [One](index)
++ [Two](index)
 
 # Footnotes
 
-[[1]](#a1) <span id="f1"></span> [Article name short (Author name)](http://example.net/article)
+[[3]](#a3) <span id="f3"></span> [{{page.title}} (Facebook)](index)
 
-[[2]](#a2) <span id="f2"></span> [Article name little longer (Author name longer)](http://example.net/article)
+[[4]](#a4) <span id="f4"></span> [{{page.title}} (Instagram)](index)
 
-[[3]](#a3) <span id="f3"></span> [Article name longer so far (Author name too long and much longer)](http://example.net/article)
+[[5]](#a5) <span id="f5"></span> [{{page.title}} (YouTube)](index)
 
----
-
-`Editorial`
-
-`Warnings`
-
-`Notes`
+`Updated Mar. 2018 (Andrei Dei)`

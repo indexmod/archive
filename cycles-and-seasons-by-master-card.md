@@ -1,42 +1,28 @@
 ---
-title: Cycles and Seasons by Master Card
+title: Cycles and Seasons by MasterCard
 permalink: cycles-and-seasons-by-master-card
-layout: default
+layout: social
+published: true
 ---
+(Est. 2009, Moscow, closed 2012) is an alternative fashion week in Moscow founded and sponsored by MasterCard Russia, operated by Anna Diulgerova and Andrei Artemov <span id="a1">[\[1\]](#f1)</span>. Closed in 2012 <span id="a2">[\[2\]](#f2)</span>.
 
+![](http://www.spletnik.ru/img/2009/04/sasha/4/BOYKO_90410_1521.jpg)
 
+**Organizers of the Cycles and Seasons by MasterCard: Anna Diulgerova (second from left) and Andrei Artemov (top right) in 2009**
 
-# Cycles and Seasons by Master Card
+*Photo: [Alexandra Sukhostat](sukhostat-alexandra) / [Spletnik](http://www.spletnik.ru/img/2009/04/sasha/4/BOYKO_90410_1521.jpg)*
 
-
-(Est. 2013, city) is a subject, description-one <span id="a1">[\[1\]](#f1)</span>, description-two <span id="a2">[\[2\]](#f2)</span> description-three <span id="a3">[\[3\]](#f3)</span>, extra text.
-
-![](/encyclopedia/images/image-name.jpg)
-
-**Image caption title**
-
-*Photo: [Photographer name](/photographer-name-page) / [Source name](/source-name-page)*
-
-# Conspectus
-
-|Year|City|
-|----|-----|
-|2014|Tokyo|
-|2015|Moscow|
-|2017|Paris|
 
 # See also
 
-+ [See also title one](page-template)
-+ [See also title two](page-template)
-+ [See also title three](page-template)
++ [Andrei Artemov](artemov-andrei)
++ [Anna Diulgerova](diulgerova-anna)
+
 
 # Footnotes
 
-[[1]](#a1) <span id="f1"></span> [Article name short (Author name)](http://example.net/article)
+[[1]](#a1) <span id="f1"></span> [Неделя моды Cycles and Seasons by MasterCard: День первый (Spletnik)](http://www.spletnik.ru/events/12871-nedelya-mody-cycles-and-seasons-by-mastercard-den-pervyy.html)
 
-[[2]](#a2) <span id="f2"></span> [Article name little longer (Author name longer)](http://example.net/article)
-
-[[3]](#a3) <span id="f3"></span> [Article name longer so far (Author name too long and much longer)](http://example.net/article)
+[[2]](#a2) <span id="f2"></span> [Cycles & Seasons прекращает свое существование (Vogue)](https://www.vogue.ru/fashion/news/450518/)
 
 `Updated Mar. 2018 (Andrei Dei)`

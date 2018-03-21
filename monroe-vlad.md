@@ -1,48 +1,44 @@
 ---
-title: Monroe, Vlad
+title: 'Monroe, Vlad'
 permalink: monroe-vlad
-layout: default
+layout: social
+published: true
 ---
 
+(Rus. Влад Мамышев-Монро, born 1969, Leningrad — dead 2013, Bali) Russian artist, performer, laureate of the Kandinsky Prize (2007) in the nomination of the media project of the year <span id="a1">[\[1\]](#f1)</span>.
 
+![](/encyclopedia/images/{{page.permalink}}.jpg)
 
-# Monroe, Vlad
+**Self-portrait with Mark Almond, <br>1992 — 1993**
 
+*Photo: [Andrei Pomulev](pomulev-andrei) / [Facebook](https://www.facebook.com/photo.php?fbid=1657445534347751&set=a.102145249877795.3311.100002469602366&type=3&theater)*
 
-(Est. 2013, city) is a subject, description-one <span id="a1">[\[1\]](#f1)</span>, description-two <span id="a2">[\[2\]](#f2)</span> description-three <span id="a3">[\[3\]](#f3)</span>, extra text. [Edit this page](http://prose.io/#indexmod/encyclopedia/edit/master/page-template.md)
+# {{page.title}} in galeries
 
-![](/encyclopedia/images/image-name.jpg)
-
-**Image caption title**
-
-*Photo: [Photographer name](/photographer-name-page) / [Source name](/source-name-page)*
-
-# Conspectus
-
-|Year|City|
-|----|-----|
-|2014|Tokyo|
-|2015|Moscow|
-|2017|Paris|
++ Galerie Tretiakov, Moscow
++ Multimedia Art Museum, Moscow
++ Musée Russe, Saint-Pétersbourg
++ Fonds National pour l’Art Contemporain, Paris
++ Musée d'art moderne de Moscou
++ Musée d'art contemporain
++ Maison de Photographie de Moscou
++ Museum voor Hedendaagse Kunst Antwerpen, + Antwerp Fund New Rules, Anvers
++ Musée royal des beaux-arts, Anvers
++ Museum van Hedendaagse Kunst, Anvers
 
 # See also
 
-+ [See also title one](page-template)
-+ [See also title two](page-template)
-+ [See also title three](page-template)
++ [Tatiana Mamedova](mamedova-tatiana)
++ [Mish Sachkov](sachkov-mish)
+
+![](/encyclopedia/images/{{page.permalink}}-3.jpg)
+
+**Mamyshev-Monroe as Polonium** <span id="a2">[\[2\]](#f2)</span>
+
+*Photo: [Grigoriy Polyakovskiy](index) / [Mamm-mdf](index)*
 
 # Footnotes
 
-[[1]](#a1) <span id="f1"></span> [Article name short (Author name)](http://example.net/article)
+[[2]](#a2) <span id="f2"></span> [Влад Монро в радиоспектакле Полоний](https://www.youtube.com/watch?v=e8ohN3fR9tk)
 
-[[2]](#a2) <span id="f2"></span> [Article name little longer (Author name longer)](http://example.net/article)
-
-[[3]](#a3) <span id="f3"></span> [Article name longer so far (Author name too long and much longer)](http://example.net/article)
-
----
-
-`Editorial`
-
-`Warnings`
-
-`Notes`
+`Updated Mar. 2018 (Andrei Dei)`

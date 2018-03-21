@@ -1,16 +1,17 @@
 ---
-title: Zaripov, Aleksandr
+title: 'Zaripov, Aleksandr'
 permalink: zaripov-aleksandr
 layout: default
+published: true
 ---
 
-# Zaripov, Aleksandr
+# {{page.title}}
 
-(Est. 2013, city) creator of (Silence Televesion) , music and sound creator, video editor, live perfomancer <span id="a1">[\[1\]](#f1)</span>, description-two <span id="a2">[\[2\]](#f2)</span> description-3 <span id="a3">[\[3\]](#f3)</span>, extra text.
+(Born 0000, 0000) creator of "Silence Televesion", music and sound creator, video editor, live perfomancer <span id="a1">[\[1\]](#f1)</span>.
 
 ![](/images/image-name.jpg)
 
-*Image caption*
+**Aleksandr Zaripov**
 
 *Photo: [Photographer name](http://example.net/) / [Source name](http://example.net/)*
 
@@ -39,24 +40,19 @@ layout: default
 + Audio-Visual performance in Media Cultura (2014)
 + Audio-Visual performance in MARS gallery (2016)
 
-# Conspectus
-
-|Year|City|
-|----|---------|
-|2014|Tokyo|
-|2015|Moscow|
-|2017|Kiev|
-
 # See also
 
 - [Source name](http://example.net/)
-- [Source name](http://example.net/)
-- [Source name](http://example.net/)
+
 
 # Footnotes
 
 [[1]](#a1) <span id="f1"></span> [Article name (Author name)](http://example.net/article)
 
-[[2]](#a2) <span id="f2"></span> [Article name (Author name)](http://example.net/article)
+[[3]](#a3) <span id="f3"></span> [{{page.title}} (Facebook)](index)
 
-[[3]](#a3) <span id="f3"></span> [Article name (Author name)](http://example.net/article)
+[[4]](#a4) <span id="f4"></span> [{{page.title}} (Instagram)](index)
+
+[[5]](#a5) <span id="f5"></span> [{{page.title}} (YouTube)](index)
+
+`Last edit Feb. 2018 (Andrei Dei)`

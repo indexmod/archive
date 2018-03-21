@@ -1,48 +1,47 @@
 ---
-title: Ognenny, Oleg
+title: 'Ognenny, Oleg'
 permalink: ognenny-oleg
 layout: default
+published: true
 ---
 
+# {{page.title}}
+
+(Rus. Олег Огненный, Олег Гусаев, born 1969 <span id="a1">[\[?\]](#f1)</span>, Baku <span id="a1">[\[?\]](#f1)</span>) is a Russian artist of performance, leader of national transvestite movement <span id="a1">[\[1\]](#f1)</span>.
+
+![](/encyclopedia/images/ognennaya.jpg)
+
+**Artist Oleg Ognenny as “Ognennaya lady”, Moscow, 90-s**
 
 
-# Ognenny, Oleg
+*Photo: [Indexmod](index) / [Indexmod](index)*
 
+# {{page.title}} Indexmod
 
-(Est. 2013, city) is a subject, description-one <span id="a1">[\[1\]](#f1)</span>, description-two <span id="a2">[\[2\]](#f2)</span> description-three <span id="a3">[\[3\]](#f3)</span>, extra text. [Edit this page](http://prose.io/#indexmod/encyclopedia/edit/master/page-template.md)
+|Year|Facebook|Instagram|YouTube|Age|IMD|
+|-|-|-|-|-|
+|2018|100 <span id="a3">[\[3\]](#f3)</span>|200 <span id="a4">[\[4\]](#f4)</span>|300 <span id="a4">[\[4\]](#f4)</span>|12|0,0025|
 
-![](/encyclopedia/images/image-name.jpg)
-
-**Image caption title**
-
-*Photo: [Photographer name](/photographer-name-page) / [Source name](/source-name-page)*
-
-# Conspectus
-
-|Year|City|
-|----|-----|
-|2014|Tokyo|
-|2015|Moscow|
-|2017|Paris|
 
 # See also
 
-+ [See also title one](page-template)
-+ [See also title two](page-template)
-+ [See also title three](page-template)
++ [Andrei Bartenev](index)
++ [Katya Filippova](index)
++ [Larisa Lazareva](index)
++ [Tatiana Mamedova](index)
++ [Alexandr Petlura](index)
++ [Alexander Osadchi](index)
++ [Polushkiny Brothers](index)
 
 # Footnotes
 
-[[1]](#a1) <span id="f1"></span> [Article name short (Author name)](http://example.net/article)
 
-[[2]](#a2) <span id="f2"></span> [Article name little longer (Author name longer)](http://example.net/article)
+[[1]](#a1) <span id="f1"></span> [History of the Moscow clubs (Bolshoi Gorod)](http://bg.ru/entertainment/istorija_moskovskih_klubov-15640/?chapter=5)
 
-[[3]](#a3) <span id="f3"></span> [Article name longer so far (Author name too long and much longer)](http://example.net/article)
+[[3]](#a3) <span id="f3"></span> [{{page.title}} (Facebook)](index)
 
----
+[[4]](#a4) <span id="f4"></span> [{{page.title}} (Instagram)](index)
 
-`Editorial`
+[[5]](#a5) <span id="f5"></span> [{{page.title}} (YouTube)](index)
 
-`Warnings`
-
-`Notes`
+`Updated Mar. 2018 (Andrei Dei)`

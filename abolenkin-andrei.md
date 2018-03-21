@@ -13,7 +13,7 @@ published: true
 
 **Andrei Abolenkin in 2014**
 
-*Photo: [Igor Vasiliadis](igor-vasiliadis.md) / [Indexmod Encyclopedia](indexmod.club)*
+*Photo: [Igor Vasiliadis](igor-vasiliadis) / [Indexmod Encyclopedia](index)*
 
 
 # See also

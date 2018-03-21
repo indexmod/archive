@@ -1,21 +1,34 @@
 ---
 title: How to edit
 permalink: edit
-layout: default
+layout: social
 published: true
 ---
 
-# Start with Template
 
-Just go [Template](template.md) copy it and paste in to new empty .md file.
+# Link the Wiki ⤵︎
 
-# Briefly
+Edit any page following **Wiki ⤵︎** link on top of every page, you will be redirected to Prose.io editor. Warning: to save  changes you may need authorize as [GitHub](https://github.com/join) user.
+
+# Create new page
+
++ Follow **Wiki ⤵︎**
++ Find the `template.md`and copy content
++ In encyclopedia tab create new file with .md extention 
++ Paste content of the template
++ Edit **Page title** and **Permalink** and save new page
+
+# Writing charachter by charachter
 
 The aim of Indexmod Encyclopedia to simplify wiki syntax for a pretty and light format. Following checklist explains few steps of creating and editing beautiful articles in Indexmod Encyclopedia.
 
+# Markdown
+
+Every page is written with [Markdown](https://daringfireball.net/projects/markdown/syntax) lightest and easiest language for static pages generating.
+
 #  Front matter
 
-Every page is written with [Markdown](https://daringfireball.net/projects/markdown/syntax) and must have invisible **front matter** area set with triple-dashed lines.
+Each page on top have hidden section with meta data. This **Front matter** area is set with triple-dashed lines.
 
 `---`
 `title: How to edit`
@@ -23,19 +36,17 @@ Every page is written with [Markdown](https://daringfireball.net/projects/markdo
 `layout: default`
 `---`
 
-Above code is a **front matter** of this page **How to edit**. Any **front matter** may contain **page title**, **permalink**, **layout** and other metadata.
+Above code is a **Front matter** of page with title **How to edit**. A typical **Front matter** may contain **Page title**, **Permalink**, **Layout** and other metadata.
 
 # Page structure
 
-The visible area of the page template must have **Title** and **Front** section, an image with **caption** and **credits**, **Conspectus** section, **See also** section and **Footnotes** section.
+The visible area of the page have **Title**, **Cover** section, an **Image** with **Caption** and **Credits**, **Conspectus** section, **See also** section and **Footnotes** section.
 
 # Title  
-
 
 `# Aberdeen Fashion Week`
 `# Tailor, Victoria`
 `# Duma, Miroslava (publisher)`
-
 
 Title includes the subject's name **Aberdeen Fashion Week**, surname and name **Tailor, Victoria** and may be added with specification with round brackets **Tailor, Victoria (designer)**.
 
@@ -44,8 +55,7 @@ Title includes the subject's name **Aberdeen Fashion Week**, surname and name **
 `(Born 1968, Paris)`
 `(Est. 2012, Moscow)`
 
-
-Front starts with **(Born, Est. 1999, city)** beginner in round brackets. Following one-two sentences of description every front sentence ends with footnote links styled with **squared brackets** <span id="a1">[\[1\]](#f1)</span>, <span id="a2">[\[2\]](#f2)</span>, <span id="a3">[\[3\]](#f3)</span>.
+Front starts with **(Born, Est. 1999, city)** beginner in round brackets. Following one-two sentences of description every front sentence ends with footnote links styled with **Squared brackets**
 
 The following code for footnote link
 
@@ -55,12 +65,11 @@ Will be rendered as
 
 <span id="a1">[\[1\]](#f1)</span>
 
-
 # Image, caption, and credits
 
 This is image link code
 
-`![](/encyclopedia/images/image-name.jpg)`
+![](/encyclopedia/images/image-name.jpg)
 
 This is image caption code
 
@@ -102,12 +111,11 @@ Will be rendered as
 
 See also section connects your page with others pages in Indexmod Encyclopedia. Use following template combining list and link styling syntax. The code
 
-`+ [See also title one](page-template-1)`
+`+ [See also](index)`
 
 Will be rendered as
 
-+ [See also title one](page-template-1)
-
++ [See also](index)
 
 # Footnotes
 
@@ -121,12 +129,8 @@ Will be rendered as
 
 Connect some text using short links <span id="a1">[\[1\]](#f1)</span>, <span id="a2">[\[2\]](#f2)</span>, <span id="a3">[\[3\]](#f3)</span> with links and source in **Footnote** edit. Kepp numbering in links organized: [[1]](#a1) <span id="f1"></span> [Article 1 (Author 1)](http://example.net/article)
 
-![Снимок экрана 2018-02-27 в 8.19.05.png]({{site.baseurl}}/Снимок экрана 2018-02-27 в 8.19.05.png)
-
-**This is screen of Prose.io editor during editing section below. Note the Save "disk" icon on rignt menu.**
-
 # Prose.io editor
 
-You may edit every page in Prose.io editor using link "Edit the "page name"" at top-left section of each page. To save  changes you may need authorize as [GitHub](https://github.com/join) user.
+Every page may be edited in [Prose.io](www.prose.io) editor using link "Edit the "page name"" at top-left section of each page. To save  changes you may need have an account and be authorized as [GitHub](https://github.com/join) user.
 
 `Updated Mar. 2018 (Andrei Dei)`

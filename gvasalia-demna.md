@@ -4,45 +4,27 @@ permalink: gvasalia-demna
 layout: default
 ---
 
+# {{page.title}}
 
+(Georg. დემნა გვასალია, born 1981, Tbilisi <span id="a1">[\[1\]](#f1)</span>) is a Georgian fashion designer, creative director of Balenciaga <span id="a2">[\[2\]](#f2)</span>, listened in BOF 500, also was in design teams at Maison Martin Margiela and Louis Vuitton, studied at Royal Academy of Fine Arts in Antwerp <span id="a1">[\[3\]](#f1)</span>.
 
-# Gvasalia, Demna
+![](/encyclopedia/images/demna.jpg)
 
+**From AW 16 lookbook**
 
-(Est. 2013, city) is a subject, description-one <span id="a1">[\[1\]](#f1)</span>, description-two <span id="a2">[\[2\]](#f2)</span> description-three <span id="a3">[\[3\]](#f3)</span>, extra text. [Edit this page](http://prose.io/#indexmod/encyclopedia/edit/master/page-template.md)
-
-![](/encyclopedia/images/image-name.jpg)
-
-**Image caption title**
-
-*Photo: [Photographer name](/photographer-name-page) / [Source name](/source-name-page)*
-
-# Conspectus
-
-|Year|City|
-|----|-----|
-|2014|Tokyo|
-|2015|Moscow|
-|2017|Paris|
+*Photo: [Balenciaga](balenciaga) / [GQ](https://www.gq.ru/style/demna-gvasaliya-pokazal-svoyu-pervuyu-kollekciyu-dlya-balenciaga#photo_2)*
 
 # See also
 
-+ [See also title one](page-template)
-+ [See also title two](page-template)
-+ [See also title three](page-template)
++ LV
++ Balenciaga
++ RAFA
++ BOF 500
 
 # Footnotes
 
-[[1]](#a1) <span id="f1"></span> [Article name short (Author name)](http://example.net/article)
+[[1, 3]](#a1) <span id="f1"></span> [Demna Gvasalia (Wikipedia)](https://es.wikipedia.org/wiki/Demna_Gvasalia)
 
-[[2]](#a2) <span id="f2"></span> [Article name little longer (Author name longer)](http://example.net/article)
+[[2]](#a2) <span id="f2"></span> [Демна Гвасалия показал свою первую коллекцию для Balenciaga (GQ)](https://www.gq.ru/style/demna-gvasaliya-pokazal-svoyu-pervuyu-kollekciyu-dlya-balenciaga#photo_2)
 
-[[3]](#a3) <span id="f3"></span> [Article name longer so far (Author name too long and much longer)](http://example.net/article)
-
----
-
-`Editorial`
-
-`Warnings`
-
-`Notes`
+`Updated Mar. 2018 (Andrei Dei)`

@@ -1,16 +1,10 @@
 ---
-title: Bordoque, Vladimir
+title: 'Bordoque, Vladimir'
 permalink: bordoque-vladimir
-layout: default
+layout: social
 published: true
 ---
-
-
-
-# Bordoque, Vladimir
-
-
- (Aka Volodia Bordok, Rus. Владимир Бордок, born 1982, Dniepropetrovsk) is a Russian and Ukrainian artist, journalist, founder the brand 13 15 <span id="a1">[\[1\]](#f1)</span>, former Chief Editor of Vconfession online edition, former art director of Air Store in Moscow, DJ, accessories designer, author of fashionable concepts, shop windows decorator, promoter, catholic figurines collector <span id="a2">[\[2\]](#f2)</span> living in Moscow. [Edit this page](http://prose.io/#indexmod/encyclopedia/edit/master/bordoque-vladimir.md)
+(Aka Volodia Bordok, Rus. Владимир Бордок, born 1982, Dniepropetrovsk) is a Russian and Ukrainian artist, journalist, founder the brand 13 15 <span id="a1">[\[1\]](#f1)</span>, former Chief Editor of Vconfession online edition, former art director of Air Store in Moscow, DJ, accessories designer, author of fashionable concepts, shop windows decorator, promoter, catholic figurines collector <span id="a2">[\[2\]](#f2)</span> living in Moscow.
 
 ![](http://www.be-in.ru/media/beingallery/uploads/2014/01/_08.jpg)
 
@@ -20,8 +14,8 @@ published: true
 
 # See also
 
-+ [Cycles and Seasons by Master Card](page-template)
-+ [Air Moscow](page-template)
++ [Cycles and Seasons by MasterCard](cycles-and-seasons-by-master-card)
++ [Air Moscow](air-moscow)
 
 
 # Footnotes

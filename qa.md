@@ -1,23 +1,25 @@
 ---
-title: QA
+title: Question → answer
 permalink: qa
-layout: default
+layout: cover
+published: true
 ---
+# Why some articles of Indexmod Encyclopedia non-English?
 
-# Q1
+The Indexmod Encyclopedia data core are articles in English, but you can create pages in any language and kept layout matches the [Template](https://indexmod.github.io/encyclopedia/template).
 
-+ Why some articles of IE non-English?
-+ The IE base are articles in English, but you can create pages in any language and kept layout matches the [Page template](https://indexmod.github.io/encyclopedia/page-template).
+# How can I translate page in Indexmod Encyclopedia?
 
-# Q2
+Create copy of the page which you want to be translated. Paste [sample of the page](internet-yami-ichi) translated into simplified Russian. 
 
-+ How can I translate page in IE?
-+ Create copy of the page which you want to be translated. Use `Translation mode` label to warn other editors. Here is [sample of the page](internet-yami-ichi) translated into simplified Russian.
+Use 
 
-# Q3
+`Translation mode` 
 
-+ Why are some of the articles published as templates?
-+ From 2017, IE moves from the [previous Google engine](https://sites.google.com/site/indexmodencyclopedia/list-of-pages) to the own one based on Jekyll and Github Pages. Some of the articles have not yet been transferred. And the part has been in the status of "claimed for creation" for several years. You can continue to edit such an article right now.
+label on top section of the page as warning for other editors.
 
+# Why some of the articles are published without content (as template)?
 
-`Last update Jan 2018 by Andrei Dei`
+In 2018, Indexmod Encyclopedia has moved from the Google hosting to the own one based on Jekyll and Github Pages. Some of the articles in the status of "claimed for creation" for several years. You can continue to edit such an article right now. 
+
+`Updated Mar. 2018 (Andrei Dei)`

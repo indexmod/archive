@@ -2,45 +2,46 @@
 title: Indexmod Curators
 permalink: indexmod-curators
 layout: default
+published: true
 ---
 
 # Indexmod Curators
 
+1. Bangkok [Vincent Sung](sung-vincent)
+1. Bali [Uma Kumari](kumari-uma)
+1. Basel
+1. Beijing
+1. Berlin [Agnia Galdanova](galdanova-agnia)
+1. Bombay
+1. Buenos Aires
+1. Chicago
+1. New Delhi [Shriya Malhotra](malhotra-shriya)
+1. Guangzhou
+1. Hong Kong
+1. Istanbul
+1. Jakarta 
+1. Kiev [Peter Shirkovsky](shirkovsky-peter)
+1. London [Sophie O'Leary](o-leary-sophie)
+1. Los Angeles
+1. Miami
+1. Madrid [Alexander Malugin](malugin-alexander)
+1. Milan
+1. Moscow [Andrei Deinichenko](deinichenko-andrei)
+1. New York [Lesya Malskaya](malskaya-lesya)
+1. Osaka [Mico Kazumi](kazumi-mico)
+1. Paris [Sidorov Kirill](kirill-sidorov)
+1. Rio De Janeiro
+1. Rome
+1. São Paulo
+1. Seoul [Vincent Sung](sung-vincent)
+1. Shanghai
+1. Singapore 
+1. Sochi
+1. St. Petersburg [Anton Polsky](polsky-anton)
+1. Sydney 
+1. Tokyo [Mico Kazumi](kazumi-mico)
+1. Venice [Maria Sinitsina](sinitsina-maria)
 
-(Est. 2013, city) is a subject, description-one <span id="a1">[\[1\]](#f1)</span>, description-two <span id="a2">[\[2\]](#f2)</span> description-three <span id="a3">[\[3\]](#f3)</span>, extra text. [Edit this page](http://prose.io/#indexmod/encyclopedia/edit/master/page-template.md)
+The mission of IE is to describe all the cultural centers of the world, including artists, designers, galleries, museums, institutions, Biennial, Fashion Week, memes, art objects in an open wiki with a view to works of art forms from different parts of the world to lead an independent dialogue.
 
-![](/encyclopedia/images/image-name.jpg)
-
-**Image caption title**
-
-*Photo: [Photographer name](/photographer-name-page) / [Source name](/source-name-page)*
-
-# Conspectus
-
-|Year|City|
-|----|-----|
-|2014|Tokyo|
-|2015|Moscow|
-|2017|Paris|
-
-# See also
-
-+ [See also title one](page-template)
-+ [See also title two](page-template)
-+ [See also title three](page-template)
-
-# Footnotes
-
-[[1]](#a1) <span id="f1"></span> [Article name short (Author name)](http://example.net/article)
-
-[[2]](#a2) <span id="f2"></span> [Article name little longer (Author name longer)](http://example.net/article)
-
-[[3]](#a3) <span id="f3"></span> [Article name longer so far (Author name too long and much longer)](http://example.net/article)
-
----
-
-`Editorial`
-
-`Warnings`
-
-`Notes`
+If you are interested in becoming a local curator and you live in one of the listened cities, contact the encyclopedia just e-mailing to Chief Editor.

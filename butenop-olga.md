@@ -7,7 +7,8 @@ layout: default
 
 # Butenop, Olga
 
-(Est. 2013, city) is a subject, description-one <span id="a1">[\[1\]](#f1)</span>, description-two <span id="a2">[\[2\]](#f2)</span> description-3 <span id="a3">[\[3\]](#f3)</span>, extra text.
+(Est. 2013, city) is a subject, description-one
+Olga Butenop (Rus. Ольга Бутеноп) 1985, Moscow—is a Russian new media art, video, installation and mixed media artist, works mostly based on perception and memory, the relationship to time and living space, change and transformation of reality and consciousness. Graduated from the Biology department, MSU (2008). Graduated from the Photojournalism department, MSU in 2009. Member of the Russian Union of Art Photographers since 2010. Graduated The Institute of Contemporary Art Moscow (2013) <span id="a1">[\[1\]](#f1)</span>, description-two <span id="a2">[\[2\]](#f2)</span> description-3 <span id="a3">[\[3\]](#f3)</span>, extra text.
 
 ![](/images/image-name.jpg)
 
@@ -22,6 +23,14 @@ layout: default
 |2014|Tokyo|
 |2015|Moscow|
 |2017|Kiev|
+
+Works
+Clear Space (2015), Antimuseu, Moscow
+Machine of memories, The (2014), Antimuseum
+See also
+Antimuseum
+Electromuseum
+Chupakhina Victoria
 
 # See also
 

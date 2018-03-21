@@ -6,32 +6,33 @@ layout: default
 
 # HOF Art
 
-(Est. 2013, city) is a subject, description-one <span id="a1">[\[1\]](#f1)</span>, description-two <span id="a2">[\[2\]](#f2)</span> description-3 <span id="a3">[\[3\]](#f3)</span>, extra text.
+(Est. 2013, BKK, originally HOF Art Space) is a  gallery in Thailand, studios and lofts, for painting, sculpture and ceramic founded in 2005 by Jarut Wongkumjantra. From 2014 colocate with the W District project founded Wichai Poolworaluk <span id="a1">[\[1\]](#f1)</span>.
 
 ![](/images/image-name.jpg)
 
-*Image caption*
+**Area of W Market Zone of Hof Art Space
+Photo: HA / Hof Art Bangkok
 
-*Photo: [Photographer name](http://example.net/) / [Source name](http://example.net/)*
+Posters of Hof Art Space exhibitions in 2015
+Photo: HA / Hof-Art Bangkok**
 
-# Conspectus
-
-|Year|City|
-|----|---------|
-|2014|Tokyo|
-|2015|Moscow|
-|2017|Kiev|
+*Photo: [Photographer name](index) / [Source name](index)*
 
 # See also
 
-- [Source name](http://example.net/)
-- [Source name](http://example.net/)
-- [Source name](http://example.net/)
++ [Source name](http://example.net/)
++ Bathma Kaew-ngok
++ Hof Art Residency
++ Jeenwan Jin
++ Lolay
++ Nuraya Mahani
++ Thaweesak Srithongdee
++ W Market Zone
++ Wongkumjantra Jarut
++ Woraluk Property
 
 # Footnotes
 
 [[1]](#a1) <span id="f1"></span> [Article name (Author name)](http://example.net/article)
 
-[[2]](#a2) <span id="f2"></span> [Article name (Author name)](http://example.net/article)
-
-[[3]](#a3) <span id="f3"></span> [Article name (Author name)](http://example.net/article)
+`Updated Mar. 2018 (Andrei Dei)`

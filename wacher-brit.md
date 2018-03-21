@@ -7,11 +7,17 @@ layout: default
 
 # Wacher, Brit
 
-(Est. 2013, city) is a subject, description-one <span id="a1">[\[1\]](#f1)</span>, description-two <span id="a2">[\[2\]](#f2)</span> description-3 <span id="a3">[\[3\]](#f3)</span>, extra text. [Edit this page](http://prose.io/#indexmod/encyclopedia/edit/master/wacher-brit.md)
+(Est. 2013, city) Brit Wacher (Brittany Wacher)—is a Montreal-based fashion designer, stylist, founder of label “Brit Wacher” (women ready-to-wear, unisex and children), graduate La Salle University in Vancouver, working in Bangkok and Arnhem in a concept of merging fashion and science. Sign in to edit Brit Wacher <span id="a1">[\[1\]](#f1)</span>, description-two <span id="a2">[\[2\]](#f2)</span> description-3 <span id="a3">[\[3\]](#f3)</span>, extra text. [Edit this page](http://prose.io/#indexmod/encyclopedia/edit/master/wacher-brit.md)
 
 ![](/images/image-name.jpg)
 
 *Image caption*
+
+Selma Somptin and Brit Wacher collaboration
+Photo: Clarke Contemporary Gallery, Richmond / Facebook
+
+Brittany Wacher
+Photo: Brittany Wacher / Brit Wacher
 
 *Photo: [Photographer name](http://example.net/) / [Source name](http://example.net/)*
 
@@ -28,6 +34,19 @@ layout: default
 - [Source name](http://example.net/)
 - [Source name](http://example.net/)
 - [Source name](http://example.net/)
+
+Brooklyn Magazine
+Clin d’oeil Magazine
+Eloquence International Creators Magazine
+Flare Magazine
+Glow Magazine
+Montreal Fashion Week
+Ottawa Fashion Week
+Thailand Encounter Magazine
+Toronto Fashion Week
+Pauline Van Dongen
+Vancouver Fashion Week
+Vogue Italia
 
 # Footnotes
 

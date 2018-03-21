@@ -4,45 +4,55 @@ permalink: shirkovskii-peter
 layout: default
 ---
 
+# {{page.title}}
 
-
-# Shirkovskii, Peter
-
-
-(Est. 2013, city) is a subject, description-one <span id="a1">[\[1\]](#f1)</span>, description-two <span id="a2">[\[2\]](#f2)</span> description-three <span id="a3">[\[3\]](#f3)</span>, extra text.
+(Est. 2013, city) is a Peter Shirkovskiy (Rus. Петя Ширковский), a Russian ethnographer3, film director, a collector of paintings and graphic art, curator4, jewelry designer5, the inspector for cultural heritage of Vorobievy Gory area in Moscow, specialist in “Odessa conceptualist group of the 1980s”, founder of “Shirka Film”, the author and a representative of the “Ukrainian Art 1980—2000”, Curator in Kiev for Indexmod Encyclopedia, graduate of Russian State University for the Humanities <span id="a1">[\[1\]](#f1)</span>.
 
 ![](/encyclopedia/images/image-name.jpg)
 
-**Image caption title**
+**Image title**
+Petya Shirkovskiy in 2012
+Photo: Pavel Samokhvalov / Facebook
+*Photo: [Name](index) / [Source](index)*
 
-*Photo: [Photographer name](/photographer-name-page) / [Source name](/source-name-page)*
+# {{page.title}} Filmography
 
-# Conspectus
+ 2011, Pink crime , Shirka Film / Odessa6
+ 2013, Involved in the case (series)  Shirka Film / Odessa7
 
 |Year|City|
-|----|-----|
-|2014|Tokyo|
-|2015|Moscow|
-|2017|Paris|
+|-|-|
+|2017|Moscow|
+
+# {{page.title}} Indexmod
+
+|Year|Facebook|Instagram|YouTube|Age|Indexmod|
+|-|-|-|-|-|
+|2018|000 <span id="a3">[\[3\]](#f3)</span>|000 <span id="a4">[\[4\]](#f4)</span>|000 <span id="a5">[\[5\]](#f5)</span>|00|0,0000|
+
 
 # See also
 
-+ [See also title one](page-template)
-+ [See also title two](page-template)
-+ [See also title three](page-template)
++ [About {{page.title}}](index)
++ [{{page.title}} at Wikipedia](index)
+Shirka Film
+Senya Narrow Eyes
+Pink Criminal
+Russian Jungle
+Vladimir Fedorov
 
 # Footnotes
 
-[[1]](#a1) <span id="f1"></span> [Article name short (Author name)](http://example.net/article)
+1, 2 Вводная лекция режиссёра об исследовании одесского концептуализма
+3 Vorob'evy gory. Kraeved Peter Shirkovskiy—Bol'shoy gorod
+4 Shirkovskiy Peter: “I have always considered creativity through the prism of personality”—Around Art
+5 Face. Peter Shirkovskiy—Afisha Daily
+6, 7 Involved in the case. Series about “Seaside conceptualism”
 
-[[2]](#a2) <span id="f2"></span> [Article name little longer (Author name longer)](http://example.net/article)
+[[3]](#a3) <span id="f3"></span> [{{page.title}} (Facebook)](index)
 
-[[3]](#a3) <span id="f3"></span> [Article name longer so far (Author name too long and much longer)](http://example.net/article)
+[[4]](#a4) <span id="f4"></span> [{{page.title}} (Instagram)](index)
 
----
+[[5]](#a5) <span id="f5"></span> [{{page.title}} (YouTube)](index)
 
-`Editorial`
-
-`Warnings`
-
-`Notes`
+`Updated Mar. 2018 (Andrei Dei)`

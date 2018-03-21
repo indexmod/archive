@@ -7,7 +7,42 @@ layout: default
 
 # Bangkok
 
-(Est. 2013, city) is a subject, description-one <span id="a1">[\[1\]](#f1)</span>, description-two <span id="a2">[\[2\]](#f2)</span> description-3 <span id="a3">[\[3\]](#f3)</span>, extra text.
+(Est. 2013, city) is a subject, description-one <span id="a1">[\[1\]](#f1)</span>,
+
+
+Bangkok
+Bangkok (Thai กรุงเทพมหานคร; BKK)—is the capital and the most populous city in Thailand. Login to edit Bangkok
+
+CONTENTS
+
+1 Regional headquarters
+2 See also
+Regional headquarters
+From the 1980s, many multinational corporations locate their regional headquarters in Bangkok. It is a regional centre for the arts, fashion and entertainment.1 Login to edit
+
+
+
+
+
+
+
+Photo: Andrei Gurotesuku / Indexmod
+Rooftop Gallery on Thonglor street in Bangkok
+Photo: Bulletin Life / Daypoets
+
+Fashion fair opening in Bangkok in 2014
+Photo: BIFF & BIL / Biffandbil.com
+
+“Youth of Bangkok”  by Pat Suthithon and Binn Buameanchol for Playhound by Greyhound
+See also
+Bangkok Art and Culture Centre
+BUG
+Digital Fashion Week
+Siam Group
+
+
+
+description-two <span id="a2">[\[2\]](#f2)</span> description-3 <span id="a3">[\[3\]](#f3)</span>, extra text.
 
 ![](/images/image-name.jpg)
 

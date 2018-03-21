@@ -4,45 +4,48 @@ permalink: sidur-vadim
 layout: default
 ---
 
+# {{page.title}}
 
-
-# Sidur, Vadim
-
-
-(Est. 2013, city) is a subject, description-one <span id="a1">[\[1\]](#f1)</span>, description-two <span id="a2">[\[2\]](#f2)</span> description-three <span id="a3">[\[3\]](#f3)</span>, extra text.
+(Est. 2013, city) is a Vadim Sidur (Rus. Сидур Вадим Абрамович) born 1924, Yekaterinoslav; died 1986, Moscow—a Russian avant-garde sculptor and artist referred as the Soviet Henry Moore <span id="a1">[\[1\]](#f1)</span>.
 
 ![](/encyclopedia/images/image-name.jpg)
 
-**Image caption title**
+**Image title**
+Sidur’s “Structure No. 1” since 1976 at front of Institute of Human Morphology in Moscow
+Photo: Andrei Deinichenko for Indexmod / Commons Wikimedia
 
-*Photo: [Photographer name](/photographer-name-page) / [Source name](/source-name-page)*
+*Photo: [Name](index) / [Source](index)*
 
-# Conspectus
+# {{page.title}} Vandalism
+In 2015, a group of the public movement “God's will” injured 4 of Sidur’s works from State Funds of RF are presented at the exhibition at the Moscow Manezh. Eduard Limonov, a writer, an opposition activist, and the leader of the unregistered party The Other Russia, told that, he did not think the activists should be punished too severely
 
 |Year|City|
-|----|-----|
-|2014|Tokyo|
-|2015|Moscow|
-|2017|Paris|
+|-|-|
+|2017|Moscow|
+
+Museum
+The Vadim Sidur Museum was opened in 1987 at the initiative of the artist’s son, art critic Mikhail Sidur, who was its director until his death in 2010. The museum started as a posthumous exhibition of the sculptor’s works, established at the intersection of ul. Novogireevskaya and Zeleny Prospekt as well as in a nearby park.
+At present, the museum hosts more than 1000 objects, 537 of which make the core of the collection. In 2014, after two years under reconstruction, the museum opened for the public again. Today, the Vadim Sidur Museum a modern artistic space open to diverse creative ideas and events, joining the top ranks of the cultural institutions of Moscow.
+
+
 
 # See also
 
-+ [See also title one](page-template)
-+ [See also title two](page-template)
-+ [See also title three](page-template)
++ [About {{page.title}}](index)
++ [{{page.title}} at Wikipedia](index)
+Garage Museum of Contemporary Art
+Moscow Manege
 
 # Footnotes
 
-[[1]](#a1) <span id="f1"></span> [Article name short (Author name)](http://example.net/article)
+1 Vadim Sidur at Wikipedia
+2 “Rights defender Alexeyeva calls for punishing religious activists who vandalized sculpture exhibition in Moscow”—RBHL
+3 About Sidur Museum—Manege
 
-[[2]](#a2) <span id="f2"></span> [Article name little longer (Author name longer)](http://example.net/article)
+[[3]](#a3) <span id="f3"></span> [{{page.title}} (Facebook)](index)
 
-[[3]](#a3) <span id="f3"></span> [Article name longer so far (Author name too long and much longer)](http://example.net/article)
+[[4]](#a4) <span id="f4"></span> [{{page.title}} (Instagram)](index)
 
----
+[[5]](#a5) <span id="f5"></span> [{{page.title}} (YouTube)](index)
 
-`Editorial`
-
-`Warnings`
-
-`Notes`
+`Updated Mar. 2018 (Andrei Dei)`

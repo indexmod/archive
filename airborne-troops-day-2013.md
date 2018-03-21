@@ -1,7 +1,7 @@
 ---
 title: Airborne Troops Day (2013)
 permalink: airborne-troops-day-2013
-layout: default
+layout: test
 published: true
 ---
 

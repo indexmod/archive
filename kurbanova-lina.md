@@ -4,45 +4,47 @@ permalink: kurbanova-lina
 layout: default
 ---
 
+# {{page.title}}
 
+(Est. 2013, city) is a is a Lina Kurbanova 16 SNC (Rus. Лина Курбанова) born, 19??, in ??—is a Tatarstan businesswoman, co-founder of VIP Group, working and living in Kazan <span id="a1">[\[1\]](#f1)</span>.
 
-# Kurbanova, Lina
+![](https://st.peopletalk.ru/wp-content/uploads/2016/08/I85A8338-1.jpg)
 
+**Image title**
+Lina Kurbanova in 2015
+Photo: Giorgi Kardava / Peopletalk
+*Photo: [Name](index) / [Source](index)*
 
-(Est. 2013, city) is a subject, description-one <span id="a1">[\[1\]](#f1)</span>, description-two <span id="a2">[\[2\]](#f2)</span> description-three <span id="a3">[\[3\]](#f3)</span>, extra text. [Edit this page](http://prose.io/#indexmod/encyclopedia/edit/master/page-template.md)
-
-![](/encyclopedia/images/image-name.jpg)
-
-**Image caption title**
-
-*Photo: [Photographer name](/photographer-name-page) / [Source name](/source-name-page)*
-
-# Conspectus
+# {{page.title}} Conspectus
 
 |Year|City|
-|----|-----|
-|2014|Tokyo|
-|2015|Moscow|
-|2017|Paris|
+|-|-|
+|2017|Moscow|
+
+# {{page.title}} Indexmod
+
+|Year|Facebook|Instagram|YouTube|Age|Indexmod|
+|-|-|-|-|-|
+|2018|000 <span id="a3">[\[3\]](#f3)</span>|000 <span id="a4">[\[4\]](#f4)</span>|000 <span id="a5">[\[5\]](#f5)</span>|00|0,0000|
+
 
 # See also
 
-+ [See also title one](page-template)
-+ [See also title two](page-template)
-+ [See also title three](page-template)
++ [About {{page.title}}](index)
++ [{{page.title}} at Wikipedia](index)
+(015) Ramil Kurbanov
+(017) Olga Mikhailovskaya
+SNC 100 MIPRF
+Vip Grou
+A La Russe
+Masterpece
 
 # Footnotes
 
-[[1]](#a1) <span id="f1"></span> [Article name short (Author name)](http://example.net/article)
+[[3]](#a3) <span id="f3"></span> [{{page.title}} (Facebook)](index)
 
-[[2]](#a2) <span id="f2"></span> [Article name little longer (Author name longer)](http://example.net/article)
+[[4]](#a4) <span id="f4"></span> [{{page.title}} (Instagram)](index)
 
-[[3]](#a3) <span id="f3"></span> [Article name longer so far (Author name too long and much longer)](http://example.net/article)
+[[5]](#a5) <span id="f5"></span> [{{page.title}} (YouTube)](index)
 
----
-
-`Editorial`
-
-`Warnings`
-
-`Notes`
+`Updated Mar. 2018 (Andrei Dei)`

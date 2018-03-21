@@ -4,45 +4,46 @@ permalink: khromtchenko-evelina
 layout: default
 ---
 
+# {{page.title}}
 
+(Est. 2013, city) is a (Rus. Эвелина Хромченко) born, 1971, Ufa—is a Russian journalist and media person, one of the most recognisable and influential fashion figures in Russia, having been editor-in-chief of L’Officiel Russia for 13 years as well as a television presenter, radio personality, and PR executive, working and living in Moscow <span id="a1">[\[1\]](#f1)</span>.
 
-# Khromtchenko, Evelina
+![](/encyclopedia/images/evelina.jpg)
 
+**Image title**
 
-(Est. 2013, city) is a subject, description-one <span id="a1">[\[1\]](#f1)</span>, description-two <span id="a2">[\[2\]](#f2)</span> description-three <span id="a3">[\[3\]](#f3)</span>, extra text. [Edit this page](http://prose.io/#indexmod/encyclopedia/edit/master/page-template.md)
+Evelina Khromtchenko by Charles Thompson (fragment)
+Photo: Charles Thompson / Evelina Khromtchenko
 
-![](/encyclopedia/images/image-name.jpg)
+*Photo: [Name](index) / [Source](index)*
 
-**Image caption title**
-
-*Photo: [Photographer name](/photographer-name-page) / [Source name](/source-name-page)*
-
-# Conspectus
+# {{page.title}} Conspectus
 
 |Year|City|
-|----|-----|
-|2014|Tokyo|
-|2015|Moscow|
-|2017|Paris|
+|-|-|
+|2017|Moscow|
+
+# {{page.title}} Indexmod
+
+|Year|Facebook|Instagram|YouTube|Age|Indexmod|
+|-|-|-|-|-|
+|2018|000 <span id="a3">[\[3\]](#f3)</span>|000 <span id="a4">[\[4\]](#f4)</span>|000 <span id="a5">[\[5\]](#f5)</span>|00|0,0000|
+
 
 # See also
 
-+ [See also title one](page-template)
-+ [See also title two](page-template)
-+ [See also title three](page-template)
++ [About {{page.title}}](index)
++ [{{page.title}} at Wikipedia](index)
++ Olga Youdkis
++ Alla Verber
++ SNC 100 MIPRF
 
 # Footnotes
 
-[[1]](#a1) <span id="f1"></span> [Article name short (Author name)](http://example.net/article)
+[[3]](#a3) <span id="f3"></span> [{{page.title}} (Facebook)](index)
 
-[[2]](#a2) <span id="f2"></span> [Article name little longer (Author name longer)](http://example.net/article)
+[[4]](#a4) <span id="f4"></span> [{{page.title}} (Instagram)](index)
 
-[[3]](#a3) <span id="f3"></span> [Article name longer so far (Author name too long and much longer)](http://example.net/article)
+[[5]](#a5) <span id="f5"></span> [{{page.title}} (YouTube)](index)
 
----
-
-`Editorial`
-
-`Warnings`
-
-`Notes`
+`Updated Mar. 2018 (Andrei Dei)`

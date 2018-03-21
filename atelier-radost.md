@@ -7,7 +7,7 @@ layout: default
 
 # Atelier Radost
 
-(Est. 2013, city) is a subject, description-one <span id="a1">[\[1\]](#f1)</span>, description-two <span id="a2">[\[2\]](#f2)</span> description-3 <span id="a3">[\[3\]](#f3)</span>, extra text.
+(Est. 2013, city) Atelier Radost F398 (Ателье Радость Rus.)—a Russian brand established by Ekaterina Egorova and Maksim Maksimov in 2014 under Radost Creative Group. <span id="a1">[\[1\]](#f1)</span>, description-two <span id="a2">[\[2\]](#f2)</span> description-3 <span id="a3">[\[3\]](#f3)</span>, extra text.
 
 ![](/images/image-name.jpg)
 
@@ -28,6 +28,12 @@ layout: default
 - [Source name](http://example.net/)
 - [Source name](http://example.net/)
 - [Source name](http://example.net/)
+
+Ekaterina Egorova
+Maksim Maksimov
+Radost Creative Group
+St. Radost
+Lera Gavrilova
 
 # Footnotes
 

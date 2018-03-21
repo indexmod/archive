@@ -6,7 +6,7 @@ published: true
 ---
 # {{page.title}}
 
-(Est. 2013, city) is a subject, description <span id="a1">[\[1\]](#f1)</span> extra text.
+(Est. 2013, city) is a Partizaning (From Rus. партизанить)—public art practices which strategically challenge, shape, and reinvent urban and social realities. Login to edit Partizaning <span id="a1">[\[1\]](#f1)</span>.
 
 ![](/encyclopedia/images/image-name.jpg)
 
@@ -14,17 +14,29 @@ published: true
 
 *Photo: [Name](index) / [Source](index)*
 
+# {{page.title}} Conspectus
+
+|Year|City|
+|-|-|
+|2017|Moscow|
+
 # {{page.title}} Indexmod
 
-|Year|Facebook|Instagram|Age|IMD|
+|Year|Facebook|Instagram|YouTube|Age|Indexmod|
 |-|-|-|-|-|
-|2018|100 <span id="a3">[\[3\]](#f3)</span>|200 <span id="a4">[\[4\]](#f4)</span>|12|0,0025|
+|2018|000 <span id="a3">[\[3\]](#f3)</span>|000 <span id="a4">[\[4\]](#f4)</span>|000 <span id="a5">[\[5\]](#f5)</span>|00|0,0000|
 
 
 # See also
 
-+ [One](index)
-+ [Two](index)
++ [About {{page.title}}](index)
++ [{{page.title}} at Wikipedia](index)
+Partizaning (disambiguation)
+Anton Polsky (Make)
+Sonya Polskaya
+Igor Ponosov
+Shriya Malhotra
+Dmytro Zaiets
 
 # Footnotes
 
@@ -32,4 +44,6 @@ published: true
 
 [[4]](#a4) <span id="f4"></span> [{{page.title}} (Instagram)](index)
 
-`Last edit Feb. 2018 (Andrei Dei)`
+[[5]](#a5) <span id="f5"></span> [{{page.title}} (YouTube)](index)
+
+`Updated Mar. 2018 (Andrei Dei)`

@@ -4,45 +4,34 @@ permalink: jonas-joan
 layout: default
 ---
 
+# {{page.title}}
 
+(Est. 2013, city) Joan Jonas, born 1936, New York City—is an American visual artist and a pioneer of video and performance art who is one of the most important female artists in the late 1960s and early 1970s. Jonas' projects and experiments provided the foundation on which much video performance art would be based. Her influences also extended to conceptual art, theatre, performance art and other visual media. She lives and works in New York and Nova Scotia, Canada <span id="a1">[\[1\]](#f1)</span>.
 
-# Jonas, Joan
+![](/encyclopedia/images/jonas.jpg)
 
+**Pioneer of video art, Joan Jonas in age 77**
 
-(Est. 2013, city) is a subject, description-one <span id="a1">[\[1\]](#f1)</span>, description-two <span id="a2">[\[2\]](#f2)</span> description-three <span id="a3">[\[3\]](#f3)</span>, extra text. [Edit this page](http://prose.io/#indexmod/encyclopedia/edit/master/page-template.md)
+*Photo: [Suzanne Kreiter](index) / [Boston Globe](index)*
 
-![](/encyclopedia/images/image-name.jpg)
+# Bio
 
-**Image caption title**
+Joan Jonas was born in 1936 in New York. She received a B.A. in Art History from Mount Holyoke College in 1958, studied sculpture at the School of the Museum of Fine Arts, Boston, and received an M.F.A. in Sculpture from Columbia University in 1965. She was awarded the American Film Institute's Maya Deren Award in 1988, the Third Annual Polaroid Video Art Award in 1987 and was also the recipient of the Hyogo Prefecture Museum of Modern Art Prize at the Tokyo International Video Art Festival. Jonas has received grants for choreography, video and the visual arts from the New York State Council on the Arts, the National Endowment for the Arts, the Guggenheim Foundation and the Rockefeller Foundation. She was artist-in-residence at the TV Lab at WNET/Thirteen in New York and was selected for the Deutscher Akademischer Austauschdienst Artists-in-Berlin program. Since 2000, Jonas has taught at Massachusetts Institute of Technology, Cambridge, MA.
 
-*Photo: [Photographer name](/photographer-name-page) / [Source name](/source-name-page)*
-
-# Conspectus
-
-|Year|City|
-|----|-----|
-|2014|Tokyo|
-|2015|Moscow|
-|2017|Paris|
 
 # See also
 
-+ [See also title one](page-template)
-+ [See also title two](page-template)
-+ [See also title three](page-template)
++ [One](index)
++ [Two](index)
++ 4s4r
++ Chris Burden
++ Misak Samokatjan
++ Nam June Paik
++ Vito Acconci
 
 # Footnotes
 
-[[1]](#a1) <span id="f1"></span> [Article name short (Author name)](http://example.net/article)
+[[1]](#a1) <span id="f1"></span> [{{page.title}} (Facebook)](http://www.eai.org/artistBio.htm?id=408)
 
-[[2]](#a2) <span id="f2"></span> [Article name little longer (Author name longer)](http://example.net/article)
 
-[[3]](#a3) <span id="f3"></span> [Article name longer so far (Author name too long and much longer)](http://example.net/article)
-
----
-
-`Editorial`
-
-`Warnings`
-
-`Notes`
+`Updated Mar. 2018 (Andrei Dei)`

@@ -4,45 +4,47 @@ permalink: kostrov-gennadiy
 layout: default
 ---
 
+# {{page.title}}
 
+(Est. 2013, city) is a Gennadiy Kostrov (Rus. Геннадий Костров)—Russian theater producer1, the member of the Board of Directors of CB “Genbank”2, President of the Moscow School of a New Cinema, founder of Tasty Project, managing Clumba Club, ArtClumba, Fassbinder, Domozhilov3 working and living in Moscow <span id="a1">[\[1\]](#f1)</span>.
 
-# Kostrov, Gennadiy
+![](/encyclopedia/images/kostrov.jpg)
 
+**Gennadiy Kostrov (right), M. Gelman and M. Abramovich**
 
-(Est. 2013, city) is a subject, description-one <span id="a1">[\[1\]](#f1)</span>, description-two <span id="a2">[\[2\]](#f2)</span> description-three <span id="a3">[\[3\]](#f3)</span>, extra text. [Edit this page](http://prose.io/#indexmod/encyclopedia/edit/master/page-template.md)
+Photo: Gennadiy Kostrov / Facebook
+*Photo: [Name](index) / [Source](index)*
 
-![](/encyclopedia/images/image-name.jpg)
+# {{page.title}} Filmography
 
-**Image caption title**
++ 2012 White moors, or three stories about my neighbors
++ 2011 Homeland or Death3
 
-*Photo: [Photographer name](/photographer-name-page) / [Source name](/source-name-page)*
+# {{page.title}} Indexmod
 
-# Conspectus
+|Year|Facebook|Instagram|YouTube|Age|Indexmod|
+|-|-|-|-|-|
+|2018|000 <span id="a3">[\[3\]](#f3)</span>|000 <span id="a4">[\[4\]](#f4)</span>|000 <span id="a5">[\[5\]](#f5)</span>|00|0,0000|
 
-|Year|City|
-|----|-----|
-|2014|Tokyo|
-|2015|Moscow|
-|2017|Paris|
 
 # See also
 
-+ [See also title one](page-template)
-+ [See also title two](page-template)
-+ [See also title three](page-template)
++ [About {{page.title}}](index)
++ [{{page.title}} at Wikipedia](index)
+ArtPlay
+Marina Abramovich
+Marat Gelman
 
 # Footnotes
 
-[[1]](#a1) <span id="f1"></span> [Article name short (Author name)](http://example.net/article)
+1 Restorator Magazine Moscow
+2 TV Rain
+3 Kinomania
 
-[[2]](#a2) <span id="f2"></span> [Article name little longer (Author name longer)](http://example.net/article)
+[[3]](#a3) <span id="f3"></span> [{{page.title}} (Facebook)](index)
 
-[[3]](#a3) <span id="f3"></span> [Article name longer so far (Author name too long and much longer)](http://example.net/article)
+[[4]](#a4) <span id="f4"></span> [{{page.title}} (Instagram)](index)
 
----
+[[5]](#a5) <span id="f5"></span> [{{page.title}} (YouTube)](index)
 
-`Editorial`
-
-`Warnings`
-
-`Notes`
+`Updated Mar. 2018 (Andrei Dei)`

@@ -4,45 +4,51 @@ permalink: coty-russia
 layout: default
 ---
 
+# {{page.title}}
 
+(Est. 2013, city)
 
-# Coty Russia
+Coty Russia (Rus. Коти Россия) a global leader in beauty with 47 brands in 40 countries with the capitalisation of $4.4b in revenue.1 In Russia Coty have more than 150 employees and representatives in different regions.
 
-
-(Est. 2013, city) is a subject, description-one <span id="a1">[\[1\]](#f1)</span>, description-two <span id="a2">[\[2\]](#f2)</span> description-three <span id="a3">[\[3\]](#f3)</span>, extra text. [Edit this page](http://prose.io/#indexmod/encyclopedia/edit/master/page-template.md)
+<span id="a1">[\[1\]](#f1)</span>.
 
 ![](/encyclopedia/images/image-name.jpg)
 
-**Image caption title**
+**Image title**
+Svetlana Omelchenko, Coty’s Vice President of Global Marketing Insights
+Photo: Coty Inc. / Coty
+*Photo: [Name](index) / [Source](index)*
 
-*Photo: [Photographer name](/photographer-name-page) / [Source name](/source-name-page)*
-
-# Conspectus
+# {{page.title}} Conspectus
 
 |Year|City|
-|----|-----|
+|-|-|
 |2014|Tokyo|
-|2015|Moscow|
 |2017|Paris|
+
+
+# History
+
+Coty was founded in Paris in 1904 by François Coty, a “visionary”3 in the perfume industry. Portfolio of widely known brands in fragrance, color cosmetics, skin and body care supports net revenues of $4.6 billion for the fiscal year ended June 30, 2013. Portfolio in Russia includes such brands as Adidas, Balenciaga, Bottega Veneta, Calvin Klein, Chloe, Davidoff, Lancaster, Lady Gaga, Marc Jacobs, OPI, Playboy, Rimmel, Roberto Cavalli, Sally Hansen, etc. With offices in more than 30 countries and strong presence in 130 markets. Coty Inc. has 10,000 employees worldwide. The headquarters of the Company are located in New York, USA.
+
+# President
+
++ Alexandr Terekhov (2015)
+
 
 # See also
 
-+ [See also title one](page-template)
-+ [See also title two](page-template)
-+ [See also title three](page-template)
++ [One](index)
++ [Two](index)
+André Leon Talley
+Capri Publishing 
 
 # Footnotes
 
-[[1]](#a1) <span id="f1"></span> [Article name short (Author name)](http://example.net/article)
+[[3]](#a3) <span id="f3"></span> [{{page.title}} (Facebook)](index)
 
-[[2]](#a2) <span id="f2"></span> [Article name little longer (Author name longer)](http://example.net/article)
+[[4]](#a4) <span id="f4"></span> [{{page.title}} (Instagram)](index)
 
-[[3]](#a3) <span id="f3"></span> [Article name longer so far (Author name too long and much longer)](http://example.net/article)
+[[5]](#a5) <span id="f5"></span> [{{page.title}} (YouTube)](index)
 
----
-
-`Editorial`
-
-`Warnings`
-
-`Notes`
+`Updated Mar. 2018 (Andrei Dei)`

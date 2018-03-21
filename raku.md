@@ -4,45 +4,50 @@ permalink: raku
 layout: default
 ---
 
+# {{page.title}}
 
-
-# Raku
-
-
-(Est. 2013, city) is a subject, description-one <span id="a1">[\[1\]](#f1)</span>, description-two <span id="a2">[\[2\]](#f2)</span> description-three <span id="a3">[\[3\]](#f3)</span>, extra text. [Edit this page](http://prose.io/#indexmod/encyclopedia/edit/master/page-template.md)
+(Est. 2013, city) is a Raku (Jp. 楽焼 raku-yaki)—is a Japanese pottery that is used in the Japanese Tea Ceremony in the form of tea bowls. It is characterized by hand shaped; fairly porous vessels; glazes. The fired raku piece is removed from the hot kiln and is allowed to cool in the open air. The technique of placing the ware in a container filled with combustible material is not a traditional Raku practice. Sign in to edit Raku <span id="a1">[\[1\]](#f1)</span>. Raku means “enjoyment”, “comfort” or “ease” and is derived from Jurakudai, the name of a palace, in Kyoto, that was built by Toyotomi Hideyoshi (1537–1598), who was the leading warrior statesman of the time. In the 16th century, Sen Rikyū, the Japanese tea master, was involved with the construction of the Jurakudai and had a tile-maker, named Chōjirō, produce hand-moulded tea bowls for use in the wabi-styled tea ceremony that was Rikyū's ideal.1 Login to edit
 
 ![](/encyclopedia/images/image-name.jpg)
 
-**Image caption title**
+**Image title**
+Yoshiaki Ito during and before his lecture “Raku tea bowl. Thinking about their appearance and sense from the standpoint of the history of the tea ceremony “cha-no-yu” at Museon in Moscow
+Photo: Andrei Gurotesuku / Indexmod
+*Photo: [Name](index) / [Source](index)*
 
-*Photo: [Photographer name](/photographer-name-page) / [Source name](/source-name-page)*
-
-# Conspectus
+# {{page.title}} Conspectus
 
 |Year|City|
-|----|-----|
-|2014|Tokyo|
-|2015|Moscow|
-|2017|Paris|
+|-|-|
+|2017|Moscow|
+
+Black Raku Kitidzaemon XV-Style, “Swinging on rain clouds”
+Photo: Takashi Hatakeyama / Japan Foundation
+
+Opening of the exhibition “Ceramics Raku: The Universe in a teacup”, Moscow, 2015
+Photo: The Pushkin State Museum of Fine Arts / Facebook
+
+# {{page.title}} Indexmod
+
+|Year|Facebook|Instagram|YouTube|Age|Indexmod|
+|-|-|-|-|-|
+|2018|000 <span id="a3">[\[3\]](#f3)</span>|000 <span id="a4">[\[4\]](#f4)</span>|000 <span id="a5">[\[5\]](#f5)</span>|00|0,0000|
+
 
 # See also
 
-+ [See also title one](page-template)
-+ [See also title two](page-template)
-+ [See also title three](page-template)
+Japan Foundation
+The Pushkin State Museum of Fine Arts
+Museon
++ [About {{page.title}}](index)
++ [{{page.title}} at Wikipedia](index)
 
 # Footnotes
 
-[[1]](#a1) <span id="f1"></span> [Article name short (Author name)](http://example.net/article)
+[[3]](#a3) <span id="f3"></span> [{{page.title}} (Facebook)](index)
 
-[[2]](#a2) <span id="f2"></span> [Article name little longer (Author name longer)](http://example.net/article)
+[[4]](#a4) <span id="f4"></span> [{{page.title}} (Instagram)](index)
 
-[[3]](#a3) <span id="f3"></span> [Article name longer so far (Author name too long and much longer)](http://example.net/article)
+[[5]](#a5) <span id="f5"></span> [{{page.title}} (YouTube)](index)
 
----
-
-`Editorial`
-
-`Warnings`
-
-`Notes`
+`Updated Mar. 2018 (Andrei Dei)`

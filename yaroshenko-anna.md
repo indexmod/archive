@@ -1,32 +1,33 @@
 ---
-title: Yaroshenko, Anna
+title: 'Yaroshenko, Anna'
 permalink: yaroshenko-anna
 layout: default
+published: true
 ---
 
 # Yaroshenko, Anna
 
-(Est. 2013, city) is a subject, description-one <span id="a1">[\[1\]](#f1)</span>, description-two <span id="a2">[\[2\]](#f2)</span> description-3 <span id="a3">[\[3\]](#f3)</span>, extra text. [Edit this page](http://prose.io/#indexmod/encyclopedia/edit/master/yaroshenko-anna.md)
+(Rus. Анна Ярошенко, born. 1976, Baku) a collector of vintage fashion, photographer-anthropologist, founder of La Reserve Vintage (online store) based in Moscow <span id="a1">[\[1\]](#f1)</span>.
 
-![](/images/image-name.jpg)
+![](/encyclopedia/images/yaroshenko.jpg)
 
-*Image caption*
+**Anna Yaroshenko in Penino**
 
-*Photo: [Photographer name](http://example.net/) / [Source name](http://example.net/)*
+*Photo: [Andrei Dei](deinichenko-andrei) / [ Indexmod Encyclopedia](index)*
 
-# Conspectus
+# Children
 
-|Year|City|
-|----|---------|
-|2014|Tokyo|
-|2015|Moscow|
-|2017|Kiev|
+|Children|Name|Birth|
+|--|--|--|
+|Son|Alexei Volkogonov|2005|
+|Daughter|Valentina Volkogonov|2010|
+
 
 # See also
 
-- [Source name](http://example.net/)
-- [Source name](http://example.net/)
-- [Source name](http://example.net/)
+- [La Reserve Vintage](reserve-vintage-la)
+- [Natalia Turovnikova](turovnikova-natalia)
+
 
 # Footnotes
 
@@ -35,3 +36,5 @@ layout: default
 [[2]](#a2) <span id="f2"></span> [Article name (Author name)](http://example.net/article)
 
 [[3]](#a3) <span id="f3"></span> [Article name (Author name)](http://example.net/article)
+
+`Updated Mar. 2018 (Andrei Dei)`

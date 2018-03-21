@@ -2,111 +2,160 @@
 --- 
 @import "jekyll-theme-minimal";
 
+
  .intro {
-     font-family: 'Georgia', serif;
-     font-size: 24px;
-     font-weight: 100;
-     line-height: 1.3em;
-     list-style-type: none;
+	font-family: 'Georgia', serif;
+	font-size: 24px;
+	font-weight: 100;
+	line-height: 1.3em;
+	list-style-type: none;
 }
- h1, h2, h3, h4, h5, h6 {
-     font-family: 'Georgia', serif;
-     font-size: 39px;
-     font-weight: 100;
-     line-height: 1.2em;
-     color: black;
+h1, h2, h3, h4, h5, h6 {
+	font-family: 'Georgia', serif;
+	font-size: 39px;
+	font-weight: 100;
+	line-height: 1.2em;
+	color: #454343;
 }
- table {
-     font-family: 'Monaco', serif;
-     font-size: 18px;
-     line-height: 1em;
-     font-weight: 100;
-     color: black;
-     border-collapse: collapse;
+table {
+	font-family: 'Monaco', serif;
+	font-size: 18px;
+	line-height: 1em;
+	font-weight: 100;
+	color: #454343;
+	border-collapse: collapse;
 }
- th {
-     background-color: #f5f5f5;
-     color: green;
-     font-weight: 100;
-     padding: 9px;
-     text-align: left;
-     height: auto;
-     vertical-align: top;
-     border: 0.1px solid #e0e0e0;
+th {
+	background-color: #f5f5f5;
+	color: green;
+	font-weight: 100;
+	padding: 9px;
+	text-align: left;
+	height: auto;
+	vertical-align: top;
+	border: 0.1px solid #e0e0e0;
 }
- td {
-     padding: 9px;
-     text-align: left;
-     height: auto;
-     vertical-align: top;
-     border: 0.1px solid #e0e0e0;
+td {
+	padding: 9px;
+	text-align: left;
+	height: auto;
+	vertical-align: top;
+	border: 0.1px solid #e0e0e0;
 }
- tr:hover {
-     background-color: #f5f5f5;
+tr:hover {
+	background-color: #f5f5f5;
+}
+.highlighter-rouge {
+	font-family: 'Monaco';
+	font-size: 19px;
+	line-height: 4em;
+	font-weight: 100;
+	color: green;
+	border: solid 0.1px #e0e0e0;
+	background-color: #f5f5f5;
+	-moz-border-radius: 5px;
+	-webkit-border-radius: 5px;
+	border-radius: 5px;
+	padding: 9px 9px;
+}
+del {
+	color: silver;
+}
+p {
+	font-family: 'Georgia', serif;
+	font-size: 24px;
+	line-height: 1.6em;
+	font-weight: 100;
+	color: #454343;
+}
+strong {
+	color: #454343;
+	font-family: 'Helvetica Neue';
+	font-size: 24px;
+	line-height: 0.1em;
+	font-weight: 900;
+}
+em {
+	color: #454343;
+	font-size: 24px;
+	line-height: 0.1em;
+	font-weight: 100;
+}
+li {
+	font-family: 'Georgia', serif;
+	font-size: 24px;
+	line-height: 1.6em;
+	font-weight: 100;
+	color: #454343;
+}
+ul {
+	font-family: 'Georgia', serif;
+	font-size: 24px;
+	line-height: 1.6em;
+	font-weight: 100;
+	color: #454343;
+}
+a:link {
+	color: #4e80d8;
+	text-decoration: none;
+}
+a:visited {
+	color: #4e80d8;
+	text-decoration: none;
+}
+a:hover {
+	color: green;
+	text-decoration: none;
+}
+a:active {
+	color: #4e80d8;
+	text-decoration: none;
 }
 
- .highlighter-rouge {
-     font-family: 'Monaco';
-     font-size: 19px;
-     line-height: 4em;
-     font-weight: 100;
-     color: green;
-     border: solid 0.1px #e0e0e0;
-     background-color: #f5f5f5;
-     -moz-border-radius: 5px;
-     -webkit-border-radius: 5px;
-     border-radius: 5px;
-     padding: 9px 9px;
+.lead {
+    font-style: italic;
+	color: black;
+	font-size: 28px;
+	line-height: 0.2em;
+	
 }
- 
- p {
-     font-family: 'Georgia', serif;
-     font-size: 24px;
-     line-height: 1.2em;
-     font-weight: 100;
-     color: black;
+
+a:link.lead {
+	color: black;
+	text-decoration: none;
 }
- li {
-     font-family: 'Georgia', serif;
-     font-size: 24px;
-     line-height: 1.6em;
-     font-weight: 100;
-     color: black;
+a:visited.lead {
+	color: black;
+	text-decoration: none;
 }
- ul {
-     font-family: 'Georgia', serif;
-     font-size: 24px;
-     line-height: 1.6em;
-     font-weight: 100;
-     color: black;
+a:hover.lead {
+	color: green;
+	text-decoration: none;
 }
- a:link {
-     color: #4286f4;
-     text-decoration: none;
+a:active.lead {
+	color: black;
+	text-decoration: none;
 }
- a:visited {
-     color: #4286f4;
-     text-decoration: none;
+img {
+	max-width: 100%;
+	min-width: 100%;
+	height: auto;
+	margin: 0em 0em 0em 0em;
+	-webkit-filter: grayscale(100%);
+	filter: grayscale(100%);
 }
- a:hover {
-     color: green;
-     text-decoration: none;
+
+.container {
+	width: 100px;
 }
- a:active {
-     color: #4286f4;
-     text-decoration: none;
+.container img {
+	display: block;
+	width: 100%;
+	height: auto;
 }
- img {
-     max-width: 100%;
-     min-width: 100%;
-     height: auto;
-     margin: 0em 0em 0em 0em;
-     -webkit-filter: grayscale(100%);
-     filter: grayscale(100%);
-}
- footer {
-     font-family: 'Georgia', serif;
-     font-weight: 100;
-     font-size: 24px;
-     line-height: 1.3em;
+footer {
+	font-family: 'Georgia', serif;
+	font-weight: 100;
+	font-size: 24px;
+	line-height: 1.3em;
 }

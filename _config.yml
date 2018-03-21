@@ -16,3 +16,7 @@ show_description: false
 google_analytics: 'UA-112478299-1'
 theme: jekyll-theme-minimal
 include: ['.htaccess']
+gems:
+plugins:
+  - jekyll-sitemap
+

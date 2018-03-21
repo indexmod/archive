@@ -4,45 +4,69 @@ permalink: v-a-c-foundation
 layout: default
 ---
 
-
-
 # V-A-C Foundation
 
+(Rus. Фонд «Виктория—искусство быть современным», est. 2009, Moscow) founded and headed by Leonid Mikhelson <span id="a1">[\[1\]](#f1)</span>, and dedicated to the international presentation, production and development of Russian contemporary art, focusing on supporting and expanding the platform for home-grown talent, giving artists the opportunity to experience, engage with and interrogate international cultural practices whilst developing an authentic and autonomous artistic language <span id="a2">[\[2\]](#f2)</span>.
 
-(Est. 2013, city) is a subject, description-one <span id="a1">[\[1\]](#f1)</span>, description-two <span id="a2">[\[2\]](#f2)</span> description-three <span id="a3">[\[3\]](#f3)</span>, extra text. [Edit this page](http://prose.io/#indexmod/encyclopedia/edit/master/v-a-c-foundation.md)
+![](/encyclopedia/images/vac.jpg)
 
-![](/encyclopedia/images/image-name.jpg)
+**The V-A-C Foundation will covert Moscow's former GES2 power plant into a museum**
 
-**Image caption title**
+*Photo: [Henri Neuendorf](index) / [Artnet Worldwide Corporation](index)*
 
-*Photo: [Photographer name](/photographer-name-page) / [Source name](/source-name-page)*
+# Foundation Leaders
 
-# Conspectus
++ Leonid Michelson—President of the Foundation
++ Teresa Mavic—the art director of the foundation
++ Katerina Chuchalina—program director, curator 3
 
-|Year|City|
-|----|-----|
-|2014|Tokyo|
-|2015|Moscow|
-|2017|Paris|
+# Expert Council Fund
+
++ Caroline Bourgeois—the curator François Pinault Foundation
++ Massimiliano Joni—curator of the 55th Venice Biennale, director of the exhibition program of the New Museum of Modern Art (New York), artistic director of the Trussardi Foundation (Milan)
++ Ian Peel—director of Outset Foundation 4
+
+# Artists working with
+
++ Eugene Antufiev
++ Alex Galkin
++ Alina Gutkin
++ Arseniy Zhilyaev
++ Daria Irincheeva
++ Zhanna Kadyrova
++ Yakov Kazhdan
++ Catherine Kravtsov
++ “Where dogs run” the group
++ Andrei Kuz'kin Ekaterina Lazareva
++ Taus Mahachev
++ Diana Machulina
++ Misha Most
++ Mitya Nesterov
++ Blue Cucumbers
++ Anna Parkin
++ Nastya Ryabov
++ Sergei Sapozhnikov
++ Anna Titova
++ Valentin Weaver
++ Alexander Paperno
++ Veronica Rudyeva-Ryazantsev
++ Igor Starkov
++ Alexander Sukharev
++ David Ter-Oganyan
++ Dmitry Teselkin
++ Anastasia Tsayder
++ Stas Shuripa 5
 
 # See also
 
-+ [See also title one](page-template)
-+ [See also title two](page-template)
-+ [See also title three](page-template)
++ [La Biennale di Venezia](index)
++ [Mitya Nesterov](index)
++ [Tate London ](index)
 
 # Footnotes
 
-[[1]](#a1) <span id="f1"></span> [Article name short (Author name)](http://example.net/article)
+[[1, 2]](#a1) <span id="f1"></span> [About the Fundation (Author name)](http://www.v-a-c.ru/foundation/)
 
-[[2]](#a2) <span id="f2"></span> [Article name little longer (Author name longer)](http://example.net/article)
+[[3—5]](#a2) <span id="f2"></span> [“Фонд «Виктория — искусство быть современным»” (Википедия)](https://ru.wikipedia.org/wiki/Фонд_«Виктория_—_искусство_быть_современным»)
 
-[[3]](#a3) <span id="f3"></span> [Article name longer so far (Author name too long and much longer)](http://example.net/article)
-
----
-
-`Editorial`
-
-`Warnings`
-
-`Notes`
+`Updated Mar. 2018 (Andrei Dei)`

@@ -4,42 +4,63 @@ permalink: vishnevski-oleg
 layout: default
 ---
 
-# Vishnevski, Oleg
+# {{page.title}}
 
-(Est. 2013, city) is a subject, description-one <span id="a1">[\[1\]](#f1)</span>, description-two <span id="a2">[\[2\]](#f2)</span> description-three <span id="a3">[\[3\]](#f3)</span>, extra text. [Edit this page](http://prose.io/#indexmod/encyclopedia/edit/master/page-template.md)
+(Est. 2013, city) Oleg Vishnevski, Oleg GK (Rus. Олег Вишневский) born 1990, Moscow—is a Russian artist, VJ working in genre as photographer, lighting designer, video editor, VJ <span id="a1">[\[1\]](#f1)</span> extra text.
 
 ![](/encyclopedia/images/image-name.jpg)
 
-**Image caption title**
+**Image title**
 
-*Photo: [Photographer name](/photographer-name-page) / [Source name](/source-name-page)*
+*Photo: [Name](index) / [Source](index)*
 
-# Conspectus
+# {{page.title}} Conspectus
 
 |Year|City|
-|----|-----|
+|-|-|
 |2014|Tokyo|
-|2015|Moscow|
-|2017|Paris|
+|2017|Paris
+
+# Education and qualification
+
++ MPEI (2006 –2012) National Research University Moscow Power Engineering Institute
++ Lighring designer
++ BHSAD Moscow (2013) British High School of Art and Design Moscow Branches
++ Photographer
+
+# Publications
+
++ Some Magazine
++ Some Magazine
++ Icing! Magazin (January, 2015)
++ Kock Mag (Novenber, 2014)
++ Paf Magazine (Spring, 2016)
++ Kock Magazine
++ Gods Magazine
++ Voices Magazine
+
+# Group exhibition
++ SAHAR (2014)
+# Live performance
++ Audio-Visual performance in MARS gallery (as VJ) 30 January 2016
+
+# {{page.title}} Indexmod
+
+|Year|Facebook|Instagram|YouTube|Age|IMD|
+|-|-|-|-|-|
+|2018|100 <span id="a3">[\[3\]](#f3)</span>|200 <span id="a4">[\[4\]](#f4)</span>|300 <span id="a4">[\[4\]](#f4)</span>|12|0,0025|
 
 # See also
 
-+ [See also title one](page-template)
-+ [See also title two](page-template)
-+ [See also title three](page-template)
++ [One](index)
++ [Two](index)
 
 # Footnotes
 
-[[1]](#a1) <span id="f1"></span> [Article name short (Author name)](http://example.net/article)
+[[3]](#a3) <span id="f3"></span> [{{page.title}} (Facebook)](index)
 
-[[2]](#a2) <span id="f2"></span> [Article name little longer (Author name longer)](http://example.net/article)
+[[4]](#a4) <span id="f4"></span> [{{page.title}} (Instagram)](index)
 
-[[3]](#a3) <span id="f3"></span> [Article name longer so far (Author name too long and much longer)](http://example.net/article)
+[[5]](#a5) <span id="f5"></span> [{{page.title}} (YouTube)](index)
 
----
-
-`Editorial`
-
-`Warnings`
-
-`Notes`
+`Last edit Feb. 2018 (Andrei Dei)`

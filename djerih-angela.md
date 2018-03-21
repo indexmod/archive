@@ -6,12 +6,14 @@ layout: default
 
 # Djerih, Angela
 
-(Est. 2013, city) is a subject, description-one <span id="a1">[\[1\]](#f1)</span>, description-two <span id="a2">[\[2\]](#f2)</span> description-three <span id="a3">[\[3\]](#f3)</span>, extra text.
+(Est. 2013, city) Angela Djerih (Rus. Анджела Джерих) born 1965, Donetsk. Russian artist, main object of her work—people drawn with ironic attitude to life is reflected in the works of Angela, uses different manners, techniques, genres and themes, including fabulous, historical, folklore. Working and living in Moscow <span id="a1">[\[1\]](#f1)</span>, description-two <span id="a2">[\[2\]](#f2)</span> description-three <span id="a3">[\[3\]](#f3)</span>, extra text.
 
 ![](/encyclopedia/images/image-name.jpg)
 
 **Image caption title**
-
+Angela Djerih in 2009
+Angela Djerih, “Male fantasies”
+Photo: Angela Djerih / Anqil Arts In
 *Photo: [Photographer name](/photographer-name-page) / [Source name](/source-name-page)*
 
 # Conspectus

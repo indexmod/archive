@@ -4,45 +4,62 @@ permalink: sochi
 layout: default
 ---
 
+# {{page.title}}
 
-
-# Sochi
-
-
-(Est. 2013, city) is a subject, description-one <span id="a1">[\[1\]](#f1)</span>, description-two <span id="a2">[\[2\]](#f2)</span> description-three <span id="a3">[\[3\]](#f3)</span>, extra text.
+(Est. 2013, city) is a Sochi (Rus. Сочи) is a city in Russian Federation on the Black Sea coast near the border of Abkhazia. The Greater Sochi area is 3,526 square kilometers sprawls for 145 kilometers along the shores of the Black Sea near the Caucasus Mountains, is a Russia's largest resort city, part of the Caucasian Riviera, one of the few places in Russia with a subtropical climate <span id="a1">[\[1\]](#f1)</span>.
 
 ![](/encyclopedia/images/image-name.jpg)
 
-**Image caption title**
+**Image title**
 
-*Photo: [Photographer name](/photographer-name-page) / [Source name](/source-name-page)*
+Etro store at Morskoi Vokzal in Sochi
+Photo: Bosco Di Ciliegi / Vogue
 
-# Conspectus
+Famous Sochi native Yana Rudkovskaya as WF Person of the Year
+Photo: Lobanov / Rudkovskaya.Ru
+
+*Photo: [Name](index) / [Source](index)*
+
+# {{page.title}} Olympic Games and F1
+Sochi hosted the XXII Olympic Winter Games and XI Paralympic Winter Games in 2014, as well as the Russian Formula 1 Grand Prix from 2014 until at least 2020. It will also be one of the host cities for the 2018 FIFA World Cup.
+
+# Landmarks
+The city attracts vacation-goers with its subtropic parks and extravagant Stalinist architecture. About two million people visit Greater Sochi each summer when the city is home to the annual film festival “Kinotavr”. A UNESCO World Heritage Site, the 2,957 square kilometers Caucasian Biosphere Reserve. Sochi also has the region's most northerly tea plantations.
+
+# Extra events
+F1 Russian Grand Prix 2014 The Silk Way Rally which is part of Dakar series took place in Sochi in 2010 for the last stage between the capital of the Republic of Adygea Maykop to the city of Sochi through Pseshwap.
+
+President Putin reached a deal with Bernie Ecclestone for the city to host the Formula One Russian Grand Prix from 2014.
+The World Robot Olympiad took place in the Adler Arena Skating Center on 21–23 November 2014.
+2014 World Chess Championship between Viswanathan Anand and Magnus Carlsen was played in Sochi in November 2014, with Carlsen emerging as the winner.
+The Fisht Olympic Stadium will also be used to host 2018 FIFA World Cup football matches.
+Since 2014, HC Sochi, who play at the Bolshoy Ice Dome in the Kontinental Hockey League, the biggest ice hockey league in Russia and eastern Europe.1
+New Wave (competition)
 
 |Year|City|
-|----|-----|
-|2014|Tokyo|
-|2015|Moscow|
-|2017|Paris|
+|-|-|
+|2017|Moscow|
+
+# {{page.title}} Indexmod
+
+|Year|Facebook|Instagram|YouTube|Age|Indexmod|
+|-|-|-|-|-|
+|2018|000 <span id="a3">[\[3\]](#f3)</span>|000 <span id="a4">[\[4\]](#f4)</span>|000 <span id="a5">[\[5\]](#f5)</span>|00|0,0000|
+
 
 # See also
 
-+ [See also title one](page-template)
-+ [See also title two](page-template)
-+ [See also title three](page-template)
++ [About {{page.title}}](index)
++ [{{page.title}} at Wikipedia](index)
+Fisht
+Gosdacha Miusera
 
 # Footnotes
 
-[[1]](#a1) <span id="f1"></span> [Article name short (Author name)](http://example.net/article)
+[[3]](#a3) <span id="f3"></span> [{{page.title}} (Facebook)](index)
 
-[[2]](#a2) <span id="f2"></span> [Article name little longer (Author name longer)](http://example.net/article)
+[[4]](#a4) <span id="f4"></span> [{{page.title}} (Instagram)](index)
 
-[[3]](#a3) <span id="f3"></span> [Article name longer so far (Author name too long and much longer)](http://example.net/article)
+[[5]](#a5) <span id="f5"></span> [{{page.title}} (YouTube)](index)
 
----
-
-`Editorial`
-
-`Warnings`
-
-`Notes`
+`Updated Mar. 2018 (Andrei Dei)`
