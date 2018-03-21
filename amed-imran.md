@@ -5,8 +5,6 @@ layout: default
 published: true
 ---
 
-# Амед, Имран (блогер)
-
 (Англ. Imran Amed, род. 1976 <span id="a1">[\[1\]](#f1)</span>, Калгари)  британский и канадский предприниматель, основатель и генеральный директор “The Business of Fashion” (Бизнес моды), основатель проекта "BoF Голоса" <span id="a2">[\[2\]](#f2)</span>, живёт и работает в Лондоне.
 
 ![](http://style.gq.com.au/media/file_uploads/2/6/7/0/26713-1.jpg)

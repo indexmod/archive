@@ -5,7 +5,6 @@ layout: default
 published: true
 ---
 
-# Acid Noodles
 
 (2015, Moscow) is an interactive exhibit curated by Maria Pudan for Tsvetnoy Central Market in 2015 in Moscow. Young artists Mic Sachov and Vasya Kolotusha <span id="a1">[\[1\]](#f1)</span> are among participants of Acid Noodles expositions.
 

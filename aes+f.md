@@ -4,6 +4,7 @@ permalink: aes+f
 layout: default
 published: true
 ---
+
 (Rus. АЕС+Ф, est. 1987, Moscow) is one of the most commercially successful Russian art group formedi by Tatiana Arzamasova, Lev Evzovich and Evgeny Svyatsky, and than expanded with the addition of the photographer Vladimir Fridkes in 1995 <span id="a1">[\[1\]](#f1)</span>.
 
 ![](http://aesf.art/ve-files/0000899.jpg)
