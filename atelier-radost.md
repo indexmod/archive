@@ -1,14 +1,9 @@
 ---
 title: Atelier Radost
 permalink: atelier-radost
-position:
+position: null
 layout: default
----
-
----
-title: Template
-permalink: template
-layout: default
+published: true
 ---
 
 (Est. 2013, city) is a --------- <span id="a1">[\[1\]](#f1)</span>.
