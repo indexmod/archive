@@ -5,10 +5,7 @@ layout: default
 published: true
 ---
 
-# Identity of Indexmod
-
-
-(Est. 2006, Moscow) a sign for Indexmod Encyclopedia of Art and Fashion created by Andrei Deinichenko in 2015 based on the earlier image of 2011 by Andrei Abramov (Odinmay). [Edit this page](http://prose.io/#indexmod/encyclopedia/edit/master/identity-of-indexmod.md)
+(Est. 2006, Moscow) a sign for Indexmod Encyclopedia of Art and Fashion created by Andrei Deinichenko in 2015 based on the earlier image of 2011 by Andrei Abramov (Odinmay).
 
 ![](/encyclopedia/images/indexmod-2011.png)
 
@@ -54,5 +51,3 @@ published: true
 [[1]](#a1) <span id="f1"></span> [Article name short (Author name)](http://example.net/article)
 
 `Last edit Feb. 2018 (Andrei Dei)`
-
-

@@ -5,8 +5,6 @@ position:
 layout: default
 ---
 
-# Belorussian Fashion Week
-
 (Bel. Беларуская тыдзень моды, est. 2010, Minsk) international professional event focused on the clothing prêt-a-porter and de luxe, founded in 2010 by Yanina Goncharova a head of Republican Non-Governmental Organization “The Belarusian Chamber of Fashion” and Crystal Nymph Center.
 
 ![](encyclopedia/images/bfw-logo-fragment.jpg)

@@ -5,14 +5,8 @@ position:
 layout: default
 ---
 
-# Beinart Gallery
-
 (Est. 2013, city) is a subject, description-one <span id="a1">[\[1\]](#f1)</span>,
-description-two
-
-
-
-Beinart Gallery, beinArt Gallery est. 2016, Melbourne—is a gallery in Australia that representating a dark or strange themes based on the beinArt Collective was founded in 2003 by Jon Beinart. 1 Login to edit Beinart Gallery
+description-two Beinart Gallery, beinArt Gallery est. 2016, Melbourne—is a gallery in Australia that representating a dark or strange themes based on the beinArt Collective was founded in 2003 by Jon Beinart. 1 Login to edit Beinart Gallery
 
 Bonobo Astronomica
 Image: Chris Leib / Beinart Gallery

@@ -1,7 +1,7 @@
 ---
 title: 'Zverkov, Nikolay'
 permalink: zverkov-nikolay
-layout: social
+layout: default
 published: true
 ---
 (Rus. Николай Зверьков, born 1983, Moscow) is a celebrity photographer who stands for 77-th (2016) position at 100 most influential in Russian fashion by SNC edition <span id="a1">[\[1\]](#f1)</span>, working and living in Moscow.

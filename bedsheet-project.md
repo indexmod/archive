@@ -5,8 +5,6 @@ position:
 layout: default
 ---
 
-# Bedsheet (project)
-
 (Est. 2013, city) is a subject, description-one <span id="a1">[\[1\]](#f1)</span>,
 
 Bedsheet (Rus. Простыня) 2016, Moscow—is a art project by Russian artist Elena Kholkina.1 Sign in to edit Bedsheet
