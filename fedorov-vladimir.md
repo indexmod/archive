@@ -1,12 +1,12 @@
 ---
-title: Fedorov, Vladimir
+title: 'Fedorov, Vladimir'
 permalink: fedorov-vladimir
 layout: default
+published: true
 ---
 
-# Fedorov, Vladimir
 
-(Ukr. Федоров Володимир, born 1963, Sumi, dead, 2018 Kharkiv) Ukrainian—Russian artist, co-establisher of the art group “Inspection of Medical Hermeneutics”, in 2014 moved to Moscow, in 2015 have worked with Ivana Babushkina at House of Artists on Vavilov 65 <span id="a1">[\[1\]](#f1)</span>.
+(Ukr. Федоров Володимир, born 1963, Sumi, dead, 2018 Kharkiv) Ukrainian—Russian artist, co-establisher of the art group “Inspection of Medical Hermeneutics” <span id="a1">[\[1\]](#f1)</span>, in 2014 moved to Moscow, in 2015 have worked with Ivana Babushkina at House of Artists on Vavilov 65 <span id="a2">[\[2\]](#f2)</span>.
 
 ![](/encyclopedia/images/fedorov-1.jpg)
 
@@ -48,7 +48,7 @@ Description-two <span id="a2">[\[2\]](#f2)</span> description-three <span id="a3
 
 # Footnotes
 
-[[1]](#a1) <span id="f1"></span> [Article name short (Author name)](http://example.net/article)
+[[1]](#a1) <span id="f1"></span> [Павел Пепперштейн о Владимире Федорове (Павел Пепперштейн, Telegra.ph)](http://telegra.ph/Pavel-Peppershtejn-o-Vladimire-Fedorove-03-21)
 
 [[2]](#a2) <span id="f2"></span> [Article name little longer (Author name longer)](http://example.net/article)
 
