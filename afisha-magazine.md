@@ -2,8 +2,13 @@
 title: Afisha (magazine)
 permalink: afisha-magazine
 layout: default
+published: true
 ---
 
+<<<<<<< HEAD
+=======
+
+>>>>>>> fa9dcbd2569ae9e4341bb446e461d6650530a901
 (Rus. Афиша, est. 1999, Moscow) is Russian brand name founded by Russian Ilya Oskolkov-Tsentsiper and American Andrew Paulson, now magazine and website, about the urban, development culture, fashion, food, entertainment, and owned by Rambler&Co (2016) <span id="a1">[\[1\]](#f1)</span>, description-two <span id="a2">[\[2\]](#f2)</span> description-3 <span id="a3">[\[3\]](#f3)</span>, extra text.
 
 ![](/images/image-name.jpg)

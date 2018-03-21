@@ -1,12 +1,13 @@
 ---
 title: Bali
 permalink: bali
-position:
+position: null
 layout: default
+published: true
 ---
 
 
-(Est.. 2013, city) is a subject, description-one <span id="a1">[\[1\]](#f1)</span> is an island and province of Indonesia. The province includes the island of Bali and a few smaller neighbouring islands. It is located between Java to the west and Lombok. Its capital of Denpasar is located at the southern part of the island. With a population of 3,890,757 in the 2010 census, and currently 4,225,000 as of January 2014, the island is home to most of Indonesia's Hindu minority. Login to edit
+(Est. 2013, city) is a subject, description-one <span id="a1">[\[1\]](#f1)</span> is an island and province of Indonesia. The province includes the island of Bali and a few smaller neighbouring islands. It is located between Java to the west and Lombok. Its capital of Denpasar is located at the southern part of the island. With a population of 3,890,757 in the 2010 census, and currently 4,225,000 as of January 2014, the island is home to most of Indonesia's Hindu minority. Login to edit
 
 Bali is a popular tourist destination and is renowned for its highly developed arts, including traditional and modern dance, sculpture, painting, leather, metalworking, and music. The Indonesian International Film Festival is held every year in Bali. Most recently, Bali was the host of the 2011 ASEAN Summit and 2013 APEC. 1 Login to edit
 

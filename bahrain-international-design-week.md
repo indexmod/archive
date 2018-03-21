@@ -2,6 +2,10 @@
 title: Bahrain International Design Week
 permalink: bahrain-international-design-week
 layout: default
+<<<<<<< HEAD
+=======
+published: true
+>>>>>>> fa9dcbd2569ae9e4341bb446e461d6650530a901
 ---
 
 (Est. 2013, city) is a --------- <span id="a1">[\[1\]](#f1)</span>.

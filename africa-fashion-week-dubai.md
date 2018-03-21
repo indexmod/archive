@@ -2,8 +2,13 @@
 title: Africa Fashion Week Dubai
 permalink: africa-fashion-week-dubai
 layout: default
+published: true
 ---
 
+<<<<<<< HEAD
+=======
+
+>>>>>>> fa9dcbd2569ae9e4341bb446e461d6650530a901
 (Est. 2014, Dubai) is fashion event in UAE organized by Africa Development Studies Center. See also: Estella Couture, Estella Ogbonna <span id="a1">[\[1\]](#f1)</span>, description-two <span id="a2">[\[2\]](#f2)</span> description-3 <span id="a3">[\[3\]](#f3)</span>, extra text.
 
 ![](/images/image-name.jpg)

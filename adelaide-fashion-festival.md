@@ -1,7 +1,7 @@
 ---
 title: Adelaide Fashion Festival
 permalink: adelaide-fashion-festival
-layout: social
+layout: default
 published: true
 ---
 

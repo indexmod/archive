@@ -1,8 +1,14 @@
 ---
 title: Atelier Radost
 permalink: atelier-radost
+<<<<<<< HEAD
 position:
 layout: default
+=======
+position: null
+layout: default
+published: true
+>>>>>>> fa9dcbd2569ae9e4341bb446e461d6650530a901
 ---
 
 (Est. 2013, city) is a --------- <span id="a1">[\[1\]](#f1)</span>.

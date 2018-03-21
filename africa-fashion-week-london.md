@@ -2,9 +2,14 @@
 title: Africa Fashion Week London
 permalink: africa-fashion-week-london
 layout: default
+published: true
 ---
 
+<<<<<<< HEAD
  (Est. 2010) is a fashion event in  England founded by Adirée (the Africa Fashion Week New York producers) includes runway shows, exhibition, and industry networking events with the sole purpose of raising awareness of the African, African-American fashion and entertainment professionals <span id="a1">[\[1\]](#f1)</span>, description-two <span id="a2">[\[2\]](#f2)</span> description-3 <span id="a3">[\[3\]](#f3)</span>, extra text.
+=======
+(Est. 2010) is a fashion event in  England founded by Adirée (the Africa Fashion Week New York producers) includes runway shows, exhibition, and industry networking events with the sole purpose of raising awareness of the African, African-American fashion and entertainment professionals <span id="a1">[\[1\]](#f1)</span>, description-two <span id="a2">[\[2\]](#f2)</span> description-3 <span id="a3">[\[3\]](#f3)</span>, extra text.
+>>>>>>> fa9dcbd2569ae9e4341bb446e461d6650530a901
 
 ![](/images/image-name.jpg)
 
