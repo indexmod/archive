@@ -1,7 +1,7 @@
 ---
 title: Eta (fellowship)
 permalink: eta-fellowship
-layout: default
+layout: social
 published: true
 ---
 # Eta (fellowship)

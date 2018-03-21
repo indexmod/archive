@@ -1,21 +1,24 @@
 ---
 title: How to edit
 permalink: edit
-layout: cover
+layout: social
 published: true
 ---
 
 
-# Link on the top-left
+# Link the Wiki ⤵︎
 
-Edit any page following link on top-left section: you may edit every page with Prose.io editor using link "Editing The "How to edit" page" at top-left section of each page. To save  changes you may need authorize as [GitHub](https://github.com/join) user.
+Edit any page following **Wiki ⤵︎** link on top of every page, you will be redirected to Prose.io editor. Warning: to save  changes you may need authorize as [GitHub](https://github.com/join) user.
 
+# Create new page
 
-# New pages from Template
++ Follow **Wiki ⤵︎**
++ Find the `template.md`and copy content
++ In encyclopedia tab create new file with .md extention 
++ Paste content of the template
++ Edit **Page title** and **Permalink** and save new page
 
-Just go to [Template](template) copy it and paste in to new empty .md file.
-
-# Charachter by charachter
+# Writing charachter by charachter
 
 The aim of Indexmod Encyclopedia to simplify wiki syntax for a pretty and light format. Following checklist explains few steps of creating and editing beautiful articles in Indexmod Encyclopedia.
 
@@ -25,56 +28,52 @@ Every page is written with [Markdown](https://daringfireball.net/projects/markdo
 
 #  Front matter
 
-Each page on top have hidden section with meta data. This **front matter** area is set with triple-dashed lines.
+Each page on top have hidden section with meta data. This **Front matter** area is set with triple-dashed lines.
 
-    ---
-    title: How to edit
-    permalink: edit
-    layout: default
-    ---
+`---`
+`title: How to edit`
+`permalink: edit`
+`layout: default`
+`---`
 
-Above code is a **front matter** of page with title **How to edit**. A typical **front matter** may contain **page title**, **permalink**, **layout** and other metadata.
+Above code is a **Front matter** of page with title **How to edit**. A typical **Front matter** may contain **Page title**, **Permalink**, **Layout** and other metadata.
 
 # Page structure
 
-The visible area of the page have **title**, **cover** section, an **image** with **caption** and **credits**, **Conspectus** section, **See also** section and **Footnotes** section.
+The visible area of the page have **Title**, **Cover** section, an **Image** with **Caption** and **Credits**, **Conspectus** section, **See also** section and **Footnotes** section.
 
 # Title  
 
-     # Aberdeen Fashion Week
-     # Tailor, Victoria
-     # Duma, Miroslava (publisher)
+`# Aberdeen Fashion Week`
+`# Tailor, Victoria`
+`# Duma, Miroslava (publisher)`
 
 Title includes the subject's name **Aberdeen Fashion Week**, surname and name **Tailor, Victoria** and may be added with specification with round brackets **Tailor, Victoria (designer)**.
 
 # Front
 
-     (Born 1968, Paris)
-     (Est. 2012, Moscow)
+`(Born 1968, Paris)`
+`(Est. 2012, Moscow)`
 
-
-Front starts with **(Born, Est. 1999, city)** beginner in round brackets. Following one-two sentences of description every front sentence ends with footnote links styled with **squared brackets**
-
-    <span id="a1">[\[1\]](#f1)</span>, <span id="a2">[\[2\]](#f2)</span>, <span id="a3">[\[3\]](#f3)</span>.
+Front starts with **(Born, Est. 1999, city)** beginner in round brackets. Following one-two sentences of description every front sentence ends with footnote links styled with **Squared brackets**
 
 The following code for footnote link
 
-     <span id="a1">[\[1\]](#f1)</span>
+`<span id="a1">[\[1\]](#f1)</span>`
 
 Will be rendered as
 
 <span id="a1">[\[1\]](#f1)</span>
 
-
 # Image, caption, and credits
 
 This is image link code
 
-     ![](/encyclopedia/images/image-name.jpg)
+![](/encyclopedia/images/image-name.jpg)
 
 This is image caption code
 
-      **Image caption**
+`**Image caption**`
 
 Will be rendered as
 
@@ -82,7 +81,7 @@ Will be rendered as
 
 This is image credits code
 
-    *Photo: [Photographer name](photographer-name) / [Source name](edition-name)*
+`*Photo: [Photographer name](photographer-name) / [Source name](edition-name)*`
 
 It will be rendered as
 
@@ -94,11 +93,11 @@ Every image must be described and styled with **bold font**. Credits line starts
 
 Conspectus is for any structured data in table, the following code
 
-    |Year|City|
-    |---|---|
-    |2014|Tokyo|
-    |2015|Moscow|
-    |2017|Paris|
+`|Year|City|`
+`|---|---|`
+`|2014|Tokyo|`
+`|2015|Moscow|`
+`|2017|Paris|`
 
 Will be rendered as
 
@@ -112,18 +111,17 @@ Will be rendered as
 
 See also section connects your page with others pages in Indexmod Encyclopedia. Use following template combining list and link styling syntax. The code
 
-     + [See also](index)
+`+ [See also](index)`
 
 Will be rendered as
 
 + [See also](index)
 
-
 # Footnotes
 
 Code for footnote
 
-      [[1]](#a1) <span id="f1"></span> [Article 1 (Author 1)] (http://example.net/article)
+`[[1]](#a1) <span id="f1"></span> [Article 1 (Author 1)] (http://example.net/article)`
 
 Will be rendered as
 

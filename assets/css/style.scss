@@ -105,10 +105,35 @@ a:visited {
 }
 a:hover {
 	color: green;
-	text-decoration: underline;
+	text-decoration: none;
 }
 a:active {
 	color: #4e80d8;
+	text-decoration: none;
+}
+
+.lead {
+    font-style: italic;
+	color: black;
+	font-size: 28px;
+	line-height: 0.2em;
+	
+}
+
+a:link.lead {
+	color: black;
+	text-decoration: none;
+}
+a:visited.lead {
+	color: black;
+	text-decoration: none;
+}
+a:hover.lead {
+	color: green;
+	text-decoration: none;
+}
+a:active.lead {
+	color: black;
 	text-decoration: none;
 }
 img {
