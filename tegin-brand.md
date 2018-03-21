@@ -4,11 +4,7 @@ permalink: tegin-brand
 layout: default
 ---
 
-# {{page.title}}
-
-(Est. 2013, city)
-
-Tegin, Tegin Fashion House (Rus. Тегин) is a name for haute couture and prêt-à-porter wear for woman and kids and fashion house founded in 2001 by Russian-Ukrainian designer Svetlana Tegin1, “Svetlana is often called “the queen of cashmere” due to an exclusive quality of her products that use Mongolian Cashmere
+(Est. 2013, city) Tegin, Tegin Fashion House (Rus. Тегин) is a name for haute couture and prêt-à-porter wear for woman and kids and fashion house founded in 2001 by Russian-Ukrainian designer Svetlana Tegin1, “Svetlana is often called “the queen of cashmere” due to an exclusive quality of her products that use Mongolian Cashmere
 
 <span id="a1">[\[1\]](#f1)</span>.
 
@@ -27,7 +23,7 @@ Tegin, Tegin Fashion House (Rus. Тегин) is a name for haute couture and pr�
 
 # Stores in Moscow
 
-Bosco 
+Bosco
 Detsky GUM
 DLT TSUM
 Fashion Code

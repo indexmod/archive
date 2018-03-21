@@ -4,10 +4,6 @@ permalink: tactile-chat-bot
 layout: default
 ---
 
-# {{page.title}}
-
-(Est. 2013, city)
-
 Tactile Chat Bot (Rus. Тактильный чат-бот) re-pres. 2016, Moscow—is an installation by Playtronica at the Internet Yami-Ichi,1 a constantly changing area for children and adults exploring new ways to interact with music and sound, including pre-recorded dialogue is reproduced through the physical touch, an automated mechanical chat bot.  
 
 <span id="a1">[\[1\]](#f1)</span>.

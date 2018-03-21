@@ -5,8 +5,6 @@ position:
 layout: default
 ---
 
-# Artfido
-
 (Est. 2013, city) Artfido (artFido) est. 2011—is an online sales and auction, independent, owned by art lovers wanting to bring art to everyone site dedicated to art based in Carlton North, Victoria, Australia. <span id="a1">[\[1\]](#f1)</span>, description-two <span id="a2">[\[2\]](#f2)</span> description-3 <span id="a3">[\[3\]](#f3)</span>, extra text.
 
 ![](/images/image-name.jpg)

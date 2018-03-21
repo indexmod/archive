@@ -5,8 +5,6 @@ layout: default
 published: true
 ---
 
-# Antarctic Biennale
-
 (Est. 2013, city) Antarctic Biennale (Rus. Первая антарктическая биенале)—initiated by curator Nadim Samman1 and Russian artist Alexander Ponomarev2 at the 14th Venice Architecture Biennale (June 7—November 23, 2014) where was first presented pavilion of Antarctica. <span id="a1">[\[1\]](#f1)</span>, description-two <span id="a2">[\[2\]](#f2).
 
 ![](/images/image-name.jpg)

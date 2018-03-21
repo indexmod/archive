@@ -4,14 +4,9 @@ permalink: tilda-publishing
 layout: default
 ---
 
-# {{page.title}}
-
-(Est. 2013, city)
 
 
-Tilda Publishing, est. 2015, Moscow, is a platform for making content oriented web projects founded by Russian web-designer Nikita Obukhov.
-
-<span id="a1">[\[1\]](#f1)</span>.
+(Est. 2013, city) Tilda Publishing, est. 2015, Moscow, is a platform for making content oriented web projects founded by Russian web-designer Nikita Obukhov <span id="a1">[\[1\]](#f1)</span>.
 
 ![](/encyclopedia/images/image-name.jpg)
 

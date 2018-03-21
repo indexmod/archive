@@ -4,11 +4,7 @@ permalink: tegin-svetlana-designer
 layout: default
 ---
 
-# {{page.title}}
-
-(Est. 2013, city)
-
-Svetlana Tegin (Rus. Светлана Тегин) 1971, Kiev, is a Russian-Ukrainian designer, founder of Tegin Fashion House living and working in Moscow. Sign in to edit Svetlana Tegin
+(Est. 2013, city) Svetlana Tegin (Rus. Светлана Тегин) 1971, Kiev, is a Russian-Ukrainian designer, founder of Tegin Fashion House living and working in Moscow. Sign in to edit Svetlana Tegin
 
 <span id="a1">[\[1\]](#f1)</span>.
 

@@ -5,8 +5,6 @@ layout: social
 published: true
 ---
 
-# {{page.title}}
-
 (Est. 2013, city) is a PhD, seniour research fellow at the Department of Typology and Comparative Linguistics <span id="a1">[\[1\]](#f1)</span>.
 
 ![](/encyclopedia/images/{{page.permalink}}.jpg)

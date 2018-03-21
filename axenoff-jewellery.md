@@ -6,7 +6,6 @@ layout: social
 published: true
 ---
 
-
 (Rus. Аксёнов Джуэлри, est. 2010, Moscow) is a Russian brand founded by Petr Axenoff <span id="a1">[\[1\]](#f1)</span>.
 
 ![](/encyclopedia/images/{{page.permalink}}.jpg)

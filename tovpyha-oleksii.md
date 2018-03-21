@@ -4,44 +4,30 @@ permalink: tovpyha-oleksii
 layout: default
 ---
 
-# {{page.title}}
+(Est. 2013, city) is a --------- <span id="a1">[\[1\]](#f1)</span>.
 
-(Est. 2013, city)
-
-Oleksii Tovpyha (Ukr. Олексій Товпига) born 1989, Kharkov—is an Ukrainian artist working in genre of miltimedia installation. Sign in to edit Oleksii Tovpyha
-
-
-<span id="a1">[\[1\]](#f1)</span>.
-
-![](/encyclopedia/images/image-name.jpg)
+![](/encyclopedia/images/{{page.permalink}}.jpg)
 
 **Image title**
 
 *Photo: [Name](index) / [Source](index)*
 
+# {{page.title}} Conspectus
 
-Tovpyha, Oleksii
-Oleksii Tovpyha (Ukr. Олексій Товпига) born 1989, Kharkov—is an Ukrainian artist working in genre of miltimedia installation. Sign in to edit Oleksii Tovpyha
-
-CONTENTS
-
-1 Selected artworks
-2 See also
-Selected artworks
-2016, USB Flash Drive, The (2014), Antimuseum II
-2016, Dіalog, The (2015), Antimuseum II
+|Year|City|
+|-|-|
+|2017|Moscow|
 
 # {{page.title}} Indexmod
 
-|Year|Facebook|Instagram|YouTube|Age|IMD|
-|-|-|-|-|-|
-|2018|100 <span id="a3">[\[3\]](#f3)</span>|200 <span id="a4">[\[4\]](#f4)</span>|300 <span id="a4">[\[4\]](#f4)</span>|12|0,0025|
-
+|Year|Facebook|Instagram|YouTube|Age|Indexmod|Total|
+|-|-|-|-|-|-|
+|2018|000 <span id="a3">[\[3\]](#f3)</span>|000 <span id="a4">[\[4\]](#f4)</span>|000 <span id="a5">[\[5\]](#f5)</span>|00|{{ page.content | number_of_words }}|0,0000|
 
 # See also
 
-+ [One](index)
-+ [Two](index)
++ [About {{page.title}}](index)
++ [{{page.title}} at Wikipedia](index)
 
 # Footnotes
 

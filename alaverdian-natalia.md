@@ -4,8 +4,6 @@ permalink: alaverdian-natalia
 layout: default
 ---
 
-# Alaverdian, Natalia
-
  (Rus. Наталья Алавердян, born 1975, Moscow) is a fashion photographer, founder and creative director of A.W.A.K.E., living and working in NYC, Belgium, London and Moscow. See also: Elena Lubeznova, Gosha Rubchinskiy, SNC 100 MIPRF. <span id="a1">[\[1\]](#f1)</span>, description-two <span id="a2">[\[2\]](#f2)</span> description-3 <span id="a3">[\[3\]](#f3)</span>, extra text.
 
 ![](/images/image-name.jpg)

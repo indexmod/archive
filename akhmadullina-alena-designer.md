@@ -5,9 +5,6 @@ layout: default
 published: true
 ---
 
-# Akhmadullina, Alena (designer)
-[Edit the "{{page.title}}" page now](http://prose.io/#indexmod/encyclopedia/edit/master/{{page.path}})
-
 (Rus. Алёна Ахмадуллина, born 1978, Sosnovy Bor) Russian fashion designer, founder of the brand Alena Akhmadullina, participant of various Russian and international competitions in the field of fashion, мember of "Snob" from April 2009 <span id="a1">[\[1\]](#f1)</span>, description-two <span id="a2">[\[2\]](#f2)</span> description-3 <span id="a3">[\[3\]](#f3)</span>, extra text.
 
 ![](/images/image-name.jpg)

@@ -4,8 +4,6 @@ permalink: art-newspaper-the
 layout: default
 ---
 
-# Art Newspaper, The
-
 (Est. 2013, city) The Art Newspaper, est. 1983, Turin—is a is an online and paper publication based in London and New York, provides a news service about the art world, fed by its network of sister editions, which together have around 50 correspondents working in over 30 countries, with editorial offices in London, Turin, New York, Paris, Moscow, Beijing and Athens <span id="a1">[\[1\]](#f1)</span>, description-two <span id="a2">[\[2\]](#f2)</span> description-three <span id="a3">[\[3\]](#f3)</span>, extra text.
 
 ![](/encyclopedia/images/image-name.jpg)
