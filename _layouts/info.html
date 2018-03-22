@@ -38,13 +38,13 @@
 		<section>
 			<h1>{{page.title}}</h1>
 			<div>
-				<p float: right><a href="http://prose.io/#indexmod/encyclopedia/edit/master/{{page.path}}">Edit</a></p>
-        
-			</div>{{ content | toc }}
-      
-			<div>
 				<p float:right><a href="http://prose.io/#indexmod/encyclopedia/edit/master/{{page.path}}">Edit</a></p>
+        
 			</div>
+			
+			{{ content | toc }}
+      
+		
 		</section>
 		<footer>
 			{% include footer.html %}
