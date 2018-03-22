@@ -4,12 +4,7 @@ permalink: africa-fashion-week-paris
 layout: default
 published: true
 ---
-<<<<<<< HEAD
-
 (Est. 2013, city) is a --------- <span id="a1">[\[1\]](#f1)</span>.
-=======
-(Est. 2013, city) is a subject, description <span id="a1">[\[1\]](#f1)</span> extra text.
->>>>>>> fa9dcbd2569ae9e4341bb446e461d6650530a901
 
 ![](/encyclopedia/images/{{page.permalink}}.jpg)
 
@@ -25,9 +20,14 @@ published: true
 
 # {{page.title}} Indexmod
 
-|Year|Facebook|Instagram|YouTube|Age|Indexmod|Total|
-|-|-|-|-|-|-|
-|2018|000 <span id="a3">[\[3\]](#f3)</span>|000 <span id="a4">[\[4\]](#f4)</span>|000 <span id="a5">[\[5\]](#f5)</span>|00|{{ page.content | number_of_words }}|0,0000|
+||2018|2019|
+|-|-|-|
+|Facebook <span id="a3">[\[3\]](#f3)</span>|000|000|
+|Instagram <span id="a4">[\[4\]](#f4)</span>|000|000|
+|YouTube <span id="a5">[\[5\]](#f5)</span>|000|000|
+|Age|000|000|
+|Indexmod|{{ page.content | number_of_words }}||
+|Total|0,0000|0,0000|
 
 # See also
 
@@ -40,10 +40,6 @@ published: true
 
 [[4]](#a4) <span id="f4"></span> [{{page.title}} (Instagram)](index)
 
-<<<<<<< HEAD
 [[5]](#a5) <span id="f5"></span> [{{page.title}} (YouTube)](index)
 
 `Updated Mar. 2018 (Andrei Dei)`
-=======
-`Last edit Feb. 2018 (Andrei Dei)`
->>>>>>> fa9dcbd2569ae9e4341bb446e461d6650530a901
