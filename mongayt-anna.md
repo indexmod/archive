@@ -5,9 +5,6 @@ layout: default
 published: true
 ---
 
-# Mongayt, Anna
-
-
 (Rus. Анна Монгайт, maiden Loshak <span id="a1">[\[1\]](#f1)</span>, born. 1978, Odessa) Russian journalist, actress, TV presenter, creative producer of the television channel "Rain".
 
 # Filmography

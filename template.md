@@ -20,9 +20,14 @@ layout: default
 
 # {{page.title}} Indexmod
 
-|Year|Facebook|Instagram|YouTube|Age|Indexmod|Total|
-|-|-|-|-|-|-|
-|2018|000 <span id="a3">[\[3\]](#f3)</span>|000 <span id="a4">[\[4\]](#f4)</span>|000 <span id="a5">[\[5\]](#f5)</span>|00|{{ page.content | number_of_words }}|0,0000|
+||2018|2019|
+|-|-|-|
+|Facebook <span id="a3">[\[3\]](#f3)</span>|000|000|
+|Instagram <span id="a4">[\[4\]](#f4)</span>|000|000|
+|YouTube <span id="a5">[\[5\]](#f5)</span>|000|000|
+|Age|000|000|
+|Indexmod|{{ page.content | number_of_words }}||
+|Total|0,0000|0,0000|
 
 # See also
 

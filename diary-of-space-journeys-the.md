@@ -5,7 +5,6 @@ layout: default
 published: true
 ---
 
-# {{page.title}}
 
 (Rus. Альбом космических путешествий, 2016, Moscow) an art project by Russian artists Anna Kurbatova, Alia Sadretdinova, Veronika Zlobina <span id="a1">[\[1\]](#f1)</span>.
 

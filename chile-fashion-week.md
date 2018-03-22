@@ -1,7 +1,7 @@
 ---
 title: Chile Fashion Week
 permalink: chile-fashion-week
-layout: social
+layout: default
 published: true
 ---
 (Est. 2009, Santiago) is a fashion event in Chile <span id="a1">[\[1\]](#f1)</span>.

@@ -2,9 +2,9 @@
 title: E-Soap
 permalink: e-soap
 layout: default
+published: true
 ---
 
-# E-Soap
 
 (Pres. 2016, Moscow) is a handmade soap by Veroid created for the Internet Yami-Ichi, with signs of Internet (“#”, “@”, “4G”, “Wi-Fi”), made of natural ingredients, flavored aroma oils <span id="a1">[\[1\]](#f1)</span>.
 

@@ -5,8 +5,6 @@ layout: default
 published: true
 ---
 
-# {{page.title}}
-
 (Aka Sophichka, born. 1973, Hampshire) is an UK British artist, founder of “Sophie O'Leary Art", The Curator at Indexmod Encyclopedia in London, living and working in London <span id="a1">[\[1\]](#f1)</span>.
 
 ![](/encyclopedia/images/sophie.png)

@@ -1,7 +1,7 @@
 ---
 title: 'Butcher, Clyde'
 permalink: butcher-clyde
-layout: social
+layout: default
 published: true
 ---
 (Born 1942, Kansas City) American black-and-white photographer, as a child, he spent most of his time drawing boat designs and crafting ship prototypes from scrap metal. Some of the photographer's works are in the collection and exhibited at Gallery of Classic Photography of Moscow <span id="a1">[\[1\]](#f1)</span>.

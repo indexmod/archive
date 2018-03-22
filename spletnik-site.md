@@ -4,9 +4,6 @@ permalink: spletnik-site
 layout: default
 published: true
 ---
-
-# {{page.title}}
-
 (Est. 2007, Moscow) Russian web-site about celebrities founded by Polina Deripaska on the base of blog by Tatiana Nikonova <span id="a1">[\[1\]](#f1)</span>, including with other sites as The Village, Wonderzine, Look at me and operate under "Creative Media" LLC under Forward Media Group. Monthly readers about 4 and 36 million of auditoria and visits with head office on Rochelskaya street in Moscow <span id="a2">[\[2\]](#f2)</span>.
 
 ![](http://www.vsedomarossii.ru/photos/area_77/city_2815/street_12408/148205_1.jpg)
