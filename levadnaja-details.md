@@ -5,7 +5,6 @@ layout: default
 published: true
 ---
 
-# {{page.title}}
 
 (Est. 2006, Moscow) is a brand, established by clothes, bags, accessories and ceramics designer Svetlana Levadnaja to combine the rich Russian traditions with the modern context <span id="a1">[\[1\]](#f1)</span>.
 
