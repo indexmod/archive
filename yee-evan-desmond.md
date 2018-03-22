@@ -5,8 +5,6 @@ layout: default
 published: true
 ---
 
-# Yee, Evan Desmond
-
 (Born 1990, Oakland) American sculpture, multimedia artist living and working in New York <span id="a1">[\[1\]](#f1)</span>.
 
 ![](https://static1.squarespace.com/static/551abb1ae4b07fa7d5fc159c/t/55369db5e4b00d4e60023460/1429642692711/Evan+Yee)

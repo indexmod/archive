@@ -5,11 +5,6 @@ layout: default
 published: true
 ---
 
-
-
-# Zaragoza Fashion Week
-
-
 (Spa. Semana de la Moda de Zaragoza, est. 2011 <span id="a1">[\[1\]](#f1)</span>, Zaragoza) is a fashion event in Spain.
 
 ![](/encyclopedia/images/zaragoza-fashion-week.jpg)

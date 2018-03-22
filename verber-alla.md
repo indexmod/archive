@@ -4,10 +4,8 @@ permalink: verber-alla
 layout: default
 ---
 
-{{page.title}}
-
 (Est. 2013, city) is a subject, description-one
-Alla Verber  007  SNC (Rus. Алла Вербер) born, 1958, Saint Petersburg1—is a Russian media person, fashion director of the Central Department Store of Moscow, the vice-president of Mercury company, a business-woman, journalist and public figure working and living in Moscow <span id="a1">[\[1\]](#f1)</span>, description-two <span id="a2">[\[2\]](#f2)</span> description-three <span id="a3">[\[3\]](#f3)</span>, extra text.
+Alla Verber  007  SNC (Rus. Алла Вербер) born, 1958, Saint Petersburg1—is a Russian media person, fashion director of the Central Department Store of Moscow, the vice-president of Mercury company, a business-woman, journalist and public figure working and living in Moscow <span id="a1">[\[1\]](#f1)</span>.
 
 ![](/encyclopedia/images/image-name.jpg)
 

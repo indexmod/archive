@@ -4,8 +4,6 @@ permalink: vodianova-natalia
 layout: default
 ---
 
-# {{page.title}}
-
 (Est. 2013, city) Natalia Vodianova  001  SNC (Rus. Наталья Водянова) born 1982, Nizhniy Novgorod (Gorky), is a Russian media person, a founder of Naked Heart Foundation, the first supermodel of the 21st Century1 working and living in London <span id="a1">[\[1\]](#f1)</span> extra text.
 
 ![](/encyclopedia/images/image-name.jpg)

@@ -5,9 +5,7 @@ position:
 layout: default
 ---
 
-# Wacher, Brit
-
-(Est. 2013, city) Brit Wacher (Brittany Wacher)—is a Montreal-based fashion designer, stylist, founder of label “Brit Wacher” (women ready-to-wear, unisex and children), graduate La Salle University in Vancouver, working in Bangkok and Arnhem in a concept of merging fashion and science. Sign in to edit Brit Wacher <span id="a1">[\[1\]](#f1)</span>, description-two <span id="a2">[\[2\]](#f2)</span> description-3 <span id="a3">[\[3\]](#f3)</span>, extra text. [Edit this page](http://prose.io/#indexmod/encyclopedia/edit/master/wacher-brit.md)
+(Est. 2013, city) Brit Wacher (Brittany Wacher)—is a Montreal-based fashion designer, stylist, founder of label “Brit Wacher” (women ready-to-wear, unisex and children), graduate La Salle University in Vancouver, working in Bangkok and Arnhem in a concept of merging fashion and science. Sign in to edit Brit Wacher <span id="a1">[\[1\]](#f1)</span>.
 
 ![](/images/image-name.jpg)
 

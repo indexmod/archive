@@ -5,9 +5,8 @@ position:
 layout: default
 ---
 
-# Wild Orchid
 
-(Rus. Дикая орхидея, est. 1993, Moscow) is a Russia's largest operator in the market of lingerie, swimwear, home wear and beachwear <span id="a1">[\[1\]](#f1)</span>. [Edit this page](http://prose.io/#indexmod/encyclopedia/edit/master/wild-orchid-lingerie.md)
+(Rus. Дикая орхидея, est. 1993, Moscow) is a Russia's largest operator in the market of lingerie, swimwear, home wear and beachwear <span id="a1">[\[1\]](#f1)</span>.
 
 ![](/encyclopedia/images/lucio-fontana-wild-orchid.jpg)
 

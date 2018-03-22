@@ -4,8 +4,6 @@ permalink: zlye-art-group
 layout: default
 ---
 
-# Zlye (art group)
-
 (Rus. Злые) est. 2000, Moscow—is a creative association consisting of an unspecied number of artists, previously works by Zlye appeared only in the streets and were very provocative, recently works can be seen in exhibition halls and galleries of contemporary art centers. The main motive for creativity of Zlye is a reaction of reality by artistic allegories <span id="a1">[\[1\]](#f1)</span>, description-two <span id="a2">[\[2\]](#f2)</span> description-3 <span id="a3">[\[3\]](#f3)</span>, extra text.
 
 ![](/images/image-name.jpg)

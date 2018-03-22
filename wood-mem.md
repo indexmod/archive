@@ -5,9 +5,7 @@ position:
 layout: default
 ---
 
-# Wood Mem
-
-(Est. 2013, city) Wood Mem (Rus. Мемы из дерева) re-pres. 2016, Moscow—is a collection of popular Internet memes materialized in the form handmade icons by Prosto Wood at the Internet Yami-Ichi <span id="a1">[\[1\]](#f1)</span>, description-two <span id="a2">[\[2\]](#f2)</span> description-3 <span id="a3">[\[3\]](#f3)</span>, extra text.
+(Est. 2013, city) Wood Mem (Rus. Мемы из дерева) re-pres. 2016, Moscow—is a collection of popular Internet memes materialized in the form handmade icons by Prosto Wood at the Internet Yami-Ichi <span id="a1">[\[1\]](#f1)</span>.
 
 ![](/images/image-name.jpg)
 
@@ -18,16 +16,13 @@ layout: default
 # Conspectus
 
 |Year|City|
-|----|---------|
+|----|----|
 |2014|Tokyo|
 |2015|Moscow|
 |2017|Kiev|
 
 # See also
 
-- [Source name](http://example.net/)
-- [Source name](http://example.net/)
-- [Source name](http://example.net/)
 Internet Yami-Ichi
 Intektra
 Nora Kaza
@@ -36,9 +31,5 @@ Prosto Wood
 # Footnotes
 
 [[1]](#a1) <span id="f1"></span> [Article name (Author name)](http://example.net/article)
-
-[[2]](#a2) <span id="f2"></span> [Article name (Author name)](http://example.net/article)
-
-[[3]](#a3) <span id="f3"></span> [Article name (Author name)](http://example.net/article)
 
 `Updated Mar. 2018 (Andrei Dei)`

@@ -4,11 +4,9 @@ permalink: vishnevski-oleg
 layout: default
 ---
 
-# {{page.title}}
+(Est. 2013, city) is a --------- <span id="a1">[\[1\]](#f1)</span>.
 
-(Est. 2013, city) Oleg Vishnevski, Oleg GK (Rus. Олег Вишневский) born 1990, Moscow—is a Russian artist, VJ working in genre as photographer, lighting designer, video editor, VJ <span id="a1">[\[1\]](#f1)</span> extra text.
-
-![](/encyclopedia/images/image-name.jpg)
+![](/encyclopedia/images/{{page.permalink}}.jpg)
 
 **Image title**
 
@@ -18,42 +16,23 @@ layout: default
 
 |Year|City|
 |-|-|
-|2014|Tokyo|
-|2017|Paris
-
-# Education and qualification
-
-+ MPEI (2006 –2012) National Research University Moscow Power Engineering Institute
-+ Lighring designer
-+ BHSAD Moscow (2013) British High School of Art and Design Moscow Branches
-+ Photographer
-
-# Publications
-
-+ Some Magazine
-+ Some Magazine
-+ Icing! Magazin (January, 2015)
-+ Kock Mag (Novenber, 2014)
-+ Paf Magazine (Spring, 2016)
-+ Kock Magazine
-+ Gods Magazine
-+ Voices Magazine
-
-# Group exhibition
-+ SAHAR (2014)
-# Live performance
-+ Audio-Visual performance in MARS gallery (as VJ) 30 January 2016
+|2017|Moscow|
 
 # {{page.title}} Indexmod
 
-|Year|Facebook|Instagram|YouTube|Age|IMD|
-|-|-|-|-|-|
-|2018|100 <span id="a3">[\[3\]](#f3)</span>|200 <span id="a4">[\[4\]](#f4)</span>|300 <span id="a4">[\[4\]](#f4)</span>|12|0,0025|
+||2018|2019|
+|-|-|-|
+|Facebook <span id="a3">[\[3\]](#f3)</span>|000|000|
+|Instagram <span id="a4">[\[4\]](#f4)</span>|000|000|
+|YouTube <span id="a5">[\[5\]](#f5)</span>|000|000|
+|Age|000|000|
+|Indexmod|{{ page.content | number_of_words }}||
+|Total|0,0000|0,0000|
 
 # See also
 
-+ [One](index)
-+ [Two](index)
++ [About {{page.title}}](index)
++ [{{page.title}} at Wikipedia](index)
 
 # Footnotes
 
@@ -63,4 +42,4 @@ layout: default
 
 [[5]](#a5) <span id="f5"></span> [{{page.title}} (YouTube)](index)
 
-`Last edit Feb. 2018 (Andrei Dei)`
+`Updated Mar. 2018 (Andrei Dei)`

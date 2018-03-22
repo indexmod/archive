@@ -5,8 +5,6 @@ layout: default
 published: true
 ---
 
-# {{page.title}}
-
 (Born 0000, 0000) creator of "Silence Televesion", music and sound creator, video editor, live perfomancer <span id="a1">[\[1\]](#f1)</span>.
 
 ![](/images/image-name.jpg)
@@ -14,8 +12,6 @@ published: true
 **Aleksandr Zaripov**
 
 *Photo: [Photographer name](http://example.net/) / [Source name](http://example.net/)*
-
-
 
 # Education and qualification
 
