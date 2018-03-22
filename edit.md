@@ -1,7 +1,7 @@
 ---
 title: How to edit
-permalink: info
-layout: social
+permalink: edit
+layout: info
 published: true
 ---
 
