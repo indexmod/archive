@@ -1,18 +1,18 @@
 ---
 title: How to edit
-permalink: edit
+permalink: info
 layout: social
 published: true
 ---
 
 
-# Link the Wiki ⤵︎
+# Link Edit
 
-Edit any page following **Wiki ⤵︎** link on top of every page, you will be redirected to Prose.io editor. Warning: to save  changes you may need authorize as [GitHub](https://github.com/join) user.
+Edit any page following **Edit** link on top of every page, you will be redirected to Prose.io editor. Warning: to save  changes you may need authorize as [GitHub](https://github.com/join) user.
 
 # Create new page
 
-+ Follow **Wiki ⤵︎**
++ Follow **Edit**
 + Find the `template.md`and copy content
 + In encyclopedia tab create new file with .md extention 
 + Paste content of the template
