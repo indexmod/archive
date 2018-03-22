@@ -1,9 +1,7 @@
 ---
 title: Axenoff Jewellery
 permalink: axenoff-jewellery
-position: null
-layout: social
-published: true
+layout: default
 ---
 
 (Rus. Аксёнов Джуэлри, est. 2010, Moscow) is a Russian brand founded by Petr Axenoff <span id="a1">[\[1\]](#f1)</span>.
