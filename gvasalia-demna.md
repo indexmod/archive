@@ -1,10 +1,10 @@
 ---
-title: Gvasalia, Demna
+title: 'Gvasalia, Demna'
 permalink: gvasalia-demna
 layout: default
+published: true
 ---
 
-# {{page.title}}
 
 (Georg. დემნა გვასალია, born 1981, Tbilisi <span id="a1">[\[1\]](#f1)</span>) is a Georgian fashion designer, creative director of Balenciaga <span id="a2">[\[2\]](#f2)</span>, listened in BOF 500, also was in design teams at Maison Martin Margiela and Louis Vuitton, studied at Royal Academy of Fine Arts in Antwerp <span id="a1">[\[3\]](#f1)</span>.
 
