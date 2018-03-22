@@ -4,9 +4,6 @@ permalink: chistova-anna
 layout: default
 published: true
 ---
-
-# {{page.title}}
-
 (Rus. Анна Чистова, born. 1980, Ekaterinburg) Russian designer of evening dresses, artist and actress <span id="a1">[\[1\]](#f1)</span>, co-founder ChistovaEndourova brand, founder and owner of [Chistova](chistova-clothes) brand. Anna also known as costume creator and stylist for «Духless» (2005) and «Духless 2» (2015).
 
 ![](http://www.womanhit.ru/media/CACHE/images/dynasty/dinastii4_6bRa2As/18341685626b30ca1e4f2497cdeabd74.png)
