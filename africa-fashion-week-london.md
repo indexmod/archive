@@ -6,6 +6,7 @@ published: true
 ---
 (Est. 2010) is a fashion event in  England founded by Adirée (the Africa Fashion Week New York producers) includes runway shows, exhibition, and industry networking events with the sole purpose of raising awareness of the African, African-American fashion and entertainment professionals <span id="a1">[\[1\]](#f1)</span>.
 
+
 ![](/encyclopedia/images/{{page.permalink}}.jpg)
 
 **Image title**
@@ -20,9 +21,14 @@ published: true
 
 # {{page.title}} Indexmod
 
-|Year|Facebook|Instagram|YouTube|Age|Indexmod|Total|
-|-|-|-|-|-|-|
-|2018|000 <span id="a3">[\[3\]](#f3)</span>|000 <span id="a4">[\[4\]](#f4)</span>|000 <span id="a5">[\[5\]](#f5)</span>|00|{{ page.content | number_of_words }}|0,0000|
+||2018|2019|
+|-|-|-|
+|Facebook <span id="a3">[\[3\]](#f3)</span>|000|000|
+|Instagram <span id="a4">[\[4\]](#f4)</span>|000|000|
+|YouTube <span id="a5">[\[5\]](#f5)</span>|000|000|
+|Age|000|000|
+|Indexmod|{{ page.content | number_of_words }}||
+|Total|0,0000|0,0000|
 
 # See also
 
