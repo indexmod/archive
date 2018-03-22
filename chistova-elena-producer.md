@@ -5,7 +5,6 @@ layout: default
 published: true
 ---
 
-# {{page.title}}
 
 (Rus. Елена Чистова, born. 1958, Sverdlovsk) Russian music producer working and living in Moscow <span id="a1">[\[1\]](#f1)</span>.
 
