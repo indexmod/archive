@@ -5,7 +5,6 @@ layout: default
 published: true
 ---
 
-# Deynichenko, Larisa
 
 
 (Rus. Лариса Дейниченко, born 1980, Rostov-on-Don) Russian athlete and make-up artist, working and living in Moscow <span id="a1">[\[1\]](#f1)</span>.
