@@ -1,7 +1,8 @@
 ---
 title: Indexmod
 permalink: indexmod
-layout: default
+layout: info
+published: true
 ---
 
 
