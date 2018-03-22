@@ -1,7 +1,7 @@
 ---
 title: Berdyansk Fashion Day
 permalink: berdyansk-fashion-day
-layout: social
+layout: default
 published: true
 ---
 
