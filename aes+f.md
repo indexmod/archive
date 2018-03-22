@@ -2020,347 +2020,275 @@ Kunsthalle "Faust", Hannover, Germany.
 
 
 
-1998
+# 1998
 
-"3 PENNY SHOW", Rutgers University, Mason Gross School of Art, New Brunswick (NJ), USA.
++ "3 PENNY SHOW", Rutgers University, Mason Gross School of Art, New Brunswick (NJ), USA.
 
-"MEDIALIZATION", Edsvick Museum, Stockholm, Sweden.
++ "MEDIALIZATION", Edsvick Museum, Stockholm, Sweden.
 
-"ACADEMY OF FROST", Fine Arts Museum, Soros Centre for Contemporary Art, Odessa, Ukraine.
++ "ACADEMY OF FROST", Fine Arts Museum, Soros Centre for Contemporary Art, Odessa, Ukraine.
 
-"2ND INTERNATIONAL MONTH OF PHOTOGRAPHY IN MOSCOW. PHOTOBIENNIAL-98", Central Exhibition Hall "Manege", Moscow.
++ "2ND INTERNATIONAL MONTH OF PHOTOGRAPHY IN MOSCOW. PHOTOBIENNIAL-98", Central Exhibition Hall "Manege", Moscow.
 
-"11TH TALLINN PRINT TRIENNIAL", curated exhibition "Tangents", Tallinn Art Hall, Tallinn, Estonia.
++ "11TH TALLINN PRINT TRIENNIAL", curated exhibition "Tangents", Tallinn Art Hall, Tallinn, Estonia.
 
-"EUROPEAN ART FORUM", Art Media Center "TV Gallery" (Moscow), Ber1in, Germany.
++ "EUROPEAN ART FORUM", Art Media Center "TV Gallery" (Moscow), Ber1in, Germany.
 
 
 
-1997
+# 1997
 
-"FORUM OF ART INITIATIVES", Maliy Manege, Moscow.
++ "FORUM OF ART INITIATIVES", Maliy Manege, Moscow.
 
-"THE WORLD OF THE PERCEPTIBLE THINGS IN PICTURES — END OF THE 20TH CENTURY", Pushkin State Museum of the Fine Arts, M’ars Gallery, Moscow.
++ "THE WORLD OF THE PERCEPTIBLE THINGS IN PICTURES — END OF THE 20TH CENTURY", Pushkin State Museum of the Fine Arts, M’ars Gallery, Moscow.
 
-"MOSKOU VANDAAG", De Vereniging Voor het Museum van hedendaagse Kunst te Gent, Gent, Belgium.
++ "MOSKOU VANDAAG", De Vereniging Voor het Museum van hedendaagse Kunst te Gent, Gent, Belgium.
 
 
 
-1996
+# 1996
 
-"1ST INTERNATIONAL MONTH OF PHOTOGRAPHY IN MOSCOW. PHOTOBIENNIAL-96", House of Artist on Kuznetsky Most, Moscow.
++ "1ST INTERNATIONAL MONTH OF PHOTOGRAPHY IN MOSCOW. PHOTOBIENNIAL-96", House of Artist on Kuznetsky Most, Moscow.
 
-"EUROPEAN ART FORUM", Guelman Gallery (Moscow), Berlin, Germany.
++ "EUROPEAN ART FORUM", Guelman Gallery (Moscow), Berlin, Germany.
 
-"CONTEMPORARY RUSSIAN PHOTOGRAPHIE", "La Base" Center of Contemporary Art, Paris.
++ "CONTEMPORARY RUSSIAN PHOTOGRAPHIE", "La Base" Center of Contemporary Art, Paris.
 
 
 
-1995
+# 1995
 
-"MULTIPLICATION", "Kashirka" Exhibition Hall, Collection of Contemporary Art of Tzaritzino Museum, Moscow.
++ "MULTIPLICATION", "Kashirka" Exhibition Hall, Collection of Contemporary Art of Tzaritzino Museum, Moscow.
 
-"AUTUMN EXHIBITION", Guelman Gallery, Moscow.
++ "AUTUMN EXHIBITION", Guelman Gallery, Moscow.
 
-"KIEV ART MEETING" Ukrainian House, "Alipiy" Gallery, Kiev, Ukraine.
++ "KIEV ART MEETING" Ukrainian House, "Alipiy" Gallery, Kiev, Ukraine.
 
-"ZEITGENOSSISCHE FOTOKUNST AUS MOSKAU" Neuer Berliner Kunstverein, Berlin.
++ "ZEITGENOSSISCHE FOTOKUNST AUS MOSKAU" Neuer Berliner Kunstverein, Berlin.
 
-"MOSKAU MEETS BERLIN", Berliner Firmen prasentieren Moscauer Künstlerinnen und Künstler (Aengevelt Immobilienmakler, Dresdner Bank AG, Fritz Palm "Burototal" Buromaschinen-Burobedarf GMbH, Mercedes-Benz AG), Horn+Stammer Art Management, Berlin, Germany.
++ "MOSKAU MEETS BERLIN", Berliner Firmen prasentieren Moscauer Künstlerinnen und Künstler (Aengevelt Immobilienmakler, Dresdner Bank AG, Fritz Palm "Burototal" Buromaschinen-Burobedarf GMbH, Mercedes-Benz AG), Horn+Stammer Art Management, Berlin, Germany.
 
+# 1994
 
++ "CONVERSION", Guelman Gallery, Helsinki, Finland.
 
-1994
+# 1993
 
-"CONVERSION", Guelman Gallery, Helsinki, Finland.
++ "CONVERSION", Guelman Gallery, Moscow.
 
++ "MOSCOW ART FAIR - ART-MIF", Central Exhibition Hall (Manege), Moscow.
 
++ "777", Museum of Contemporary Art, Stockholm, Sweden; Aspex Gallery, Portsmouth, England; Reykjavik Art Museum, Island; Nova Gallery, Bratislava, Slovakia; Rheinopera Cultural Center, Duisburg, Germany.
 
-1993
++ "ART HAMBURG", Hamburg, Germany.
 
-"CONVERSION", Guelman Gallery, Moscow.
+# 1992
 
-"MOSCOW ART FAIR - ART-MIF", Central Exhibition Hall (Manege), Moscow.
++ "ARS BALTICA PROLOG. FACE TO FACE", Künstlerhaus "Bethanien", Berlin, Germany.
 
-"777", Museum of Contemporary Art, Stockholm, Sweden; Aspex Gallery, Portsmouth, England; Reykjavik Art Museum, Island; Nova Gallery, Bratislava, Slovakia; Rheinopera Cultural Center, Duisburg, Germany.
+# 1991
 
-"ART HAMBURG", Hamburg, Germany.
++ "MOSCOW IN CAMBRIGE", Imperial College, London, UK.
 
++ "EXERCISES AESTHETIC", Museum "Estate Kuskovo of 18th Century", Moscow.
 
++ "ARS BALTICA PROLOG. FACE TO FACE", Kunsthalle, Kiel, Germany, Exhibition Hall "Latvia", Riga, Latvia.
 
-1992
+# 1990
 
-"ARS BALTICA PROLOG. FACE TO FACE", Künstlerhaus "Bethanien", Berlin, Germany.
++ "MOSCOW IN CAMBRIDGE", Emmanuel College, Cambridge, England.
 
+# Awards
 
+# 2015
 
-1991
++ "PINO PASCALI PRIZE, 18th Edition", Foundation & Museum Pino Pascali, Italy.
 
-"MOSCOW IN CAMBRIGE", Imperial College, London, UK.
+# 2014
 
-"EXERCISES AESTHETIC", Museum "Estate Kuskovo of 18th Century", Moscow.
++ "NORDART FESTIVAL 2014", Main Award, Germany.
 
-"ARS BALTICA PROLOG. FACE TO FACE", Kunsthalle, Kiel, Germany, Exhibition Hall "Latvia", Riga, Latvia.
+# 2012
 
++ "KANDINSKY PRIZE 2012", Main Award – The Project of the Year, Russia.
 
+# 2011
 
-1990
++ "SERGEY KURYOKHIN AWARD 2011", Russia.
 
-"MOSCOW IN CAMBRIDGE", Emmanuel College, Cambridge, England.
+# Film festivals
 
+# 2016
 
++ "Annecy 2016" Animated Film Festival, Annecy, France.
 
+# 2011
 
-AWARDS:
++ "ZERKALO" film festival, Ivanovo, Russia.
++ "BIGPOND" Adelaide Film Festival, Adelaide, Australia.
 
+# 2010
 
-2015
++ "46º PESAROFILMFEST", Film Festival, Pesaro, Italy.
++ "IMPACT FILM FESTIVAL", Utrecht, Holland.
 
-"PINO PASCALI PRIZE, 18th Edition", Foundation & Museum Pino Pascali, Italy.
+# 2007
 
++ "LOCARNO FILM FESTIVAL", Locarno, Switzerland.
 
+# 2000
 
-2014
++ "IMPACT FILM FESTIVAL", Utrecht, Holland.
 
-"NORDART FESTIVAL 2014", Main Award, Germany.
+# 1999
 
++ "SPLIT FILM FESTIVAL", Split, Croatia.
 
+# Scholarships
 
-2012
+# 2001
 
-"KANDINSKY PRIZE 2012", Main Award – The Project of the Year, Russia.
++ Residency in YADDO, Saratoga, NY, USA
 
+# 1999
 
++ ArtsLink-CEC International Partners Fellowship in Art in General, New York, USA.
 
-2011
+# 1997
 
-"SERGEY KURYOKHIN AWARD 2011", Russia.
++ Scholarship in Cite Internationale des Arts, Paris, France.
 
+# 1996
 
++ Scholarship in Vermögensvervaltung Streletski — Victoriahof, Berlin, Germany.
 
+# 1995
 
++ "Kulturdorf" — State Center of Contemporary art, Scholarship in Reserve Palace, Tzarskoe Selo, St. Petersburg.
++ Scholarship in Internationale Austausch Ateliers Region Basel, CMS, Switzerland.
 
-FILM FESTIVALS:
+# 1992
 
++ Scholarship in Salzau, Cultural Center of Schleswig-Holstein, Germany.
 
+# Grants
 
+# 2002
 
-2016
++ Grant for realisation of the project "More Than Paradise", Kultur Kontakt Austria, (Vienna).
 
-"Annecy 2016" Animated Film Festival, Annecy, France.
+# 1999
 
++ Travel grant, ArtsLink-CEC International Partners (New York), "Open Society" Institute of Soros (Moscow).
 
++ Travel grant, "Open Society" Institute of Soros (Moscow).
 
-2011
+# 1998
 
-"ZERKALO" film festival, Ivanovo, Russia.
-"BIGPOND" Adelaide Film Festival, Adelaide, Australia.
++ Travel grant, "Open Society" Institute of Soros (Moscow).
 
+# 1997
 
++ Grant for Catalogue "AES Today", Soros Center for contemporary art.
 
-2010
+# 1995
 
-"46º PESAROFILMFEST", Film Festival, Pesaro, Italy.
-"IMPACT FILM FESTIVAL", Utrecht, Holland.
++ Grant for Catalogue "Body Space", Soros Center for contemporary art.
 
+# Public collections:
 
++ Alltech, Corporate collection, Moscow.
 
-2007
++ The Carmignac Foundation, Paris, France
 
-"LOCARNO FILM FESTIVAL", Locarno, Switzerland.
++ Centre d’Art Contemporain Georges Pompidou, Paris, France.
 
++ City of Lille, France.
 
++ Chronolux Corporate collection, Moscow, Russia.
 
-2000
++ Centro de Arte Dos de Mayo, Collection of Comunidad de Madrid, Spain.
 
-"IMPACT FILM FESTIVAL", Utrecht, Holland.
++ Robert & Renee Drake Collection, Wassenaar, The Netherlands.
 
++ Estrel Hotel, Berlin, Germany.
 
++ FNAC, Paris, France.
 
-1999
++ FRAC – Franche-Comté, France.
 
-"SPLIT FILM FESTIVAL", Split, Croatia.
++ JGS Forward Thinking Museum, New York, USA.
 
++ Kolon Industries Inc., Kwachon, South Korea
 
++ Les Abattoirs, Toulouse, France.
 
++ Locarno Video Bank, Switzerland.
 
++ Louis Vuitton Foundation for Creation, Paris, France.
 
-SCHOLARSHIPS:
++ Maison Européenne de la Photographie, Paris, France.
 
++ Meeschaert Collection, Paris, France
 
-2001
++ Moderna Museet, Stockholm, Sweden.
 
-Residency in YADDO, Saratoga, NY, USA
++ Multimedia Art Museum Moscow (MAMM), Russia.
 
++ Moscow Museum of Modern Art, Moscow, Russia.
 
++ Museum of Old and New Art (MONA), Moonah, Tasmania, Australia
 
-1999
++ The Museum of Fine Arts, Houston, TX, USA.
 
-ArtsLink-CEC International Partners Fellowship in Art in General, New York, USA.
++ Musèe de l’Elysèe, Losanne, Switzerland.
 
++ M. Guelman Foundation for Contemporary Art, Moscow, Russia.
 
++ National Center for Contemporary Art Ujazdowski Castle, Warsaw, Poland
 
-1997
++ National Center for Contemporary Art, Moscow Branch, Moscow
 
-Scholarship in Cite Internationale des Arts, Paris, France.
++ Neue Galerie Graz, Austria.
 
++ Nomas Foundation, Rome, Italy
 
++ Northern Norway Art Museum, Tromsø, Norway
 
-1996
++ Novy Museum, St. Petersburg, Russia
 
-Scholarship in Vermögensvervaltung Streletski — Victoriahof, Berlin, Germany.
++ Sammlung Alison & Peter W. Klein, Eberdingen-Nussdorf, Germany
 
++ Sammlung Goetz, Munich, Germany
 
++ Stadt Galerie Esslingen-am-Neckar, Germany
 
-1995
++ Taguchi Art Collection, Japan
 
-"Kulturdorf" — State Center of Contemporary art, Scholarship in Reserve Palace, Tzarskoe Selo, St. Petersburg.
-Scholarship in Internationale Austausch Ateliers Region Basel, CMS, Switzerland.
++ The Museum of Contemporary Art in Krakow, Poland
 
++ The State Russian Museum, St.-Petersburg, Russia
 
++ The State Tretyakov Gallery, The National Collection of contemporary art, Moscow, Russia
 
-1992
++ Vanhaerents Art Collection, Brussels, Belgium
 
-Scholarship in Salzau, Cultural Center of Schleswig-Holstein, Germany.
++ Vanmoerkerke Collection, Oostende, Belgium
 
++ Videoinsight® Collection, Bologna, Italy
 
++ Wien Museum, Vienna
 
-GRANTS:
-
-
-2002
-
-Grant for realisation of the project "More Than Paradise", Kultur Kontakt Austria, (Vienna).
-
-
-
-1999
-
-Travel grant, ArtsLink-CEC International Partners (New York), "Open Society" Institute of Soros (Moscow).
-
-Travel grant, "Open Society" Institute of Soros (Moscow).
-
-
-
-1998
-
-Travel grant, "Open Society" Institute of Soros (Moscow).
-
-
-
-1997
-
-Grant for Catalogue "AES Today", Soros Center for contemporary art.
-
-
-
-1995
-
-Grant for Catalogue "Body Space", Soros Center for contemporary art.
-
-
-
-
-PUBLIC COLLECTIONS:
-
-
-Alltech, Corporate collection, Moscow.
-
-The Carmignac Foundation, Paris, France
-
-Centre d’Art Contemporain Georges Pompidou, Paris, France.
-
-City of Lille, France.
-
-Chronolux Corporate collection, Moscow, Russia.
-
-Centro de Arte Dos de Mayo, Collection of Comunidad de Madrid, Spain.
-
-Robert & Renee Drake Collection, Wassenaar, The Netherlands.
-
-Estrel Hotel, Berlin, Germany.
-
-FNAC, Paris, France.
-
-FRAC – Franche-Comté, France.
-
-JGS Forward Thinking Museum, New York, USA.
-
-Kolon Industries Inc., Kwachon, South Korea
-
-Les Abattoirs, Toulouse, France.
-
-Locarno Video Bank, Switzerland.
-
-Louis Vuitton Foundation for Creation, Paris, France.
-
-Maison Européenne de la Photographie, Paris, France.
-
-Meeschaert Collection, Paris, France
-
-Moderna Museet, Stockholm, Sweden.
-
-Multimedia Art Museum Moscow (MAMM), Russia.
-
-Moscow Museum of Modern Art, Moscow, Russia.
-
-Museum of Old and New Art (MONA), Moonah, Tasmania, Australia
-
-The Museum of Fine Arts, Houston, TX, USA.
-
-Musèe de l’Elysèe, Losanne, Switzerland.
-
-M. Guelman Foundation for Contemporary Art, Moscow, Russia.
-
-National Center for Contemporary Art Ujazdowski Castle, Warsaw, Poland
-
-National Center for Contemporary Art, Moscow Branch, Moscow
-
-Neue Galerie Graz, Austria.
-
-Nomas Foundation, Rome, Italy
-
-Northern Norway Art Museum, Tromsø, Norway
-
-Novy Museum, St. Petersburg, Russia
-
-Sammlung Alison & Peter W. Klein, Eberdingen-Nussdorf, Germany
-
-Sammlung Goetz, Munich, Germany
-
-Stadt Galerie Esslingen-am-Neckar, Germany
-
-Taguchi Art Collection, Japan
-
-The Museum of Contemporary Art in Krakow, Poland
-
-The State Russian Museum, St.-Petersburg, Russia
-
-The State Tretyakov Gallery, The National Collection of contemporary art, Moscow, Russia
-
-Vanhaerents Art Collection, Brussels, Belgium
-
-Vanmoerkerke Collection, Oostende, Belgium
-
-Videoinsight® Collection, Bologna, Italy
-
-Wien Museum, Vienna
-
-ZKM, Karlsruhe, Germany
++ ZKM, Karlsruhe, Germany
 
 
 
 # Experience of teaching
 
-
 + Lectures organized by ACC + Bauhaus, Weimar, 2002
-
 + Moscow Institute of Contemporary Art, School of Contemporary Art, Master classes 2000-2002
-
-Lectures in University Saint Denis Paris 8, 1999
-
-Lectures in Rutgers University, Mason Gross School of Arts, 1998
-
++ Lectures in University Saint Denis Paris 8, 1999
++ Lectures in Rutgers University, Mason Gross School of Arts, 1998
 + Lectures in Columbia University, Harvard University, 1989
 
 # {{page.title}} Indexmod
