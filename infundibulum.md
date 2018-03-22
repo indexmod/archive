@@ -5,7 +5,6 @@ layout: default
 published: true
 ---
 
-# Infundibulum
 
 (Est., 2014, Moscow) is a Russian urban ascetic menswear brand created by designer Ilia Varegin with conception of integration spirituality and modern life, philosophy of ascetic hedonism, with collections that are always made as capsule and limited edition, with conception of evolution of tradition of recreating clothing using methods existed before the mass production by own rules as the way the menswear could be if its evolution took a different path <span id="a1">[\[1\]](#f1)</span>.
 
