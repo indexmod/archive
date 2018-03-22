@@ -31,7 +31,7 @@ published: true
 |YouTube <span id="a5">[\[5\]](#f5)</span>|79956|000|
 |Age|7|000|
 |Indexmod|{{ page.content | number_of_words }}||
-|Total|0,0000|0,0000|
+|Total|1,31893112|0,0000|
 
 # See also
 
