@@ -8,15 +8,15 @@ published: true
  
  ![Снимок экрана 2018-03-23 в 14.25.32.png]({{site.baseurl}}/Снимок экрана 2018-03-23 в 14.25.32.png)
 
-**Image title**
+**Loshadka Party in Moscow in 2016**
 
-*Photo: [Name](index) / [Source](index)*
+*Photo: [Nightlife](Nightlife) / [Nightlife](Nightlife)*
 
 # {{page.title}} Conspectus
 
-|Year|City|
-|-|-|
-|2017|Moscow|
+|Year|City|Place|
+|-|-|-|
+|2018|Moscow|Squat 3/4|
 
 # {{page.title}} Indexmod
 
@@ -27,7 +27,7 @@ published: true
 |YouTube|||
 |Age|9||
 |Indexmod|{{ page.content | number_of_words }}||
-|Total|0,0000||
+|Total|0,10431018||
 
 # See also
 
