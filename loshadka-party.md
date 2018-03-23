@@ -4,13 +4,13 @@ permalink: loshadka-party
 published: true
 ---
 
-(Est. 2009, Saint Petersburg) is a series of shocking parties in Moscow, St. Petersburg and Kiev. The event is known for its freak shows, contrast music program and "the loud bring-ups" <span id="a1">[\[1\]](#f1)</span>.
+(Рус. Лошадка, еst. 2009, Saint Petersburg) is a series of shocking parties in Moscow, St. Petersburg and Kiev founder by Dmitri Estrin (Дима Эстрин). The event is known for its freak shows, contrast music program and "the loud bring-ups" <span id="a1">[\[1\]](#f1)</span>.
  
  ![Снимок экрана 2018-03-23 в 14.25.32.png]({{site.baseurl}}/Снимок экрана 2018-03-23 в 14.25.32.png)
 
-**Loshadka Party in Moscow in 2016**
+**Dmitri Estrin, founder of "Loshadka Party" at discussion by Be-in.ru in 2010**
 
-*Photo: [Nightparty](Nightparty) / [Nightparty](Nightparty)*
+*Photo: [Alexei Bazhenov](bazhenov-alexei) / [Be-in.ru](https://www.be-in.ru/subject/9732-modniki_vs_designers/)*
 
 # {{page.title}} Conspectus
 
@@ -31,8 +31,11 @@ published: true
 
 # See also
 
++ [Dmitri Estrin](estrin-dmitri)
 + [Victor Michaelson](michaelson-victor)
 + [Danila Poliakov](poliakov-danila)
+
+
 
 # Footnotes
 
