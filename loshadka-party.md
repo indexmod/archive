@@ -1,16 +1,48 @@
 ---
-title:  Loshadka Party
-permalink:  loshadka-party
+title: Loshadka Party
+permalink: loshadka-party
+published: true
 ---
 
- Loshadka Party — это серия эпатажных вечеринок, которые стартовали в Санкт-Петербурге в 2009 году. Мероприятие известно своим фрик-шоу, контрастной музыкальной программой и громкими привозами.
+(Est. 2009, Saint Petersburg) — This is a series of shocking parties that started in St. Petersburg in 2009. The event is known for its freak show, contrast music program and "loud bring-ups" <span id="a1">[\[1\]](#f1)</span>.
  
  ![Снимок экрана 2018-03-23 в 14.25.32.png]({{site.baseurl}}/Снимок экрана 2018-03-23 в 14.25.32.png)
 
-**Sample**
- 
- Следующая Loshadka Party пройдет 7 апреля в Squat 3/4
- 
- http://www.the-village.ru/village/weekend/wknd-news/306567-loshadka-18
+**Image title**
 
-the-village УЛЬЯНА БОНДАРЕНКО
+*Photo: [Name](index) / [Source](index)*
+
+# {{page.title}} Conspectus
+
+|Year|City|
+|-|-|
+|2017|Moscow|
+
+# {{page.title}} Indexmod
+
+||2018|2019|
+|-|-|-|
+|Facebook <span id="a3">[\[3\]](#f3)</span>|2031|000|
+|Instagram <span id="a4">[\[4\]](#f4)</span>|7875|000|
+|YouTube <span id="a5">[\[5\]](#f5)</span>|0|000|
+|Age|9|000|
+|Indexmod|{{ page.content | number_of_words }}||
+|Total|0,0000|0,0000|
+
+# See also
+
++ [About {{page.title}}](index)
++ [{{page.title}} at Wikipedia](index)
+
+# Footnotes
+
+[[1]](#a1) <span id="f1"></span> [Следующая Loshadka Party пройдет 7 апреля в Squat 3/4 (the-village УЛЬЯНА БОНДАРЕНКО)](http://www.the-village.ru/village/weekend/wknd-news/306567-loshadka-18)
+
+[[3]](#a3) <span id="f3"></span> [{{page.title}} (Facebook)](index)
+
+[[4]](#a4) <span id="f4"></span> [{{page.title}} (Instagram)](index)
+
+[[5]](#a5) <span id="f5"></span> [{{page.title}} (YouTube)](index)
+
+`Updated Mar. 2018 (Andrei Dei)`
+
