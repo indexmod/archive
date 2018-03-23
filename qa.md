@@ -1,7 +1,7 @@
 ---
 title: Question → answer
 permalink: qa
-layout: cover
+layout: info
 published: true
 ---
 # Why some articles of Indexmod Encyclopedia non-English?
