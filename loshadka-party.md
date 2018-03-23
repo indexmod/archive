@@ -1,14 +1,14 @@
 ---
-title: Loshadka (party)
+title: Loshadka Prty (party)
 permalink: loshadka-party
 published: true
 ---
 
-(Рус. Лошадка, еst. 2009, Saint Petersburg) is a series of shocking parties in Moscow, St. Petersburg and Kiev founder by Dmitri Estrin (Дима Эстрин). The event is known for its freak shows, contrast music program and "the loud bring-ups" <span id="a1">[\[1\]](#f1)</span>.
+(Рус. Лошадка-пати, еst. 2009, Saint Petersburg) is a series of shocking parties in Moscow, St. Petersburg and Kiev founder by Dmitri Estrin (Дима Эстрин). The event is known for its freak shows, contrast music program and "the loud bring-ups" <span id="a1">[\[1\]](#f1)</span>.
  
  ![](https://www.be-in.ru/media/beingallery/gallery/userdata/user_8/img3345.jpg)
 
-**Dmitri Estrin, founder of Loshadka at discussion by Be-in.ru in 2010**
+**Dmitri Estrin, founder of Loshadka Prty at discussion by Be-in.ru in 2010**
 
 *Photo: [Alexei Bazhenov](bazhenov-alexei) / [Be-in.ru](https://www.be-in.ru/subject/9732-modniki_vs_designers/)*
 
@@ -20,7 +20,7 @@ published: true
 
 ![](http://www.sobaka.ru/images/image/00/70/40/41/_normal.jpeg)
 
-**Bodybuilder Alexander Shpack on cover of Loshadka 2016 announcement in Central Station Club in Saint Petersburg**
+**Bodybuilder Alexander Shpack on cover of Loshadka Prty 2016 announcement in Central Station Club in Saint Petersburg**
 
 *Photo: [Diana Smoliakova](smoliakova-diana) / [Sobaka](http://www.sobaka.ru/images/image/00/70/40/41/_normal.jpeg)*
 
