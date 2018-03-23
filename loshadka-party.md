@@ -8,7 +8,7 @@ published: true
  
  ![](https://www.be-in.ru/media/beingallery/gallery/userdata/user_8/img3345.jpg)
 
-**Dmitri Estrin, founder of Loshadka Prty at discussion by Be-in.ru in 2010**
+**Dmitri Estrin (left), founder of Loshadka Prty at discussion by Be-in.ru in 2010**
 
 *Photo: [Alexei Bazhenov](bazhenov-alexei) / [Be-in.ru](https://www.be-in.ru/subject/9732-modniki_vs_designers/)*
 
