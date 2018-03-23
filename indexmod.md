@@ -5,6 +5,8 @@ layout: info
 published: true
 ---
 
+`Indexmod =`
+
 `FBK + INS + YTB × AGE ÷ 1 mln. × INX ÷ 100`
 
 ||2018|2019|
