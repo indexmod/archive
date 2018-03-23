@@ -4,7 +4,7 @@ permalink: qa
 layout: info
 published: true
 ---
-# Why some articles of encyclopedia non-English?
+# Why some articles of the encyclopedia are non-English?
 
 The Indexmod Encyclopedia data core are articles in English, but you can create pages in any language matching the [Template](https://indexmod.github.io/encyclopedia/template).
 
