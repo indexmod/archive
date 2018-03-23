@@ -4,13 +4,13 @@ permalink: loshadka-party
 published: true
 ---
 
-(Est. 2009, Saint Petersburg) is a series of shocking parties that started in St. Petersburg in 2009. The event is known for its freak show, contrast music program and "loud bring-ups" <span id="a1">[\[1\]](#f1)</span>.
+(Est. 2009, Saint Petersburg) is a series of shocking parties that started in St. Petersburg in 2009. The event is known for its freak show, contrast music program and "the loud bring-ups" <span id="a1">[\[1\]](#f1)</span>.
  
  ![Снимок экрана 2018-03-23 в 14.25.32.png]({{site.baseurl}}/Снимок экрана 2018-03-23 в 14.25.32.png)
 
 **Loshadka Party in Moscow in 2016**
 
-*Photo: [Nightlife](Nightlife) / [Nightlife](Nightlife)*
+*Photo: [Nightparty](Nightparty) / [Nightparty](Nightparty)*
 
 # {{page.title}} Conspectus
 
