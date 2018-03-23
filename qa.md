@@ -4,13 +4,13 @@ permalink: qa
 layout: info
 published: true
 ---
-# Why some articles of the encyclopedia are non-English?
+# Why are some articles of the encyclopedia non-English?
 
 The Indexmod Encyclopedia data core are articles in English, but you can create pages in any language matching the [Template](https://indexmod.github.io/encyclopedia/template).
 
 # May I translate some page?
 
-Create copy of the page which you want to be translated. Paste [sample of the page](internet-yami-ichi) translated into simplified Russian. 
+Create the copy of the page which you want to be translated. Paste [sample of the page](internet-yami-ichi) translated into simplified Russian. 
 
 Use 
 
