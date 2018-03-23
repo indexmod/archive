@@ -38,7 +38,7 @@ body {
   background-color: #f1f1f1;
 }
 
-.header h2 {
+.header h1 {
   text-align: center;
 }
 
@@ -59,11 +59,12 @@ body {
 }
 </style>
 </head>
-<body>
-</head>
+
 <body>
 <div class="header">
-  <h2>Scroll Indicator</h2>
+	<p>{{ site.time | date_to_long_string }}</p>
+  <h2>{{page.title}}</h2>
+	
   <div class="progress-container">
     <div class="progress-bar" id="myBar"></div>
   </div>  
@@ -75,11 +76,7 @@ body {
     <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
     <![endif]-->
 	<div class="wrapper">
-		<header>
-			<p>{{ site.time | date_to_long_string }}</p>
-		</header>
 		<section>
-			<h1>{{page.title}}</h1>
 			<div>
 				<p><a href="https://www.facebook.com/sharer/sharer.php?u=https%3A//indexmod.github.io/encyclopedia/{{page.permalink}}">Share</a> <a href="http://prose.io/#indexmod/encyclopedia/edit/master/{{page.path}}">Edit</a></p>
 			</div>{{ content | toc }}
