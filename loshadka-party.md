@@ -16,7 +16,7 @@ published: true
 
 |Year|City|Place|
 |-|-|-|
-|2018|Moscow|Squat 3/4|
+|2018|Moscow|Squat 3/4 <span id="a2">[\[2\]](#f1)</span>|
 
 # {{page.title}} Indexmod [*](indexmod)
 
@@ -36,7 +36,7 @@ published: true
 
 # Footnotes
 
-[[1]](#a1) <span id="f1"></span> [Следующая Loshadka Party пройдет 7 апреля в Squat 3/4 (The Village, Ульяна Бондаренко)](http://www.the-village.ru/village/weekend/wknd-news/306567-loshadka-18)
+[[1, 2]](#a1) <span id="f1"></span> [Следующая Loshadka Party пройдет 7 апреля в Squat 3/4 (The Village, Ульяна Бондаренко)](http://www.the-village.ru/village/weekend/wknd-news/306567-loshadka-18)
 
 [[3]](#a3) <span id="f3"></span> [{{page.title}} (Facebook)](https://www.facebook.com/superloshadka/)
 
