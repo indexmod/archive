@@ -5,7 +5,7 @@ layout: info
 published: true
 ---
 
-`Indexmod =`
+Indexmod formula contains the sum of the official statistics from Facebook, Instagram and YouTube, multiplied by age (of person, object, phenomenon or brand described in the article) divided by one million and then multiplied by Indexmod PV-index and divided by 100. Indexmod PV-index is page value automatically counted in words limited max. 500 words. 
 
 `FBK + INS + YTB × AGE ÷ 1 mln. × PV ÷ 100`
 
