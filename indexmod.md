@@ -11,9 +11,9 @@ Indexmod formula contains the sum of the official statistics from Facebook, Inst
 
 ||2018|2019|
 |-|-|-|
-|Facebook <span id="a3">[\[3\]](#f3)</span>|1000|000|
-|Instagram <span id="a4">[\[4\]](#f4)</span>|1000|000|
-|YouTube <span id="a5">[\[5\]](#f5)</span>|1000|000|
-|Age|2|000|
+|Facebook <span id="a3">[\[3\]](#f3)</span>|1000||
+|Instagram <span id="a4">[\[4\]](#f4)</span>|1000||
+|YouTube <span id="a5">[\[5\]](#f5)</span>|1000||
+|Age|2|3|
 |Page Value (words)|{{ page.content | number_of_words }}||
-|Indexmod|0,0000|0,0000|
+|Indexmod|0,00528||
