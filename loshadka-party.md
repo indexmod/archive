@@ -18,7 +18,7 @@ published: true
 |-|-|-|
 |2018|Moscow|Squat 3/4|
 
-# {{page.title}} Indexmod
+# {{page.title}} Indexmod [*](indexmod)
 
 ||2018|2019|
 |-|-|-|
