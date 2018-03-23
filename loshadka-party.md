@@ -22,27 +22,25 @@ published: true
 
 ||2018|2019|
 |-|-|-|
-|Facebook <span id="a3">[\[3\]](#f3)</span>|2031|000|
-|Instagram <span id="a4">[\[4\]](#f4)</span>|7875|000|
-|YouTube <span id="a5">[\[5\]](#f5)</span>|0|000|
-|Age|9|000|
+|Facebook <span id="a3">[\[3\]](#f3)</span>|2031||
+|Instagram <span id="a4">[\[4\]](#f4)</span>|7875||
+|YouTube|||
+|Age|9||
 |Indexmod|{{ page.content | number_of_words }}||
-|Total|0,0000|0,0000|
+|Total|0,0000||
 
 # See also
 
-+ [About {{page.title}}](index)
-+ [{{page.title}} at Wikipedia](index)
++ [Victor Michaelson](michaelson-victor)
++ [Danila Poliakov](poliakov-danila)
 
 # Footnotes
 
-[[1]](#a1) <span id="f1"></span> [Следующая Loshadka Party пройдет 7 апреля в Squat 3/4 (the-village УЛЬЯНА БОНДАРЕНКО)](http://www.the-village.ru/village/weekend/wknd-news/306567-loshadka-18)
+[[1]](#a1) <span id="f1"></span> [Следующая Loshadka Party пройдет 7 апреля в Squat 3/4 (The Village, Ульяна Бондаренко)](http://www.the-village.ru/village/weekend/wknd-news/306567-loshadka-18)
 
-[[3]](#a3) <span id="f3"></span> [{{page.title}} (Facebook)](index)
+[[3]](#a3) <span id="f3"></span> [{{page.title}} (Facebook)](https://www.facebook.com/superloshadka/)
 
-[[4]](#a4) <span id="f4"></span> [{{page.title}} (Instagram)](index)
-
-[[5]](#a5) <span id="f5"></span> [{{page.title}} (YouTube)](index)
+[[4]](#a4) <span id="f4"></span> [{{page.title}} (Instagram)](https://www.instagram.com/loshadka.party/?hl=ru)
 
 `Updated Mar. 2018 (Andrei Dei)`
 
