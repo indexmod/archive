@@ -1,7 +1,7 @@
 ---
 title: Template
 permalink: template
-layout: default
+layout: info
 published: true
 ---
 
