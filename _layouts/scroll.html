@@ -33,29 +33,25 @@ body {
 .header {
   position: fixed;
   top: 0;
-  z-index: 1;
+  z-index: 0;
   width: 100%;
-  background-color: #f1f1f1;
+  background-color: white;
 }
 
 .header h1 {
-  text-align: center;
+  text-align: left;
 }
 
 .progress-container {
   width: 100%;
-  height: 8px;
-  background: #ccc;
+  height: 20px;
+  background: white;
 }
 
 .progress-bar {
-  height: 8px;
-  background: #4caf50;
-  width: 0%;
-}
-
-.content {
- 
+  height: 20px;
+  background: violet;
+  width: 1%;
 }
 </style>
 </head>
@@ -64,7 +60,6 @@ body {
 <div class="header">
 	<p>{{ site.time | date_to_long_string }}</p>
   <h2>{{page.title}}</h2>
-	
   <div class="progress-container">
     <div class="progress-bar" id="myBar"></div>
   </div>  
@@ -76,7 +71,7 @@ body {
     <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
     <![endif]-->
 	<div class="wrapper">
-		<section>
+	
 			<div>
 				<p><a href="https://www.facebook.com/sharer/sharer.php?u=https%3A//indexmod.github.io/encyclopedia/{{page.permalink}}">Share</a> <a href="http://prose.io/#indexmod/encyclopedia/edit/master/{{page.path}}">Edit</a></p>
 			</div>{{ content | toc }}
@@ -84,8 +79,7 @@ body {
 				<p><a href="https://www.facebook.com/sharer/sharer.php?u=https%3A//indexmod.github.io/encyclopedia/{{page.permalink}}">Share</a> <a href="http://prose.io/#indexmod/encyclopedia/edit/master/{{page.path}}">Edit</a></p>
 			</div>
 			<p>Value: {{ page.content | number_of_words }} words</p>
-		</section>
-		<footer>
+			<footer>
 			{% include footer.html %}
 		</footer>
 	</div>
