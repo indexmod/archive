@@ -22,7 +22,7 @@ published: true
 
 ![](http://www.sobaka.ru/images/image/00/70/40/41/_normal.jpeg)
 
-**Bodybuilder Alexander Shpack on cover of Loshadka Prty 2016 announcement in Central Station Club in Saint Petersburg**
+**Bodybuilder Alexander Shpack on a cover of Loshadka Prty 2016 announcement in Central Station Club in Saint Petersburg**
 
 *Photo: [Diana Smoliakova](smoliakova-diana) / [Sobaka](http://www.sobaka.ru/images/image/00/70/40/41/_normal.jpeg)*
 
