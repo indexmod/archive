@@ -5,6 +5,8 @@ layout: info
 published: true
 ---
 
+`FBK+INS+YTB×AGE÷1000000×INX÷100`
+
 ||2018|2019|
 |-|-|-|
 |Facebook <span id="a3">[\[3\]](#f3)</span>|000|000|
