@@ -5,7 +5,7 @@ layout: info
 published: true
 ---
 
-`FBK + INS + YTB × AGE ÷ 1000000 × INX ÷ 100`
+`FBK + INS + YTB × AGE ÷ 1 mln. × INX ÷ 100`
 
 ||2018|2019|
 |-|-|-|
