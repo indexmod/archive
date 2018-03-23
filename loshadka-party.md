@@ -41,5 +41,3 @@ published: true
 [[3]](#a3) <span id="f3"></span> [{{page.title}} (Facebook)](https://www.facebook.com/superloshadka/)
 
 [[4]](#a4) <span id="f4"></span> [{{page.title}} (Instagram)](https://www.instagram.com/loshadka.party/?hl=ru)
-
-`Updated Mar. 2018 (Andrei Dei)`
