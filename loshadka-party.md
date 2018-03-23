@@ -1,5 +1,5 @@
 ---
-title: Loshadka Party
+title: Loshadka
 permalink: loshadka-party
 published: true
 ---
