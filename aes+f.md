@@ -2293,9 +2293,14 @@ Kunsthalle "Faust", Hannover, Germany.
 
 # {{page.title}} Indexmod
 
-|Year|Facebook|Instagram|YouTube|Age|Indexmod|Total|
-|-|-|-|-|-|-|-|
-|2018|13353 <span id="a3">[\[3\]](#f3)</span>|17000000 <span id="a4">[\[4\]](#f4)</span>||30|{{ page.content | number_of_words }}|5734861,02924|
+||2018|2019|
+|-|-|-|
+|Facebook <span id="a3">[\[3\]](#f3)</span>|13353||
+|Instagram <span id="a4">[\[4\]](#f4)</span>|17000000|000|
+|YouTube <span id="a5">[\[5\]](#f5)</span>|||
+|Age|30|31|
+|Page Value (words)|500||
+|Indexmod|0,0000||
 
 # Footnotes
 
