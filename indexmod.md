@@ -6,8 +6,7 @@ published: true
 ---
 
 `Indexmod =`
-
-`FBK + INS + YTB × AGE ÷ 1 mln. × INX ÷ 100`
+`FBK + INS + YTB × AGE ÷ 1 mln. × PV ÷ 100`
 
 ||2018|2019|
 |-|-|-|
