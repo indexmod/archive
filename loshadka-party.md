@@ -6,7 +6,7 @@ published: true
 
 (Рус. Лошадка, еst. 2009, Saint Petersburg) is a series of shocking parties in Moscow, St. Petersburg and Kiev founder by Dmitri Estrin (Дима Эстрин). The event is known for its freak shows, contrast music program and "the loud bring-ups" <span id="a1">[\[1\]](#f1)</span>.
  
- ![https://www.be-in.ru/media/beingallery/gallery/userdata/user_8/img3345.jpg)
+ ![](https://www.be-in.ru/media/beingallery/gallery/userdata/user_8/img3345.jpg)
 
 **Dmitri Estrin, founder of "Loshadka Party" at discussion by Be-in.ru in 2010**
 
