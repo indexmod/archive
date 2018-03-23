@@ -41,9 +41,11 @@
 				<p><a href="https://www.facebook.com/sharer/sharer.php?u=https%3A//indexmod.github.io/encyclopedia/{{page.permalink}}">Share</a> <a href="http://prose.io/#indexmod/encyclopedia/edit/master/{{page.path}}">Edit</a></p>
 			</div>{{ content | toc }}
 			<div>
+				
+				<p><code class="highlighter-rouge">Page Value (words): {{ page.content | number_of_words }} of 500 max.</code></p>
 				<p><a href="https://www.facebook.com/sharer/sharer.php?u=https%3A//indexmod.github.io/encyclopedia/{{page.permalink}}">Share</a> <a href="http://prose.io/#indexmod/encyclopedia/edit/master/{{page.path}}">Edit</a></p>
 			</div>
-			<p>Page Value (words): {{ page.content | number_of_words }} of 500 max.</p>
+		
 		</section>
 		<footer>
 			{% include footer.html %}
