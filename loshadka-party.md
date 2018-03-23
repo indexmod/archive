@@ -18,6 +18,12 @@ published: true
 |-|-|-|
 |2018|Moscow|Squat 3/4 <span id="a2">[\[2\]](#f1)</span>|
 
+![](http://www.sobaka.ru/images/image/00/70/40/41/_normal.jpeg)
+
+**Bodybuilder Alexander Shpack on cover of Loshadka 2016 announcement in Central Station Club in Saint Petersburg**
+
+*Photo: [Diana Smoliakova](smoliakova-diana) / [Sobaka](http://www.sobaka.ru/images/image/00/70/40/41/_normal.jpeg)*
+
 # {{page.title}} Indexmod [*](indexmod)
 
 ||2018|2019|
