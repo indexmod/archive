@@ -12,7 +12,7 @@ published: true
 
 *Photo: [Open Russia](open-russia) / [Open Russia](open-russia)*
 
-# Conspectus
+# Chief-Editors
 
 |Year|Chief-Editor|
 |----|---|
@@ -26,7 +26,7 @@ published: true
 |Facebook <span id="a3">[\[3\]](#f3)</span>|180964||
 |Instagram <span id="a4">[\[4\]](#f4)</span>|332000||
 |YouTube <span id="a5">[\[5\]](#f5)</span>|11251||
-|Age|12|000|
+|Age|12||
 |Page Value|{{ page.content | number_of_words }}||
 |Indexmod|1,27003296||
 
