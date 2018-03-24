@@ -1,7 +1,7 @@
 ---
 title: Buro 24/7
 permalink: buro-24-7
-layout: social
+layout: default
 published: true
 ---
 {{ page.content | number_of_words }} (Rus. Бюро 24/7, est. 2010, Moscow) is a web-site founded by Russian media persone Miroslava Duma for fashion, culture, lifestyle, entertainment and beauty news. Site also publishing profiles, expert advicees, reportages. In 2016, the brand has expanded to a number of regions including Croatia, Ukraine, Kazakhstan, Azerbaijan, Middle East, Turkey and Australia. Buro 24/7 belongs to Polina Deripaska, publishing house Forward Media Group publishes Hello magazines and "Interior + Design". Several years ago, Oleg Deripaska bought this ID for his wife. They no longer have a joint business, Polina Deripaska is the sole owner of the ID. <span id="a1">[\[1\]](#f1)</span>
