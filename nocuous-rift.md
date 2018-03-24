@@ -20,4 +20,4 @@ published: true
 
 # Footnotes
 
-[[3]](#a3) <span id="f3"></span> [“What is Nocuous Rift?” (EvanDesmondYee.com)](http://www.evandesmondyee.com/blank-c20xl)
+[[1]](#a1) <span id="f1"></span> [“What is Nocuous Rift?” (EvanDesmondYee.com)](http://www.evandesmondyee.com/blank-c20xl)
