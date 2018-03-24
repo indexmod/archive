@@ -5,7 +5,7 @@ layout: info
 published: true
 ---
 
-(Est. 2013, city) is a --------- <span id="a1">[\[1\]](#f1)</span>.
+(Est. 2013, city) is a --- <span id="a1">[\[1\]](#f1)</span>.
 
 ![](/encyclopedia/images/{{page.permalink}}.jpg)
 
@@ -19,16 +19,16 @@ published: true
 |-|-|
 |2017|Moscow|
 
-# {{page.title}} Indexmod
+# {{page.title}} Indexmod [*](indexmod)
 
 ||2018|2019|
 |-|-|-|
-|Facebook <span id="a3">[\[3\]](#f3)</span>|000|000|
-|Instagram <span id="a4">[\[4\]](#f4)</span>|000|000|
-|YouTube <span id="a5">[\[5\]](#f5)</span>|000|000|
+|Facebook <span id="a3">[\[3\]](#f3)</span>|000||
+|Instagram <span id="a4">[\[4\]](#f4)</span>|000||
+|YouTube <span id="a5">[\[5\]](#f5)</span>|000||
 |Age|000|000|
 |Page Value|{{ page.content | number_of_words }}||
-|Indexmod|0,0000|0,0000|
+|Indexmod|0,0000||
 
 # See also
 
