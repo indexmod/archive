@@ -1,15 +1,11 @@
 ---
-title: Template
-permalink: template
+title: Dropbox bag
+permalink: dropbox-bag
 layout: default
 published: true
 ---
 
-# {{page.title}}
-
-(Est. 2013, city)
-
-Dropbox bag, pres. 2016, Moscow—is a souvenir bag by Intektra, was sold at the Internet Yami-Ichi,1 allows  “to share” files everyday, it does not burden users hype, does not offer to download files for the money and has a friendly interface ease even a child.
+(Est. 2013, city) Dropbox bag, pres. 2016, Moscow—is a souvenir bag by Intektra, was sold at the Internet Yami-Ichi,1 allows  “to share” files everyday, it does not burden users hype, does not offer to download files for the money and has a friendly interface ease even a child.
 
 <span id="a1">[\[1\]](#f1)</span>.
 
@@ -19,24 +15,8 @@ Dropbox bag, pres. 2016, Moscow—is a souvenir bag by Intektra, was sold at the
 
 *Photo: [Name](index) / [Source](index)*
 
-# {{page.title}} Conspectus
-
-|Year|City|
-|-|-|
-|2014|Tokyo|
-|2017|Paris|
-
-# {{page.title}} Indexmod
-
-|Year|Facebook|Instagram|YouTube|Age|IMD|
-|-|-|-|-|-|
-|2018|100 <span id="a3">[\[3\]](#f3)</span>|200 <span id="a4">[\[4\]](#f4)</span>|300 <span id="a4">[\[4\]](#f4)</span>|12|0,0025|
-
-
 # See also
 
-+ [One](index)
-+ [Two](index)
 Internet Yami-Ichi
 Intektra
 Nora Kaza
@@ -44,9 +24,3 @@ Nora Kaza
 # Footnotes
 
 [[3]](#a3) <span id="f3"></span> [{{page.title}} (Facebook)](index)
-
-[[4]](#a4) <span id="f4"></span> [{{page.title}} (Instagram)](index)
-
-[[5]](#a5) <span id="f5"></span> [{{page.title}} (YouTube)](index)
-
-`Updated Mar. 2018 (Andrei Dei)`

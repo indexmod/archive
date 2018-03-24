@@ -5,7 +5,6 @@ layout: default
 published: true
 ---
 
-
 (Pres. 2016, Moscow) is a handmade soap by Veroid created for the Internet Yami-Ichi, with signs of Internet (“#”, “@”, “4G”, “Wi-Fi”), made of natural ingredients, flavored aroma oils <span id="a1">[\[1\]](#f1)</span>.
 
 ![](/encyclopedia/images/e-soap.png)
@@ -31,5 +30,3 @@ published: true
 # Footnotes
 
 [[1]](#a1) <span id="f1"></span> [Арт-маркет интернет-артефактов (Политехнический музей)](http://fest2016.polymus.ru/ru/programm/yami-ichi/index.html)
-
-`Updated Mar. 2018 (Andrei Dei)`

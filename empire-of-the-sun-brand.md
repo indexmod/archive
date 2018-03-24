@@ -5,7 +5,6 @@ layout: default
 published: true
 ---
 
-
 (Shorten: EMP.OS, est. 2012, Ubud) is a yoga and sportswear brand created by designer Tatiana Mamedova <span id="a1">[\[1\]](#f1)</span>.
 
 ![](/encyclopedia/images/vlad.jpg)
@@ -42,5 +41,3 @@ published: true
 [[4]](#a4) <span id="f4"></span> [{{page.title}} (Instagram)](index)
 
 [[5]](#a5) <span id="f5"></span> [{{page.title}} (YouTube)](index)
-
-`Updated Mar. 2018 (Andrei Dei)`
