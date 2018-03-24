@@ -4,11 +4,7 @@ permalink: fisher-lilia
 layout: default
 ---
 
-# {{page.title}}
-
-(Est. 2013, city)
-
-Lilia Fisher (Rus. Дом Шляпки Лилия Фишер)—fashion brand founded in 2012 by Lilia Fisher in Moscow, brand participated in the Mercedes-Benz Fashion Week FW 2013 / 2014, Kid's Fashion Week in the Gallery Yakimanka.
+(Rus. Дом Шляпки Лилия Фишер) is a fashion brand founded in 2012 by Lilia Fisher in Moscow, brand participated in the Mercedes-Benz Fashion Week FW 2013 / 2014, Kid's Fashion Week in the Gallery Yakimanka.
 
 <span id="a1">[\[1\]](#f1)</span>.
 
@@ -52,5 +48,3 @@ Photo: Olga Galinskaya / Facebook
 [[4]](#a4) <span id="f4"></span> [{{page.title}} (Instagram)](index)
 
 [[5]](#a5) <span id="f5"></span> [{{page.title}} (YouTube)](index)
-
-`Updated Mar. 2018 (Andrei Dei)`

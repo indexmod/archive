@@ -4,10 +4,6 @@ permalink: flux-lounge-le
 layout: default
 ---
 
-# {{page.title}}
-
-(Est. 2013, city)
-
 Le Flux Lounge (Originaly: Le Flux Lounge Bar & Art Space)—this is lounge bar, art gallery, photo, rental and workshops studio founded in 2014 by Vincent Sung under Le Flux Asia brand in Bangkok <span id="a1">[\[1\]](#f1)</span>.
 
 ![](/encyclopedia/images/image-name.jpg)
@@ -40,7 +36,7 @@ Office is based in Bangkok, the center of South-East Asia and we have active net
 + Vincent Sung
 + Le Flux Asia
 + Yellow Korner
-+ Baan Le Flux 
++ Baan Le Flux
 
 # Footnotes
 
@@ -49,5 +45,3 @@ Office is based in Bangkok, the center of South-East Asia and we have active net
 [[4]](#a4) <span id="f4"></span> [{{page.title}} (Instagram)](index)
 
 [[5]](#a5) <span id="f5"></span> [{{page.title}} (YouTube)](index)
-
-`Updated Mar. 2018 (Andrei Dei)`

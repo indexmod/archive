@@ -4,6 +4,7 @@ permalink: fedorov-vladimir
 layout: default
 published: true
 ---
+
 (Ukr. Федоров Володимир, born 1963, Sumi, dead, 2018 Kharkiv) Ukrainian—Russian artist, co-establisher of the art group “Inspection of Medical Hermeneutics” <span id="a1">[\[1\]](#f1)</span>, in 2014 moved to Moscow, in 2015 have worked with Ivana Babushkina at House of Artists on Vavilov 65 <span id="a2">[\[2\]](#f2)</span>.
 
 ![](/encyclopedia/images/{{page.permalink}}.jpg)
@@ -43,5 +44,3 @@ published: true
 # Footnotes
 
 [[1]](#a1) <span id="f1"></span> [Павел Пепперштейн о Владимире Федорове (Павел Пепперштейн, Telegra.ph)](http://telegra.ph/Pavel-Peppershtejn-o-Vladimire-Fedorove-03-21)
-
-`Update Mar. 2018 (Andrei Dei)`
