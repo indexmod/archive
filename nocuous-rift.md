@@ -9,6 +9,7 @@ published: true
 ![](/encyclopedia/images/nocuous.jpg)
 
 **Nocuous Rift by Evan Desmond Yee**
+
 *Photo: [Amos Terry](index) / [Evan Desmond Yee](index)*
 
 
