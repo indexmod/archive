@@ -9,6 +9,7 @@ published: true
 ![](/encyclopedia/images/petra-ivana.png)
 
 **Virtualёt album (fragment)**
+
 *Photo: [Petra-Ivana Babushkina](index) / [Facebook](index)*
 
 # {{page.title}} Installations
