@@ -4,8 +4,6 @@ permalink: kusnirovich-mikhail
 layout: default
 ---
 
-# {{page.title}}
-
 (Est. 2013, city) is a Mikhail Kusnirovich 3 SNC (Rus. Михаил Куснирович) born 1966, Moscow—Russian businessman, founder and chairman of the Supervisory Board group of companies Bosco di Ciliegi. As of 2013 Kusnirovich occupies 147th place in the list of 200 richest people in Russia, compiled by the magazine Forbes. In addition to the Bosco di Ciliegi, Kusnirovich established Festival of Arts “Cherry Orchard”. Since 2006, Mikhail Kusnirovich is a Commander of the Order “For Merit of the Italian Republic” <span id="a1">[\[1\]](#f1)</span>.
 
 ![](/encyclopedia/images/image-name.jpg)
@@ -47,5 +45,3 @@ SNC 100 MIPRF 2015
 [[4]](#a4) <span id="f4"></span> [{{page.title}} (Instagram)](index)
 
 [[5]](#a5) <span id="f5"></span> [{{page.title}} (YouTube)](index)
-
-`Updated Mar. 2018 (Andrei Dei)`

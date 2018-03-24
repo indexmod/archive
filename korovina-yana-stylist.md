@@ -4,8 +4,6 @@ permalink: korovina-yana-stylist
 layout: default
 ---
 
-# {{page.title}}
-
 (Est. 2013, city) is a Yana Korovina  481  INST (Rus. Яна Коровина) born 1992, Moscow—is a Russian fashion stylist, blogger1, PR specialist2, living and working in Moscow <span id="a1">[\[1\]](#f1)</span>.
 
 ![](/encyclopedia/images/korovina.jpg)
@@ -23,9 +21,14 @@ Photo: Point author here / Facebook
 
 # {{page.title}} Indexmod
 
-|Year|Facebook|Instagram|YouTube|Age|Indexmod|
-|-|-|-|-|-|
-|2018|000 <span id="a3">[\[3\]](#f3)</span>|000 <span id="a4">[\[4\]](#f4)</span>|000 <span id="a5">[\[5\]](#f5)</span>|00|0,0000|
+||2018|2019|
+|-|-|-|
+|Facebook <span id="a3">[\[3\]](#f3)</span>|000||
+|Instagram <span id="a4">[\[4\]](#f4)</span>|000||
+|YouTube <span id="a5">[\[5\]](#f5)</span>|000||
+|Age|000|000|
+|Page Value|{{ page.content | number_of_words }}||
+|Indexmod|0,0000||
 
 
 # See also
@@ -45,5 +48,3 @@ Marina Demchenko
 [[4]](#a4) <span id="f4"></span> [{{page.title}} (Instagram)](index)
 
 [[5]](#a5) <span id="f5"></span> [{{page.title}} (YouTube)](index)
-
-`Updated Mar. 2018 (Andrei Dei)`

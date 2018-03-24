@@ -4,8 +4,6 @@ permalink: kalinkina-svetlana
 layout: default
 ---
 
-# {{page.title}}
-
 (Est. 2013, city) Svetlana Kalinkina, Lanna Kollina (Rus. Светлана Калинкина) 1986, Moscow—is a Russian artist working in a genre of video, characters creator <span id="a1">[\[1\]](#f1)</span>.
 
 ![](/encyclopedia/images/kalinkina.jpg)
@@ -29,9 +27,14 @@ Master of Arts in Linguistics French language at Moscow State Pedagogical Univer
 
 # {{page.title}} Indexmod
 
-|Year|Facebook|Instagram|YouTube|Age|IMD|
-|-|-|-|-|-|
-|2018|100 <span id="a3">[\[3\]](#f3)</span>|200 <span id="a4">[\[4\]](#f4)</span>|300 <span id="a4">[\[4\]](#f4)</span>|12|0,0025|
+||2018|2019|
+|-|-|-|
+|Facebook <span id="a3">[\[3\]](#f3)</span>|000||
+|Instagram <span id="a4">[\[4\]](#f4)</span>|000||
+|YouTube <span id="a5">[\[5\]](#f5)</span>|000||
+|Age|000|000|
+|Page Value|{{ page.content | number_of_words }}||
+|Indexmod|0,0000||
 
 
 # See also

@@ -3,7 +3,7 @@ title: Irina Kurbatova
 permalink: kurbatova-irina
 layout: default
 ---
-# {{page.title}}
+
 
 (Est. 2013, city) -------- <span id="a1">[\[1\]](#f1)</span>.
 

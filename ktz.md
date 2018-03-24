@@ -3,7 +3,6 @@ title: KTZ
 permalink: ktz
 layout: default
 ---
-# {{page.title}}
 
 (Est. 2013, city) is a KTZ est. 2003, London—is a contemporary fashion label under the creative direction of Marjan Pejoski and management of Sasko Bezovski, of men’s and women’s ready-to-wear clothing with couture detais, raw energy, contemporary urban edge, embracing ethnographic references and multiculturalism <span id="a1">[\[1\]](#f1)</span>.
 
@@ -26,9 +25,14 @@ In 1996 Marjan Pejoski and Sasko Bezovski opened the shop Kokon to Zai in Soho a
 
 # {{page.title}} Indexmod
 
-|Year|Facebook|Instagram|YouTube|Age|Indexmod|
-|-|-|-|-|-|
-|2018|000 <span id="a3">[\[3\]](#f3)</span>|000 <span id="a4">[\[4\]](#f4)</span>|000 <span id="a5">[\[5\]](#f5)</span>|00|0,0000|
+||2018|2019|
+|-|-|-|
+|Facebook <span id="a3">[\[3\]](#f3)</span>|000||
+|Instagram <span id="a4">[\[4\]](#f4)</span>|000||
+|YouTube <span id="a5">[\[5\]](#f5)</span>|000||
+|Age|000|000|
+|Page Value|{{ page.content | number_of_words }}||
+|Indexmod|0,0000||
 
 
 # See also
@@ -36,7 +40,7 @@ In 1996 Marjan Pejoski and Sasko Bezovski opened the shop Kokon to Zai in Soho a
 + [About {{page.title}}](index)
 + [{{page.title}} at Wikipedia](index)
 Marjan Pejoski
-Sasko Bezovski 
+Sasko Bezovski
 
 # Footnotes
 

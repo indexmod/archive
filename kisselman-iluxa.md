@@ -4,8 +4,6 @@ permalink: kisselman-iluxa
 layout: default
 ---
 
-# {{page.title}}
-
 (Est. 2013, city) is Iluxa Kisselman (Rus. Илья Киссельман) born 1973, Moscow—Russian artist, art director, working with a number of technics from pencil graphics to video and animation, a graduate of Moscow Architectural Institute, founder and teacher of the Kisselman Studio <span id="a1">[\[1\]](#f1)</span>.
 
 ![](/encyclopedia/images/image-name.jpg)
