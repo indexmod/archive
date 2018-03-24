@@ -37,7 +37,7 @@ published: true
 
 # See also
 
-+ [Babushkina, Ivana](babushkina-ivana)
++ [Babushkina, Ivana](petra-ivana-babushkina-artist)
 + [Pavel Pepperstein](pepperstein-pavel)
 + [Vavilov 65A](vavilov-65-a)
 
