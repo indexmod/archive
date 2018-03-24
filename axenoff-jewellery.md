@@ -5,7 +5,7 @@ layout: default
 published: true
 ---
 
-(Rus. Аксёнов Джуэлри, est. 2010, Moscow) is a Russian brand founded by Petr Axenoff <span id="a1">[\[1\]](#f1)</span>.
+(Rus. Аксёнов Джуэлри, est. 2010, Moscow) is a Russian brand founded by Petr Axenoff <span id="a1">[\[1\]](#f1)</span>. Pyotr Aksenov created decorations for Romanovs for the "Matilda" directed by Alexei Uchitel, as well as for the new series based on Tolstoy's "War and Peace" by the English television company BBC <span id="a2">[\[2\]](#f2)</span>.
 
 ![](/encyclopedia/images/{{page.permalink}}.jpg)
 
@@ -26,10 +26,12 @@ published: true
 
 # See also
 
-+ [About {{page.title}}](index)
-+ [{{page.title}} at Wikipedia](index)
++ [Tatyana Parfionova](parfionova-tatyana)
++ [Mathilde](mathilde)
 
 # Footnotes
+
+[[2]](#a2) <span id="f2"></span> [О бренде (Axenoffjewellery.com)](http://axenoffjewellery.com/)
 
 [[3]](#a3) <span id="f3"></span> [{{page.title}} (Facebook)](https://www.facebook.com/AxenoffJewelleryOfficial/)
 
