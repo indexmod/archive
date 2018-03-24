@@ -2,10 +2,8 @@
 title: Nocuous Rift
 permalink: nocuous-rift
 layout: default
+published: true
 ---
-
-# {{page.title}}
-
 (Est. 2013, city) Nocuous Rift (From Oculus Rift)—is a virtual reality glass made by Evan Desmond Yee modeled after the growing number of Do-It-Yourself knock-offs such as Google Cardboard, and other homemade virtual reality goggles <span id="a1">[\[1\]](#f1)</span>.
 
 ![](/encyclopedia/images/nocuous.jpg)
