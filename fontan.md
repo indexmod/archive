@@ -9,9 +9,9 @@ published: true
 
 ![](http://artguide.com/uploads/ckeditor/pictures/204/content_content_06.jpg)
 
-**Image title**
+**Марсель Дюшан. Фонтан. 1950 (авторское повторение работы 1917). Писсуар из фаянса. Художественный музей, Филадельфия**
 
-*Photo: [Name](index) / [Source](index)*
+*Photo: [Artists Rights Society (ARS)](ars) / [Art Guide](http://artguide.com/uploads/ckeditor/pictures/204/content_content_06.jpg)*
 
 # {{page.title}} Conspectus
 
