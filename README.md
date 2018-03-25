@@ -7,7 +7,7 @@ is wiki with the beautiful syntax, Prose admin that hosted on GitHub
 
 (Est. 2013, city) is a --- <span id="a1">[\[1\]](#f1)</span>.
 
-![](/encyclopedia/images/image-sample.jpg)
+![](/encyclopedia/images/image-name.jpg)
 
 **Image**
 
