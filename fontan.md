@@ -15,13 +15,9 @@ published: true
 
 # See also
 
-+ [About {{page.title}}](index)
-+ [{{page.title}} at Wikipedia](index)
++ [Dada cafe](dada-cafe)
++ [Petra-Ivana Babushkina](petra-ivana-babushkina-artist)
 
 # Footnotes
 
-[[3]](#a3) <span id="f3"></span> [Ханс Рихтер. Дада — искусство и антиискусство. М.: Гилея, 2014 (Facebook)](index)
-
-[[4]](#a4) <span id="f4"></span> [{{page.title}} (Instagram)](index)
-
-[[5]](#a5) <span id="f5"></span> [{{page.title}} (YouTube)](index)
+[[1]](#a1) <span id="f1"></span> [Дада — искусство и антиискусство. (Art Guide, Ханс Рихтер, М.: Гилея, 2014)](http://artguide.com/posts/657)
