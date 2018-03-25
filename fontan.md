@@ -1,6 +1,6 @@
 ---
 title: Фонтан (1950)
-permalink: fontan
+permalink: fontan-1950
 layout: default
 published: true
 ---
