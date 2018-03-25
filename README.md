@@ -5,15 +5,9 @@ is wiki with the beautiful syntax, Prose admin that hosted on GitHub
 
 # This is page template
 
----
-title: Template
-permalink: template
-layout: info
----
-
 (Est. 2013, city) is a --- <span id="a1">[\[1\]](#f1)</span>.
 
-![](/encyclopedia/images/{{page.permalink}}.jpg)
+![](/encyclopedia/images/image-sample.jpg)
 
 **Image**
 
