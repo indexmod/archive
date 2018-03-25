@@ -1,7 +1,7 @@
 ---
 title: Template
-permalink: template
-layout: info
+permalink: fontan
+layout: default
 published: true
 ---
 
