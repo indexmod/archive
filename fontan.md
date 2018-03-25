@@ -7,7 +7,7 @@ published: true
 
 (Est. 2013, city) is a --- <span id="a1">[\[1\]](#f1)</span>.
 
-![](/encyclopedia/images/{{page.permalink}}.jpg)
+![](http://artguide.com/uploads/ckeditor/pictures/204/content_content_06.jpg)
 
 **Image title**
 
