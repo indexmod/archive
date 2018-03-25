@@ -1,5 +1,5 @@
 ---
-title: Fontan
+title: Фонтан (1950)
 permalink: fontan
 layout: default
 published: true
