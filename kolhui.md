@@ -1,6 +1,6 @@
 ---
 title: Kolhui
-permalink: akolhui
+permalink: kolhui
 layout: default
 ---
 
