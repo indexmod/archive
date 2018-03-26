@@ -11,7 +11,7 @@ published: true
 
 **Viktor Puzo-Buravkin, Vasya Lozhkin, Vladimir Medvedev, Mikhail Rubtsov, Nikolai Kopeikin, Andrei Kagadeev, Nikolai Vasilyev, Alexei Uvarov, Andrei Lyublinsky and Kirill Miller**
 
-*Photo: [Name](index) / [Source](index)*
+*Photo: [Unknown](index) / [Facebook](index)*
 
 # {{page.title}} Conspectus
 
