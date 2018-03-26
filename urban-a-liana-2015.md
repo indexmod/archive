@@ -20,10 +20,22 @@ published: true
 |2015|BKK|
 |2017|Moscow|
 
+![](/encyclopedia/images/{{page.permalink}}-1.jpg)
+
+**Image**
+
+*Photo: [Name](index) / [Source](index)*
+
 # See also
 
 + [About {{page.title}}](index)
 + [{{page.title}} at Wikipedia](index)
+
+![](/encyclopedia/images/{{page.permalink}}-2.jpg)
+
+**Image**
+
+*Photo: [Name](index) / [Source](index)*
 
 # Footnotes
 
