@@ -1,7 +1,7 @@
 ---
-permalink: urban-a-liana
-layout: default
 title: Urban-a-Liana (2015)
+permalink: urban-a-liana-2015
+layout: default
 published: true
 ---
 
@@ -17,18 +17,8 @@ published: true
 
 |Year|City|
 |-|-|
+|2015|BKK|
 |2017|Moscow|
-
-# {{page.title}} Indexmod [*](indexmod)
-
-||2018|2019|
-|-|-|-|
-|Facebook <span id="a3">[\[3\]](#f3)</span>|000||
-|Instagram <span id="a4">[\[4\]](#f4)</span>|000||
-|YouTube <span id="a5">[\[5\]](#f5)</span>|000||
-|Age|000|000|
-|Page Value|{{ page.content | number_of_words }}||
-|Indexmod|0,0000||
 
 # See also
 
