@@ -5,42 +5,31 @@ layout: default
 published: true
 ---
 
-(2015, Bangkok) is a --- <span id="a1">[\[1\]](#f1)</span>.
+(2015, Bangkok) is an inskallation by Andrei Dei set on the rooftop in the Hossein Farmani's <span id="a1">[\[1\]](#f1)</span> "Rooftop Gallery" on Sukhumvit Street in Bangkok in 2015. Wires and pipes of city communications at "Urban-a-Liana" are presented by the artist as living self-organizing forms.
 
 ![](/encyclopedia/images/{{page.permalink}}.jpg)
 
-**Image**
+**1.View to Bangkok; 2.Connection of pipes; 3.A rooftop of the "Rooftop Gallery" on Sukhumvit Street; 4.View to Urban-a-Liana from Sukhumvit Street; 5.Urban comunications on the streets; 6.Urban comunications on the streets; 7.Urban comunications on the streets; 5.Urban comunications on the streets; 5.Urban comunications on the streets**
 
 *Photo: [Name](index) / [Source](index)*
 
 # {{page.title}} Conspectus
 
-|Year|City|
-|-|-|
-|2015|BKK|
-|2017|Moscow|
+|Year|City|Name|
+|-|-|-|
+|2015|BKK|Urban-a-Liana|
+|2018|Moscow|Urban-a-Liana Climatic|
 
-![](/encyclopedia/images/{{page.permalink}}-1.jpg)
-
-**Image**
-
-*Photo: [Name](index) / [Source](index)*
+*Photo: [Andrei Dei](deinichenko-andrei) / [Eta (fellowship)](eta-fellowship)*
 
 # See also
 
-+ [About {{page.title}}](index)
-+ [{{page.title}} at Wikipedia](index)
++ [Eta (fellowship)](eta-fellowship)
++ [Eta (fellowship)](eta-fellowship)
++ [Rooftop Gallery](rooftop-gallery)
 
-![](/encyclopedia/images/{{page.permalink}}-2.jpg)
-
-**Image**
-
-*Photo: [Name](index) / [Source](index)*
 
 # Footnotes
 
-[[3]](#a3) <span id="f3"></span> [{{page.title}} (Facebook)](index)
+[[3]](#a3) <span id="f3"></span> [About (Farmani Gallery BKK)](http://www.farmanigallery.com/about.html)
 
-[[4]](#a4) <span id="f4"></span> [{{page.title}} (Instagram)](index)
-
-[[5]](#a5) <span id="f5"></span> [{{page.title}} (YouTube)](index)
