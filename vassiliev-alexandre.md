@@ -4,9 +4,7 @@ permalink: vassiliev-alexandre
 layout: default
 ---
 
-# Vassiliev, Alexandre
-
-(Est. 2013, city) is a subject, description-one Alexandre Vassiliev (Rus. Александр Васильев) born 1958, Moscow—internationally renowned1 theater artist, interior designer, art and fashion historian, author of books and articles, lecturer, TV presenter, an honorary member of the Russian Academy of Arts, the founder of the international interior design award “Lily of Alexandre Vassiliev” <span id="a1">[\[1\]](#f1)</span>, description-two <span id="a2">[\[2\]](#f2)</span> description-three <span id="a3">[\[3\]](#f3)</span>, extra text. [Edit this page](http://prose.io/#indexmod/encyclopedia/edit/master/vassiliev-alexandre.md)
+(Est. 2013, city) is a subject, description-one Alexandre Vassiliev (Rus. Александр Васильев) born 1958, Moscow—internationally renowned1 theater artist, interior designer, art and fashion historian, author of books and articles, lecturer, TV presenter, an honorary member of the Russian Academy of Arts, the founder of the international interior design award “Lily of Alexandre Vassiliev” <span id="a1">[\[1\]](#f1)</span>. 
 
 ![](/encyclopedia/images/image-name.jpg)
 

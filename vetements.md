@@ -5,8 +5,6 @@ layout: default
 published: true
 ---
 
-# {{page.title}}
-
 (Est. 2014, Paris) is a fashion brand based on the idea of urban cultures, the internet, everyday life on the streets and a modern wardrobe without seasonal themes <span id="a1">[\[1\]](#f1)</span>, founded by Demna Gvasalia.
 
 ![](/encyclopedia/images/image-name.jpg)

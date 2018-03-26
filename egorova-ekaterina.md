@@ -4,8 +4,6 @@ permalink: egorova-ekaterina
 layout: default
 ---
 
-# {{page.title}}
-
 (Rus. Егорова Екатерина, born 1988, city) Russian designer, CEO of Radost Creative Group living and working in Moscow <span id="a1">[\[1\]](#f1)</span>.
 
 ![](/encyclopedia/images/image-name.jpg)
@@ -51,5 +49,3 @@ Photo: MFW / Atelier Radost’ Press Archive
 [[4]](#a4) <span id="f4"></span> [{{page.title}} (Instagram)](index)
 
 [[5]](#a5) <span id="f5"></span> [{{page.title}} (YouTube)](index)
-
-`Updated Mar. 2018 (Andrei Dei)`

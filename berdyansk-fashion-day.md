@@ -1,9 +1,10 @@
 ---
 title: Berdyansk Fashion Day
 permalink: berdyansk-fashion-day
-layout: social
+layout: default
 published: true
 ---
+
 (Est. 2016, Berdyansk) is a fashion event in Azov Sea resort founded by Gayane Vardikyan, with Berdyansk's city hall support <span id="a1">[\[1\]](#f1)</span>.
 
 ![](http://beautiful-lady.com.ua/images/news/2017/05/gajaneGurgen.jpg)

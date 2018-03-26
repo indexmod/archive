@@ -4,11 +4,7 @@ permalink: dover-street-market
 layout: default
 ---
 
-# {{page.title}}
-
-(Est. 2000, London)
-
-Dover Street Market est. 2000s, London —is a multilevel fashion retail and concept stores brand created by Rei Kawakubo of Japanese fashion label Comme des Garçons, with flagship store located in Dover Street, Mayfair, London and other stores in Tokyo, NYC and Beijing.
+(Est. 2000, London) Dover Street Market est. 2000s, London —is a multilevel fashion retail and concept stores brand created by Rei Kawakubo of Japanese fashion label Comme des Garçons, with flagship store located in Dover Street, Mayfair, London and other stores in Tokyo, NYC and Beijing.
 
 <span id="a1">[\[1\]](#f1)</span>.
 
@@ -26,10 +22,14 @@ In May 1950, the buildings at 17-18 Dover Street became the home of the newly fo
 
 # {{page.title}} Indexmod
 
-|Year|Facebook|Instagram|YouTube|Age|IMD|
-|-|-|-|-|-|
-|2018|100 <span id="a3">[\[3\]](#f3)</span>|200 <span id="a4">[\[4\]](#f4)</span>|300 <span id="a4">[\[4\]](#f4)</span>|12|0,0025|
-
+||2018|2019|
+|-|-|-|
+|Facebook <span id="a3">[\[3\]](#f3)</span>|000||
+|Instagram <span id="a4">[\[4\]](#f4)</span>|000||
+|YouTube <span id="a5">[\[5\]](#f5)</span>|000||
+|Age|000|000|
+|Page Value|{{ page.content | number_of_words }}||
+|Indexmod|0,0000||
 
 # See also
 
@@ -49,5 +49,3 @@ Vadim Yasnogorodsky
 [[4]](#a4) <span id="f4"></span> [{{page.title}} (Instagram)](index)
 
 [[5]](#a5) <span id="f5"></span> [{{page.title}} (YouTube)](index)
-
-`Updated Mar. 2018 (Andrei Dei)`

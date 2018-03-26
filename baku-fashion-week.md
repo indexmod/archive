@@ -4,20 +4,37 @@ permalink: baku-fashion-week
 layout: default
 ---
 
-# Baku Fashion Week
+(Est. 2013, city) is a --------- <span id="a1">[\[1\]](#f1)</span>.
 
- (Az. Baki Moda Heftesi, est. 2014) an international professional event in Azerbaijan focused on the popularization of fashion designers working on prêt-a-porter and prêt-a-porterdeluxe in Baku. The first season BFW was held in Baku in autumn 2014 with creative partnership of Arab Fashion Week Dubai, Belarus Fashion Week, Odessa Fashion Week, Serbia Fashion Week.
+![](/encyclopedia/images/{{page.permalink}}.jpg)
 
-![](http://sputnik.az/images/40516/15/405161520.jpg)
+**Image title**
 
-**Baku Sea Terminal interior while opening of Baku Fashion Week 2016**
+*Photo: [Name](index) / [Source](index)*
 
-*Photo: [Murad Orujov](orujov-murad) / [Sputnik](www.sputnik.az)*
+# {{page.title}} Conspectus
+
+|Year|City|
+|-|-|
+|2017|Moscow|
+
+# {{page.title}} Indexmod
+
+|Year|Facebook|Instagram|YouTube|Age|Indexmod|Total|
+|-|-|-|-|-|-|
+|2018|000 <span id="a3">[\[3\]](#f3)</span>|000 <span id="a4">[\[4\]](#f4)</span>|000 <span id="a5">[\[5\]](#f5)</span>|00|{{ page.content | number_of_words }}|0,0000|
 
 # See also
 
-- [Raare Fashion Days](raare-fashion-days)
-- [Azerbaijan Fashion Week](azerbaijan-fashion-week)
-- [Baku](baku)
++ [About {{page.title}}](index)
++ [{{page.title}} at Wikipedia](index)
+
+# Footnotes
+
+[[3]](#a3) <span id="f3"></span> [{{page.title}} (Facebook)](index)
+
+[[4]](#a4) <span id="f4"></span> [{{page.title}} (Instagram)](index)
+
+[[5]](#a5) <span id="f5"></span> [{{page.title}} (YouTube)](index)
 
 `Updated Mar. 2018 (Andrei Dei)`

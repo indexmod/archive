@@ -4,11 +4,7 @@ permalink: fedotov-alexander
 layout: default
 ---
 
-# {{page.title}}
-
-(Est. 2013, city)
-
-Alexander Fedotov (Rus. Александр Федотов)—a Russian, publisher, a president Artcom Media Group and same name publishing house in Moscow, launched the magazine Numéro magazine and restarted SNC <span id="a1">[\[1\]](#f1)</span>.
+(Est. 2013, city) Alexander Fedotov (Rus. Александр Федотов)—a Russian, publisher, a president Artcom Media Group and same name publishing house in Moscow, launched the magazine Numéro magazine and restarted SNC <span id="a1">[\[1\]](#f1)</span>.
 
 ![](/encyclopedia/images/image-name.jpg)
 
@@ -52,5 +48,3 @@ Photo: Artcom Media / Bloginvoga
 [[4]](#a4) <span id="f4"></span> [{{page.title}} (Instagram)](index)
 
 [[5]](#a5) <span id="f5"></span> [{{page.title}} (YouTube)](index)
-
-`Updated Mar. 2018 (Andrei Dei)`

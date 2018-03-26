@@ -5,8 +5,6 @@ layout: default
 published: true
 ---
 
-# Antimuseum II
-
 (Rus. Антимузей, часть 2) is a second part of the exhibition project by Electromuseum in March of 2016.
 
 # Artists

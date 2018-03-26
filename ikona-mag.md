@@ -4,8 +4,6 @@ permalink: ikona-mag
 layout: default
 ---
 
-# {{page.title}}
-
 (Est. 2013, city)
 
 Ikona Mag (IKONA mag) est. 2013 Izhevsk—online edition about young creative people <span id="a1">[\[1\]](#f1)</span>.

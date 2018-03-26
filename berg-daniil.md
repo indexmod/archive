@@ -5,12 +5,7 @@ position:
 layout: default
 ---
 
-# Berg, Daniil
-
-(Est. 2013, city) is a subject, description-one <span id="a1">[\[1\]](#f1)</span>, description-two
-
-
-Daniil Berg, Danila Gorbachenko 8 SNC (Rus. Даня, Даниил Берг, Данила Горбаченко) born, 1970, Baikonur, is a Russian stylist, a speaker on the national forum in the sphere of fashion1, store windows decorator, buyer, a former creative director of TsUM, working and living in Moscow. Login to edit Daniil Berg
+(Est. 2013, city) is a subject, description-one <span id="a1">[\[1\]](#f1)</span>, description-two Daniil Berg, Danila Gorbachenko 8 SNC (Rus. Даня, Даниил Берг, Данила Горбаченко) born, 1970, Baikonur, is a Russian stylist, a speaker on the national forum in the sphere of fashion1, store windows decorator, buyer, a former creative director of TsUM, working and living in Moscow. Login to edit Daniil Berg
 
 
 

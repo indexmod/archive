@@ -5,7 +5,6 @@ position:
 layout: default
 ---
 
-# Webster, Will (photographer)
 
 (Est. 2013, city) Will Webster (Rus. Уилл Вебстер) born 1973, Cambridge—is an artist “whose practice reflects upon structures of knowledge and their spatial expression, informed by a period of ten years working as a photographer of spaces and locations, an experience that seeded inquiry into the human appetite for two, three and four-dimensional representations” <span id="a1">[\[1\]](#f1)</span>, description-two <span id="a2">[\[2\]](#f2)</span> description-3 <span id="a3">[\[3\]](#f3)</span>, extra text. [Edit this page](http://prose.io/#indexmod/encyclopedia/edit/master/webster-will-photographer.md)
 

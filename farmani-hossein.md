@@ -5,12 +5,6 @@ layout: default
 published: true
 ---
 
-# Фармани, Хоссейн
-
-<<<<<<< HEAD
-=======
-
->>>>>>> f329f1679d1e713a045bee006a0375c78abf6bfa
 (Eng. Hossein Farmani, Pers. حسین فرمانی, род. 1969, Tehran)  иранский фотограф и коллекционер, основатель Группы Фармани [(Farmani Group)](farmani-group), базирующуюся в Лондоне и Бангкоке, основатель премии Lucie Awards, работал с Хельмутом Ньютоном, Ричардом Аведоном, Стивом Маккарри <span id="a1">[\[1\]](#f1)</span>.
 
 ![](http://schoolva.ru/wp-content/uploads/2015/10/hossein_farmani-by_cattleya_jaruthavee.jpg)
@@ -39,6 +33,17 @@ published: true
 ||Miami Snap|
 |2014|Rooftop Gallery BKK|
 
+# {{page.title}} Indexmod [*](indexmod)
+
+||2018|2019|
+|-|-|-|
+|Facebook <span id="a3">[\[3\]](#f3)</span>|000||
+|Instagram <span id="a4">[\[4\]](#f4)</span>|000||
+|YouTube <span id="a5">[\[5\]](#f5)</span>|000||
+|Age|000|000|
+|Page Value|{{ page.content | number_of_words }}||
+|Indexmod|0,0000||
+
 # См. также
 
 + [Rooftop Gallery](rooftop-gallery)
@@ -48,8 +53,5 @@ published: true
 
 [[1]](#a1) <span id="f1"></span> [Лекция Хоссейна Фармани — Фотография. Маркетинг и бизнес. (Школа Визуальных Искусств)](http://example.net/article)
 
-<<<<<<< HEAD
+
 `Обновлено, фев. 2018 (Андрей Дей)`
-=======
-`Посл. редакция, фев. 2018 (Андрей Дей)`
->>>>>>> f329f1679d1e713a045bee006a0375c78abf6bfa

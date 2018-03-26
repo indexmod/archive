@@ -1,12 +1,13 @@
 ---
-title: Pepperstein, Pavel
+title: 'Pepperstein, Pavel'
 permalink: pepperstein-pavel
 layout: default
+published: true
 ---
 
-# {{page.title}}
 
-(Est. 2013, city) is a Pavel Pepperstein (Rus. Павел Пепперштейн) born 1966, Moscow, is a Russian artist and writer, critic, art theorist, one of the founders of the art group “Inspection “Medical Hermeneutics”1, a Kandinsky Prize winner, a member of the Venice Biennale, “master of modern art” the work of whom collectors are chasing all over the world2. Sign in to edit Pavel Pepperstein <span id="a1">[\[1\]](#f1)</span>.
+
+(Rus. Павел Пепперштейн, born 1966, Moscow) is a Russian artist and writer, critic, art theorist, one of the founders of the art group “Inspection “Medical Hermeneutics” <span id="a1">[\[1\]](#f1)</span>, a Kandinsky Prize winner, a member of the Venice Biennale, “master of modern art” the work of whom collectors are chasing all over the world2. Sign in to edit Pavel Pepperstein.
 
 ![](/encyclopedia/images/image-name.jpg)
 
@@ -15,7 +16,8 @@ layout: default
 *Photo: [Name](index) / [Source](index)*
 
 # {{page.title}} Bio
-Pepperstein  is a son of Irina Pivovarova—an author of children’s books and Viktor Pivovarov—a known painter. From 1985 to 1987, he studied at The Academy of Fine Arts in Prague. In 1987, he co-founded the experimental group of artists called Inspection Medical Hermeneutics (P.Pepperstein, S. Anufriev, Y. Liederman, Vladimir Fedorov). The ideology of Medical Hermeneutics was the fusion of incompatible descriptive language, from contemporary western philosophy and Orthodox theology, Daoism, and Buddhism to the language of psychiatry and pharmacology, which created a completely unique manner of expression.
+
+Pepperstein  is a son of Irina Pivovarova—an author of children’s books and Viktor Pivovarov—a known painter. From 1985 to 1987, he studied at The Academy of Fine Arts in Prague. In 1987, he co-founded the experimental group of artists called Inspection Medical Hermeneutics (P. Pepperstein, S. Anufriev, Y. Liederman, Vladimir Fedorov). The ideology of Medical Hermeneutics was the fusion of incompatible descriptive language, from contemporary western philosophy and Orthodox theology, Daoism, and Buddhism to the language of psychiatry and pharmacology, which created a completely unique manner of expression.
 
 Since 1989 Pepperstein has been an independent artist, writer, critic, art theorist and rap musician. His work is a continuation of the tradition started by the Moscow Conceptual School. During 1994, he was Visiting Professor at the Städelschule in Frankfurt, Germany.
 

@@ -5,8 +5,6 @@ position:
 layout: default
 ---
 
-# Artyomov, Andrey
-
 (Est. 2013, city) Andrey Artyomov (Rus. Андрей Артёмов) born 1977, Ufa, is a Russian stylist and fashion designer founder of the Walk of Shame brand working and living in Moscow <span id="a1">[\[1\]](#f1)</span>, description-two <span id="a2">[\[2\]](#f2)</span> description-3 <span id="a3">[\[3\]](#f3)</span>, extra text.
 
 ![](/images/image-name.jpg)

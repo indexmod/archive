@@ -4,6 +4,7 @@ permalink: adjara-fashion-week
 layout: default
 published: true
 ---
+
 (Est. 2015, Batumi) is fashion event in Georgia held in Batumi Palm Apartment.
 
 ![](http://ajaratv.ge/files/photos/Sainformacio/V-ACHARA%20FESHEN%20VIKI%20%20CHRA%203.xmp.mpg_20170724_180654.690.jpg)

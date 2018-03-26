@@ -4,7 +4,6 @@ permalink: eykhbaum-cecilia
 layout: default
 ---
 
-# {{page.title}}
 
 (Rus. Татьяна Шапигузова, born 1988, USSR) aka Peggy Guggenheim, Satanusha, Shapiguzova Tatiana is a Russian model, DJ, founder of Moscow Institute of Kosmic Anomaly living and working in Moscow <span id="a1">[\[1\]](#f1)</span>.
 
@@ -44,5 +43,3 @@ layout: default
 [[4]](#a4) <span id="f4"></span> [{{page.title}} (Instagram)](index)
 
 [[5]](#a5) <span id="f5"></span> [{{page.title}} (YouTube)](index)
-
-`Updated Mar. 2018 (Andrei Dei)`

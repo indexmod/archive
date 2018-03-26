@@ -4,11 +4,8 @@ permalink: elagin-oleg
 layout: default
 ---
 
-# {{page.title}}
 
-(Est. 2013, city)
-
-Oleg Elagin (Rus. Олег Елагин) born 1982, Samara—is an Media artist, musician, graduated from the Samara State Communication Academy (2004), Independent School of Contemporary Art (2006), The art grant on training in Germany (Stuttgarter kunstverein e.v., Stuttgart. Germany) (2014).
+(Est. 2013, city) Oleg Elagin (Rus. Олег Елагин) born 1982, Samara—is an Media artist, musician, graduated from the Samara State Communication Academy (2004), Independent School of Contemporary Art (2006), The art grant on training in Germany (Stuttgarter kunstverein e.v., Stuttgart. Germany) (2014).
 
 <span id="a1">[\[1\]](#f1)</span>.
 
@@ -87,5 +84,3 @@ The first ice Biennale «Ice, Samara
 [[4]](#a4) <span id="f4"></span> [{{page.title}} (Instagram)](index)
 
 [[5]](#a5) <span id="f5"></span> [{{page.title}} (YouTube)](index)
-
-`Updated Mar. 2018 (Andrei Dei)`

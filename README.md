@@ -5,31 +5,40 @@ is wiki with the beautiful syntax, Prose admin that hosted on GitHub
 
 # This is page template
 
-(Est. 2013, city) is a subject, description-one <span id="a1">[\[1\]](#f1)</span>, description-two <span id="a2">[\[2\]](#f2)</span> description-3 <span id="a3">[\[3\]](#f3)</span>, extra text.
+(Est. 2013, city) is a --- <span id="a1">[\[1\]](#f1)</span>.
 
-![](/images/image-name.jpg)
+![](https://indexmod.github.io/encyclopedia/images/image-name.jpg)
 
-*Image caption<br>
-Photo: [Photographer name](http://example.net/) / [Source name](http://example.net/)*
+**Image**
 
-# Conspectus
+*Photo: [Name](index) / [Source](index)*
+
+# {{page.title}} Conspectus
 
 |Year|City|
-|----|----|
-|2014|Tokyo|
-|2015|Moscow|
-|2017|Kiev|
+|-|-|
+|2017|Moscow|
+
+# {{page.title}} Indexmod [*](indexmod)
+
+||2018|2019|
+|-|-|-|
+|Facebook <span id="a3">[\[3\]](#f3)</span>|000||
+|Instagram <span id="a4">[\[4\]](#f4)</span>|000||
+|YouTube <span id="a5">[\[5\]](#f5)</span>|000||
+|Age|000|000|
+|Page Value|{{ page.content | number_of_words }}||
+|Indexmod|0,0000||
 
 # See also
 
-- [Source name](http://example.net/)
-- [Source name](http://example.net/)
-- [Source name](http://example.net/)
++ [About {{page.title}}](index)
++ [{{page.title}} at Wikipedia](index)
 
 # Footnotes
 
-[[1]](#a1) <span id="f1"></span> [Article name (Author name)](http://example.net/article)
+[[3]](#a3) <span id="f3"></span> [{{page.title}} (Facebook)](index)
 
-[[2]](#a2) <span id="f2"></span> [Article name (Author name)](http://example.net/article)
+[[4]](#a4) <span id="f4"></span> [{{page.title}} (Instagram)](index)
 
-[[3]](#a3) <span id="f3"></span> [Article name (Author name)](http://example.net/article)
+[[5]](#a5) <span id="f5"></span> [{{page.title}} (YouTube)](index)

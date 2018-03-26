@@ -4,8 +4,6 @@ permalink: buyer-magazine
 layout: default
 ---
 
-# Buyer (magazine)
-
 (Est. 2013, city)(Rus. Байер) est. 2016, Moscow, is a professional magazine for international fashion buyers, created with support of Via Del Buyer and Russian Buyers Union (Союз русских баеров) for the needs and interests of buyers, features wholesale industry news, trend reports and interviews with buying and retail experts. Three main sections, Designers, Strategies and Events including articles about leading fashion houses, emerging designers and commercial ‘collections to watch’ for buyers, trends which will characterise fashion in upcoming seasons, innovation in buying, advanced retail marketing, development and sales strategies, interviews with trendsetters and market experts, opinions and success stories, calendars and reviews for the main professional events around the world as fashion weeks and fairs with e.ditorial located in Milan, Italy and distributed aAt the fashion fairs in Europe and around the world, delivered directly to buyers registered at Via Del Buyer, delivered directly to buyers, members of Russian Buyers Union, in selected multi-brand showrooms of Milan, Paris and London <span id="a1">[\[1\]](#f1)</span>, description-two <span id="a2">[\[2\]](#f2)</span> description-3 <span id="a3">[\[3\]](#f3)</span>, extra text.
 
 ![](/images/image-name.jpg)

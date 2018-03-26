@@ -2,9 +2,8 @@
 title: Empire of the sun (brand)
 permalink: empire-of-the-sun-brand
 layout: default
+published: true
 ---
-
-# {{page.title}}
 
 (Shorten: EMP.OS, est. 2012, Ubud) is a yoga and sportswear brand created by designer Tatiana Mamedova <span id="a1">[\[1\]](#f1)</span>.
 
@@ -42,5 +41,3 @@ layout: default
 [[4]](#a4) <span id="f4"></span> [{{page.title}} (Instagram)](index)
 
 [[5]](#a5) <span id="f5"></span> [{{page.title}} (YouTube)](index)
-
-`Updated Mar. 2018 (Andrei Dei)`

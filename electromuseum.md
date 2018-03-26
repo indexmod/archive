@@ -4,8 +4,6 @@ permalink: electromuseum
 layout: default
 ---
 
-# {{page.title}}
-
 (Rus. Электромузей) est. 2015, Moscoqw) exhibition space focused on media art in Moscow established in “Rostokino” by “Vystavochnie Zaly Moskvy”.
 
 <span id="a1">[\[1\]](#f1)</span>.
@@ -17,13 +15,16 @@ Promo image of the “Gif-gif-gaf”—an offline gif-art exhibition
 Photo: Zack Dougherty (Hateplow) / Electromuseum
 *Photo: [Name](index) / [Source](index)*
 
-# {{page.title}} Conspectus
+# {{page.title}} Indexmod [*](indexmod)
 
-|Year|City|
-|-|-|
-|2014|Tokyo|
-|2017|Paris|
-
+||2018|2019|
+|-|-|-|
+|Facebook <span id="a3">[\[3\]](#f3)</span>|000||
+|Instagram <span id="a4">[\[4\]](#f4)</span>|000||
+|YouTube <span id="a5">[\[5\]](#f5)</span>|000||
+|Age|000|000|
+|Page Value|{{ page.content | number_of_words }}||
+|Indexmod|0,0000||
 # {{page.title}} Selected exhibitions
 
  + 2015  Gif-gif-gaf  Anna Titovets
@@ -36,7 +37,7 @@ Photo: Zack Dougherty (Hateplow) / Electromuseum
 + 4S4R
 + Antimuseum
 + Alexei Platonov
-+ Mikhail Sachkov 
++ Mikhail Sachkov
 
 # Footnotes
 
@@ -45,5 +46,3 @@ Photo: Zack Dougherty (Hateplow) / Electromuseum
 [[4]](#a4) <span id="f4"></span> [{{page.title}} (Instagram)](index)
 
 [[5]](#a5) <span id="f5"></span> [{{page.title}} (YouTube)](index)
-
-`Updated Mar. 2018 (Andrei Dei)`

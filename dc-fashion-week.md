@@ -4,11 +4,7 @@ permalink: dc-fashion-week
 layout: default
 ---
 
-# {{page.title}}
-
-(Est. 2013, city)
-
-DC Fashion Week (DCFW) est. in 2013, Washington—is a not-profit corporation organized for charitable and educational purposes, providing free consulting services and business development assistance in the areas of fashion design, clothing merchandising and modeling to new or underprivileged fashion designers in the District of Columbia who wish to enter the fashion apparel industry; providing scholarships and tuition assistance to underprivileged students wishing to attend accredited fashion programs; and providing education regarding fashion show production.
+(Est. 2013, city) DC Fashion Week (DCFW) est. in 2013, Washington—is a not-profit corporation organized for charitable and educational purposes, providing free consulting services and business development assistance in the areas of fashion design, clothing merchandising and modeling to new or underprivileged fashion designers in the District of Columbia who wish to enter the fashion apparel industry; providing scholarships and tuition assistance to underprivileged students wishing to attend accredited fashion programs; and providing education regarding fashion show production.
 
 <span id="a1">[\[1\]](#f1)</span>.
 
@@ -48,5 +44,3 @@ DC Fashion Week is held twice a year during the months of February & September.
 [[4]](#a4) <span id="f4"></span> [{{page.title}} (Instagram)](index)
 
 [[5]](#a5) <span id="f5"></span> [{{page.title}} (YouTube)](index)
-
-`Updated Mar. 2018 (Andrei Dei)`

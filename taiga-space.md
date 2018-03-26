@@ -4,11 +4,7 @@ permalink: taiga-space
 layout: default
 ---
 
-# {{page.title}}
-
-(Est. 2013, city)
-
-Taiga Space (Org. Тайга Space, est. 2013, Moscow) is a store with a laconic interior in black and white created in collaboration with Res Depot, thirteen square meters without windows located on the second floor on the street the Kuznetsky Bridge founded by Anastasiya Zelenkova. See also: Anastasiya Taiga, Taiga (jewelry), Res Depot.  
+(Est. 2013, city) Taiga Space (Org. Тайга Space, est. 2013, Moscow) is a store with a laconic interior in black and white created in collaboration with Res Depot, thirteen square meters without windows located on the second floor on the street the Kuznetsky Bridge founded by Anastasiya Zelenkova. See also: Anastasiya Taiga, Taiga (jewelry), Res Depot.  
 
 <span id="a1">[\[1\]](#f1)</span>.
 

@@ -5,20 +5,15 @@ layout: default
 published: true
 ---
 
-# {{page.title}}
-
 (Est. 2013, city) is a --------- <span id="a1">[\[1\]](#f1)</span>.
 
-![](/encyclopedia/images/image-name.jpg)
+![](/encyclopedia/images/{{page.permalink}}.jpg)
 
 **Image title**
 
 *Photo: [Name](index) / [Source](index)*
 
-# {{page.title}} Expositions
-Biorobots (2014), Antimuseum
-Dancing in St. Petersburg (2015),  Antimuseum
-La Primavera, Spring, Весна (2014), Antimuseum
+# {{page.title}} Conspectus
 
 |Year|City|
 |-|-|
@@ -26,10 +21,14 @@ La Primavera, Spring, Весна (2014), Antimuseum
 
 # {{page.title}} Indexmod
 
-|Year|Facebook|Instagram|YouTube|Age|Indexmod|
-|-|-|-|-|-|
-|2018|000 <span id="a3">[\[3\]](#f3)</span>|000 <span id="a4">[\[4\]](#f4)</span>|000 <span id="a5">[\[5\]](#f5)</span>|00|0,0000|
-
+||2018|2019|
+|-|-|-|
+|Facebook <span id="a3">[\[3\]](#f3)</span>|000|000|
+|Instagram <span id="a4">[\[4\]](#f4)</span>|000|000|
+|YouTube <span id="a5">[\[5\]](#f5)</span>|000|000|
+|Age|000|000|
+|Indexmod|{{ page.content | number_of_words }}||
+|Total|0,0000|0,0000|
 
 # See also
 

@@ -5,9 +5,6 @@ layout: default
 published: true
 ---
 
-# Deinichenko, Andrei
-
-
 (Rus. Андрей Дейниченко, Dei, born 1971, Aksai) Russian journalist founder of Indexmod, multimedia artist, actor, visioner at the Eta fellowship, <span id="a1">[\[1\]](#f1)</span>, layout and prints designer <span id="a2">[\[2\]](#f2)</span>.
 
 ![](https://www.ljplus.ru/img4/d/o/donor_darom/deynichenko.jpg)
@@ -38,7 +35,16 @@ I became a journalist, it being happened, I worked for several years as a Fashio
 
 Andrei has worked with scientists at the “Science for Life Extension”, trained as a cameraman at the website of PostNauka (PostScience). In my creative plan is a series of works in the genre of installation videos to a new audience expand before questions concerning the archaic views of society on the Death and Dying, as well as a new scientific paradigm of life extension and not dying.
 
-# Deinichenko Indexmod
+# {{page.title}} Indexmod
+
+||2018|2019|
+|-|-|-|
+|Facebook <span id="a3">[\[3\]](#f3)</span>|000||
+|Instagram <span id="a4">[\[4\]](#f4)</span>|000||
+|YouTube <span id="a5">[\[5\]](#f5)</span>|000||
+|Age|000|000|
+|Page Value|{{ page.content | number_of_words }}||
+|Indexmod|0,0000||
 
 |Year|Facebook|Instagram|YouTube|Age|DEI|
 |-|-|-|-|-|-|
@@ -77,6 +83,3 @@ Andrei has worked with scientists at the “Science for Life Extension”, train
 https://www.youtube.com/channel/UC2AP3VC8Nc_lD6JBc0VVv4g/about?disable_polymer=1
 
 [[5, 6, 7, 8]](#a5) <span id="f5"></span> [Andrei Deinichenko (IMDB)](http://www.imdb.com/name/nm6826609/)
-
-
-`Updated Mar. 2018 (Andrei Dei)`

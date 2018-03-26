@@ -4,8 +4,6 @@ permalink: tarakanova-ludmila-designer
 layout: default
 ---
 
-# Tarakanova, Ludmila (designer)
-
 (Bel. Людміла Тараканава) Belarusian designer, founder of ready-to-wear brand Tarakanova <span id="a1">[\[1\]](#f1)</span>.
 
 ![](/encyclopedia/images/image-name.jpg)

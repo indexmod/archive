@@ -4,8 +4,6 @@ permalink: v-a-c-foundation
 layout: default
 ---
 
-# V-A-C Foundation
-
 (Rus. Фонд «Виктория—искусство быть современным», est. 2009, Moscow) founded and headed by Leonid Mikhelson <span id="a1">[\[1\]](#f1)</span>, and dedicated to the international presentation, production and development of Russian contemporary art, focusing on supporting and expanding the platform for home-grown talent, giving artists the opportunity to experience, engage with and interrogate international cultural practices whilst developing an authentic and autonomous artistic language <span id="a2">[\[2\]](#f2)</span>.
 
 ![](/encyclopedia/images/vac.jpg)

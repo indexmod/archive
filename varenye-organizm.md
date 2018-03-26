@@ -4,44 +4,44 @@ permalink: varenye-organizm
 layout: default
 ---
 
-# Varenye Organizm
+(Rus. Варенъйе Организм, est. 2012, Moscow) a collaboration of artists, designers, dreamers, who are doing interactive art, huge social toys and fashion, promoting a new abstract lifestyle with a mission to help human species to evolve and reach new borders of consciousness through games and weird behaviour <span id="a1">[\[1\]](#f1)</span>.
 
-(Est. 2013, city) is a subject, description-one <span id="a1">[\[1\]](#f1)</span>, description-two
+(Est. 2013, city) is a --------- <span id="a1">[\[1\]](#f1)</span>.
 
-Varenye Organizm (Rus. Варенъйе Организм) est. 2012, Moscow—a collaboration of artists, designers, dreamers, who are doing interactive art, huge social toys and fashion, promoting a new abstract lifestyle with a mission to help human species to evolve and reach new borders of consciousness through games and weird behaviour.1 Sign in to edit Varenye Organizm
+![](/encyclopedia/images/{{page.permalink}}.jpg)
 
-<span id="a2">[\[2\]](#f2)</span> description-three <span id="a3">[\[3\]](#f3)</span>, extra text.
+**Image title**
 
-![](/encyclopedia/images/image-name.jpg)
+*Photo: [Name](index) / [Source](index)*
 
-**Image caption title**
+# {{page.title}} Conspectus
 
-*Photo: [Photographer name](/photographer-name-page) / [Source name](/source-name-page)*
+|Year|City|
+|-|-|
+|2017|Moscow|
 
+# {{page.title}} Indexmod
 
-# Selected works
-
-+ Curiosity Index (2014)	 Antimuseum
-
-Group of Vranie Organizm
-Photo: author unknown / Varenye
-Rules Inscription
-Varenye Organizm's full face uses uppercase letters VARENYE ORGANIZM and Russian inscription are in Cyrillic alphabet ВАРЕНЪЙЕ ОРГАНИЗМ.
-See also
-Antimuseum
-Electromuseum
-Dmitry Bulnygin
+||2018|2019|
+|-|-|-|
+|Facebook <span id="a3">[\[3\]](#f3)</span>|000|000|
+|Instagram <span id="a4">[\[4\]](#f4)</span>|000|000|
+|YouTube <span id="a5">[\[5\]](#f5)</span>|000|000|
+|Age|000|000|
+|Indexmod|{{ page.content | number_of_words }}||
+|Total|0,0000|0,0000|
 
 # See also
 
-+ [See also title one](page-template)
-+ [See also title two](page-template)
-+ [See also title three](page-template)
++ [About {{page.title}}](index)
++ [{{page.title}} at Wikipedia](index)
 
 # Footnotes
 
-[[1]](#a1) <span id="f1"></span> [Article name short (Author name)](http://example.net/article)
+[[3]](#a3) <span id="f3"></span> [{{page.title}} (Facebook)](index)
 
-[[2]](#a2) <span id="f2"></span> [Article name little longer (Author name longer)](http://example.net/article)
+[[4]](#a4) <span id="f4"></span> [{{page.title}} (Instagram)](index)
 
-[[3]](#a3) <span id="f3"></span> [Article name longer so far (Author name too long and much longer)](http://example.net/article)
+[[5]](#a5) <span id="f5"></span> [{{page.title}} (YouTube)](index)
+
+`Updated Mar. 2018 (Andrei Dei)`

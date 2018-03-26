@@ -4,13 +4,7 @@ permalink: temen-protey
 layout: default
 ---
 
-# {{page.title}}
-
-(Est. 2013, city)
-
-Protey Temen (Rus. Протей Темен) born 1984, Moscow—a Russian artist, designer, art director at Zunge Design studio. Engaged in the design and original graphics, lives and works in Moscow.
-
-<span id="a1">[\[1\]](#f1)</span>.
+(Est. 2013, city) Protey Temen (Rus. Протей Темен) born 1984, Moscow—a Russian artist, designer, art director at Zunge Design studio. Engaged in the design and original graphics, lives and works in Moscow <span id="a1">[\[1\]](#f1)</span>.
 
 ![](/encyclopedia/images/image-name.jpg)
 

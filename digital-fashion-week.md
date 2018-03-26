@@ -4,11 +4,7 @@ permalink: page-template
 layout: default
 ---
 
-# {{page.title}}
-
-(Est. 2012, Bangkok)
-
-Digital Fashion Week (DFW), est. 2012—is the world’s first shoppable live streamed fashion week where viewers can make instant purchases on the runway, is a platform for modern, current and lifestyle-forward brands, held in collaboration with British Council and DFW Creative in Singapore and Siam Paragon Group in Bangkok, the only fashion event that promotes the best young fashion designers through events and digital platforms in Asia.
+(Est. 2012, Bangkok) Digital Fashion Week (DFW), est. 2012—is the world’s first shoppable live streamed fashion week where viewers can make instant purchases on the runway, is a platform for modern, current and lifestyle-forward brands, held in collaboration with British Council and DFW Creative in Singapore and Siam Paragon Group in Bangkok, the only fashion event that promotes the best young fashion designers through events and digital platforms in Asia.
 
 <span id="a1">[\[1\]](#f1)</span>.
 
@@ -50,5 +46,3 @@ Singapore
 [[4]](#a4) <span id="f4"></span> [{{page.title}} (Instagram)](index)
 
 [[5]](#a5) <span id="f5"></span> [{{page.title}} (YouTube)](index)
-
-`Updated Mar. 2018 (Andrei Dei)`

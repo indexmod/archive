@@ -4,13 +4,8 @@ permalink: transatlantique-gallery
 layout: default
 ---
 
-# {{page.title}}
 
-(Est. 2013, city)
-
-Transatlantique (Rus. Трансатлантик) est. 2008, Moscow—is a showroom, store and gallery at Winzavod Contemporary Art Center at 4th Syromyatnichesky pereulok founded and owned by Daria Antseva who's activity is promoting, collecting, restoring and selling pieces of European decorative arts of the 1920-40s with a special focus on Art Deco in collaborating with the most prominent experts in between-the-wars art both from Russia and the World.
-
-<span id="a1">[\[1\]](#f1)</span>.
+(Est. 2013, city) Transatlantique (Rus. Трансатлантик) est. 2008, Moscow—is a showroom, store and gallery at Winzavod Contemporary Art Center at 4th Syromyatnichesky pereulok founded and owned by Daria Antseva who's activity is promoting, collecting, restoring and selling pieces of European decorative arts of the 1920-40s with a special focus on Art Deco in collaborating with the most prominent experts in between-the-wars art both from Russia and the World <span id="a1">[\[1\]](#f1)</span>.
 
 ![](/encyclopedia/images/image-name.jpg)
 

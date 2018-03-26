@@ -1,16 +1,16 @@
 ---
 title: Question → answer
 permalink: qa
-layout: cover
+layout: info
 published: true
 ---
-# Why some articles of Indexmod Encyclopedia non-English?
+# Why are some articles of the encyclopedia non-English?
 
-The Indexmod Encyclopedia data core are articles in English, but you can create pages in any language and kept layout matches the [Template](https://indexmod.github.io/encyclopedia/template).
+The Indexmod Encyclopedia data core are articles in English, but you can create pages in any language matching the [Template](https://indexmod.github.io/encyclopedia/template).
 
-# How can I translate page in Indexmod Encyclopedia?
+# May I translate some page?
 
-Create copy of the page which you want to be translated. Paste [sample of the page](internet-yami-ichi) translated into simplified Russian. 
+Create the copy of the page which you want to be translated. Paste [sample of the page](internet-yami-ichi) translated into simplified Russian. 
 
 Use 
 

@@ -4,9 +4,6 @@ permalink: mmoma
 layout: default
 published: true
 ---
-
-# MMOMA
-
 (Rus. Московский музей современного искусства, est. 1999, Moscow) museum in Russia with activities exclusively on the the 20-th and 21-st centuries founded with the support of the Moscow City Government and Moscow City Department of Culture <span id="a1">[\[1\]](#f1)</span>.
 
 ![](/encyclopedia/images/yard.jpg)

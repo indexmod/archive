@@ -4,11 +4,9 @@ permalink: africa-fashion-week-paris
 layout: default
 published: true
 ---
-# {{page.title}}
+(Est. 2013, city) is a --------- <span id="a1">[\[1\]](#f1)</span>.
 
-(Est. 2013, city) is a subject, description <span id="a1">[\[1\]](#f1)</span> extra text.
-
-![](/encyclopedia/images/image-name.jpg)
+![](/encyclopedia/images/{{page.permalink}}.jpg)
 
 **Image title**
 
@@ -18,20 +16,23 @@ published: true
 
 |Year|City|
 |-|-|
-|2014|Tokyo|
-|2017|Paris|
+|2017|Moscow|
 
 # {{page.title}} Indexmod
 
-|Year|Facebook|Instagram|Age|IMD|
-|-|-|-|-|-|
-|2018|100 <span id="a3">[\[3\]](#f3)</span>|200 <span id="a4">[\[4\]](#f4)</span>|12|0,0025|
-
+||2018|2019|
+|-|-|-|
+|Facebook <span id="a3">[\[3\]](#f3)</span>|000|000|
+|Instagram <span id="a4">[\[4\]](#f4)</span>|000|000|
+|YouTube <span id="a5">[\[5\]](#f5)</span>|000|000|
+|Age|000|000|
+|Indexmod|{{ page.content | number_of_words }}||
+|Total|0,0000|0,0000|
 
 # See also
 
-+ [One](index)
-+ [Two](index)
++ [About {{page.title}}](index)
++ [{{page.title}} at Wikipedia](index)
 
 # Footnotes
 
@@ -39,4 +40,6 @@ published: true
 
 [[4]](#a4) <span id="f4"></span> [{{page.title}} (Instagram)](index)
 
-`Last edit Feb. 2018 (Andrei Dei)`
+[[5]](#a5) <span id="f5"></span> [{{page.title}} (YouTube)](index)
+
+`Updated Mar. 2018 (Andrei Dei)`

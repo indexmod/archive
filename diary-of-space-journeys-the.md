@@ -5,8 +5,6 @@ layout: default
 published: true
 ---
 
-# {{page.title}}
-
 (Rus. Альбом космических путешествий, 2016, Moscow) an art project by Russian artists Anna Kurbatova, Alia Sadretdinova, Veronika Zlobina <span id="a1">[\[1\]](#f1)</span>.
 
 ![](/encyclopedia/images/diary.jpg)
@@ -43,5 +41,3 @@ Veronika Zlobina, Anna Kurbatova and Alia Sadretdinova propose returning the dre
 # Footnotes
 
 [[1]](#a1) <span id="f1"></span> [Лонг-лист проектов / Longlist of the projects (Expanding Space)](http://expandingspace.ru/longlist/)
-
-`Updated Mar. 2018 (Andrei Dei)`

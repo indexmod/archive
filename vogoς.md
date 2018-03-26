@@ -4,8 +4,6 @@ permalink: vogoc
 layout: default
 ---
 
-# {{page.title}}
-
 Vogoς, Vogoς magazine (Rus. Журнал Вогос) est. 2016, Moscow—is a “magazine about glamor and discourse” announced by a group of Moscow contemporary art enthusiasts. Expected release date June 2016. <span id="a1">[\[1\]](#f1)</span> extra text.
 
 ![](/encyclopedia/images/image-name.jpg)

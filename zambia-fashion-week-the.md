@@ -4,43 +4,42 @@ permalink: zambia-fashion-week-the
 layout: default
 ---
 
-# Zambia Fashion Week, The
+(Est. 2013, city) is a --------- <span id="a1">[\[1\]](#f1)</span>.
 
-(Est. 2013, city) is a subject, description-one <span id="a1">[\[1\]](#f1)</span>, description-two <span id="a2">[\[2\]](#f2)</span> description-3 <span id="a3">[\[3\]](#f3)</span>, extra text.
+![](/encyclopedia/images/{{page.permalink}}.jpg)
 
-![](/images/image-name.jpg)
+**Image title**
 
-*Image caption*
+*Photo: [Name](index) / [Source](index)*
 
-*Photo: [Photographer name](http://example.net/) / [Source name](http://example.net/)*
-
-# Conspectus
+# {{page.title}} Conspectus
 
 |Year|City|
-|----|---------|
-|2014|Tokyo|
-|2015|Moscow|
-|2017|Kiev|
+|-|-|
+|2017|Moscow|
 
-# Indexmod
+# {{page.title}} Indexmod
 
-|Year|Facebook|Instagram|Age|IMD|
-|-|-|-|-|-|
-|2018|100000|5000|30|0,25|
-|2019|||31||
+||2018|2019|
+|-|-|-|
+|Facebook <span id="a3">[\[3\]](#f3)</span>|000|000|
+|Instagram <span id="a4">[\[4\]](#f4)</span>|000|000|
+|YouTube <span id="a5">[\[5\]](#f5)</span>|000|000|
+|Age|000|000|
+|Indexmod|{{ page.content | number_of_words }}||
+|Total|0,0000|0,0000|
 
 # See also
 
-- [Source name](http://example.net/)
-- [Source name](http://example.net/)
-- [Source name](http://example.net/)
++ [About {{page.title}}](index)
++ [{{page.title}} at Wikipedia](index)
 
 # Footnotes
 
-[[1]](#a1) <span id="f1"></span> [Article name (Author name)](http://example.net/article)
+[[3]](#a3) <span id="f3"></span> [{{page.title}} (Facebook)](index)
 
-[[2]](#a2) <span id="f2"></span> [Article name (Author name)](http://example.net/article)
+[[4]](#a4) <span id="f4"></span> [{{page.title}} (Instagram)](index)
 
-[[3]](#a3) <span id="f3"></span> [Article name (Author name)](http://example.net/article)
+[[5]](#a5) <span id="f5"></span> [{{page.title}} (YouTube)](index)
 
-`Last update Feb. 2018 by Andrei Dei`
+`Updated Mar. 2018 (Andrei Dei)`

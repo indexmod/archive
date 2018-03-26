@@ -5,8 +5,6 @@ layout: default
 ---
 
 
-# {{page.title}}
-
 (Est. 2013, city) is a Ramil Kurbanov 15 SNC (Rus. Рамиль Курбанов) born, 1962 Kazan—is a Tatarstan businessman, founder of VIP Group, working and living in Kazan.  <span id="a1">[\[1\]](#f1)</span>.
 
 ![](/encyclopedia/images/kurbanov.jpg)

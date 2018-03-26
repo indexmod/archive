@@ -5,11 +5,6 @@ layout: default
 published: true
 ---
 
-
-
-# Galinskaia, Olga
-
-
 (Rus. Ольга Галинская, born 1973, Temirtau) Russian artist of film costume, stylists, image consultant living and working in Moscow.
 
 ![](http://n1s2.hsmedia.ru/57/2e/6e/572e6e8090d11b50b244d80bb2e90130/660x441_1_424da837200d57f9906dee18bf9c3714@785x525_0xc0a839a2_825769041477674984.jpeg)

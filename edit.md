@@ -1,20 +1,19 @@
 ---
 title: How to edit
 permalink: edit
-layout: social
+layout: info
 published: true
 ---
 
+# Link to Editor
 
-# Link the Wiki ⤵︎
-
-Edit any page following **Wiki ⤵︎** link on top of every page, you will be redirected to Prose.io editor. Warning: to save  changes you may need authorize as [GitHub](https://github.com/join) user.
+Edit any page following **Edit** link on top of every page, you will be redirected to Prose.io editor. Warning: to save  changes you may need authorize as [GitHub](https://github.com/join) user.
 
 # Create new page
 
-+ Follow **Wiki ⤵︎**
++ Follow **Edit**
 + Find the `template.md`and copy content
-+ In encyclopedia tab create new file with .md extention 
++ In encyclopedia tab create new file with .md extention
 + Paste content of the template
 + Edit **Page title** and **Permalink** and save new page
 
@@ -132,5 +131,3 @@ Connect some text using short links <span id="a1">[\[1\]](#f1)</span>, <span id=
 # Prose.io editor
 
 Every page may be edited in [Prose.io](www.prose.io) editor using link "Edit the "page name"" at top-left section of each page. To save  changes you may need have an account and be authorized as [GitHub](https://github.com/join) user.
-
-`Updated Mar. 2018 (Andrei Dei)`

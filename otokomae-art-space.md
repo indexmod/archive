@@ -4,9 +4,6 @@ permalink: otokomae-art-space
 layout: default
 published: true
 ---
-
-# {{page.title}}
-
 (Rus. Отокомае, est. 2016, Moscow) is a conceptual, 24/7 open space at Kuznetsky Most in Moscow with beauty and image saloon, design and multimedia production studio, art gallery, cafe and art-boutique hotel <span id="a1">[\[1\]](#f1)</span>.
 
 ![](https://irs1.4sqi.net/img/general/original/3249224_bwiSRLG75iGmi-CxKNwbCGW_wHaZZ-zoe7aJA26qvIY.jpg)

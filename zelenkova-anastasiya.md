@@ -5,10 +5,8 @@ layout: default
 published: true
 ---
 
-# Zelenkova, Anastasiya
-
 (Rus. Анстасия Зеленкова, Тайга, Хозяйка Тайги, born, 1986, Moscow) is a founder of  Taiga jewelry and Taiga Space store, studied computer science in economics, previously co-founder of a branding, web design, printing company and MW course in Moscow. See also: Taiga (jewelry), Taiga Space, MW <span id="a1">[\[1\]](#f1)</span>.
- 
+
 ![](/images/image-name.jpg)
 
 **Anastasiya Zelenkova**

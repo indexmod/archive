@@ -5,8 +5,6 @@ position:
 layout: default
 ---
 
-# Artomat (site)
-
 (Est. 2013, city) Artomat, artomat.pro (Rus. Артомат) re-pres. 2016, Moscow—is a system of automated production of art located as site by Electroboutique and presented at the Internet Yami-Ichi,1 working on algorithms and generates the art in automatic or semi-automatic mode,  the viewer becomes a user-artist, creating works of art <span id="a1">[\[1\]](#f1)</span>, description-two <span id="a2">[\[2\]](#f2)</span> description-3 <span id="a3">[\[3\]](#f3)</span>, extra text.
 
 ![](/images/image-name.jpg)

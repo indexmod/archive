@@ -1,9 +1,10 @@
 ---
 title: Forget Me Not
 permalink: forget-me-not
-layout: social
+layout: default
 published: true
 ---
+
 (Rus. Незабудка, est. 2010) is a Russian unisex clothes brand based in Moscow founded by Artur Lomakin  <span id="a1">[\[1\]](#f1)</span>, collections known with floor-length coats, heavy-knit sweaters and lambskin collars that goes from the "grey anonymity of Moscow's suburbs" <span id="a2">[\[2\]](#f2)</span>, living and working in "the Southern suburb of Chertanovo" <span id="a3">[\[3\]](#f3)</span> in Moscow.
 
 ![](https://static.vogue.ru/iblock/3df/3dfb13364f53e8fed1a38a9c5c772f00.jpg)
@@ -29,7 +30,16 @@ Artur Lomakin is a stylist turned fashion designer. In 2010 he founded Forget Me
 |2010|Moscow|
 |2015|MY|
 
-`* Update request`
+# {{page.title}} Indexmod [*](indexmod)
+
+||2018|2019|
+|-|-|-|
+|Facebook <span id="a3">[\[3\]](#f3)</span>|000||
+|Instagram <span id="a4">[\[4\]](#f4)</span>|000||
+|YouTube <span id="a5">[\[5\]](#f5)</span>|000||
+|Age|000|000|
+|Page Value|{{ page.content | number_of_words }}||
+|Indexmod|0,0000||
 
 # See also
 
@@ -56,5 +66,3 @@ Artur Lomakin is a stylist turned fashion designer. In 2010 he founded Forget Me
 [[3]](#a3) <span id="f3"></span> [The emerging designer making knitwear for Russian winters (Josephine Platt, Hunger)](http://www.hungertv.com/feature/the-emerging-designer-making-knitwear-for-russian-winters/)
 
 [[4]](#a4) <span id="f4"></span> [Defining a Post-Soviet Aesthetic in Fashion (Event of 22 Mar 2017, Institute of Contemporary Arts)](http://www.hungertv.com/feature/the-emerging-designer-making-knitwear-for-russian-winters/)
-
-`Update Mar. 2018 (Andrei Dei)`

@@ -4,9 +4,6 @@ permalink: promenad-8
 layout: default
 published: true
 ---
-
-# {{page.title}}
-
 (Rus. «Променад 8», 2018, Moscow) is a multimedia concert of eight parts created and performed by [Andrei Deinichenko](deinichenko-andrei) to the anniversary of the creation of the fellowship [Eta](eta-fellowship) <span id="a1">[\[1\]](#f1)</span>.
 
 

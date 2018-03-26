@@ -1,9 +1,10 @@
 ---
 title: AES+F
 permalink: aes+f
-layout: social
+layout: default
 published: true
 ---
+
 (Rus. АЕС+Ф, est. 1987, Moscow) is one of the most commercially successful Russian art group formedi by Tatiana Arzamasova, Lev Evzovich and Evgeny Svyatsky, and than expanded with the addition of the photographer Vladimir Fridkes in 1995 <span id="a1">[\[1\]](#f1)</span>.
 
 ![](http://aesf.art/ve-files/0000899.jpg)
@@ -13,7 +14,7 @@ published: true
 *Photo: [Egor Zaika](index) / [Wallpaper](index)*
 
 # Short Biography
- 
+
 AES+F achieved worldwide recognition and acclaim in the Russian Pavilion at the 52-nd Biennale di Venezia in 2007 with their provocative, other-worldly Last Riot (2007), the first in a trio of large-scale, multichannel video installations of striking originality that have come to define both the AES+F aesthetic and the cutting edge of the medium’s capacities. The second of the series, The Feast of Trimalchio (2009), appeared in Venice in 2009, and the third, Allegoria Sacra (2011), debuted at the 4th Moscow Biennale in 2011. United as The Liminal Space Trilogy, this tour-de-force series was premiered in September 2012 at the Martin-Gropius-Bau, Berlin, and the Moscow Manege, the central exhibition hall of the artists’ home city. The Trilogy was shown in the Museum of Fine Arts in La Chaux-De-Fonds, Switzerland (June–September 2014). Most recently all three videos were shown at Albright-Knox Art Gallery, Buffalo, NY (June-September 2015). In 2015 AES+F presented the new project Inverso Mundus at 56th Biennale di Venezia. AES+F received Sergey Kuryokhin Award 2011, the main award of the Kandinsky Prize 2012, the main award of the NordArt Festival 2014, and Pino Pascali Prize 2015 (18th Edition) – all for the project Allegoria Sacra. AES+F were awarded Bronze Medal (2005) and Golden Medal (2013) of Russian National Academy of Fine Arts.
 
 AES Group was originally formed in 1987 by the conceptual architects Tatiana Arzamasova and Lev Evzovich and the multidisciplinary designer Evgeny Svyatsky. Exhibiting abroad from 1989, the group expanded its personnel and name with the addition of the photographer Vladimir Fridkes in 1995. AES+F’s recent work has developed at the intersection of photography, video and digital technologies, although it is nurtured by a persistent interest in more traditional media — sculpture especially, but also painting, drawing and architecture. Deploying a sophisticated, poetic dialogue among these media, and plumbing the depths of art history and other cultural canons, AES+F’s grand visual narratives explore the values, vices and conflicts of contemporary culture in the global sphere.
@@ -229,7 +230,7 @@ By now the subject of almost 100 solo exhibitions at museums, exhibition spaces 
 + SIX RUSSIAN ARTISTS AROUND A BOOK. Catalogue, 1991, National Museum, Stockholm, by Jury Molok, pp. 3-10, ill.
 
 
-# Albums andooks 
+# Albums andooks
 
 # 2008
 
@@ -263,7 +264,7 @@ By now the subject of almost 100 solo exhibitions at museums, exhibition spaces 
 
 # 2003
 
-+ ART CONSTITUTION, The Illustrated Constitution of Russian Federation, Moscow, 2003, 
++ ART CONSTITUTION, The Illustrated Constitution of Russian Federation, Moscow, 2003,
 pp.58, 162, 314, 320, ill.
 
 # 2002
@@ -292,7 +293,7 @@ pp.58, 162, 314, 320, ill.
 + DOUBLE RAINBOW, "Molodaya Guardia", Moscow, 1989, ill.
 
 
-# Art magazines 
+# Art magazines
 
 # 2009
 
@@ -617,7 +618,7 @@ pp.58, 162, 314, 320, ill.
 
 + MATADOR Magazine, 6/96, Moscow, pp. 6, 32, ill.
 
- 
+
 
 # Newspapers
 
@@ -804,26 +805,26 @@ pp.58, 162, 314, 320, ill.
 + CAMBRIDGE EVENING NEWS, November 15, 1990, Cambridge, England, "Free art paints new picture of Russia" Pauline Hunt, p. 26-27, ill.
 
 # Projects
- 
+
 # 2016
 
 + "Psychosis", by a screenplay of Sarah Kane, a theater performance at Electrotheater Stanislavsky, a common project of Alexander Zeldovich (director) & AES+F (set design).
 
 + "Inverso Mundus", series of digital collages, AES+F.
 
- 
+
 
 # 2015
 
 + "Inverso Mundus", HD multichannel video, series of digital collages (work in progress), AES+F.
 
- 
+
 
 # 2014
 
 + "Inverso Mundus", HD multichannel video, series of digital collages, AES+F (work in progress).
 
- 
+
 
 # 2013
 
@@ -833,7 +834,7 @@ pp.58, 162, 314, 320, ill.
 
 + "Allegoria Sacra", series of digital collages, AES+F (work in progress).
 
- 
+
 
 # 2012
 
@@ -843,19 +844,19 @@ pp.58, 162, 314, 320, ill.
 
 + "Allegoria Sacra". series of digital collages, AES+F (work in progress)
 
- 
+
 
 # 2011
 
 + "Allegoria Sacra". HD multichannel video, series of photographs, series of digital collages, AES+F (work in progress)
 
- 
+
 
 # 2010
 
 + "The Feast of Trimalchio". HD Video 1-channel version, series of digital collages, AES+F.
 
- 
+
 
 # 2009
 
@@ -865,7 +866,7 @@ pp.58, 162, 314, 320, ill.
 
 + "The Feast of Trimalchio".Series of digital collages, AES+F (work in progress).
 
- 
+
 
 # 2008
 
@@ -873,7 +874,7 @@ pp.58, 162, 314, 320, ill.
 
 + "The Feast of Trimalchio".Series of digital collages, video and sculptures, AES+F (work in progress).
 
- 
+
 
 # 2007
 
@@ -885,7 +886,7 @@ pp.58, 162, 314, 320, ill.
 
 + "Défilé", a series of digital collages (light boxes) and multimedia, AES+F.
 
- 
+
 
 # 2006
 
@@ -897,7 +898,7 @@ pp.58, 162, 314, 320, ill.
 
 + "AHL Sculptures", a bronze sculpture group, AES+F.
 
- 
+
 
 # 2005
 
@@ -909,13 +910,13 @@ pp.58, 162, 314, 320, ill.
 
 + "AHL Sculptures", a bronze sculpture group, AES+F (work in progress)
 
- 
+
 
 # 2004
 
 + "Action Half Life. Episodes 1", a series of digital collages and drawings on paper, AES+F (work in progress).
 
- 
+
 
 # 2003
 
@@ -927,13 +928,13 @@ pp.58, 162, 314, 320, ill.
 
 + "Othello by Shakespeare", a theater project, Meyerhold Theater Center, Alexander Zeldovich and AES.
 
- 
+
 
 # 2002
 
 + "More Than Paradise", 2nd project from Cycle "King of the Forest", a series of photographs and video, AES+F.
 
- 
+
 
 # 2001
 
@@ -943,7 +944,7 @@ pp.58, 162, 314, 320, ill.
 
 + "Défilé", a series of digital collages (proofs) and multimedia, AES+F (work in progress).
 
- 
+
 
 # 2000
 
@@ -951,13 +952,13 @@ pp.58, 162, 314, 320, ill.
 
 + "OASIS", from the "Islamic Project", a series of handmade carpets, installation, AES.
 
- 
+
 
 # 1999-2000
 
 + "Othello. Asphyxiophilia", video and a series of photographs, AES+F (work in progress).
 
- 
+
 
 # 1998
 
@@ -965,13 +966,13 @@ pp.58, 162, 314, 320, ill.
 
 + "The Yellow is Cooking, the White is Eating", video installation, AES.
 
- 
+
 
 # 1997-1998
 
 + "Gostinniy Dvor" Multipurpose Public Space, Moscow, an architectural and design project, AES.
 
- 
+
 
 # 1997
 
@@ -979,7 +980,7 @@ pp.58, 162, 314, 320, ill.
 
 + "Eisenstein Palace" Media Center, Moscow, an architectural project, AES.
 
- 
+
 
 # 1996
 
@@ -987,7 +988,7 @@ pp.58, 162, 314, 320, ill.
 
 + "Corruption. Apotheoses", a series of photographs, installation, AES+F.
 
- 
+
 
 # 1995
 
@@ -997,67 +998,67 @@ pp.58, 162, 314, 320, ill.
 
 + "Family Portrait in the Interior", a series of photographs, installation, AES, photographer Vladimir Fridkes.
 
- 
+
 
 # 1994-1995
 
 + "Body Space", photo objects, installation, AES.
 
- 
+
 
 # 1994
 
 + "Gesher" Theater, Tel Aviv, an architectural project, AES.
 
- 
+
 
 # 1993
 
 + "Art of Possibility", objects, installation, AES.
 
- 
+
 
 # 1992
 
 + "Children's Bible", a series of painting, objects, installation, AES.
 
- 
+
 
 # 1991
 
 + "Decorative Anthropology", a series of painting, objects, installation, AES.
 
- 
+
 
 # 1990
 
 + "Rhetoric of Pathos", a series of painting, objects, installation, AES.
 
- 
 
-# 1989 
+
+# 1989
 
 + "Apollo, Inspiring an Epic Poet", a series of drawings, a series of carpets, installation and book project, AES.
 
- 
 
-# 1988 
+
+# 1988
 
 + "Russian Landscape of 19th Century", a series of collages, a series of carpets, installation and a book project, AES.
 
 + "New Crony - Double Rainbow", painting and book project, AES.
 
- 
+
 
 # 1987
 
 + "Serseau", a series of collages, installation and edition of posters, AES.
 
- 
+
 
 
 # Solos
- 
+
 
 # 2017
 
@@ -1065,7 +1066,7 @@ pp.58, 162, 314, 320, ill.
 
 + "THE FEAST OF TRIMALCHIO", Sunset Boulevard Public Art Program (digital billboards), West Hollywood, California.
 
- 
+
 
 # 2016
 
@@ -1075,7 +1076,7 @@ pp.58, 162, 314, 320, ill.
 
 + "AES+F. INVERSO MUNDUS", Senda Galeria, Barcelona, Spain.
 
- 
+
 
 # 2015
 
@@ -1093,13 +1094,13 @@ pp.58, 162, 314, 320, ill.
 
 + "ALLEGORIA SACRA", public screening in Port Adelaide, Adelaide, Australia
 
- 
+
 
 # 2014
 
 + "AES+F. THE LIMINAL SPACE TRILOGY", Musée des Beaux-Arts de La Chaux-de-Fonds, La Chaux-de-Fonds, Switzerland.
 
- 
+
 
 # 2013
 
@@ -1123,7 +1124,7 @@ pp.58, 162, 314, 320, ill.
 
 + "AES+F. ANGELS-DEMONS", Anna Schwartz Gallery, Sydney, Australia.
 
- 
+
 
 # 2012
 
@@ -1143,7 +1144,7 @@ pp.58, 162, 314, 320, ill.
 
 + "AES+F. ALLEGORIA SACRA", Art Gallery of South Australia, Adelaide, Australia.
 
- 
+
 
 # 2011
 
@@ -1161,7 +1162,7 @@ pp.58, 162, 314, 320, ill.
 
 "AES+F. THE FEAST OF TRIMALCHIO". Art Statements Gallery, Tokyo, Japan.
 
- 
+
 
 2010
 
@@ -1177,7 +1178,7 @@ pp.58, 162, 314, 320, ill.
 
 "THE FEAST OF TRIMALCHIO". 17th Sydney Biennale, Cockatoo Island, Sydney, Australia.
 
- 
+
 
 2009
 
@@ -1189,7 +1190,7 @@ pp.58, 162, 314, 320, ill.
 
 "AESTHETICS OF VIOLENCE. AES+F Group: video", Haifa Museum of Art, Haifa, Israel.
 
- 
+
 
 2008
 
@@ -1215,7 +1216,7 @@ pp.58, 162, 314, 320, ill.
 
 "AES TRAVEL AGENCY TO THE FUTURE", "Re-Education: You too can be like us", Thematical Weekend at Hebbel Am Ufer, Berlin, Germany.
 
- 
+
 
 2007
 
@@ -1237,7 +1238,7 @@ pp.58, 162, 314, 320, ill.
 
 "AES. AES+F", The State Russian Museum (Marble Palace), St.-Petersburg, Russia.
 
- 
+
 
 2006
 
@@ -1251,7 +1252,7 @@ pp.58, 162, 314, 320, ill.
 
 "AES+F. KING OF THE FOREST", IMA - Institute of Modern Art, Brisbane, Australia.
 
- 
+
 
 2005
 
@@ -1261,13 +1262,13 @@ pp.58, 162, 314, 320, ill.
 
 "AES+F. Action Half Life", Galerie Ruzicska, Salzburg, Austria.
 
- 
+
 
 2004
 
 "AES+F GROUP. ACTION HALF LIFE", Galerie Knoll Wien, Vienna, Austria.
 
- 
+
 
 2003
 
@@ -1279,7 +1280,7 @@ pp.58, 162, 314, 320, ill.
 
 "AES GROUP. OASI – ESPANYA ISLАMICA", Sala Montcada, La Caixa Foundation, Barcelona, Spain.
 
- 
+
 
 2002
 
@@ -1287,7 +1288,7 @@ pp.58, 162, 314, 320, ill.
 
 "LE ROI DES AULNES", Galerie Knoll Wien, Vienna, Austria.
 
- 
+
 
 2001
 
@@ -1295,7 +1296,7 @@ pp.58, 162, 314, 320, ill.
 
 "AES. ISLAMIC PROJECT", Galerie Sollertis, Toulouse, France.
 
- 
+
 
 2000
 
@@ -1303,7 +1304,7 @@ pp.58, 162, 314, 320, ill.
 
 "AES GROUP. ISLAMIC PROJECT", Jean-Marc Patras – N.O.M.A.D.E., Paris, France.
 
- 
+
 
 1999
 
@@ -1313,12 +1314,12 @@ pp.58, 162, 314, 320, ill.
 
 "AES TRAVEL AGENCY TO THE FUTURE", "Sture Galerian", the city intervention during "After the Wall", Museum of Modern Art, Stockholm, Sweden.
 
- 
+
 
 1998
 "THE YELLOW IS COOKING, THE WHITE IS EATING", Art Media Center "TV Gallery", Moscow.
 
- 
+
 
 1997
 
@@ -1326,7 +1327,7 @@ pp.58, 162, 314, 320, ill.
 
 "AES TODAY", Center for Contemporary Art "Ujazdowski Castle", Warsaw, Poland.
 
- 
+
 
 1996
 
@@ -1334,7 +1335,7 @@ pp.58, 162, 314, 320, ill.
 
 "LEDA AND SWAN", Hotel "Estrel", Berlin.
 
- 
+
 
 1995
 
@@ -1350,7 +1351,7 @@ pp.58, 162, 314, 320, ill.
 
 "THE PRINCE AND THE BEGGAR", Guelman Gallery, Moscow.
 
- 
+
 
 1994
 
@@ -1358,13 +1359,13 @@ pp.58, 162, 314, 320, ill.
 
 "SCAR", Guelman Gallery, Moscow.
 
- 
+
 
 1993
 
 "THE ART OF POSSIBILITIES", Guelman Gallery, Moscow.
 
- 
+
 
 1992
 
@@ -1372,7 +1373,7 @@ pp.58, 162, 314, 320, ill.
 
 "CHILDREN'S BIBLE", Salzau, Cultural Center of Schleswig-Holstein, Germany.
 
- 
+
 
 1991
 
@@ -1380,25 +1381,25 @@ pp.58, 162, 314, 320, ill.
 
 "DAS IRDISCHE PARADIES", ifa-Galerie Friedrichstrasse, Berlin, Germany.
 
- 
+
 
 1990
 
 "PATHETISCHE RHETORIK", Galerie InterArt , Berlin, Germany.
 
- 
+
 
 1989
 
-"APOLLO INSPIRING AN EPIC POET", "Howard Yezerski" Gallery, Boston, USA. 
+"APOLLO INSPIRING AN EPIC POET", "Howard Yezerski" Gallery, Boston, USA.
 
 Representation and performance in Carpenter Center (Harvard University), Cambridge, USA.
 
- 
+
 
 
 GROUP EXHIBITIONS:
- 
+
 
 2017
 
@@ -1452,7 +1453,7 @@ GROUP EXHIBITIONS:
 
 "MIG 21: MIGRATORY INTERDISCIPLINARY GRID", Museum Of Contemporary Art Vojvodina, Novi Sad, Serbia
 
- 
+
 
 2016
 
@@ -1488,7 +1489,7 @@ GROUP EXHIBITIONS:
 
 "2050. BREVE HISTORIA DEL FUTURO", Palazzo Reale, Milan, Italy.
 
- 
+
 
 2015
 
@@ -1512,7 +1513,7 @@ GROUP EXHIBITIONS:
 
 "DEATH AND BEAUTY. THE CONTEMPORARY GOTHIC IN ART AND VISUAL CULTURE", Kumu Art Museum, Tallinn, Estonia
 
- 
+
 
 2014
 
@@ -1542,7 +1543,7 @@ GROUP EXHIBITIONS:
 
 "TILT!" Kunst Raum Riehen, Riehen/Basel, Switzerland.
 
- 
+
 
 2013
 
@@ -1570,7 +1571,7 @@ GROUP EXHIBITIONS:
 
 "NOTHING TO DECLAIRE? – WORLD MAPS OF ART SINCE 89", Academy of Arts, Berlin, Germany.
 
- 
+
 
 2012
 
@@ -1612,7 +1613,7 @@ GROUP EXHIBITIONS:
 
 "ARCO", Triumph Gallery (Moscow), Madrid, Spain
 
- 
+
 
 2011
 
@@ -1648,7 +1649,7 @@ GROUP EXHIBITIONS:
 
 "BIG POND ADELAIDE FILM FESTIVAL", 6 Cinema Place (off Vaughan Place), Adelaide, Australia.
 
- 
+
 
 2010
 
@@ -1676,7 +1677,7 @@ GROUP EXHIBITIONS:
 
 "FAST FORWARD 2. THE POWER OF MOTION - MEDIA ART OF THE GOETZ COLLECTION", ZKM | Museum of Contemporary Art, Karlsruhe, Germany.
 
- 
+
 
 2009
 
@@ -1729,7 +1730,7 @@ TOKYO PHOTO 2009, Art Statements Gallery (Hong Kong), Tokyo, Japan.
 
 "DEAD MOROZ LIVE", Triumph Gallery, Moscow, Russia.
 
- 
+
 
 2008
 
@@ -1783,7 +1784,7 @@ TOKYO PHOTO 2009, Art Statements Gallery (Hong Kong), Tokyo, Japan.
 
 "DEPLETION", Doron Sebbag Art Collection, Tel Aviv Museum of Art, Tel Aviv, Israel.
 
- 
+
 
 2007
 
@@ -1809,7 +1810,7 @@ TOKYO PHOTO 2009, Art Statements Gallery (Hong Kong), Tokyo, Japan.
 
 "ART MIAMI 2007", Convention Center Miami Beach, Juan Ruiz Galeria (Maracaibo), Miami Beach, USA
 
- 
+
 
 2006
 
@@ -1839,7 +1840,7 @@ University, Philadelphia (April 3-May 31), AIGA National Design Center, New York
 
 "ARS 06. Sense of the Real", Kiasma Nykytaiteen musee (Museum of Contemporary Art), Helsinki, Finland.
 
- 
+
 
 2005
 
@@ -1875,7 +1876,7 @@ University, Philadelphia (April 3-May 31), AIGA National Design Center, New York
 
 "ACTUAL RUSSIAN ART", Kunstverein Villa Streccius, Landau, Germany.
 
- 
+
 
 2004
 
@@ -1899,7 +1900,7 @@ VEIL. Institute of International Visual Arts (inIVA), Kulturhuset, Stockholm, Sw
 
 "ART MIAMI 2004", "Islamic Project. Oasis", COFA/Claire Oliver Fine Art (NYC), Miami Beach Convention Center, Miami Beach (FL), USA.
 
- 
+
 
 2003
 
@@ -1925,7 +1926,7 @@ VEIL. Institute of International Visual Arts (inIVA), Kulturhuset, Stockholm, Sw
 
 "VEIL", Institute of International Visual Arts (inIVA), The New Art Gallery Walsall, England.
 
- 
+
 
 2002
 
@@ -1949,7 +1950,7 @@ VEIL. Institute of International Visual Arts (inIVA), Kulturhuset, Stockholm, Sw
 
 "ART BRUSSELS 2002", Gallerie Sollertis, (Toulouse, France) Belgium.
 
- 
+
 
 2001
 
@@ -1975,7 +1976,7 @@ VEIL. Institute of International Visual Arts (inIVA), Kulturhuset, Stockholm, Sw
 
 "ISKUSSTWO 2000, NEUE KUNST AUS MOSKAU, ST. PETERSBURG UND KIEW", Kunstverein Rosenheim, Germany.
 
- 
+
 
 2000
 
@@ -1999,7 +2000,7 @@ Les Abattoirs, Toulouse, France.
 
 "EIN GESPRÄCH – RAZGOWOR – RAZMOWA", Künstlerhaus Bethanien, Berlin, Germany.
 
- 
+
 
 1999
 
@@ -2017,356 +2018,289 @@ Kunsthalle "Faust", Hannover, Germany.
 
 "UN MATIN DU MONDE", Eric Dupont Gallery, Paris, France.
 
- 
 
-1998
 
-"3 PENNY SHOW", Rutgers University, Mason Gross School of Art, New Brunswick (NJ), USA.
+# 1998
 
-"MEDIALIZATION", Edsvick Museum, Stockholm, Sweden.
++ "3 PENNY SHOW", Rutgers University, Mason Gross School of Art, New Brunswick (NJ), USA.
 
-"ACADEMY OF FROST", Fine Arts Museum, Soros Centre for Contemporary Art, Odessa, Ukraine.
++ "MEDIALIZATION", Edsvick Museum, Stockholm, Sweden.
 
-"2ND INTERNATIONAL MONTH OF PHOTOGRAPHY IN MOSCOW. PHOTOBIENNIAL-98", Central Exhibition Hall "Manege", Moscow.
++ "ACADEMY OF FROST", Fine Arts Museum, Soros Centre for Contemporary Art, Odessa, Ukraine.
 
-"11TH TALLINN PRINT TRIENNIAL", curated exhibition "Tangents", Tallinn Art Hall, Tallinn, Estonia.
++ "2ND INTERNATIONAL MONTH OF PHOTOGRAPHY IN MOSCOW. PHOTOBIENNIAL-98", Central Exhibition Hall "Manege", Moscow.
 
-"EUROPEAN ART FORUM", Art Media Center "TV Gallery" (Moscow), Ber1in, Germany.
++ "11TH TALLINN PRINT TRIENNIAL", curated exhibition "Tangents", Tallinn Art Hall, Tallinn, Estonia.
 
- 
++ "EUROPEAN ART FORUM", Art Media Center "TV Gallery" (Moscow), Ber1in, Germany.
 
-1997
 
-"FORUM OF ART INITIATIVES", Maliy Manege, Moscow.
 
-"THE WORLD OF THE PERCEPTIBLE THINGS IN PICTURES — END OF THE 20TH CENTURY", Pushkin State Museum of the Fine Arts, M’ars Gallery, Moscow.
+# 1997
 
-"MOSKOU VANDAAG", De Vereniging Voor het Museum van hedendaagse Kunst te Gent, Gent, Belgium.
++ "FORUM OF ART INITIATIVES", Maliy Manege, Moscow.
 
- 
++ "THE WORLD OF THE PERCEPTIBLE THINGS IN PICTURES — END OF THE 20TH CENTURY", Pushkin State Museum of the Fine Arts, M’ars Gallery, Moscow.
 
-1996
++ "MOSKOU VANDAAG", De Vereniging Voor het Museum van hedendaagse Kunst te Gent, Gent, Belgium.
 
-"1ST INTERNATIONAL MONTH OF PHOTOGRAPHY IN MOSCOW. PHOTOBIENNIAL-96", House of Artist on Kuznetsky Most, Moscow.
 
-"EUROPEAN ART FORUM", Guelman Gallery (Moscow), Berlin, Germany.
 
-"CONTEMPORARY RUSSIAN PHOTOGRAPHIE", "La Base" Center of Contemporary Art, Paris.
+# 1996
 
- 
++ "1ST INTERNATIONAL MONTH OF PHOTOGRAPHY IN MOSCOW. PHOTOBIENNIAL-96", House of Artist on Kuznetsky Most, Moscow.
 
-1995
++ "EUROPEAN ART FORUM", Guelman Gallery (Moscow), Berlin, Germany.
 
-"MULTIPLICATION", "Kashirka" Exhibition Hall, Collection of Contemporary Art of Tzaritzino Museum, Moscow.
++ "CONTEMPORARY RUSSIAN PHOTOGRAPHIE", "La Base" Center of Contemporary Art, Paris.
 
-"AUTUMN EXHIBITION", Guelman Gallery, Moscow.
 
-"KIEV ART MEETING" Ukrainian House, "Alipiy" Gallery, Kiev, Ukraine.
 
-"ZEITGENOSSISCHE FOTOKUNST AUS MOSKAU" Neuer Berliner Kunstverein, Berlin.
+# 1995
 
-"MOSKAU MEETS BERLIN", Berliner Firmen prasentieren Moscauer Künstlerinnen und Künstler (Aengevelt Immobilienmakler, Dresdner Bank AG, Fritz Palm "Burototal" Buromaschinen-Burobedarf GMbH, Mercedes-Benz AG), Horn+Stammer Art Management, Berlin, Germany.
++ "MULTIPLICATION", "Kashirka" Exhibition Hall, Collection of Contemporary Art of Tzaritzino Museum, Moscow.
 
- 
++ "AUTUMN EXHIBITION", Guelman Gallery, Moscow.
 
-1994
++ "KIEV ART MEETING" Ukrainian House, "Alipiy" Gallery, Kiev, Ukraine.
 
-"CONVERSION", Guelman Gallery, Helsinki, Finland.
++ "ZEITGENOSSISCHE FOTOKUNST AUS MOSKAU" Neuer Berliner Kunstverein, Berlin.
 
- 
++ "MOSKAU MEETS BERLIN", Berliner Firmen prasentieren Moscauer Künstlerinnen und Künstler (Aengevelt Immobilienmakler, Dresdner Bank AG, Fritz Palm "Burototal" Buromaschinen-Burobedarf GMbH, Mercedes-Benz AG), Horn+Stammer Art Management, Berlin, Germany.
 
-1993
+# 1994
 
-"CONVERSION", Guelman Gallery, Moscow.
++ "CONVERSION", Guelman Gallery, Helsinki, Finland.
 
-"MOSCOW ART FAIR - ART-MIF", Central Exhibition Hall (Manege), Moscow.
+# 1993
 
-"777", Museum of Contemporary Art, Stockholm, Sweden; Aspex Gallery, Portsmouth, England; Reykjavik Art Museum, Island; Nova Gallery, Bratislava, Slovakia; Rheinopera Cultural Center, Duisburg, Germany.
++ "CONVERSION", Guelman Gallery, Moscow.
 
-"ART HAMBURG", Hamburg, Germany.
++ "MOSCOW ART FAIR - ART-MIF", Central Exhibition Hall (Manege), Moscow.
 
- 
++ "777", Museum of Contemporary Art, Stockholm, Sweden; Aspex Gallery, Portsmouth, England; Reykjavik Art Museum, Island; Nova Gallery, Bratislava, Slovakia; Rheinopera Cultural Center, Duisburg, Germany.
 
-1992
++ "ART HAMBURG", Hamburg, Germany.
 
-"ARS BALTICA PROLOG. FACE TO FACE", Künstlerhaus "Bethanien", Berlin, Germany.
+# 1992
 
- 
++ "ARS BALTICA PROLOG. FACE TO FACE", Künstlerhaus "Bethanien", Berlin, Germany.
 
-1991
+# 1991
 
-"MOSCOW IN CAMBRIGE", Imperial College, London, UK.
++ "MOSCOW IN CAMBRIGE", Imperial College, London, UK.
 
-"EXERCISES AESTHETIC", Museum "Estate Kuskovo of 18th Century", Moscow.
++ "EXERCISES AESTHETIC", Museum "Estate Kuskovo of 18th Century", Moscow.
 
-"ARS BALTICA PROLOG. FACE TO FACE", Kunsthalle, Kiel, Germany, Exhibition Hall "Latvia", Riga, Latvia.
++ "ARS BALTICA PROLOG. FACE TO FACE", Kunsthalle, Kiel, Germany, Exhibition Hall "Latvia", Riga, Latvia.
 
- 
+# 1990
 
-1990
++ "MOSCOW IN CAMBRIDGE", Emmanuel College, Cambridge, England.
 
-"MOSCOW IN CAMBRIDGE", Emmanuel College, Cambridge, England.
+# Awards
 
- 
+# 2015
 
++ "PINO PASCALI PRIZE, 18th Edition", Foundation & Museum Pino Pascali, Italy.
 
-AWARDS:
- 
+# 2014
 
-2015
++ "NORDART FESTIVAL 2014", Main Award, Germany.
 
-"PINO PASCALI PRIZE, 18th Edition", Foundation & Museum Pino Pascali, Italy.
+# 2012
 
- 
++ "KANDINSKY PRIZE 2012", Main Award – The Project of the Year, Russia.
 
-2014
+# 2011
 
-"NORDART FESTIVAL 2014", Main Award, Germany.
++ "SERGEY KURYOKHIN AWARD 2011", Russia.
 
- 
+# Film festivals
 
-2012
+# 2016
 
-"KANDINSKY PRIZE 2012", Main Award – The Project of the Year, Russia.
++ "Annecy 2016" Animated Film Festival, Annecy, France.
 
- 
+# 2011
 
-2011
++ "ZERKALO" film festival, Ivanovo, Russia.
++ "BIGPOND" Adelaide Film Festival, Adelaide, Australia.
 
-"SERGEY KURYOKHIN AWARD 2011", Russia.
+# 2010
 
- 
++ "46º PESAROFILMFEST", Film Festival, Pesaro, Italy.
++ "IMPACT FILM FESTIVAL", Utrecht, Holland.
 
- 
+# 2007
 
-FILM FESTIVALS:
- 
++ "LOCARNO FILM FESTIVAL", Locarno, Switzerland.
 
- 
+# 2000
 
-2016
++ "IMPACT FILM FESTIVAL", Utrecht, Holland.
 
-"Annecy 2016" Animated Film Festival, Annecy, France.
+# 1999
 
- 
++ "SPLIT FILM FESTIVAL", Split, Croatia.
 
-2011
+# Scholarships
 
-"ZERKALO" film festival, Ivanovo, Russia.
-"BIGPOND" Adelaide Film Festival, Adelaide, Australia.
+# 2001
 
- 
++ Residency in YADDO, Saratoga, NY, USA
 
-2010
+# 1999
 
-"46º PESAROFILMFEST", Film Festival, Pesaro, Italy.
-"IMPACT FILM FESTIVAL", Utrecht, Holland.
++ ArtsLink-CEC International Partners Fellowship in Art in General, New York, USA.
 
- 
+# 1997
 
-2007
++ Scholarship in Cite Internationale des Arts, Paris, France.
 
-"LOCARNO FILM FESTIVAL", Locarno, Switzerland.
+# 1996
 
- 
++ Scholarship in Vermögensvervaltung Streletski — Victoriahof, Berlin, Germany.
 
-2000
+# 1995
 
-"IMPACT FILM FESTIVAL", Utrecht, Holland.
++ "Kulturdorf" — State Center of Contemporary art, Scholarship in Reserve Palace, Tzarskoe Selo, St. Petersburg.
++ Scholarship in Internationale Austausch Ateliers Region Basel, CMS, Switzerland.
 
- 
+# 1992
 
-1999
++ Scholarship in Salzau, Cultural Center of Schleswig-Holstein, Germany.
 
-"SPLIT FILM FESTIVAL", Split, Croatia.
+# Grants
 
- 
+# 2002
 
- 
++ Grant for realisation of the project "More Than Paradise", Kultur Kontakt Austria, (Vienna).
 
-SCHOLARSHIPS:
- 
+# 1999
 
-2001
++ Travel grant, ArtsLink-CEC International Partners (New York), "Open Society" Institute of Soros (Moscow).
 
-Residency in YADDO, Saratoga, NY, USA
++ Travel grant, "Open Society" Institute of Soros (Moscow).
 
- 
+# 1998
 
-1999
++ Travel grant, "Open Society" Institute of Soros (Moscow).
 
-ArtsLink-CEC International Partners Fellowship in Art in General, New York, USA.
+# 1997
 
- 
++ Grant for Catalogue "AES Today", Soros Center for contemporary art.
 
-1997
+# 1995
 
-Scholarship in Cite Internationale des Arts, Paris, France.
++ Grant for Catalogue "Body Space", Soros Center for contemporary art.
 
- 
+# Public collections:
 
-1996
++ Alltech, Corporate collection, Moscow.
 
-Scholarship in Vermögensvervaltung Streletski — Victoriahof, Berlin, Germany.
++ The Carmignac Foundation, Paris, France
 
- 
++ Centre d’Art Contemporain Georges Pompidou, Paris, France.
 
-1995
++ City of Lille, France.
 
-"Kulturdorf" — State Center of Contemporary art, Scholarship in Reserve Palace, Tzarskoe Selo, St. Petersburg.
-Scholarship in Internationale Austausch Ateliers Region Basel, CMS, Switzerland.
++ Chronolux Corporate collection, Moscow, Russia.
 
- 
++ Centro de Arte Dos de Mayo, Collection of Comunidad de Madrid, Spain.
 
-1992
++ Robert & Renee Drake Collection, Wassenaar, The Netherlands.
 
-Scholarship in Salzau, Cultural Center of Schleswig-Holstein, Germany.
++ Estrel Hotel, Berlin, Germany.
 
- 
- 
-GRANTS:
- 
++ FNAC, Paris, France.
 
-2002
++ FRAC – Franche-Comté, France.
 
-Grant for realisation of the project "More Than Paradise", Kultur Kontakt Austria, (Vienna).
++ JGS Forward Thinking Museum, New York, USA.
 
- 
++ Kolon Industries Inc., Kwachon, South Korea
 
-1999 
++ Les Abattoirs, Toulouse, France.
 
-Travel grant, ArtsLink-CEC International Partners (New York), "Open Society" Institute of Soros (Moscow). 
++ Locarno Video Bank, Switzerland.
 
-Travel grant, "Open Society" Institute of Soros (Moscow).
++ Louis Vuitton Foundation for Creation, Paris, France.
 
- 
++ Maison Européenne de la Photographie, Paris, France.
 
-1998 
++ Meeschaert Collection, Paris, France
 
-Travel grant, "Open Society" Institute of Soros (Moscow).
++ Moderna Museet, Stockholm, Sweden.
 
- 
++ Multimedia Art Museum Moscow (MAMM), Russia.
 
-1997 
++ Moscow Museum of Modern Art, Moscow, Russia.
 
-Grant for Catalogue "AES Today", Soros Center for contemporary art.
++ Museum of Old and New Art (MONA), Moonah, Tasmania, Australia
 
- 
++ The Museum of Fine Arts, Houston, TX, USA.
 
-1995 
++ Musèe de l’Elysèe, Losanne, Switzerland.
 
-Grant for Catalogue "Body Space", Soros Center for contemporary art.
++ M. Guelman Foundation for Contemporary Art, Moscow, Russia.
 
- 
- 
++ National Center for Contemporary Art Ujazdowski Castle, Warsaw, Poland
 
-PUBLIC COLLECTIONS:
- 
++ National Center for Contemporary Art, Moscow Branch, Moscow
 
-Alltech, Corporate collection, Moscow. 
++ Neue Galerie Graz, Austria.
 
-The Carmignac Foundation, Paris, France
++ Nomas Foundation, Rome, Italy
 
-Centre d’Art Contemporain Georges Pompidou, Paris, France. 
++ Northern Norway Art Museum, Tromsø, Norway
 
-City of Lille, France. 
++ Novy Museum, St. Petersburg, Russia
 
-Chronolux Corporate collection, Moscow, Russia. 
++ Sammlung Alison & Peter W. Klein, Eberdingen-Nussdorf, Germany
 
-Centro de Arte Dos de Mayo, Collection of Comunidad de Madrid, Spain. 
++ Sammlung Goetz, Munich, Germany
 
-Robert & Renee Drake Collection, Wassenaar, The Netherlands.
++ Stadt Galerie Esslingen-am-Neckar, Germany
 
-Estrel Hotel, Berlin, Germany. 
++ Taguchi Art Collection, Japan
 
-FNAC, Paris, France. 
++ The Museum of Contemporary Art in Krakow, Poland
 
-FRAC – Franche-Comté, France. 
++ The State Russian Museum, St.-Petersburg, Russia
 
-JGS Forward Thinking Museum, New York, USA. 
++ The State Tretyakov Gallery, The National Collection of contemporary art, Moscow, Russia
 
-Kolon Industries Inc., Kwachon, South Korea 
++ Vanhaerents Art Collection, Brussels, Belgium
 
-Les Abattoirs, Toulouse, France. 
++ Vanmoerkerke Collection, Oostende, Belgium
 
-Locarno Video Bank, Switzerland. 
++ Videoinsight® Collection, Bologna, Italy
 
-Louis Vuitton Foundation for Creation, Paris, France. 
++ Wien Museum, Vienna
 
-Maison Européenne de la Photographie, Paris, France. 
++ ZKM, Karlsruhe, Germany
 
-Meeschaert Collection, Paris, France
 
-Moderna Museet, Stockholm, Sweden. 
 
-Multimedia Art Museum Moscow (MAMM), Russia. 
-
-Moscow Museum of Modern Art, Moscow, Russia. 
-
-Museum of Old and New Art (MONA), Moonah, Tasmania, Australia 
-
-The Museum of Fine Arts, Houston, TX, USA.
-
-Musèe de l’Elysèe, Losanne, Switzerland. 
-
-M. Guelman Foundation for Contemporary Art, Moscow, Russia. 
-
-National Center for Contemporary Art Ujazdowski Castle, Warsaw, Poland
-
-National Center for Contemporary Art, Moscow Branch, Moscow
-
-Neue Galerie Graz, Austria. 
-
-Nomas Foundation, Rome, Italy
-
-Northern Norway Art Museum, Tromsø, Norway
-
-Novy Museum, St. Petersburg, Russia
-
-Sammlung Alison & Peter W. Klein, Eberdingen-Nussdorf, Germany
-
-Sammlung Goetz, Munich, Germany 
-
-Stadt Galerie Esslingen-am-Neckar, Germany
-
-Taguchi Art Collection, Japan
-
-The Museum of Contemporary Art in Krakow, Poland
-
-The State Russian Museum, St.-Petersburg, Russia
-
-The State Tretyakov Gallery, The National Collection of contemporary art, Moscow, Russia 
-
-Vanhaerents Art Collection, Brussels, Belgium 
-
-Vanmoerkerke Collection, Oostende, Belgium
-
-Videoinsight® Collection, Bologna, Italy
-
-Wien Museum, Vienna
-
-ZKM, Karlsruhe, Germany
-
- 
- 
 # Experience of teaching
- 
 
-+ Lectures organized by ACC + Bauhaus, Weimar, 2002 
-
-+ Moscow Institute of Contemporary Art, School of Contemporary Art, Master classes 2000-2002 
-
-Lectures in University Saint Denis Paris 8, 1999 
-
-Lectures in Rutgers University, Mason Gross School of Arts, 1998 
-
++ Lectures organized by ACC + Bauhaus, Weimar, 2002
++ Moscow Institute of Contemporary Art, School of Contemporary Art, Master classes 2000-2002
++ Lectures in University Saint Denis Paris 8, 1999
++ Lectures in Rutgers University, Mason Gross School of Arts, 1998
 + Lectures in Columbia University, Harvard University, 1989
 
 # {{page.title}} Indexmod
 
-|Year|Facebook|Instagram|YouTube|Age|Indexmod|Total|
-|-|-|-|-|-|-|-|
-|2018|13353 <span id="a3">[\[3\]](#f3)</span>|17000000 <span id="a4">[\[4\]](#f4)</span>||30|{{ page.content | number_of_words }}|5734861,02924|
+||2018|2019|
+|-|-|-|
+|Facebook <span id="a3">[\[3\]](#f3)</span>|13353||
+|Instagram <span id="a4">[\[4\]](#f4)</span>|17000000|000|
+|YouTube <span id="a5">[\[5\]](#f5)</span>|||
+|Age|30|31|
+|Page Value (words)|500||
+|Indexmod|0,0000||
 
 # Footnotes
 

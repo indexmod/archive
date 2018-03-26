@@ -4,7 +4,6 @@ permalink: kisselman-studio
 layout: default
 ---
 
-# {{page.title}}
 
 (Est. 2013, city) is a Kisselman Studio (Rus. Судия Кисель) est. in 2012, Dahab—studio in Moscow for children to develop artistic taste and initial skills of spatial modeling and drawing founded by Iluxa Kisselman <span id="a1">[\[1\]](#f1)</span>.
 
@@ -22,10 +21,14 @@ layout: default
 
 # {{page.title}} Indexmod
 
-|Year|Facebook|Instagram|YouTube|Age|Indexmod|
-|-|-|-|-|-|
-|2018|000 <span id="a3">[\[3\]](#f3)</span>|000 <span id="a4">[\[4\]](#f4)</span>|000 <span id="a5">[\[5\]](#f5)</span>|00|0,0000|
-
+||2018|2019|
+|-|-|-|
+|Facebook <span id="a3">[\[3\]](#f3)</span>|000||
+|Instagram <span id="a4">[\[4\]](#f4)</span>|000||
+|YouTube <span id="a5">[\[5\]](#f5)</span>|000||
+|Age|000|000|
+|Page Value|{{ page.content | number_of_words }}||
+|Indexmod|0,0000||
 
 # See also
 

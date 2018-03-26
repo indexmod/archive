@@ -4,8 +4,6 @@ permalink: walk-of-shame-brand
 layout: default
 ---
 
-# Walk of Shame (brand)
-
 (Est. 2013, city) Walk of Shame, est. 2011, is a brandname of female dress founded by Russian stylist Andrey Artyomov <span id="a1">[\[1\]](#f1)</span>, description-two <span id="a2">[\[2\]](#f2)</span> description-3 <span id="a3">[\[3\]](#f3)</span>, extra text.
 
 ![](/images/image-name.jpg)
@@ -28,7 +26,7 @@ layout: default
 - [Source name](http://example.net/)
 - [Source name](http://example.net/)
 Andrey Artyomov
-Ilona Stolie 
+Ilona Stolie
 
 # Footnotes
 

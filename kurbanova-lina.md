@@ -4,7 +4,6 @@ permalink: kurbanova-lina
 layout: default
 ---
 
-# {{page.title}}
 
 (Est. 2013, city) is a is a Lina Kurbanova 16 SNC (Rus. Лина Курбанова) born, 19??, in ??—is a Tatarstan businesswoman, co-founder of VIP Group, working and living in Kazan <span id="a1">[\[1\]](#f1)</span>.
 
@@ -46,5 +45,3 @@ Masterpece
 [[4]](#a4) <span id="f4"></span> [{{page.title}} (Instagram)](index)
 
 [[5]](#a5) <span id="f5"></span> [{{page.title}} (YouTube)](index)
-
-`Updated Mar. 2018 (Andrei Dei)`
