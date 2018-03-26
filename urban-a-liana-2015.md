@@ -5,7 +5,7 @@ layout: default
 published: true
 ---
 
-(2015, Bangkok) is an inskallation by Andrei Dei set on the rooftop in the Hossein Farmani's <span id="a1">[\[1\]](#f1)</span> "Rooftop Gallery" on Sukhumvit Street in Bangkok in 2015. Wires and pipes of city communications at "Urban-a-Liana" are presented by the artist as living self-organizing forms.
+(2015, Bangkok) is an installation by Andrei Dei set on the rooftop in the Hossein Farmani's <span id="a1">[\[1\]](#f1)</span> "Rooftop Gallery" on Sukhumvit Street in Bangkok in 2015. Wires and pipes of city communications at "Urban-a-Liana" are presented by the artist as living self-organizing forms.
 
 ![](/encyclopedia/images/urban-a-liana-2015.jpg)
 
