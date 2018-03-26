@@ -9,22 +9,22 @@ published: true
 
 ![](/encyclopedia/images/{{page.permalink}}.jpg)
 
-**1.View to Bangkok; 2.Connection of pipes; 3.A rooftop of the "Rooftop Gallery" on Sukhumvit Street; 4.View to Urban-a-Liana from Sukhumvit Street; 5.Urban comunications on the streets; 6.Urban comunications on the streets; 7.Urban comunications on the streets; 5.Urban comunications on the streets; 5.Urban comunications on the streets**
+**1. View to Bangkok; 2. Connection of pipes; 3. A rooftop of the "Rooftop Gallery" on Sukhumvit Street; 4. View to Urban-a-Liana from Sukhumvit Street; 5. Urban comunications on the streets; 6. Urban comunications on the streets; 7. A high-voltage lianas of Bangkok; 8. Autor of the Urban-a-Liana Andrei Dei is studying the metal jungles; 9. View through Urban-a-Liana to the "One One Hotel"**
 
-*Photo: [Name](index) / [Source](index)*
+*Photo: [Andrei Dei](deinichenko-andrei) / [Eta (fellowship)](eta-fellowship)*
 
 # {{page.title}} Conspectus
 
-|Year|City|Name|
+|Year|City|Installation|
 |-|-|-|
 |2015|BKK|Urban-a-Liana|
 |2018|Moscow|Urban-a-Liana Climatic|
 
-*Photo: [Andrei Dei](deinichenko-andrei) / [Eta (fellowship)](eta-fellowship)*
+
 
 # See also
 
-+ [Eta (fellowship)](eta-fellowship)
++ [Hossein Farmani](farmani-hossein)
 + [Eta (fellowship)](eta-fellowship)
 + [Rooftop Gallery](rooftop-gallery)
 
