@@ -9,7 +9,7 @@ published: true
 
 ![](/encyclopedia/images/urban-a-liana-2015.jpg)
 
-**1. View to Bangkok; 2. Connection of pipes; 3. A rooftop of the "Rooftop Gallery" on Sukhumvit Street; 4. View to Urban-a-Liana from Sukhumvit Street; 5. Urban comunications on the streets; 6. Urban comunications on the streets; 7. A high-voltage lianas of Bangkok; 8. Autor of the Urban-a-Liana Andrei Dei is studying the metal jungles; 9. View through Urban-a-Liana to the "One One Hotel"**
+**1. View to Bangkok; 2. Connection of pipes; 3. A rooftop of the "Rooftop Gallery" on Sukhumvit Street; 4. View to Urban-a-Liana from Sukhumvit Street; 5. Urban comunications on the streets; 6. Making of the Urban-a-Liana: pipes are ready to connect; 7. A high-voltage lianas of Bangkok; 8. Autor of the Urban-a-Liana Andrei Dei is studying the metal jungles; 9. View through Urban-a-Liana to the "One One Hotel"**
 
 *Photo: [Andrei Dei](deinichenko-andrei) / [Eta (fellowship)](eta-fellowship)*
 
