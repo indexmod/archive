@@ -15,22 +15,22 @@ published: true
 
 # {{page.title}} Conspectus
 
-|Year|participants|
+|Year|Participants|
 |-|-|
-| 2002 | Vasya Lozhkin |
-|| Andrey Kagadeev |
-|| Nikolay Kopeikin |
-|| Vladimir Medvedev |
-|| Nikolay Vasilyev |
-|| Alexei Uvarov |
-|| Mikhail Gavrichkov |
-|| Cyril Miller | |
-|| Andrei Lublinsky |
-|| Victor Puzo |
-|| Vasya Lozhkin |
-|| Vasily Golubev |
-|| Pavlik Lemtybozh |
-|| Alexey Khatskevich |
+|2002|Vasya Lozhkin|
+||Andrey Kagadeev|
+||Nikolay Kopeikin|
+||Vladimir Medvedev|
+||Nikolay Vasilyev|
+||Alexei Uvarov|
+||Mikhail Gavrichkov|
+||Cyril Miller|
+||Andrei Lublinsky|
+||Victor Puzo|
+||Vasya Lozhkin|
+||Vasily Golubev|
+||Pavlik Lemtybozh|
+||Alexey Khatskevich|
 
 At different times, Grigory Mayofis, Alexander Liver, Ivan Tourist, Prokhor, Ivan Ushkov, Sergei Pakhomov, Vsevolod Emelin, Alexander Erashov, Denis Donchenko, Boris Trevozhny, Stas Kazimov, Mikhail Rubtsov, Oleg Teptsov, Andrei Kuzmin, Porfiry Fedorin joined the group at different times, Alexey Sergeev, Grigory Yushchenko, Igor Mezheritsky, Alexander Vilkin, and others.
 
