@@ -4,7 +4,7 @@ permalink: kolhui
 layout: default
 ---
 
-(Rus. Колхуи, колдовские художники, "witchcraft artists", est. 2002, Saint Petersburg) is a group (about 13 participants) of artists, also by artist Nikolai Kopeikin, one of the founders of the group and the direction of Multrealism St. Petersburg in 2002 to explore so called multrealism <span id="a1">[\[1\]](#f1)</span>. The works of the group's participants are in more than 30 museums of Russia and abroad. Exhibitions of the group (with different composition) - about 15 (Moscow, St. Petersburg, Geneva, V. Novgorod, etc.)
+(Rus. Колхуи, колдовские художники, "witchcraft artists", est. 2002, Saint Petersburg) is a group, about 13 participants, of artists, also artist Nikolai Kopeikin one of the founders, formed in 2002 to explore so called multrealism <span id="a1">[\[1\]](#f1)</span>. The works of the group's participants are in more than 30 museums of Russia and abroad. Exhibitions of the group, with different composition, about 15 in Moscow, St. Petersburg, Geneva, V. Novgorod, etc.
 
 ![](https://scontent-arn2-1.xx.fbcdn.net/v/t31.0-8/15129664_1234390596606482_4955960532289904749_o.jpg)
 
