@@ -1,15 +1,11 @@
 ---
 title: Bedsheet (project)
 permalink: bedsheet-project
-position:
 layout: default
 ---
-
-(Est. 2013, city) is a subject, description-one <span id="a1">[\[1\]](#f1)</span>,
-
 Bedsheet (Rus. Простыня) 2016, Moscow—is a art project by Russian artist Elena Kholkina.1 Sign in to edit Bedsheet
 
-About project
+# About project
 
 The Bedsheet project is a series of events taking place in a ring-house, the so-called “bublik”—a round nine-floor building, constructedin the 1970s. The idea was to create a self-contained community, a miniature town provided with a complete infrastructure: shops, a laundry, a dressmaker's, a post office. The inner yard could easily house a football field.
 
@@ -21,7 +17,9 @@ In Elena Kholkina's events that took place in August 2015, the ring-house became
 
 “The bublik”—is a round nine-floor building in Moscow, constructed in the 1970s
 Photo: Point author here / Expanding Space
-See also
+
+# See also
+
 V-A-C
 Elena Turbine
 Elena Kholkina
@@ -39,7 +37,46 @@ Veronika Zlobina
 Sergey Katich
 Daria Irincheeva
 
-1, 2 Expandingspace—Long list
+1, 2 Expandingspace Long list
+
+(Est. 2013, city) is a --- <span id="a1">[\[1\]](#f1)</span>.
+
+![](/encyclopedia/images/{{page.permalink}}.jpg)
+
+**Image**
+
+*Photo: [Name](index) / [Source](index)*
+
+# {{page.title}} Conspectus
+
+|Year|City|
+|-|-|
+|2017|Moscow|
+
+# {{page.title}} Indexmod [*](indexmod)
+
+||2018|2019|
+|-|-|-|
+|Facebook <span id="a3">[\[3\]](#f3)</span>|000||
+|Instagram <span id="a4">[\[4\]](#f4)</span>|000||
+|YouTube <span id="a5">[\[5\]](#f5)</span>|000||
+|Age|000|000|
+|Page Value|{{ page.content | number_of_words }}||
+|Indexmod|0,0000||
+
+# See also
+
++ [About {{page.title}}](index)
++ [{{page.title}} at Wikipedia](index)
+
+# Footnotes
+
+[[3]](#a3) <span id="f3"></span> [{{page.title}} (Facebook)](index)
+
+[[4]](#a4) <span id="f4"></span> [{{page.title}} (Instagram)](index)
+
+[[5]](#a5) <span id="f5"></span> [{{page.title}} (YouTube)](index)
+
 
 
 description-two <span id="a2">[\[2\]](#f2)</span> description-3 <span id="a3">[\[3\]](#f3)</span>, extra text.

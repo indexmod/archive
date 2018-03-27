@@ -1,3 +1,49 @@
+---
+title: Shulgin, Alexei
+permalink: shulgin-alexei
+layout: default
+---
+
+(Est. 2013, city) is a --- <span id="a1">[\[1\]](#f1)</span>.
+
+![](/encyclopedia/images/{{page.permalink}}.jpg)
+
+**Image**
+
+*Photo: [Name](index) / [Source](index)*
+
+# {{page.title}} Conspectus
+
+|Year|City|
+|-|-|
+|2017|Moscow|
+
+# {{page.title}} Indexmod [*](indexmod)
+
+||2018|2019|
+|-|-|-|
+|Facebook <span id="a3">[\[3\]](#f3)</span>|000||
+|Instagram <span id="a4">[\[4\]](#f4)</span>|000||
+|YouTube <span id="a5">[\[5\]](#f5)</span>|000||
+|Age|000|000|
+|Page Value|{{ page.content | number_of_words }}||
+|Indexmod|0,0000||
+
+# See also
+
++ [About {{page.title}}](index)
++ [{{page.title}} at Wikipedia](index)
+
+# Footnotes
+
+[[3]](#a3) <span id="f3"></span> [{{page.title}} (Facebook)](index)
+
+[[4]](#a4) <span id="f4"></span> [{{page.title}} (Instagram)](index)
+
+[[5]](#a5) <span id="f5"></span> [{{page.title}} (YouTube)](index)
+
+
+
 Alexei Shulgin (Rus. Алексей Шульгин) born 1963, Moscow—is a Russian artist  musician and online curator. Working out of Moscow and Helsinki, Shulgin established the Immediate Photography Group in 1988 and started his career in this area of study. After 1990, he shifted his interests from photography to the Internet, and consequently, in 1994, founded Moscow-WWW-Art-Lab WWW Art Lab, collaborating with many artists from London and Slovenia. That very same year, the artist created an online photo museum called “Hot Pictures”. In 1997, Shulgin continued his work with the invention of Form Art (Form Art), and later that year the introduction of the easy life website (Easy Life). In 1999, Shulgin became Webmaster at FUFME, Inc. Since 2004, Shulgin has been a co-owner of Electroboutique (Electroboutique).
 About
 Particularly involved with software art and internet art, he is a part of the readme culture, and is probably most well known for his ongoing so-called “386DX” performances, in which he manipulates an antiquated computer with Microsoft Windows version 3.1 and an Intel 386 processor to perform MIDI (Musical Instrument Digital Interface) renditions of popular music hits while a synthesized text-to-speech voice “sings” the lyrics. Shulgin describes his project, which he began in 1998, of electronic covers as “the world's first cyberpunk rock band.” Shulgin and his software have given live performances in many different locals all over the world, from the San Diego/Mexico border, with Shulgin on one side and his computer on the other, to the streets of Graz, Austria, where the machine was actually given money as if it were a real person for playing the music. Shulgin encourages his audience to also manipulate the early Microsoft software- with the self-release of his cover songs on an enhanced cd titled The Best of 386 DX, which included the same first version of Microsoft that he used.

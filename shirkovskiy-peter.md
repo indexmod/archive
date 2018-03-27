@@ -4,8 +4,6 @@ permalink: shirkovskii-peter
 layout: default
 ---
 
-# {{page.title}}
-
 (Est. 2013, city) is a Peter Shirkovskiy (Rus. Петя Ширковский), a Russian ethnographer3, film director, a collector of paintings and graphic art, curator4, jewelry designer5, the inspector for cultural heritage of Vorobievy Gory area in Moscow, specialist in “Odessa conceptualist group of the 1980s”, founder of “Shirka Film”, the author and a representative of the “Ukrainian Art 1980—2000”, Curator in Kiev for Indexmod Encyclopedia, graduate of Russian State University for the Humanities <span id="a1">[\[1\]](#f1)</span>.
 
 ![](/encyclopedia/images/image-name.jpg)
@@ -55,4 +53,40 @@ Vladimir Fedorov
 
 [[5]](#a5) <span id="f5"></span> [{{page.title}} (YouTube)](index)
 
-`Updated Mar. 2018 (Andrei Dei)`
+(Est. 2013, city) is a --- <span id="a1">[\[1\]](#f1)</span>.
+
+![](/encyclopedia/images/{{page.permalink}}.jpg)
+
+**Image**
+
+*Photo: [Name](index) / [Source](index)*
+
+# {{page.title}} Conspectus
+
+|Year|City|
+|-|-|
+|2017|Moscow|
+
+# {{page.title}} Indexmod [*](indexmod)
+
+||2018|2019|
+|-|-|-|
+|Facebook <span id="a3">[\[3\]](#f3)</span>|000||
+|Instagram <span id="a4">[\[4\]](#f4)</span>|000||
+|YouTube <span id="a5">[\[5\]](#f5)</span>|000||
+|Age|000|000|
+|Page Value|{{ page.content | number_of_words }}||
+|Indexmod|0,0000||
+
+# See also
+
++ [About {{page.title}}](index)
++ [{{page.title}} at Wikipedia](index)
+
+# Footnotes
+
+[[3]](#a3) <span id="f3"></span> [{{page.title}} (Facebook)](index)
+
+[[4]](#a4) <span id="f4"></span> [{{page.title}} (Instagram)](index)
+
+[[5]](#a5) <span id="f5"></span> [{{page.title}} (YouTube)](index)

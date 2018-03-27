@@ -4,8 +4,6 @@ permalink: bundenko-anton
 layout: default
 published: true
 ---
-
-
 (Rus. Антон Бунденко. 1989, Moscow) Russian artist, founder of the "Futureisnown" <span id="a1">[\[1\]](#f1)</span> project for Air store in Moscow.
 
 ![](https://moscow.arttube.ru/wp-content/uploads/sites/2/2018/02/01.jpg)
@@ -43,5 +41,3 @@ published: true
 [[4]](#a4) <span id="f4"></span> [{{page.title}} (Instagram)](index)
 
 [[5]](#a5) <span id="f5"></span> [{{page.title}} (YouTube)](index)
-
-`Updated Mar. 2018 (Andrei Dei)`

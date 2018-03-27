@@ -4,8 +4,6 @@ permalink: sidur-vadim
 layout: default
 ---
 
-# {{page.title}}
-
 (Est. 2013, city) is a Vadim Sidur (Rus. Сидур Вадим Абрамович) born 1924, Yekaterinoslav; died 1986, Moscow—a Russian avant-garde sculptor and artist referred as the Soviet Henry Moore <span id="a1">[\[1\]](#f1)</span>.
 
 ![](/encyclopedia/images/image-name.jpg)
@@ -23,10 +21,48 @@ In 2015, a group of the public movement “God's will” injured 4 of Sidur’s 
 |-|-|
 |2017|Moscow|
 
-Museum
+# Museum
 The Vadim Sidur Museum was opened in 1987 at the initiative of the artist’s son, art critic Mikhail Sidur, who was its director until his death in 2010. The museum started as a posthumous exhibition of the sculptor’s works, established at the intersection of ul. Novogireevskaya and Zeleny Prospekt as well as in a nearby park.
+
 At present, the museum hosts more than 1000 objects, 537 of which make the core of the collection. In 2014, after two years under reconstruction, the museum opened for the public again. Today, the Vadim Sidur Museum a modern artistic space open to diverse creative ideas and events, joining the top ranks of the cultural institutions of Moscow.
 
+(Est. 2013, city) is a --- <span id="a1">[\[1\]](#f1)</span>.
+
+![](/encyclopedia/images/{{page.permalink}}.jpg)
+
+**Image**
+
+*Photo: [Name](index) / [Source](index)*
+
+# {{page.title}} Conspectus
+
+|Year|City|
+|-|-|
+|2017|Moscow|
+
+# {{page.title}} Indexmod [*](indexmod)
+
+||2018|2019|
+|-|-|-|
+|Facebook <span id="a3">[\[3\]](#f3)</span>|000||
+|Instagram <span id="a4">[\[4\]](#f4)</span>|000||
+|YouTube <span id="a5">[\[5\]](#f5)</span>|000||
+|Age|000|000|
+|Page Value|{{ page.content | number_of_words }}||
+|Indexmod|0,0000||
+
+# See also
+
++ [About {{page.title}}](index)
++ [{{page.title}} at Wikipedia](index)
+
+# Footnotes
+
+[[3]](#a3) <span id="f3"></span> [{{page.title}} (Facebook)](index)
+
+[[4]](#a4) <span id="f4"></span> [{{page.title}} (Instagram)](index)
+
+[[5]](#a5) <span id="f5"></span> [{{page.title}} (YouTube)](index)
 
 
 # See also
@@ -47,5 +83,3 @@ Moscow Manege
 [[4]](#a4) <span id="f4"></span> [{{page.title}} (Instagram)](index)
 
 [[5]](#a5) <span id="f5"></span> [{{page.title}} (YouTube)](index)
-
-`Updated Mar. 2018 (Andrei Dei)`

@@ -4,8 +4,6 @@ permalink: stolyarov-yuri
 layout: default
 ---
 
-# {{page.title}}
-
 (Est. 2013, city) is a Yuri Stolyarov (Rus. Юрий Столяров) born 1978, Kerch—is a Russian makeup artist, national makeup artist of Maybelline New York in Russia <span id="a1">[\[1\]](#f1)</span>.
 
 ![](/encyclopedia/images/image-name.jpg)
@@ -42,5 +40,3 @@ Photo: Vladimir Gulevich / Facebook
 [[4]](#a4) <span id="f4"></span> [{{page.title}} (Instagram)](index)
 
 [[5]](#a5) <span id="f5"></span> [{{page.title}} (YouTube)](index)
-
-`Updated Mar. 2018 (Andrei Dei)`

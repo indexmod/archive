@@ -4,8 +4,6 @@ permalink: street-art-museum-of-st-petersburg
 layout: default
 ---
 
-# {{page.title}}
-
 (Est. 2013, city) is a Street Art Museum (Street Art Museum of St. Petersburg; Rus. Музей уличного искусства в Санкт Петербурге), is a private institution established in 2012 by Dmitry Zaitsev Chairman of the Advisory Board of the Museum1, a contemporary cultural phenomenon2 of the suburban Krasnogvardeyskiy area of St. Petersburg is divided into two separate zones “Permanent exposition” and “Open public space” <span id="a1">[\[1\]](#f1)</span>.
 
 ![](/encyclopedia/images/street-art.jpg)
@@ -51,6 +49,43 @@ The museum deals with the educational activities in cooperation with the Russian
 |-|-|-|-|-|
 |2018|000 <span id="a3">[\[3\]](#f3)</span>|000 <span id="a4">[\[4\]](#f4)</span>|000 <span id="a5">[\[5\]](#f5)</span>|00|0,0000|
 
+(Est. 2013, city) is a --- <span id="a1">[\[1\]](#f1)</span>.
+
+![](/encyclopedia/images/{{page.permalink}}.jpg)
+
+**Image**
+
+*Photo: [Name](index) / [Source](index)*
+
+# {{page.title}} Conspectus
+
+|Year|City|
+|-|-|
+|2017|Moscow|
+
+# {{page.title}} Indexmod [*](indexmod)
+
+||2018|2019|
+|-|-|-|
+|Facebook <span id="a3">[\[3\]](#f3)</span>|000||
+|Instagram <span id="a4">[\[4\]](#f4)</span>|000||
+|YouTube <span id="a5">[\[5\]](#f5)</span>|000||
+|Age|000|000|
+|Page Value|{{ page.content | number_of_words }}||
+|Indexmod|0,0000||
+
+# See also
+
++ [About {{page.title}}](index)
++ [{{page.title}} at Wikipedia](index)
+
+# Footnotes
+
+[[3]](#a3) <span id="f3"></span> [{{page.title}} (Facebook)](index)
+
+[[4]](#a4) <span id="f4"></span> [{{page.title}} (Instagram)](index)
+
+[[5]](#a5) <span id="f5"></span> [{{page.title}} (YouTube)](index)
 
 # See also
 
@@ -71,5 +106,3 @@ Saint Petersburg
 [[4]](#a4) <span id="f4"></span> [{{page.title}} (Instagram)](index)
 
 [[5]](#a5) <span id="f5"></span> [{{page.title}} (YouTube)](index)
-
-`Updated Mar. 2018 (Andrei Dei)`

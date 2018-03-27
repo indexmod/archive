@@ -28,5 +28,3 @@ Photo: [Clyde Butcher](butcher-clyde) / [Professional Photographer magazine](htt
 # Footnotes
 
 [[1]](#a1) <span id="f1"></span> [Выставка фотографий Клайда Батчера «Широко открытое пространство» (Галерея Классической Фотографии, 2015)](http://classicgallery.ru/fotovystavki-v-moskve/vystavka-fotografiy-klayda-batchera-shiroko-otkrytoe-prostranstvo)
-
-`Updated Mar. 2018 (Andrei Dei)`

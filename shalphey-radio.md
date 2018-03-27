@@ -4,8 +4,6 @@ permalink: shalphey-radio
 layout: default
 ---
 
-# {{page.title}}
-
 (Est. 2013, city) is a Shalphey Radio (Rus. Радио Шалфей)—a conception, and so called project by Petra-Ivana Babushkina is an independent internet radio with elevator broadcasting <span id="a1">[\[1\]](#f1)</span>.
 
 ![](/encyclopedia/images/image-name.jpg)
@@ -28,6 +26,7 @@ Musical style conception—is a mixture of two Russian radio stations “Radio S
 |2017|Moscow|
 
 # A tracklist sample
+
 Optimistic Tragedy—Chorus of the Bolshoi Theater
 We wait and see—Michael Shufutinskii
 String Serenade, Dvorak—Violin Ensemble Bolshoi
@@ -59,20 +58,35 @@ Swim shake—Peter Privin
 # Live broadcasts
 2015 September 11 “The first live broadcast at Urban Fauna Laboratory”
 
-# {{page.title}} Indexmod
+#(Est. 2013, city) is a --- <span id="a1">[\[1\]](#f1)</span>.
 
-|Year|Facebook|Instagram|YouTube|Age|Indexmod|
-|-|-|-|-|-|
-|2018|000 <span id="a3">[\[3\]](#f3)</span>|000 <span id="a4">[\[4\]](#f4)</span>|000 <span id="a5">[\[5\]](#f5)</span>|00|0,0000|
+![](/encyclopedia/images/{{page.permalink}}.jpg)
 
+**Image**
+
+*Photo: [Name](index) / [Source](index)*
+
+# {{page.title}} Conspectus
+
+|Year|City|
+|-|-|
+|2017|Moscow|
+
+# {{page.title}} Indexmod [*](indexmod)
+
+||2018|2019|
+|-|-|-|
+|Facebook <span id="a3">[\[3\]](#f3)</span>|000||
+|Instagram <span id="a4">[\[4\]](#f4)</span>|000||
+|YouTube <span id="a5">[\[5\]](#f5)</span>|000||
+|Age|000|000|
+|Page Value|{{ page.content | number_of_words }}||
+|Indexmod|0,0000||
 
 # See also
 
 + [About {{page.title}}](index)
 + [{{page.title}} at Wikipedia](index)
-Petra-Ivana Babushkina
-Baboushka Leopolda
-Urban Fauna Laboratory
 
 # Footnotes
 
@@ -82,4 +96,11 @@ Urban Fauna Laboratory
 
 [[5]](#a5) <span id="f5"></span> [{{page.title}} (YouTube)](index)
 
-`Updated Mar. 2018 (Andrei Dei)`
+
+# See also
+
++ [About {{page.title}}](index)
++ [{{page.title}} at Wikipedia](index)
+Petra-Ivana Babushkina
+Baboushka Leopolda
+Urban Fauna Laboratory
