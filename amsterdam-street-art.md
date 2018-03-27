@@ -39,5 +39,3 @@ ASA mission is to give street art a massive boost in Amsterdam. We want to achie
 # Footnotes
 
 [[1, 2, 3]](#a1) <span id="f1"></span> [About (ASA)](http://amsterdamstreetart.com/about/)
-
-`Last edit Feb. 2018 (Andrei Dei)`

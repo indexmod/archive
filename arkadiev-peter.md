@@ -22,5 +22,3 @@ published: true
 # Footnotes
 
 [[3]](#a3) <span id="f3"></span> [{{page.title}} (Facebook)](index)
-
-`Updated Mar. 2018 (Andrei Dei)`

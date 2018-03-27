@@ -14,28 +14,40 @@ layout: default
 Fragment of “cute dog” for smart puns “fetching art” symbol
 Photo: author unknown / Artfido
 
-*Photo: [Photographer name](http://example.net/) / [Source name](http://example.net/)*
+(Est. 2013, city) is a --- <span id="a1">[\[1\]](#f1)</span>.
 
-# Conspectus
+![](/encyclopedia/images/{{page.permalink}}.jpg)
+
+**Image**
+
+*Photo: [Name](index) / [Source](index)*
+
+# {{page.title}} Conspectus
 
 |Year|City|
-|----|---------|
-|2014|Tokyo|
-|2015|Moscow|
-|2017|Kiev|
+|-|-|
+|2017|Moscow|
+
+# {{page.title}} Indexmod [*](indexmod)
+
+||2018|2019|
+|-|-|-|
+|Facebook <span id="a3">[\[3\]](#f3)</span>|000||
+|Instagram <span id="a4">[\[4\]](#f4)</span>|000||
+|YouTube <span id="a5">[\[5\]](#f5)</span>|000||
+|Age|000|000|
+|Page Value|{{ page.content | number_of_words }}||
+|Indexmod|0,0000||
 
 # See also
 
-- [Source name](http://example.net/)
-- [Source name](http://example.net/)
-- [Source name](http://example.net/)
++ [About {{page.title}}](index)
++ [{{page.title}} at Wikipedia](index)
 
 # Footnotes
 
-[[1]](#a1) <span id="f1"></span> [Artfido's Terms of Use (Author name)](https://www.artfido.com/terms-use)
+[[3]](#a3) <span id="f3"></span> [{{page.title}} (Facebook)](index)
 
-[[2]](#a2) <span id="f2"></span> [Article name (Author name)](http://example.net/article)
+[[4]](#a4) <span id="f4"></span> [{{page.title}} (Instagram)](index)
 
-[[3]](#a3) <span id="f3"></span> [Article name (Author name)](http://example.net/article)
-
-`Updated Mar. 2018 (Andrei Dei)`
+[[5]](#a5) <span id="f5"></span> [{{page.title}} (YouTube)](index)

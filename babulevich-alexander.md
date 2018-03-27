@@ -20,5 +20,3 @@ layout: default
 # Footnotes
 
 [[1]](#a1) <span id="f1"></span> [Записки на обоях Александр Бабулевич в Музее Вадима Сидура (Kommersant, Valentin Diakonov)](https://www.kommersant.ru/gallery/2891217)
-
-`Updated Mar. 2018 (Andrei Dei)`

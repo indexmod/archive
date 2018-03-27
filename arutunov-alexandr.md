@@ -38,5 +38,3 @@ SNC 100 MIPRF
 [[2]](#a2) <span id="f2"></span> [Article name (Author name)](http://example.net/article)
 
 [[3]](#a3) <span id="f3"></span> [Article name (Author name)](http://example.net/article)
-
-`Updated Mar. 2018 (Andrei Dei)`

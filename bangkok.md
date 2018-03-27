@@ -8,6 +8,7 @@ layout: default
 (Est. 2013, city) is a subject, description-one <span id="a1">[\[1\]](#f1)</span> Bangkok (Thai กรุงเทพมหานคร; BKK)—is the capital and the most populous city in Thailand. Login to edit Bangkok
 
 # Regional headquarters
+
 From the 1980s, many multinational corporations locate their regional headquarters in Bangkok. It is a regional centre for the arts, fashion and entertainment.1 Login to edit
 
 Photo: Andrei Gurotesuku / Indexmod
@@ -53,5 +54,3 @@ Siam Group
 [[2]](#a2) <span id="f2"></span> [Article name (Author name)](http://example.net/article)
 
 [[3]](#a3) <span id="f3"></span> [Article name (Author name)](http://example.net/article)
-
-`Updated Mar. 2018 (Andrei Dei)`

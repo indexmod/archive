@@ -45,6 +45,3 @@ published: true
 [[3]](#a3) <span id="f3"></span> [Name (Facebook)](http://example.net/article)
 
 [[4]](#a4) <span id="f4"></span> [Name (Instagram)](http://example.net/article)
-
-
-`Last update Feb. 2018 (Andrei Dei)`
