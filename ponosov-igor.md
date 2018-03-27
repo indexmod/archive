@@ -4,6 +4,7 @@ permalink: ponosov-igor
 layout: default
 published: true
 ---
+
 (Est. 2013, city) is a Igor Ponosov (Rus. Игорь Поносов) born 1980, Moscow—Russian artist, curator, writer, programmer and hacker1, co-founder of Partizaning living and working in Moscow. Login to edit Igor Ponosov <span id="a1">[\[1\]](#f1)</span>.
 
 ![](/encyclopedia/images/image-name.jpg)
