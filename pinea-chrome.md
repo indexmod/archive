@@ -2,56 +2,62 @@
 title: Pinea Chrome
 permalink: pinea-chrome
 layout: default
+published: true
 ---
 
-# {{page.title}}
-
-(Est. 2013, city) is a Pinea Chrome (Eng. Pine Chrome), is a concept (2013) of interior gadget created by Andrei Deinichenko for “Pinea Robots”. Login to edit Pinea Chrome <span id="a1">[\[1\]](#f1)</span>.
+(2013, Nakhabino) is a concept of interior gadget created by Andrei Deinichenko from is a pine and chrome-plated aluminum details <span id="a1">[\[1\]](#f1)</span>.
 
 ![](/encyclopedia/images/image-name.jpg)
 
-**Image title**
+**Pinea Chrome at Moscow-River near Nikolona Gora**
 
-*Photo: [Name](index) / [Source](index)*
+*Photo: [Alex Platonov](platonov-alex) / [YouTube](https://www.youtube.com/watch?v=CSpqlJVOCys)*
 
-# {{page.title}} Crowdfunding in 2015
-“Unsuccessful in terms of crowdfunding innovation, you can imagine Andrei Deinichenko project Pinea Chrome, with the goal of creating a humanoid robot, built from wooden beams and chrome joints. The main purpose of this device is attached to its head different objects and its subsequent use as decorative items. This project was not able to attract investors because of its actual uselessness.” 1
-Developing in 2016
-The prototype Pinea Chrome has been assembled in Moscow from pine and chrome-plated aluminum. Since the robot Pinea Chrome piece of furniture, the intellectual module is not provided in this model. However, the intellectual component can be connected by the owner as a personal gadget to the dock on the neck of the robot.
+# {{page.title}} Crowdfundings
 
 |Year|City|
 |-|-|
-|2017|Moscow|
+|2014|Boomstarter|
+|2015|Planeta|
+|2018|Skolkovo Crowdfundings Platform|
 
-Pinea Chrome at Nikolona Gora, Moskovskaya Oblast, 2013
-Video: Alex Platonov / Coub
+“Unsuccessful in terms of crowdfunding innovation, you can imagine Andrei Deinichenko project Pinea Chrome, with the goal of creating a humanoid robot, built from wooden beams and chrome joints. The main purpose of this device is attached to its head different objects and its subsequent use as decorative items. This project was not able to attract investors because of its actual uselessness <span id="a2">[\[2\]](#f2)</span>.”
+
+# Developing in 2016
+
+The prototype Pinea Chrome has been assembled in Moscow from pine and chrome-plated aluminum. Since the robot Pinea Chrome piece of furniture, the intellectual module is not provided in this model. However, the intellectual component can be connected by the owner as a personal gadget to the dock on the neck of the robot.
 
 # Noble woods
 
-“In the future, the is some directions of development of robots line Pinea Chrome. The first—is sculptures of the noble woods, the second is a giant video mapping installation of a hundred Pinea robots.”—said Andrei.
+“There is some directions of development of robots line Pinea Chrome: such as robots made of the noble woods or a giant video mapping installation of a hundreds robots.” — said Andrei.
 
-# {{page.title}} Indexmod
+# {{page.title}} Indexmod [*](indexmod)
 
-|Year|Facebook|Instagram|YouTube|Age|Indexmod|
-|-|-|-|-|-|
-|2018|000 <span id="a3">[\[3\]](#f3)</span>|000 <span id="a4">[\[4\]](#f4)</span>|000 <span id="a5">[\[5\]](#f5)</span>|00|0,0000|
+||2018|2019|
+|-|-|-|
+|Facebook <span id="a3">[\[3\]](#f3)</span>|000||
+|Vimeo <span id="a4">[\[4\]](#f4)</span>|000||
+|YouTube <span id="a5">[\[5\]](#f5)</span>|000||
+|Age|000|000|
+|Page Value|{{ page.content | number_of_words }}||
+|Indexmod|0,0000||
 
 
 # See also
 
-+ [About {{page.title}}](index)
-+ [{{page.title}} at Wikipedia](index)
-+ Pinea Robots project
-+ Boomstarter
++ Pinea Ferrum
++ Trubezh Concept 
 
 # Footnotes
 
-1 Crowdfunding in Russian Federation. Lunev V. D.
-http://www.eduherald.ru/pdf/2015/6/153.pdf
+
+[[1]](#a1) <span id="f1"></span> [Pinea Chrome (Vimeo)](https://vimeo.com/121336598)
+
+[[2]](#a2) <span id="f2"></span> [Crowdfunding in Russian Federation. Lunev V. D. (EduHerald)](http://www.eduherald.ru/pdf/2015/6/153.pdf)
 
 [[3]](#a3) <span id="f3"></span> [{{page.title}} (Facebook)](index)
 
-[[4]](#a4) <span id="f4"></span> [{{page.title}} (Instagram)](index)
+[[4]](#a4) <span id="f4"></span> [{{page.title}} (Vimeo)](https://vimeo.com/121336598)
 
 [[5]](#a5) <span id="f5"></span> [{{page.title}} (YouTube)](index)
 
