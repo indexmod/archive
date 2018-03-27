@@ -17,6 +17,41 @@ google_analytics: 'UA-112478299-1'
 theme: jekyll-theme-minimal
 include: ['.htaccess']
 gems:
-plugins:
-  - jekyll-sitemap
+
+prose:
+  rooturl: 'https://indexmod.github.io/encyclopedia/'
+  siteurl: 'https://indexmod.github.io/encyclopedia/'
+  relativeLinks: 'http://prose.github.io/starter/links.jsonp'
+  media: '/images'
+  ignore:
+    - index.md
+    - _config.yml
+    - /_layouts
+    - /_includes
+  metadata:
+    _pages:
+      - name: "layout"
+        field:
+          element: "hidden"
+          value: "default
+      - name: "tags"
+        field:
+          element: "multiselect"
+          label: "Add Tags"
+          placeholder: "Choose Tags"
+          options:
+            - name: "Apples"
+              value: "apples"
+            - name: "Bananas"
+              value: "bananas"
+    _posts/static:
+      - name: "layout"
+        field:
+          element: "hidden"
+          value: "page"
+      - name: "permalink"
+        field:
+          element: "text"
+          label: "Permalink"
+          value: ""
 
