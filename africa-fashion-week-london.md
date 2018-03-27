@@ -46,5 +46,3 @@ published: true
 [[4]](#a4) <span id="f4"></span> [{{page.title}} (Instagram)](https://www.instagram.com/afwlondon/)
 
 [[5]](#a5) <span id="f5"></span> [{{page.title}} (YouTube)](https://www.youtube.com/user/Africafwl/about)
-
-`Updated Mar. 2018 (Andrei Dei)`
