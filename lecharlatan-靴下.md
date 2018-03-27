@@ -54,12 +54,12 @@ published: true
 
 ||2018|2019|
 |-|-|-|
-|Facebook <span id="a3">[\[3\]](#f3)</span>|000||
-|Instagram <span id="a4">[\[4\]](#f4)</span>|000||
-|YouTube <span id="a5">[\[5\]](#f5)</span>|000||
-|年齢|000||
+|Facebook <span id="a3">[\[3\]](#f3)</span>|719||
+|Instagram <span id="a4">[\[4\]](#f4)</span>|4235||
+|YouTube <span id="a5">[\[5\]](#f5)</span>|3380||
+|年齢|5||
 |ページ値|{{ page.content | number_of_words }}||
-|Indexmod|0,0000||
+|Indexmod|9,503233||
 
 # も参照してください
 
