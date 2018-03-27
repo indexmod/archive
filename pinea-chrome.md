@@ -40,7 +40,7 @@ The prototype Pinea Chrome has been assembled in Moscow from pine and chrome-pla
 |YouTube <span id="a5">[\[5\]](#f5)</span>|13||
 |Age|5||
 |Page Value|{{ page.content | number_of_words }}||
-|Indexmod|0,0000||
+|Indexmod|0,0005181||
 
 
 # See also
