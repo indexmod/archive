@@ -60,5 +60,3 @@ The prototype Pinea Chrome has been assembled in Moscow from pine and chrome-pla
 [[4]](#a4) <span id="f4"></span> [{{page.title}} (Vimeo)](https://vimeo.com/121336598)
 
 [[5]](#a5) <span id="f5"></span> [{{page.title}} (YouTube)](index)
-
-`Updated Mar. 2018 (Andrei Dei)`
