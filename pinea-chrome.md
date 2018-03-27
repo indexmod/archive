@@ -7,9 +7,9 @@ published: true
 
 (2013, Nakhabino) is a concept of interior gadget created by Andrei Deinichenko from is a pine and chrome-plated aluminum details <span id="a1">[\[1\]](#f1)</span>.
 
-![](/encyclopedia/images/image-name.jpg)
+![](/encyclopedia/images/pinea-chrome.jpg)
 
-**Pinea Chrome at Moscow-River near Nikolona Gora**
+**1. A Pinea Chrome robots at the indoor composition; 2. Cover of Pinea Chrome campaign at Vimeo; 3. Scetch of the robot's ID tag; 4. Set of Pinea Chrome in box sketch; 5, 7. Pinea Chrome at Moscow-River near Nikolona Gora; 6. Robot and projection installation scheme; 8. Gadget setting scheme; 9. In-box-manual**
 
 *Photo: [Alex Platonov](platonov-alex) / [YouTube](https://www.youtube.com/watch?v=CSpqlJVOCys)*
 
