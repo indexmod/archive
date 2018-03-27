@@ -13,6 +13,17 @@ published: true
 
 *Photo: [PerthNow](perthnow) / [The Sunday Times](https://www.perthnow.com.au/entertainment/confidential/gallery-fashion-fest-takes-adelaide-ng-60a65860e5142597fa09d257aafd08db)*
 
+# {{page.title}} Indexmod [*](indexmod)
+
+||2018|2019|
+|-|-|-|
+|Facebook <span id="a3">[\[3\]](#f3)</span>|000||
+|Instagram <span id="a4">[\[4\]](#f4)</span>|000||
+|YouTube <span id="a5">[\[5\]](#f5)</span>|000||
+|Age|000||
+|Page Value|{{ page.content | number_of_words }}||
+|Indexmod|0,0000||
+
 # See also
 
 + [Adjara Fashion Week](adjara-fashion-week)
