@@ -19,11 +19,17 @@ published: true
 |2013|Founded by Lydia Cutler|
 |2018|Transforming to Aberdeen Fashion & Art Week|
 
-# Aberdeen Fashion Week Indexmod
 
-|Year|Facebook|Instagram|Age|AFWI|
-|-|-|-|-|-|
-|2018|100 <span id="a3">[\[3\]](#f3)</span>|200 <span id="a4">[\[4\]](#f4)</span>|12|0,0025|
+# {{page.title}} Indexmod [*](indexmod)
+
+||2018|2019|
+|-|-|-|
+|Facebook <span id="a3">[\[3\]](#f3)</span>|000||
+|Instagram <span id="a4">[\[4\]](#f4)</span>|000||
+|YouTube <span id="a5">[\[5\]](#f5)</span>|000||
+|Age|000|000|
+|Page Value|{{ page.content | number_of_words }}||
+|Indexmod|0,0000||
 
 
 # See also
