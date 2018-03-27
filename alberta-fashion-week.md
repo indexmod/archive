@@ -4,12 +4,6 @@ permalink: alberta-fashion-week
 layout: default
 published: true
 ---
-
-<<<<<<< HEAD
-=======
-
-
->>>>>>> fa9dcbd2569ae9e4341bb446e461d6650530a901
 (Est. 2009, Calgary) is a bi-yearly fashion event in Canada founded by David R. Politi featuring local and national, Canadian designers, first shows were held between October 4–10, 2009, at the Banke of Nova Scotia, on Stephen Avenue. The last show was announced May 16–21, 2011. See also: Western Canada Fashion Week <span id="a1">[\[1\]](#f1)</span>, description-two <span id="a2">[\[2\]](#f2)</span> description-3 <span id="a3">[\[3\]](#f3)</span>, extra text.
 
 ![](/images/image-name.jpg)
