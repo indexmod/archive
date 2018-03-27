@@ -50,7 +50,16 @@ published: true
 |2015|Music video|Ligalaiz — Karavan <span id="a12">[\[12\]](#f12)</span>|Dancer|
 |2015|TV show|Years and Years King Live at The Tonight Show with Jimmy Fallon <span id="a13">[\[13\]](#f13)</span>|Olly Alexander|
 
-# Lecharlatan Indexmod
+# {{page.title}} Indexmod [*](indexmod)
+
+||2018|2019|
+|-|-|-|
+|Facebook <span id="a3">[\[3\]](#f3)</span>|000||
+|Instagram <span id="a4">[\[4\]](#f4)</span>|000||
+|YouTube <span id="a5">[\[5\]](#f5)</span>|000||
+|Age|000|000|
+|Page Value|{{ page.content | number_of_words }}||
+|Indexmod|0,0000||
 
 |Year|Facebook|Instagram|YouTube|Age|Indexmod|Total|
 |-|-|-|-|-|-|-|
