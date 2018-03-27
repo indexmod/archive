@@ -5,9 +5,7 @@ layout: default
 published: true
 ---
 
-(Est. 2009, Calgary) is a bi-yearly fashion event in Canada founded by David R. Politi featuring local and national, Canadian designers, first shows were held between October 4–10, 2009, at the Banke of Nova Scotia, on Stephen Avenue. The last show was announced May 16–21, 2011. See also: Western Canada Fashion Week <span id="a1">[\[1\]](#f1)</span>, description-two <span id="a2">[\[2\]](#f2)</span> description-3 <span id="a3">[\[3\]](#f3)</span>, extra text.
-
-(Est. 2013, city) is a --- <span id="a1">[\[1\]](#f1)</span>.
+(Est. 2009, Calgary) is a bi-yearly fashion event in Canada founded by David R. Politi featuring local and national, Canadian designers, first shows were held between October 4–10, 2009, at the Banke of Nova Scotia, on Stephen Avenue. The last show was announced May 16–21, 2011 <span id="a1">[\[1\]](#f1)</span>.
 
 ![](/encyclopedia/images/{{page.permalink}}.jpg)
 
@@ -28,12 +26,13 @@ published: true
 |Facebook <span id="a3">[\[3\]](#f3)</span>|000||
 |Instagram <span id="a4">[\[4\]](#f4)</span>|000||
 |YouTube <span id="a5">[\[5\]](#f5)</span>|000||
-|Age|000|000|
+|Age|000||
 |Page Value|{{ page.content | number_of_words }}||
 |Indexmod|0,0000||
 
 # See also
 
++ [Western Canada Fashion Week](western-canada-fashion-week)
 + [About {{page.title}}](index)
 + [{{page.title}} at Wikipedia](index)
 
