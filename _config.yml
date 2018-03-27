@@ -32,8 +32,7 @@ prose:
     _pages:
       - name: "layout"
         field:
-          element: "hidden"
-          value: "default
+          value: "default"
       - name: "tags"
         field:
           element: "multiselect"
