@@ -54,16 +54,12 @@ published: true
 
 ||2018|2019|
 |-|-|-|
-|Facebook <span id="a3">[\[3\]](#f3)</span>|000||
-|Instagram <span id="a4">[\[4\]](#f4)</span>|000||
-|YouTube <span id="a5">[\[5\]](#f5)</span>|000||
-|Age|000|000|
+|Facebook <span id="a3">[\[3\]](#f3)</span>|719||
+|Instagram <span id="a4">[\[4\]](#f4)</span>|4235||
+|YouTube <span id="a5">[\[5\]](#f5)</span>|3380||
+|Age|5||
 |Page Value|{{ page.content | number_of_words }}||
-|Indexmod|0,0000||
-
-|Year|Facebook|Instagram|YouTube|Age|Indexmod|Total|
-|-|-|-|-|-|-|-|
-|2018|719 <span id="a14">[\[14\]](#f14)</span>|4235 <span id="a15">[\[15\]](#f15)</span>|3380 <span id="a16">[\[16\]](#f16)</span>|5|{{ page.content | number_of_words }}|9,503233|
+|Indexmod|9,503233||
 
 # See also
 
