@@ -6,14 +6,14 @@
  .intro {
 	font-family: 'Georgia', serif;
 	font-size: 24px;
-	font-weight: 100;
+	font-weight: 900;
 	line-height: 1.3em;
 	list-style-type: none;
 }
 h1, h2, h3, h4, h5, h6 {
 	font-family: 'Georgia', serif;
 	font-size: 39px;
-	font-weight: 100;
+	font-weight: 900;
 	line-height: 1.2em;
 	color: #454343;
 }
@@ -21,14 +21,14 @@ table {
 	font-family: 'Monaco', serif;
 	font-size: 18px;
 	line-height: 1em;
-	font-weight: 100;
+	font-weight: 900;
 	color: #454343;
 	border-collapse: collapse;
 }
 th {
 	background-color: #f5f5f5;
 	color: green;
-	font-weight: 100;
+	font-weight: 900;
 	padding: 9px;
 	text-align: left;
 	height: auto;
@@ -38,6 +38,7 @@ th {
 td {
 	padding: 9px;
 	text-align: left;
+	font-weight: 900;
 	height: auto;
 	vertical-align: top;
 	border: 0.1px solid #e0e0e0;
@@ -49,7 +50,7 @@ tr:hover {
 	font-family: 'Monaco';
 	font-size: 19px;
 	line-height: 4em;
-	font-weight: 100;
+	font-weight: 900;
 	color: green;
 	border: solid 0.1px #e0e0e0;
 	background-color: #f5f5f5;
@@ -65,7 +66,7 @@ p {
 	font-family: 'Georgia', serif;
 	font-size: 24px;
 	line-height: 1.6em;
-	font-weight: 100;
+	font-weight: 900;
 	color: #454343;
 }
 strong {
@@ -73,43 +74,47 @@ strong {
 	font-family: 'Helvetica Neue';
 	font-size: 24px;
 	line-height:15px;
-	font-weight: 800;
+	font-weight: 900;
 }
 em {
 	color: #454343;
 	font-size: 24px;
 	line-height: 0.1em;
-	font-weight: 100;
+	font-weight: 900;
 }
 li {
 	font-family: 'Georgia', serif;
 	font-size: 24px;
 	line-height: 1.6em;
-	font-weight: 100;
+	font-weight: 900;
 	color: #454343;
 }
 ul {
 	font-family: 'Georgia', serif;
 	font-size: 24px;
 	line-height: 1.6em;
-	font-weight: 100;
+	font-weight: 900;
 	color: #454343;
 }
 a:link {
 	color: #4e80d8;
 	text-decoration: none;
+	font-weight: 900;
 }
 a:visited {
 	color: #4e80d8;
 	text-decoration: none;
+	font-weight: 900;
 }
 a:hover {
 	color: green;
 	text-decoration: none;
+	font-weight: 900;
 }
 a:active {
 	color: #4e80d8;
 	text-decoration: none;
+	font-weight: 900;
 }
 
 img {
@@ -131,7 +136,7 @@ img {
 }
 footer {
 	font-family: 'Georgia', serif;
-	font-weight: 100;
+	font-weight: 900;
 	font-size: 24px;
 	line-height: 1.3em;
 }
