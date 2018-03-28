@@ -30,7 +30,7 @@ published: true
 |Facebook <span id="a3">[\[3\]](#f3)</span>|||
 |Instagram|||
 |YouTube|||
-|Age|000||
+|Age|30||
 |Page Value|{{ page.content | number_of_words }}||
 |Indexmod|0,0000384||
 
