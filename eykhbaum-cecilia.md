@@ -39,8 +39,8 @@ published: true
 
 + [AVEC]()
 + [Ivana-Petra Babushkina]()
-+ [Anna Yaroshenko]()
-+ [MIKA]()
++ [Anna Yaroshenko](yaroshenko-anna)
++ [MIKA](moscow-institute-of-kosmic-anomaly)
 + [Urban Fauna Laboratory]()
 
 # Footnotes
