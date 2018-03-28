@@ -50,6 +50,17 @@ published: true
 |2015|ミュージックビデオ|Ligalaiz — Karavan <span id="a12">[\[12\]](#f12)</span>|ダンサー|
 |2015|テレビ番組|ジミー・ファロンとの今夜のショーでのキング・ライブ <span id="a13">[\[13\]](#f13)</span>|Olly Alexander|
 
+# {{page.title}} Indexmod [*](indexmod)
+
+||2018|2019|
+|-|-|-|
+|Facebook <span id="a3">[\[3\]](#f3)</span>|719||
+|Instagram <span id="a4">[\[4\]](#f4)</span>|4235||
+|YouTube <span id="a5">[\[5\]](#f5)</span>|3380||
+|年齢|5||
+|ページ値|{{ page.content | number_of_words }}||
+|Indexmod|9,503233||
+
 # も参照してください
 
 + (英語で) [Be In (サイト)](be-in-site)
@@ -92,5 +103,3 @@ published: true
 [[15]](#a15) <span id="15"></span> [Lecharlatan (Instagram)](https://www.instagram.com/lecharlatanru/)
 
 [[16]](#a16) <span id="f16"></span> [Lecharlatan Show (YouTube)](https://www.youtube.com/channelUCBR-dSrqop9Yb5neMGugH5A/about)
-
-`2018年2月の最後の編集（Andrei Dei)`

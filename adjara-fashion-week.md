@@ -13,6 +13,17 @@ published: true
 
 *Photo: [Ajara TV](http://ajaratv.ge/news/en/17964/ajara-fashion-week.html) / [Ajara TV](http://ajaratv.ge/news/en/17964/ajara-fashion-week.html)*
 
+# {{page.title}} Indexmod [*](indexmod)
+
+||2018|2019|
+|-|-|-|
+|Facebook <span id="a3">[\[3\]](#f3)</span>|000||
+|Instagram <span id="a4">[\[4\]](#f4)</span>|000||
+|YouTube <span id="a5">[\[5\]](#f5)</span>|000||
+|Age|000|000|
+|Page Value|{{ page.content | number_of_words }}||
+|Indexmod|0,0000||
+
 # See also
 
 + [Adelaide Fashion Festival](adelaide-fashion-festival)
