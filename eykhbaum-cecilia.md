@@ -1,13 +1,14 @@
 ---
-title: Eykhbaum, Cecilia
+title: 'Eykhbaum, Cecilia'
 permalink: eykhbaum-cecilia
 layout: default
+published: true
 ---
 
 
-(Rus. Татьяна Шапигузова, born 1988, USSR) aka Peggy Guggenheim, Satanusha, Shapiguzova Tatiana is a Russian model, DJ, founder of Moscow Institute of Kosmic Anomaly living and working in Moscow <span id="a1">[\[1\]](#f1)</span>.
+(Rus. Татьяна Шапигузова, born 1988, USSR) aka Peggy Guggenheim, Satanusha, Suspiria is a Russian model, DJ, co-founder of Moscow Institute of Kosmic Anomaly living and working in Moscow <span id="a1">[\[1\]](#f1)</span>.
 
-![](/encyclopedia/images/image-name.jpg)
+![](/encyclopedia/images/eykhbaum-cecilia.jpg)
 
 **Cecilia Eykhbaum playing DJ set at the Urban Fauna Laboratory**
 
@@ -37,6 +38,10 @@ layout: default
 + Urban Fauna Laboratory
 
 # Footnotes
+
+10 треков от Suspiria для Москвы, занесенной снегом
+
+[[1]](#a1) <span id="f1"></span> [10 треков от Suspiria для Москвы, занесенной снегом (Афиша Волна)](https://daily.afisha.ru/archive/volna/sounds/10-trekov-ot-suspiria-dlya-moskvy-zanesennoy-snegom/)
 
 [[3]](#a3) <span id="f3"></span> [{{page.title}} (Facebook)](index)
 
