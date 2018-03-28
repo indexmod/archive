@@ -32,7 +32,7 @@ published: true
 |YouTube|||
 |Age|000||
 |Page Value|{{ page.content | number_of_words }}||
-|Indexmod|0,0000||
+|Indexmod|0,0000384||
 
 
 # See also
