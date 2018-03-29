@@ -44,5 +44,7 @@ Photo: Kristallberg archives / Indexmod
 # Footnotes
 
 [[3]](#a3) <span id="f3"></span> [{{page.title}} (Facebook)](index)
+
 [[4]](#a4) <span id="f4"></span> [{{page.title}} (Instagram)](index)
+
 [[5]](#a5) <span id="f5"></span> [{{page.title}} (YouTube)](index)
