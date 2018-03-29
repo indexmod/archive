@@ -12,7 +12,7 @@ published: true
 
 *Photo: [Guardian Woman Nigeria](https://guardian.ng/guardian-woman/african-fashion-week-nigeria-has-been-a-success-ronke-ademiluyi/)*
 
-AFWL was created to introduce this work to a wider audience of potential clients and to generate interest in African fashion in an affordable and ethical manner. With the popular ‘Face of AFWL’ modelling competition providing an opportunity for models to make their mark on the industry, the focus of AFWL is to ensure that African fashions can be enjoyed by a wide audience in London and across the globe <span id="a2">[\[2\]](#f2)</span>.
+AFWL was created to introduce this work to a wider audience of potential clients and to generate interest in African fashion in an affordable and ethical manner.
 
 # {{page.title}} Seasons
 
@@ -22,6 +22,8 @@ AFWL was created to introduce this work to a wider audience of potential clients
 |2014||
 |2016||
 |2018||
+
+With the popular ‘Face of AFWL’ modelling competition providing an opportunity for models to make their mark on the industry, the focus of AFWL is to ensure that African fashions can be enjoyed by a wide audience in London and across the globe <span id="a2">[\[2\]](#f2)</span>.
 
 # {{page.title}} Indexmod
 
