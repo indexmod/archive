@@ -29,12 +29,12 @@ With the popular ‘Face of AFWL’ modelling competition providing an opportuni
 
 ||2018|2019|
 |-|-|-|
-|Facebook <span id="a3">[\[3\]](#f3)</span>|93792|000|
-|Instagram <span id="a4">[\[4\]](#f4)</span>|29900|000|
-|YouTube <span id="a5">[\[5\]](#f5)</span>|79956|000|
-|Age|7|000|
+|Facebook <span id="a3">[\[3\]](#f3)</span>|93792||
+|Instagram <span id="a4">[\[4\]](#f4)</span>|29900||
+|YouTube <span id="a5">[\[5\]](#f5)</span>|79956||
+|Age|7||
 |Indexmod|{{ page.content | number_of_words }}||
-|Total|1,31893112|0,0000|
+|Total|1,31893112||
 
 # See also
 
