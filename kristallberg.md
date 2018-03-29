@@ -6,7 +6,7 @@ published: true
 ---
 
 
-(Est. 2013, city) is a Kristallberg (Rus. Кристаллберг)—a fashion brand founded by Polina Bestuzheva in 2010. In the period from 2010 to 2015 under the name Kristallberg got one collection F / W 2010—2011 <span id="a1">[\[1\]](#f1)</span>.
+(Rus. Кристаллберг, est. 2010, Moscow) is a fashion brand founded by Polina Bestuzheva in 2010. In the period from 2010 to 2015 under the name Kristallberg got one collection F / W 2010-2011 <span id="a1">[\[1\]](#f1)</span>.
 
 ![](/encyclopedia/images/image-name.jpg)
 
