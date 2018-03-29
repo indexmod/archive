@@ -39,7 +39,7 @@ visiting New Year's Eve of the Naked Heart Foundation and the presentation of Pa
 |YouTube|||
 |Age|30||
 |Page Value|{{ page.content | number_of_words }}||
-|Indexmod|0,0000384||
+|Indexmod|0,0000504||
 
 # See also
 
