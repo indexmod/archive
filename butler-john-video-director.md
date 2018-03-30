@@ -1,5 +1,5 @@
 ---
-title: 'Батлер, Джон (режиссер)'
+title: 'Батлер, Джон (режиссёр)'
 permalink: butler-john-director
 layout: default-ru
 published: true
