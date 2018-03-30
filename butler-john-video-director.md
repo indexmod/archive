@@ -1,46 +1,38 @@
 ---
-title: 'Батлер, Джон (режиссер)'
+title: 'Батлер, Джон (режиссёр)'
 permalink: butler-john-director
 layout: default-ru
 published: true
 ---
 
-(Англ. John Butler) это имя учетной записи и псевдоним в американском видеохостинге Vimeo, который, принадлежит предположительно, человеку с псевдонимом или с настоящим именем Джон Батлер, автору музыки и режиссеру серии коротких научно-фантастических видео эпизодов на темы искусственного интеллекта и людей в будущем <span id="a1">[\[1\]](#f1)</span>.
+(Англ. John Butler) это имя учетной записи и псевдоним в американском видеохостинге Vimeo, который, принадлежит предположительно, человеку с псевдонимом или с настоящим именем Джон Батлер, автору музыки и создателю серии сверхкоротких научно-фантастических видео эпизодов затрагивающих темы искусственного интеллекта и людей в будущем <span id="a1">[\[1\]](#f1)</span>. Джон Батлер — видео-артист работающий с виртуальной и дополненной реальностью.
 
 ![](/encyclopedia/images/{{page.permalink}}.jpg)
 
-**Image**
+**Кадр из эпизода «Людям положено работать» (2017)**
 
-*Photo: [Name](index) / [Source](index)*
+
+*Фото: [Джон Батлер](butler-john-video-director) / [Vimeo](https://vimeo.com/234232807)*
 
 # {{page.title}} Conspectus
 
-|Year|City|
+|Год|Эпизод|Цикл|
 |-|-|
-|2017|Moscow|
+|2018|Медвежья мечта <span id="a2">[\[2\]](#f2)</span>|Зависимость|
+|2018|По запросу <span id="a3">[\[3\]](#f3)</span>|
+Тестовый захват среды VR для «Siren Servers», Sonica 2017, в сотрудничестве с ISO Design|
+|2017|Людям положено работать <span id="a4">[\[4\]](#f4)</span>|Рабочая модель для базового дохода|
+|2017|Машины способны учиться <span id="a5">[\[5\]](#f5)</span>|Машины могут учиться, люди могут адаптироваться. это путь вещей|
 
-# {{page.title}} Indexmod [*](indexmod)
-
-||2018|2019|
-|-|-|-|
-|Facebook <span id="a3">[\[3\]](#f3)</span>|000||
-|Instagram <span id="a4">[\[4\]](#f4)</span>|000||
-|YouTube <span id="a5">[\[5\]](#f5)</span>|000||
-|Age|30||
-|Page Value|{{ page.content | number_of_words }}||
-|Indexmod|0,0000||
 
 # See also
 
-+ [About {{page.title}}](index)
-+ [{{page.title}} at Wikipedia](index)
++ [Mic Sachkov](sachkov-mic)
 
 # Footnotes
 
-[[3]](#a3) <span id="f3"></span> [{{page.title}} (Facebook)](index)
-
-[[3]](#a3) <span id="f3"></span> [{{page.title}} (Facebook)](index)
-
-[[4]](#a4) <span id="f4"></span> [{{page.title}} (Instagram)](index)
-
-[[5]](#a5) <span id="f5"></span> [{{page.title}} (YouTube)](index)
+[[1]](#a1) <span id="f1"></span> [John Butler (Vimeo)](https://vimeo.com/user3946359)
+[[2]](#a2) <span id="f2"></span> [The bear’s dream (John Butler, Vimeo)](https://vimeo.com/258057890)
+[[3]](#a3) <span id="f3"></span> [On Demand (John Butler, Vimeo)](https://vimeo.com/243852930)
+[[4]](#a4) <span id="f4"></span> [People should work (John Butler, Vimeo)](https://vimeo.com/234232807)
+[[5]](#a5) <span id="f5"></span> [Machines can Learn (John Butler, Vimeo)](https://vimeo.com/255756908)
