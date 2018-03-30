@@ -5,29 +5,29 @@ layout: info
 published: true
 ---
 
-# Ссылка Редактировать
+# Ссылка «Редактировать»
 
 Измени любую страницу, следуя по ссылке **Редактировать** вверху каждой страницы, и перейдя в редактор Prose.io. Внимание: для сохранения изменений нужен аккаунт [GitHub](https://github.com/join).
 
-# Create new page
+# Создай страницу
 
-+ Follow **Edit**
-+ Find the `template.md`and copy content
-+ In encyclopedia tab create new file with .md extention
-+ Paste content of the template
-+ Edit **Page title** and **Permalink** and save new page
++ Перейди по **Редактировать**
++ Найди `template.md` и скопируй содержимое
++ Во вкладке encyclopedia создай новый файл с расширением .md
++ Вклей содержимое `template.md` в новый файл
++ Отредактируй **Page title** и **Permalink** в верхней области файла отделённой тремя дефисами ---
 
-# Writing charachter by charachter
+# Написание статьи
 
-The aim of Indexmod Encyclopedia to simplify wiki syntax for a pretty and light format. Following checklist explains few steps of creating and editing beautiful articles in Indexmod Encyclopedia.
+Цель Индексмод энциклопедии упростить синтакс wiki для красивого и легкого вида статей. Далее несколко советов по аккуратному редактирванию.
 
 # Markdown
 
-Every page is written with [Markdown](https://daringfireball.net/projects/markdown/syntax) lightest and easiest language for static pages generating.
+Каждая страница создана с помшью [Markdown](https://daringfireball.net/projects/markdown/syntax) лёгкого и простого языка для создания статических страниц.
 
 #  Front matter
 
-Each page on top have hidden section with meta data. This **Front matter** area is set with triple-dashed lines.
+Каждая страница имеет скрытую область с мета-данными. Эта область **Front matter** отделена тройными дефисами.
 
 `---`
 `title: How to edit`
@@ -35,70 +35,70 @@ Each page on top have hidden section with meta data. This **Front matter** area 
 `layout: default`
 `---`
 
-Above code is a **Front matter** of page with title **How to edit**. A typical **Front matter** may contain **Page title**, **Permalink**, **Layout** and other metadata.
+Пример сверху это **Front matter** странцы с заголовком **How to edit**. Типичный **Front matter** может содержать **Page title**, **Permalink**, **Layout** и другие мета-данные.
 
-# Page structure
+# Структура страницы
 
-The visible area of the page have **Title**, **Cover** section, an **Image** with **Caption** and **Credits**, **Conspectus** section, **See also** section and **Footnotes** section.
+Видимая часть страницы состоит из **Заголовка**, раздела **Основной**, **Картинки** с **Описанием** и **Кредитами**, раздела **Конспект**, разделов **См. также** м **Сноски**.
 
-# Title  
+# Заголовок  
 
 `# Aberdeen Fashion Week`
 `# Tailor, Victoria`
-`# Duma, Miroslava (publisher)`
+`# Дума, Мирослава (издатель)`
 
-Title includes the subject's name **Aberdeen Fashion Week**, surname and name **Tailor, Victoria** and may be added with specification with round brackets **Tailor, Victoria (designer)**.
+Заголовок содержит название предмета статьи **Рынок Ями-Ичи**, фамилию и имя **Пугачева, Алла** и может быть дополнена уточнением **Рубчинский, Гоша (дизайнер)**.
 
-# Front
+# Основной раздел
 
 `(Born 1968, Paris)`
 `(Est. 2012, Moscow)`
 
-Front starts with **(Born, Est. 1999, city)** beginner in round brackets. Following one-two sentences of description every front sentence ends with footnote links styled with **Squared brackets**
+Основной раздел начинается с уточнения в круглых скобках **(Род., Осн., 1999, город)** с указанием даты рождения, основания и горорда. После двух трех предложений Основной раздел заканчивается  ссылкой в раздел сноски с указанием сточника в **Квадратных скобках**. Пример
 
-The following code for footnote link
+Код ниже
 
 `<span id="a1">[\[1\]](#f1)</span>`
 
-Will be rendered as
+Будет показываться так
 
 <span id="a1">[\[1\]](#f1)</span>
 
-# Image, caption, and credits
+# Картинка. подпись и кредиты
 
-This is image link code
+Это ссылка картинки
 
 ![](/encyclopedia/images/image-name.jpg)
 
-This is image caption code
+Это код для подписи под картинкой
 
 `**Image caption**`
 
-Will be rendered as
+Отображается так
 
 **Image caption**
 
-This is image credits code
+Это код для кредитов к картинке
 
-`*Photo: [Photographer name](photographer-name) / [Source name](edition-name)*`
+`*Фото: [Фотограф](name) / [Источник](link)*`
 
-It will be rendered as
+Будет показан так
 
-*Photo: [Photographer name](photographer-name) / [Source name](edition-name)*
+*Фото: [Фотограф](name) / [Источник](link)*
 
-Every image must be described and styled with **bold font**. Credits line starts with **photographer's name** styled *italic* with an active link and after slash separator a source, or/and edition name. Links may also be pointed to **not existing pages** with syntax **photographer-name** or **edition-name**.
+Название или описание иллюстрации должно быть **жирным шрифтом**. Строка с кредитами начинается с **Имени фотографа** должна быть *курсивом* с [активной ссылкой](active-link.md) и после наклонного разделителя должен быть указан источник откуда взята фотография, и/или название издания. Ссылки могут указывать на еще **не созданные страницы** в энциклопедии c таким **фамилия-имя** и таким видом **название-издания** латиницей.
 
-# Conspectus
+# Раздел «Конспект»
 
-Conspectus is for any structured data in table, the following code
+Используй шаблон этого раздела для представления любых структурированных списков и данных
 
-`|Year|City|`
+`|Год|Город|`
 `|---|---|`
-`|2014|Tokyo|`
-`|2015|Moscow|`
-`|2017|Paris|`
+`|2014|Токио|`
+`|2015|Москва|`
+`|2017|Париж|`
 
-Will be rendered as
+Будет показан как
 
 |Year|City|
 |----|-----|
@@ -106,7 +106,7 @@ Will be rendered as
 |2015|Moscow|
 |2017|Paris|
 
-# See also
+# Раздел «См. также»
 
 See also section connects your page with others pages in Indexmod Encyclopedia. Use following template combining list and link styling syntax. The code
 
