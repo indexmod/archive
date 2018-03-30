@@ -1,8 +1,7 @@
 ---
 title: Как редактировать
-permalink: edit
+permalink: edit-ru
 layout: info
-published: true
 ---
 
 # Ссылка «Редактировать»
