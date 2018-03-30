@@ -31,8 +31,8 @@ published: true
 
 # Footnotes
 
-[[1]](#a1) <span id="f1"></span> [John Butler (Vimeo)](index)
-[[3]](#a3) <span id="f3"></span> [On Demand (John Butler, Vimeo)](https://vimeo.com/243852930)
-[[2]](#a2) <span id="f2"></span> [The bear’s dream (John Butler, Vimeo)](index)
-[[3]](#a3) <span id="f3"></span> [Джон Батлер (John Butler, Vimeo)](index)
-[[4]](#a4) <span id="f4"></span> [Machines can Learn (John Butler, Vimeo)](https://vimeo.com/255756908)
+[[1]](#a1) <span id="f1"></span> [John Butler (Vimeo)](https://vimeo.com/user3946359)
+[[2]](#a2) <span id="f2"></span> [On Demand (John Butler, Vimeo)](https://vimeo.com/243852930)
+[[3]](#a3) <span id="f3"></span> [The bear’s dream (John Butler, Vimeo)](https://vimeo.com/258057890)
+[[4]](#a4) <span id="f4"></span> [People should work (John Butler, Vimeo)](https://vimeo.com/234232807)
+[[5]](#a5) <span id="f5"></span> [Machines can Learn (John Butler, Vimeo)](https://vimeo.com/255756908)
