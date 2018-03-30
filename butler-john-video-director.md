@@ -10,8 +10,6 @@ published: true
 ![](/encyclopedia/images/butler-john-video-director.jpg)
 
 **Кадр из эпизода «Людям положено работать» (2017)**
-
-
 *Фото: [Джон Батлер](butler-john-video-director) / [Vimeo](https://vimeo.com/234232807)*
 
 # {{page.title}} Conspectus
