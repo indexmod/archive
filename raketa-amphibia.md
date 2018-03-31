@@ -2,9 +2,8 @@
 title: Raketa Amphibia
 permalink: raketa-amphibia
 layout: default
+published: true
 ---
-
-# {{page.title}}
 
 (Est. 2013, city) is a Raketa Amphibia (Rus. Ракета Амфибия), is a model of Russian watch by The Petrodvorets Watch Factory “Raketa” launched and presented in Basel in 2014. Sign in to edit Raketa Amphibia.
 
