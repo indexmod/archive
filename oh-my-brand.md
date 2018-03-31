@@ -4,45 +4,61 @@ permalink: oh-my-brand
 layout: default
 ---
 
+(Est. 2010, Saint Petersburg) is a Russian brand of basic clothes with moto "Like bread, salt and matches." <span id="a1">[\[1\]](#f1)</span> founded by Sergei Kovelenov (Сергей Ковеленов), positioning itself as a competitor of Uniqlo, Gap, Benetton, H&M <span id="a2">[\[2\]](#f2)</span>.
 
+![](https://rfnowblog.files.wordpress.com/2017/03/img_78991.jpg)
 
-# Oh, My (brand)
+**Founder of "Oh, my" Sergei Kovelenov**
 
+*Photo: [Piotr Lukritsa](lukritsa-piotr) / [Russian Fashion Now](https://rfnow.ru/biografiya-kovelenov-sergey/)*
 
-(Est. 2013, city) is a subject, description-one <span id="a1">[\[1\]](#f1)</span>, description-two <span id="a2">[\[2\]](#f2)</span> description-three <span id="a3">[\[3\]](#f3)</span>, extra text. [Edit this page](http://prose.io/#indexmod/encyclopedia/edit/master/page-template.md)
+The assortment of "Oh, my" has all the necessary female and male basic models of clothing: dresses, sweaters, sweaters, T-shirts, sweatshirts, and underwear. Clothing "Oh, my" is in three colors only: white, gray and black. Only natural materials are used in sewing.
 
-![](/encyclopedia/images/image-name.jpg)
-
-**Image caption title**
-
-*Photo: [Photographer name](/photographer-name-page) / [Source name](/source-name-page)*
-
-# Conspectus
+# {{page.title}} Conspectus
 
 |Year|City|
-|----|-----|
-|2014|Tokyo|
-|2015|Moscow|
-|2017|Paris|
+|-|-|
+| |Dzerzhinsk|
+|	|Irkutsk|
+|	|Kaliningrad|
+|	|Moscow|
+|	|Nizhny Novgorod|
+|	|Petropavlovsk-Kamchatsky|
+|	|Smolensk	|
+|2010|St. Petersburg|
+|	|Stavropol|
+|	|Tyumen|
+|	|Ufa|
+|	|Vladivostok|
+|	|Volgograd|
+|	|Yaroslavl|
+
+# {{page.title}} Indexmod [*](indexmod)
+
+||2018|2019|
+|-|-|-|
+|Facebook <span id="a3">[\[3\]](#f3)</span>|35926||
+|Instagram <span id="a4">[\[4\]](#f4)</span>|45100||
+|YouTube|||
+|Age|8||
+|Page Value|{{ page.content | number_of_words }}||
+|Indexmod|0,0000||
 
 # See also
 
-+ [See also title one](page-template)
-+ [See also title two](page-template)
-+ [See also title three](page-template)
++ [Sheep on the ship](sheep-on-the-ship)
++ [Raketa Amphibia](raketa-amphibia)
 
 # Footnotes
 
-[[1]](#a1) <span id="f1"></span> [Article name short (Author name)](http://example.net/article)
+http://www.forbes.ru/forbes/issue/2013-12/247414-oh-my-veshch
 
-[[2]](#a2) <span id="f2"></span> [Article name little longer (Author name longer)](http://example.net/article)
+[[1]](#a1) <span id="f1"></span> [Что такое Oh, my? (Ohmy.ru)](https://ohmy.ru/info/who_we_are/)
 
-[[3]](#a3) <span id="f3"></span> [Article name longer so far (Author name too long and much longer)](http://example.net/article)
+[[2]](#a2) <span id="f2"></span> [Oh, my вещь (Forbes, Ksenia Dokukina)](http://www.forbes.ru/forbes/issue/2013-12/247414-oh-my-veshch)
 
----
+[[3]](#a3) <span id="f3"></span> [{{page.title}} (Facebook)](https://www.facebook.com/ohmyltd/)
 
-`Editorial`
+[[4]](#a4) <span id="f4"></span> [{{page.title}} (Instagram)](index)
 
-`Warnings`
-
-`Notes`
+[[5]](#a5) <span id="f5"></span> [{{page.title}} (YouTube)](index)
