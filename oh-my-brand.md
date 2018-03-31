@@ -47,12 +47,11 @@ The assortment of "Oh, my" has all the necessary female and male basic models of
 
 # See also
 
++ [Kristallberg](kristallberg)
 + [Sheep on the ship](sheep-on-the-ship)
 + [Raketa Amphibia](raketa-amphibia)
 
 # Footnotes
-
-http://www.forbes.ru/forbes/issue/2013-12/247414-oh-my-veshch
 
 [[1]](#a1) <span id="f1"></span> [Что такое Oh, my? (Ohmy.ru)](https://ohmy.ru/info/who_we_are/)
 
