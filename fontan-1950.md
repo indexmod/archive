@@ -1,7 +1,7 @@
 ---
 title: Фонтан (1950)
 permalink: fontan-1950
-layout: default
+layout: default-ru
 published: true
 ---
 
