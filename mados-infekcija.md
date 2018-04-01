@@ -13,7 +13,7 @@ published: true
 
 *Фото: [Tautvydas Stukas](stukas-tautvydas) / [Chilluva](http://chilluva.lt/2017/11/10/injekcija-veza-mados-lokomotyvas-pajudejo-i-cecha/)*
 
-# {{page.title}} Конспект
+# {{page.title}} конспект
 
 |Страна|Дизайнер|
 |-|-|
