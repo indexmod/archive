@@ -82,8 +82,13 @@ published: true
 
 # Footnotes
 
-[[3]](#a3) <span id="f3"></span> [{{page.title}} (Facebook)](index)
 
-[[4]](#a4) <span id="f4"></span> [{{page.title}} (Instagram)](index)
+https://en.wikipedia.org/wiki/Mados_infekcija
 
-[[5]](#a5) <span id="f5"></span> [{{page.title}} (YouTube)](index)
+[[1]](#a1) <span id="f1"></span> [{{page.title}} (Facebook)](https://en.wikipedia.org/wiki/Mados_infekcija)
+
+[[3]](#a3) <span id="f3"></span> [{{page.title}} (Facebook)](https://www.facebook.com/pg/madosinfekcija/community/?ref=page_internal)
+
+[[4]](#a4) <span id="f4"></span> [{{page.title}} (Instagram)](https://www.instagram.com/madosinfekcija/)
+
+[[5]](#a5) <span id="f5"></span> [{{page.title}} (YouTube)](https://www.youtube.com/channel/UCpjraW-xybnHgJBbc6mudBw/about)
