@@ -13,7 +13,7 @@ published: true
 
 *Фото: [Имя](index) / [Источник](index)*
 
-# {{page.title}} Конспект
+# {{page.title}} — конспект
 
 |Год|Город|
 |-|-|
