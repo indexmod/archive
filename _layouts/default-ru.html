@@ -33,7 +33,7 @@
     <![endif]-->
 	<div class="wrapper">
 		<header>
-			<p>{{ site.time | date_to_long_string }}</p>
+			<p>{{ site.time | date_to_string: "ordinal", "RU" }}</p>
 		</header>
 		<section>
 			<h1>{{page.title}}</h1>
