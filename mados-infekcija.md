@@ -2,9 +2,10 @@
 title: Mados infekcija
 permalink: mados-infekcija
 layout: default-ru
+published: true
 ---
 
-(Осн. 2013, город) --- описание <span id="a1">[\[1\]](#f1)</span>.
+(Рус. Инфекция моды, осн. 1999, Вильнюс) самое большоеб ежегодное шоу мод в Литве <span id="a1">[\[1\]](#f1)</span>. It is held in "Šiuolaikinio Meno Centras" (Contemporary Art Center), Vilnius in spring every year. The first show was held in 1999 by fashion designer Sandra Straukaitė. During the event some popular designer have presented their collections, such as Andrew Logan, Alistair Carr, Jean-Pierre Braganza, Andrey Bartenev, Aliona Achmadulina, Jojo & Malou, Richard Rene and Stephanie Coudert. Since 2008 there is special award for rising designers <span id="a1">[\[1\]](#f1)</span>.
 
 ![](/encyclopedia/images/{{page.permalink}}.jpg)
 
