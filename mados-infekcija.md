@@ -85,7 +85,7 @@ published: true
 
 https://en.wikipedia.org/wiki/Mados_infekcija
 
-[[1]](#a1) <span id="f1"></span> [{{page.title}} (Facebook)](https://en.wikipedia.org/wiki/Mados_infekcija)
+[[1]](#a1) <span id="f1"></span> [{{page.title}} (Wikipedia)](https://en.wikipedia.org/wiki/Mados_infekcija)
 
 [[3]](#a3) <span id="f3"></span> [{{page.title}} (Facebook)](https://www.facebook.com/pg/madosinfekcija/community/?ref=page_internal)
 
