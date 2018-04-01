@@ -1,7 +1,7 @@
 ---
 title: Question → answer
 permalink: qa
-layout: info
+layout: info-ru
 published: true
 ---
 # Why are some articles of the encyclopedia non-English?
