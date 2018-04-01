@@ -5,7 +5,7 @@ layout: default-ru
 published: true
 ---
 
-(Рус. Инфекция моды, осн. 1999, Вильнюс) самое большоеб ежегодное шоу мод в Литве <span id="a1">[\[1\]](#f1)</span>. It is held in "Šiuolaikinio Meno Centras" (Contemporary Art Center), Vilnius in spring every year. The first show was held in 1999 by fashion designer Sandra Straukaitė. During the event some popular designer have presented their collections, such as Andrew Logan, Alistair Carr, Jean-Pierre Braganza, Andrey Bartenev, Aliona Achmadulina, Jojo & Malou, Richard Rene and Stephanie Coudert. Since 2008 there is special award for rising designers <span id="a1">[\[1\]](#f1)</span>.
+(Рус. Инфекция моды, осн. 1999, Вильнюс) самое большое в Литве, ежегодное шоу мод <span id="a1">[\[1\]](#f1)</span>, проводится в Центре Современного Искусства Вильнюса (Šiuolaikinio Meno Centras) раз в год весной. Первый сезон открыт в 1999 показом дизайнера Сандры Страукайте (Sandra Straukaitė). During the event some popular designer have presented their collections, such as Andrew Logan, Alistair Carr, Jean-Pierre Braganza, Andrey Bartenev, Aliona Akhmadulina, Jojo & Malou, Richard Rene and Stephanie Coudert. С 2008 года учреждена специальная премия для молодых дизайнеров <span id="a1">[\[1\]](#f1)</span>.
 
 ![](/encyclopedia/images/{{page.permalink}}.jpg)
 
@@ -15,9 +15,47 @@ published: true
 
 # {{page.title}} Конспект
 
-|Год|Город|
+|Страна|Дизайнер|
 |-|-|
-|2017|Владивосток|
+||2RU2RA|
+||Živilė Aleknavičiūtė|
+||Monta Apsane|
+||Santa Aulmane|
+||Thom Bara|
+||Россия|Андрей Бартенев|
+||Mantas Bartkus|
+||Mari Butenko|
+||Dovilė Cibulskaitė|
+||Laura Daili|
+||Lina Elmentaitė|
+||Jarosław Ewert|
+||Lina Gudanavičiūtė|
+||Akvilė Jančauskaitė|
+||Vaida Januškevičiūtė|
+||Anna Jelizarjeva|
+||Kaaskas|
+||Kristina Kruopienytė|
+||Liucija Kvašytė|
+||Kotryna Kvedarauskaitė|
+||Lilija Larionova|
+||Paulius Leonas|
+||Lena Lumelsky|
+||Mareunrol's|
+||Klaudia Markiewicz|
+||Ugnė Martinaitytė|
+||Neringa Martinėnaitė|
+||Morta Nakaitė|
+||Diana Paukštytė|
+||Sandrine Philippe|
+||Monika Pranckaitytė|
+||Patricija Regesaitė|
+||Ana Romanova|
+||Katarzyna Romanska|
+||Viktorija Rosenberg|
+||Egidijus Sidaras|
+||Sandra Straukaitė|
+||Boom Studio|
+||Fiona Uyen|
 
 # {{page.title}} Indexmod [*](indexmod)
 
