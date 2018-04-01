@@ -5,13 +5,13 @@ layout: default-ru
 published: true
 ---
 
-(Рус. Инфекция моды, осн. 1999, Вильнюс) самое большое в Литве, ежегодное шоу мод <span id="a1">[\[1\]](#f1)</span>, проводится в Центре Современного Искусства Вильнюса (Šiuolaikinio Meno Centras) раз в год весной. Первый сезон открыт в 1999 показом дизайнера Сандры Страукайте (Sandra Straukaitė). During the event some popular designer have presented their collections, such as Andrew Logan, Alistair Carr, Jean-Pierre Braganza, Andrey Bartenev, Aliona Akhmadulina, Jojo & Malou, Richard Rene and Stephanie Coudert. С 2008 года учреждена специальная премия для молодых дизайнеров <span id="a1">[\[1\]](#f1)</span>.
+(Рус. Инфекция моды, осн. 1999, Вильнюс) самое большое в Литве, ежегодное шоу мод <span id="a1">[\[1\]](#f1)</span>, проводится в Центре Современного Искусства Вильнюса (Šiuolaikinio Meno Centras) раз в год весной. Первый сезон открыт в 1999 показом дизайнера Сандры Страукайте (Sandra Straukaitė).
 
-![](/encyclopedia/images/{{page.permalink}}.jpg)
+![](https://i2.wp.com/chilluva.lt/wp-content/uploads/2017/11/41_preview-1.jpeg)
 
-**Иллюстрация**
+**Новая площадка Mados infekcija. Семинар «Инъекция» (Injekcija) в вильнюсском локомотивном депо в 2017**
 
-*Фото: [Имя](index) / [Источник](index)*
+*Фото: [Tautvydas Stukas](stukas-tautvydas) / [Chilluva](http://chilluva.lt/2017/11/10/injekcija-veza-mados-lokomotyvas-pajudejo-i-cecha/)*
 
 # {{page.title}} Конспект
 
@@ -22,7 +22,7 @@ published: true
 ||Monta Apsane|
 ||Santa Aulmane|
 ||Thom Bara|
-||Россия|Андрей Бартенев|
+|Россия|Андрей Бартенев|
 ||Mantas Bartkus|
 ||Mari Butenko|
 ||Dovilė Cibulskaitė|
@@ -57,20 +57,26 @@ published: true
 ||Boom Studio|
 ||Fiona Uyen|
 
+![](http://luscious-style.com/wp-content/uploads/2016/03/mados_infekcija_pirma_diena_2.bmp)
+
+**Шоу Андрея Бартенева на площадке «Инфкции моды»**
+
+*Фото: [Simona](simona) / [Luscious Style](http://luscious-style.com/mados-infekcija-2016-pirma-diena/)*
+
 # {{page.title}} Indexmod [*](indexmod)
 
 ||2018|2019|
 |-|-|-|
-|Facebook <span id="a3">[\[3\]](#f3)</span>|000||
-|Instagram <span id="a4">[\[4\]](#f4)</span>|000||
-|YouTube <span id="a5">[\[5\]](#f5)</span>|000||
-|Возраст|30||
+|Facebook <span id="a3">[\[3\]](#f3)</span>|29040||
+|Instagram <span id="a4">[\[4\]](#f4)</span>|955||
+|YouTube <span id="a5">[\[5\]](#f5)</span>|6845||
+|Возраст|19||
 |Объём страницы|{{ page.content | number_of_words }}||
 |Indexmod|0,0000||
 
 # See also
 
-+ [Официальный сайт {{page.title}}](index)
++ [Baltic Shamans](baltic-shamans)
 + [{{page.title}} at Wikipedia](index)
 + 
 
