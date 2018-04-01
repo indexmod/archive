@@ -5,7 +5,7 @@ layout: default
 published: true
 ---
 
-(Est. 2010, Saint Petersburg) is a Russian brand of basic clothes with moto "Like bread, salt and matches." <span id="a1">[\[1\]](#f1)</span> founded by Sergei Kovelenov (Сергей Ковеленов), positioning itself as a competitor of Uniqlo, Gap, Benetton, H&M <span id="a2">[\[2\]](#f2)</span>.
+(Est. 2010, Saint Petersburg) is a Russian brand of basic clothes with moto "Bread, salt and matches" <span id="a1">[\[1\]](#f1)</span> founded by Sergei Kovelenov (Сергей Ковеленов), positioning itself as a competitor of Uniqlo, Gap, Benetton, H&M <span id="a2">[\[2\]](#f2)</span>.
 
 ![](https://rfnowblog.files.wordpress.com/2017/03/img_78991.jpg)
 
