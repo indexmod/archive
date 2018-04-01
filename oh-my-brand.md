@@ -42,7 +42,7 @@ The assortment of "Oh, my" has all the necessary female and male basic models of
 |Instagram <span id="a5">[\[5\]](#f5)</span>|45100||
 |YouTube|||
 |Age|8||
-|Page Value|{{ page.content | number_of_words }}||
+|Article Value|{{ page.content | number_of_words }}||
 |Indexmod|0,80932104||
 
 # See also
