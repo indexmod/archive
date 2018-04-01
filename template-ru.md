@@ -34,6 +34,7 @@ published: true
 
 + [Официальный сайт {{page.title}}](index)
 + [{{page.title}} at Wikipedia](index)
++ 
 
 # Footnotes
 

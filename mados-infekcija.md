@@ -33,6 +33,7 @@ layout: default-ru
 
 + [Официальный сайт {{page.title}}](index)
 + [{{page.title}} at Wikipedia](index)
++ 
 
 # Footnotes
 
