@@ -1,9 +1,9 @@
 ---
 title: Question → answer
-permalink: qa
-layout: default-ru
-published: true
+permalink: qa-ru
+layout: info-ru
 ---
+
 # Why are some articles of the encyclopedia non-English?
 
 The Indexmod Encyclopedia data core are articles in English, but you can create pages in any language matching the [Template](https://indexmod.github.io/encyclopedia/template).
