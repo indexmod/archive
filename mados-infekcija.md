@@ -72,13 +72,12 @@ published: true
 |YouTube <span id="a5">[\[5\]](#f5)</span>|6845||
 |Возраст|19||
 |Объём страницы|{{ page.content | number_of_words }}||
-|Indexmod|0,0000||
+|Indexmod|1,609908||
 
 # See also
 
 + [Baltic Shamans](baltic-shamans)
 + [Alexandre Vassiliev](vassiliev-alexandre)
-+ 
 
 # Footnotes
 
