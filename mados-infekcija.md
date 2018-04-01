@@ -5,11 +5,11 @@ layout: default-ru
 published: true
 ---
 
-(Рус. Мода-инфекция, осн. 1999, Вильнюс) самое большое в Литве ежегодное шоу моды <span id="a1">[\[1\]](#f1)</span>, проводится в Центре Современного Искусства Вильнюса (Šiuolaikinio Meno Centras) раз в год весной. Первый сезон открыт в 1999 показом дизайнера Сандры Страукайте (Sandra Straukaitė). События Мода-инфекции проходят при поддержке Bosca итальянского производителя игристого вина и вермутов <span id="a2">[\[2\]](#f2)</span>.
+(Рус. Модная инфекция, осн. 1999, Вильнюс) самое большое в Литве ежегодное шоу моды <span id="a1">[\[1\]](#f1)</span>, проводится в Центре Современного Искусства Вильнюса (Šiuolaikinio Meno Centras) раз в год весной. Первый сезон открыт в 1999 показом дизайнера Сандры Страукайте (Sandra Straukaitė). События «Модной инфекции» проходят при поддержке Bosca производителя игристого вина и вермутов из Италии <span id="a2">[\[2\]](#f2)</span>.
 
 ![](https://i2.wp.com/chilluva.lt/wp-content/uploads/2017/11/41_preview-1.jpeg)
 
-**Новая площадка Mados infekcija. Семинар «Инъекция» (Injekcija) в вильнюсском локомотивном депо в 2017**
+**Новая площадка «Модной инфекции», проект «Инъекция» (Injekcija) в вильнюсском локомотивном депо в 2017 году**
 
 *Фото: [Tautvydas Stukas](stukas-tautvydas) / [Chilluva](http://chilluva.lt/2017/11/10/injekcija-veza-mados-lokomotyvas-pajudejo-i-cecha/)*
 
@@ -59,7 +59,7 @@ published: true
 
 ![](http://luscious-style.com/wp-content/uploads/2016/03/mados_infekcija_pirma_diena_2.bmp)
 
-**Шоу Андрея Бартенева «Москва ла-ла-ла» на площадке «Инфкции моды» в 2016 году**
+**Шоу Андрея Бартенева «Москва ла-ла-ла» на площадке «Модная инфекция» в 2016 году**
 
 *Фото: [Simona](simona) / [Luscious Style](http://luscious-style.com/mados-infekcija-2016-pirma-diena/)*
 
