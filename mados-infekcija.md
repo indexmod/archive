@@ -59,7 +59,7 @@ published: true
 
 ![](http://luscious-style.com/wp-content/uploads/2016/03/mados_infekcija_pirma_diena_2.bmp)
 
-**Шоу Андрея Бартенева «Москва ла-ла-ла» на площадке «Модная инфекция» в 2016 году**
+**Шоу Андрея Бартенева «Москва ла-ла-ла» на площадке «Модной инфекции» в 2016 году**
 
 *Фото: [Simona](simona) / [Luscious Style](http://luscious-style.com/mados-infekcija-2016-pirma-diena/)*
 
