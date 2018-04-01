@@ -1,7 +1,8 @@
 ---
 title: Как редактировать
 permalink: edit-ru
-layout: info
+layout: info-ru
+published: true
 ---
 
 # Ссылка «Редактировать»
