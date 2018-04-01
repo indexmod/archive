@@ -5,7 +5,7 @@ layout: default-ru
 published: true
 ---
 
-(Рус. Мода-инфекция, осн. 1999, Вильнюс) самое большое в Литве, ежегодное шоу мод <span id="a1">[\[1\]](#f1)</span>, проводится в Центре Современного Искусства Вильнюса (Šiuolaikinio Meno Centras) раз в год весной. Первый сезон открыт в 1999 показом дизайнера Сандры Страукайте (Sandra Straukaitė). События Мода-инфекции проходят при поддержке итальянского производителя игристого вина и вермута Bosca.
+(Рус. Мода-инфекция, осн. 1999, Вильнюс) самое большое в Литве, ежегодное шоу мод <span id="a1">[\[1\]](#f1)</span>, проводится в Центре Современного Искусства Вильнюса (Šiuolaikinio Meno Centras) раз в год весной. Первый сезон открыт в 1999 показом дизайнера Сандры Страукайте (Sandra Straukaitė). События Мода-инфекции проходят при поддержке итальянского производителя игристого вина и вермута Bosca <span id="a2">[\[2\]](#f2)</span>.
 
 ![](https://i2.wp.com/chilluva.lt/wp-content/uploads/2017/11/41_preview-1.jpeg)
 
@@ -77,13 +77,10 @@ published: true
 # See also
 
 + [Baltic Shamans](baltic-shamans)
-+ [{{page.title}} at Wikipedia](index)
++ [Alexandre Vassiliev](vassiliev-alexandre)
 + 
 
 # Footnotes
-
-
-https://en.wikipedia.org/wiki/Mados_infekcija
 
 [[1]](#a1) <span id="f1"></span> [{{page.title}} (Wikipedia)](https://en.wikipedia.org/wiki/Mados_infekcija)
 
