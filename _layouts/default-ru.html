@@ -33,7 +33,7 @@
     <![endif]-->
 	<div class="wrapper">
 		<header>
-			<p>{{ page.date | localize: "%d %B %Y" }}</p>
+			<p>{{ site.time | date_to_xmlschema }}</p>
 		</header>
 		<section>
 			<h1>{{page.title}}</h1>
