@@ -27,7 +27,7 @@ published: true
 |Instagram <span id="a4">[\[4\]](#f4)</span>|000||
 |YouTube <span id="a5">[\[5\]](#f5)</span>|000||
 |Возраст|30||
-|Объём страницы|{{ page.content | number_of_words }}||
+|Цена статьи (слов)|{{ page.content | number_of_words }}||
 |Indexmod|0,0000||
 
 # See also
