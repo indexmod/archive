@@ -23,7 +23,7 @@ Indexmod was established as brand and concept from the idea of visualization of 
 |YouTube <span id="a6">[\[6\]](#f6)</span>|17||
 |Age|12||
 |Article Value|{{ page.content | number_of_words }}||
-|Indexmod|0,0000||
+|Indexmod|0,01133136||
 
 # See also 
 
