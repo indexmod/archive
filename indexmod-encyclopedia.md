@@ -35,7 +35,7 @@ Indexmod was established as brand and concept from the idea of visualization of 
 
 [[1]](#a1) <span id="f1"></span> [Andrei Deinichenko (Indexmod Encyclopedia)](deinichenko-andrei)
 
-[[2]](#a2) <span id="f2"></span> [Новая игра (Lookatme.ru, 20/02/08)](http://www.lookatme.ru/flow/posts/fashion-radar/4154-brendsbends)
+[[2]](#a2) <span id="f2"></span> [Новая игра (Lookatme.ru)](http://www.lookatme.ru/flow/posts/fashion-radar/4154-brendsbends)
 
 [[3]](#a3) <span id="f3"></span> [Арт-фестиваль "Верь в Тверь" (Komsomolskaya Pravda, Tatiana Rumiantseva)](https://www.facebook.com/groups/kiosk.encyclopedia.indexmod/)
 
