@@ -1,5 +1,5 @@
 ---
-title: Indexmod Encyclopedia
+title: Indexmod encyclopedia
 permalink: indexmod-encyclopedia
 layout: default
 published: true
@@ -8,7 +8,7 @@ published: true
 
 # Manifesto  
 
-The aim of Indexmod Encyclopedia to simplify wiki syntax for a pretty and light format. Following checklist explains few steps of creating and editing beautiful articles in Indexmod Encyclopedia.
+The aim of Indexmod encyclopedia to simplify wiki syntax for a pretty and light format. Following checklist explains few steps of creating and editing beautiful articles in Indexmod encyclopedia.
 
 # History
 
@@ -33,7 +33,7 @@ Indexmod was established as brand and concept from the idea of visualization of 
 
 # Footnote
 
-[[1]](#a1) <span id="f1"></span> [Andrei Deinichenko (Indexmod Encyclopedia)](deinichenko-andrei)
+[[1]](#a1) <span id="f1"></span> [Andrei Deinichenko (Indexmod encyclopedia)](deinichenko-andrei)
 
 [[2]](#a2) <span id="f2"></span> [Новая игра (Lookatme.ru)](http://www.lookatme.ru/flow/posts/fashion-radar/4154-brendsbends)
 
