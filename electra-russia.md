@@ -18,17 +18,17 @@ published: true
 |Year|Celeb|
 |-|-|
 |2018|Ilya Bachurin|
-|2018|Mark Berman|
-|2018|Alena Esipova|
+||Mark Berman|
+||Alena Esipova|
 |2018|Oksana He|
-|2018|Timofey Kolesnikov|
+||Timofey Kolesnikov|
 |2018|Vitaly Kozak|
-|2018|Anton Lavrentiev|
-|2018|Elena Letuchaya|
-|2018|Yasmina Muratovich|
-|2018|Natalia and Murad Osman|
-|2018|Dina Silina|
-|2018|Nadezhda Sysoeva|
+||Anton Lavrentiev|
+||Elena Letuchaya|
+||Yasmina Muratovich|
+||Natalia and Murad Osman|
+||Dina Silina|
+||Nadezhda Sysoeva|
 
 # {{page.title}} Indexmod [*](indexmod)
 
