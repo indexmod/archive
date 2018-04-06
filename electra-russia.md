@@ -5,7 +5,7 @@ layout: default
 published: true
 ---
 
-(Est. 2010 <span id="a1">[\[1\]](#f1)</span>, Saint Petersburg <span id="a2">[\[2\]](#f2)</span>) is an official representation of the Electra Bicycle Company in Russia and the CIS based on private limited company "OOO Velokultura Spb." and operates the brand's stores in Moscow, St. Petersburg, Sochi, Yekaterinburg, Saratov, Krasnodar, Voronezh, Tyumen and Minsk.
+(Est. 2010 <span id="a1">[\[1\]](#f1)</span>, Saint Petersburg <span id="a2">[\[2\]](#f2)</span>) is an official representation of the Electra Bicycle Company in Russia and the CIS based on private limited company "OOO Velokultura Spb." (OOO «ВелоКультура СПб.») and operates the brand's stores in Moscow, St. Petersburg, Sochi, Yekaterinburg, Saratov, Krasnodar, Voronezh, Tyumen and Minsk.
 
 ![](/encyclopedia/images/20180404_193333.jpg)
 
