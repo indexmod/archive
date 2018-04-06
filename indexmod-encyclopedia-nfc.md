@@ -1,10 +1,11 @@
 ---
-title: Indexmod Encyclopedia NFC
+title: Indexmod encyclopedia NFC
 permalink: indexmod-encyclopedia-nfc
 layout: default
+published: true
 ---
 
-# {{page.title}}
+
 
 (Est. 2013, city) From the end of 2015, following trends of IoT, Indexmod started researching over NFC technology. From now every new article will have corresponded to NFC tag located on an object of the article <span id="a1">[\[1\]](#f1)</span>.
 
@@ -16,7 +17,7 @@ Mobile gadget opens correspondent Pantheon article using its own NFC module
 Photo: Evgeniy Kolosov / Indexmod.info
 
 NFC tag is hidden in wall photo frame linked to Pantheon article of Indexmod Encyclopedia
-Photo: Evgeniy Kolosov / Indexmod.info
+Photo: Evgeniy Kolosov / Indexmod
 
 *Photo: [Name](index) / [Source](index)*
 

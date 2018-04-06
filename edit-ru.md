@@ -1,7 +1,7 @@
 ---
 title: Как редактировать
-permalink: edit
-layout: info
+permalink: edit-ru
+layout: info-ru
 published: true
 ---
 
@@ -11,7 +11,7 @@ published: true
 
 # Создай страницу
 
-+ Перейди по **Редактировать**
++ Перейди в [Редктор](http://prose.io/#indexmod/encyclopedia/edit/master/sandbox.md)
 + Найди `template.md` и скопируй содержимое
 + Во вкладке encyclopedia создай новый файл с расширением .md
 + Вклей содержимое `template.md` в новый файл

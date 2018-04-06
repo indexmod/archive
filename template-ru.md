@@ -1,23 +1,23 @@
 ---
-title: Amazônia Fashion Week
-permalink: amazonia-fashion-week
-layout: default
+title: Шаблон
+permalink: template-ru
+layout: info-ru
 published: true
 ---
 
-(Est. 2013, city) is a The Amazon Fashion Week is a fashion event that has been taking place since 2007 and features parade brands from Pará, a new creators parade and a fashion fair <span id="a1">[\[1\]](#f1)</span>.
+(Осн. 2013, город) --- описание <span id="a1">[\[1\]](#f1)</span>.
 
 ![](/encyclopedia/images/{{page.permalink}}.jpg)
 
-**Image**
+**Иллюстрация**
 
-*Photo: [Name](index) / [Source](index)*
+*Фото: [Имя](index) / [Источник](index)*
 
-# {{page.title}} Conspectus
+# {{page.title}} — конспект
 
-|Year|City|
+|Год|Город|
 |-|-|
-|2017|Moscow|
+|2017|Владивосток|
 
 # {{page.title}} Indexmod [*](indexmod)
 
@@ -26,14 +26,15 @@ published: true
 |Facebook <span id="a3">[\[3\]](#f3)</span>|000||
 |Instagram <span id="a4">[\[4\]](#f4)</span>|000||
 |YouTube <span id="a5">[\[5\]](#f5)</span>|000||
-|Age|000|000|
-|Page Value|{{ page.content | number_of_words }}||
+|Возраст|30||
+|Объём статьи|{{ page.content | number_of_words }}||
 |Indexmod|0,0000||
 
 # See also
 
-+ [About {{page.title}}](index)
++ [Официальный сайт {{page.title}}](index)
 + [{{page.title}} at Wikipedia](index)
++ 
 
 # Footnotes
 
