@@ -37,9 +37,9 @@ published: true
 |Facebook <span id="a3">[\[3\]](#f3)</span>|124000||
 |Instagram <span id="a4">[\[4\]](#f4)</span>|10531||
 |YouTube <span id="a5">[\[5\]](#f5)</span>|3900||
-|Age|30||
+|Age|8||
 |Article Value|{{ page.content | number_of_words }}||
-|Indexmod|0,0000||
+|Indexmod|2,12630016||
 
 # See also
 
