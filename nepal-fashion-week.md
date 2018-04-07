@@ -1,5 +1,5 @@
 ---
-title: The Himalayan Times TGIF Nepal Fashion Week
+title: 'Himalayan Times TGIF Nepal Fashion Week, The'
 permalink: the-himalayan-times-tgif-nepal-fashion-week
 layout: default
 published: true
