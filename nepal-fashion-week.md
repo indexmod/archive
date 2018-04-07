@@ -12,13 +12,13 @@ published: true
 
 *Photo: [Skanin The House](skaninthehouse@gmail.com) / [The Himalayan Times](https://thehimalayantimes.com/fashion/397180/)*
 
-# {{page.title}} Conspectus
+# TGIFNFW Conspectus
 
 |Year|Place|
 |-|-|
 |2017|Hyatt Regency Kathmandu|
 
-# {{page.title}} Indexmod [*](indexmod)
+# TGIFNFW Indexmod [*](indexmod)
 
 ||2018|2019|
 |-|-|-|
@@ -31,13 +31,13 @@ published: true
 
 # See also
 
-+ [About {{page.title}}](index)
-+ [{{page.title}} at Wikipedia](index)
++ [The Himalayan Times](index)
++ [Nepal Fashion Week](index)
 
 # Footnotes
 
-[[3]](#a3) <span id="f3"></span> [{{page.title}} (Facebook)](https://www.facebook.com/pg/TGIFNFW/community/?ref=page_internal)
+[[3]](#a3) <span id="f3"></span> [TGIFNFW (Facebook)](https://www.facebook.com/pg/TGIFNFW/community/?ref=page_internal)
 
-[[4]](#a4) <span id="f4"></span> [{{page.title}} (Instagram)](https://www.instagram.com/tgifnfw/)
+[[4]](#a4) <span id="f4"></span> [TGIFNFW (Instagram)](https://www.instagram.com/tgifnfw/)
 
-[[5]](#a5) <span id="f5"></span> [{{page.title}} (YouTube)](https://www.youtube.com/user/thehimalayantimes)
+[[5]](#a5) <span id="f5"></span> [The Himalayan Times (YouTube)](https://www.youtube.com/user/thehimalayantimes)
