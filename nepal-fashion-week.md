@@ -1,6 +1,6 @@
 ---
-title: Nepal Fashion Week
-permalink: nepal-fashion-week
+title: The Himalayan Times TGIF Nepal Fashion Week
+permalink: the-himalayan-times-tgif-nepal-fashion-week
 layout: default
 published: true
 ---
