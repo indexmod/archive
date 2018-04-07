@@ -41,10 +41,10 @@ published: true
 |Article Value|{{ page.content | number_of_words }}||
 |Indexmod|2,12630016||
 
-# See also
+# See also at {{site.title}}
 
-+ [About {{page.title}}](index)
-+ [{{page.title}} at Wikipedia](index)
++ [Electra Bicycle Company](electra-bicycle-company)
++ [Pops (agency)](pops-agency)
 
 # Footnotes
 
