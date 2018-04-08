@@ -22,9 +22,9 @@ published: true
 
 ||2018|2019|
 |-|-|-|
-|Facebook <span id="a3">[\[3\]](#f3)</span>|27 379||
+|Facebook <span id="a3">[\[3\]](#f3)</span>|27379||
 |Instagram <span id="a4">[\[4\]](#f4)</span>|864||
-|YouTube <span id="a5">[\[5\]](#f5)</span>|890 535||
+|YouTube <span id="a5">[\[5\]](#f5)</span>|890535||
 |Age|9||
 |Article Value|{{ page.content | number_of_words }}||
 |Indexmod|7,8555519||
