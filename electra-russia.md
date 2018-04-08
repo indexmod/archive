@@ -9,7 +9,7 @@ published: true
 
 ![](/encyclopedia/images/20180404_193333.jpg)
 
-**Veronika Fedorova daughter of the chief editor of Vogue Russia hangs next to the DJ Ksenia Dukalis at the first fashion show Electra on the occasion of the 25th anniversary of the brand at DI Telegraph space in Moscow on April 4th, 2018**
+**Veronika Fedorova (Вероника Федорова), а daughter of the chief editor of Vogue Russia hangs next to the DJ Ksenia Dukalis at the first fashion show Electra on the occasion of the 25th anniversary of the brand at DI Telegraph space in Moscow on April 4th, 2018**
 
 *Photo: [Andrei Dei](deinichenko-andrei) / [Indexmod](index)*
 
@@ -29,6 +29,19 @@ published: true
 ||Natalia and Murad Osman|
 ||Dina Silina|
 ||Nadezhda Sysoeva|
+=======
+||Ilya Bachurin|
+||Mark Berman|
+|2018|Alena Esipova|
+||Oksana He|
+||Timofey Kolesnikov|
+||Vitaly Kozak|
+||Anton Lavrentiev|
+||Elena Letuchaya|
+||Yasmina Muratovich|
+|2018|Natalia and Murad Osman|
+||Dina Silina|
+|2018|Nadezhda Sysoeva|
 
 # {{page.title}} Indexmod [*](indexmod)
 
@@ -41,10 +54,10 @@ published: true
 |Article Value|{{ page.content | number_of_words }}||
 |Indexmod|2,12630016||
 
-# See also
+# See also at {{site.title}}
 
-+ [About {{page.title}}](index)
-+ [{{page.title}} at Wikipedia](index)
++ [Electra Bicycle Company](electra-bicycle-company)
++ [Pops (agency)](pops-agency)
 
 # Footnotes
 
