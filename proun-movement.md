@@ -5,7 +5,7 @@ layout: default
 published: true
 ---
 
-(Рус. Проун, est. 2016, Moscow) is an aesthetic movement appeared in the association of artists Misak Samoktian, Alexei Rudenko, Alexandra Gavrilova and Sergei Titov (Stain Group). Later the movement included G. Leonova, A. Rebrov, I. Yakubov, M. Maximov, M. Sachkov, P. Seldimirov. <span id="a1">[\[1\]](#f1)</span>. 
+(Рус. Проун, est. 2016, Moscow) is an aesthetic movement appeared in the association of artists Misak Samoktian, Alexei Rudenko, Alexandra Gavrilova and Sergei Titov (Stain Group). Later the movement included G. Leonova, A. Rebrov, I. Yakubov, M. Maximov, M. Sachkov, P. Seldimirov. 
 
 ![](https://rm-content.s3-accelerate.amazonaws.com/58cea0d6ef52950077521e06/890473/upload-2bd57570-bb65-11e7-b2f7-4506fd48469e.jpg)
 
@@ -31,9 +31,9 @@ published: true
 
 ||2018|2019|
 |-|-|-|
-|Facebook <span id="a3">[\[3\]](#f3)</span>|89||
-|Instagram <span id="a4">[\[4\]](#f4)</span>|||
-|YouTube <span id="a5">[\[5\]](#f5)</span>|||
+|Facebook <span id="a1">[\[1\]](#f1)</span>|89||
+|Instagram|||
+|YouTube|||
 |Age|3||
 |Article Value|{{ page.content | number_of_words }}||
 |Indexmod|0,0000||
@@ -55,8 +55,4 @@ published: true
 
 # Footnotes
 
-[[3]](#a3) <span id="f3"></span> [{{page.title}} (Facebook)](https://www.facebook.com/PROUNcontinuum/)
-
-[[4]](#a4) <span id="f4"></span> [{{page.title}} (Instagram)](index)
-
-[[5]](#a5) <span id="f5"></span> [{{page.title}} (YouTube)](index)
+[[1]](#a1) <span id="f1"></span> [{{page.title}} (Facebook)](https://www.facebook.com/PROUNcontinuum/)
