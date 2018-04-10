@@ -17,20 +17,15 @@ layout: default
 
 |Year|Persone|
 |-|-|
-|2016|Moscow|
-
-Abram Rebrov
-
-Alexey Rudenko
-Galina Leonova
-Ildar Yakubov
-Mikhail Maximov
-
-Mikhail Sachkov
-
-Misak Samokatyan
-Pasha Seldymirov
-Stain
+|2016|Abram Rebrov|
+|2016|Alexey Rudenko|
+|2016|Galina Leonova|
+|2016|Ildar Yakubov|
+|2016|Mikhail Maximov|
+|2016|Mikhail Sachkov|
+|2016|Misak Samokatyan|
+|2016|Pasha Seldymirov|
+|2016|Stain|
 
 # {{page.title}} Indexmod [*](indexmod)
 
