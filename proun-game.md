@@ -22,7 +22,7 @@ published: true
 |YouTube|||
 |Age|7||
 |Article Value|{{ page.content | number_of_words }}||
-|Indexmod|0,0000||
+|Indexmod|0,01739745||
 
 # See also
 
