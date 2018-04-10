@@ -13,12 +13,6 @@ published: true
 
 *Фото: [Юст ван Донген](joost-van-dongen) / [Proun-game.com](http://www.proun-game.com/Screenshots.html)*
 
-# {{page.title}} Conspectus
-
-|Year|City|
-|-|-|
-|2017|Moscow|
-
 # {{page.title}} Indexmod [*](indexmod)
 
 ||2018|2019|
