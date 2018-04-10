@@ -2,9 +2,10 @@
 title: Proun (movement)
 permalink: proun-movement
 layout: default
+published: true
 ---
 
-(Рус. ПРОУН, est. 2016, Moscow) is an aesthetic movement appeared in the association of artists Misak Samoktian, Alexei Rudenko and the artists Alexandra Gavrilova and Sergei Titov (Stain Group). Later the movement included G. Leonova, A. Rebrov, I. Yakubov, M. Maximov, M. Sachkov, P. Seldimirov. <span id="a1">[\[1\]](#f1)</span>.
+(Рус. Проун, est. 2016, Moscow) is an aesthetic movement appeared in the association of artists Misak Samoktian, Alexei Rudenko and the artists Alexandra Gavrilova and Sergei Titov (Stain Group). Later the movement included G. Leonova, A. Rebrov, I. Yakubov, M. Maximov, M. Sachkov, P. Seldimirov. <span id="a1">[\[1\]](#f1)</span>.
 
 ![](https://rm-content.s3-accelerate.amazonaws.com/58cea0d6ef52950077521e06/890473/upload-2bd57570-bb65-11e7-b2f7-4506fd48469e.jpg)
 
