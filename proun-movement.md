@@ -51,8 +51,6 @@ published: true
 + [Pasha Seldymirov](index)
 + [Ildar Yakubov](index)
 
-
-
 # Footnotes
 
 [[1]](#a1) <span id="f1"></span> [{{page.title}} (Facebook)](https://www.facebook.com/PROUNcontinuum/)
