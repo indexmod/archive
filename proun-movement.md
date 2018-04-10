@@ -40,8 +40,7 @@ published: true
 
 # See also
 
-+ [About {{page.title}}](index)
-+ [{{page.title}} at Wikipedia](index)
++ [Proun (disambiguation)](proun-disambiguation)
 + [Misak Samokatyan](index)
 + [Alexey Rudenko](index)
 + [Stain](index)
