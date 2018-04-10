@@ -1,7 +1,7 @@
 ---
-title: Template
-permalink: template
-layout: info
+title: Проун (игра)
+permalink: proun-game
+layout: default-ru
 published: true
 ---
 

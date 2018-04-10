@@ -1,6 +1,7 @@
 ---
 title: Proun (movement)
-published: true
+permalink: proun-movement
+layout: default
 ---
 
 
