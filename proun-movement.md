@@ -36,7 +36,7 @@ published: true
 |YouTube|||
 |Age|3||
 |Article Value|{{ page.content | number_of_words }}||
-|Indexmod|0,0000||
+|Indexmod|0,0004378||
 
 # See also
 
