@@ -4,37 +4,36 @@ permalink: proun-movement
 layout: default
 ---
 
+(Рус. ПРОУН, est. 2016, Moscow) is an aesthetic movement appeared in the association of artists Misak Samoktian, Alexei Rudenko and the artists Alexandra Gavrilova and Sergei Titov (Stain Group). Later the movement included G. Leonova, A. Rebrov, I. Yakubov, M. Maximov, M. Sachkov, P. Seldimirov. <span id="a1">[\[1\]](#f1)</span>.
 
-(Est. 2016, city) is a --- <span id="a1">[\[1\]](#f1)</span>.
+![](https://rm-content.s3-accelerate.amazonaws.com/58cea0d6ef52950077521e06/890473/upload-2bd57570-bb65-11e7-b2f7-4506fd48469e.jpg)
 
-![](/encyclopedia/images/{{page.permalink}}.jpg)
+**Audiovisual sculpture, in the form of a spatial sound wave. Misak Samokatyan, 2016**
 
-**Image**
-
-*Photo: [Name](index) / [Source](index)*
+*Photo: [Proun](proun-movement) / [Readymag Proun](https://readymag.com/proun/893272/)*
 
 # {{page.title}} Conspectus
 
 |Year|Persone|
 |-|-|
-|2016|Abram Rebrov|
-|2016|Alexey Rudenko|
-|2016|Galina Leonova|
-|2016|Ildar Yakubov|
-|2016|Mikhail Maximov|
-|2016|Mikhail Sachkov|
 |2016|Misak Samokatyan|
-|2016|Pasha Seldymirov|
+|2016|Alexey Rudenko|
 |2016|Stain|
+|2017|Abram Rebrov|
+|2017|Galina Leonova|
+|2017|Pasha Seldymirov|
+|2018|Ildar Yakubov|
+|2018|Mikhail Maximov|
+|2018|Mikhail Sachkov|
 
 # {{page.title}} Indexmod [*](indexmod)
 
 ||2018|2019|
 |-|-|-|
 |Facebook <span id="a3">[\[3\]](#f3)</span>|89||
-|Instagram <span id="a4">[\[4\]](#f4)</span>|000||
-|YouTube <span id="a5">[\[5\]](#f5)</span>|000||
-|Age|30||
+|Instagram <span id="a4">[\[4\]](#f4)</span>|||
+|YouTube <span id="a5">[\[5\]](#f5)</span>|||
+|Age|3||
 |Article Value|{{ page.content | number_of_words }}||
 |Indexmod|0,0000||
 
@@ -42,6 +41,15 @@ layout: default
 
 + [About {{page.title}}](index)
 + [{{page.title}} at Wikipedia](index)
++ [Misak Samokatyan](index)
++ [Alexey Rudenko](index)
++ [Stain](index)
++ [Abram Rebrov](index)
++ [Galina Leonova](index)
++ [Pasha Seldymirov](index)
++ [Ildar Yakubov](index)
++ [Mikhail Maximov](index)
++ [Mikhail Sachkov](index)
 
 # Footnotes
 
