@@ -5,7 +5,7 @@ layout: default
 published: true
 ---
 
-(2013, Nakhabino) is a concept of interior gadget created by Andrei Deinichenko from is a pine and chrome-plated aluminum details <span id="a1">[\[1\]](#f1)</span>.
+(2013, Nakhabino) is a concept of interior gadget created by Andrei Deinichenko made of a pine and chrome-plated aluminum details <span id="a1">[\[1\]](#f1)</span>.
 
 ![](/encyclopedia/images/pinea-chrome.jpg)
 

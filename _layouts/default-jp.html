@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="{{ site.lang | default: EN }}">
+<html lang="{{ site.lang | default: JP }}">
 <head>
 	<meta charset="utf-8">
 	<meta content="HnrT2NSmVB_2fsV9rS25TEMeTKJSkBfqer0xKAkTBak" name="google-site-verification">
@@ -38,15 +38,15 @@
 		<section>
 			<h1>{{page.title}}</h1>
 			<div>
-				<p><a href="https://www.facebook.com/sharer/sharer.php?u=https%3A//indexmod.github.io/encyclopedia/{{page.permalink}}">Share</a> <a href="http://prose.io/#indexmod/encyclopedia/edit/master/{{page.path}}">Edit</a></p>
+				<p><a href="https://www.facebook.com/sharer/sharer.php?u=https%3A//indexmod.github.io/encyclopedia/{{page.permalink}}">シェア</a> <a href="http://prose.io/#indexmod/encyclopedia/edit/master/{{page.path}}">編集</a></p>
 			</div>{{ content | toc }}
 			<div>
-				<p><code class="highlighter-rouge">Page Value (words): {{ page.content | number_of_words }} of 500 max.</code><br>
-				<a href="https://www.facebook.com/sharer/sharer.php?u=https%3A//indexmod.github.io/encyclopedia/{{page.permalink}}">Share</a> <a href="http://prose.io/#indexmod/encyclopedia/edit/master/{{page.path}}">Edit</a></p>
+				<p><code class="highlighter-rouge">ページ値 （言葉）: {{ page.content | number_of_words }} の 500 max.</code><br>
+				<a href="https://www.facebook.com/sharer/sharer.php?u=https%3A//indexmod.github.io/encyclopedia/{{page.permalink}}">シェア</a> <a href="http://prose.io/#indexmod/encyclopedia/edit/master/{{page.path}}">編集</a></p>
 			</div>
 		</section>
 		<footer>
-			{% include footer.html %}
+			{% include footer-jp.html %}
 		</footer>
 	</div>
 	<script src="{{%20'/assets/js/scale.fix.js'%20|%20relative_url%20}}">
