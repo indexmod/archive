@@ -27,6 +27,7 @@ published: true
 # See also
 
 + [Proun (disambiguation)](proun-disambiguation)
++ [Proun (movement)](proun-movement)
 
 # Footnotes
 
