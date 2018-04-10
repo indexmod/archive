@@ -40,16 +40,18 @@ published: true
 
 # See also
 
++ [Galina Leonova](index)
++ [Mikhail Maximov](index)
 + [Proun (disambiguation)](proun-disambiguation)
++ [Mikhail Sachkov](index)
 + [Misak Samokatyan](index)
 + [Alexey Rudenko](index)
 + [Stain](index)
 + [Abram Rebrov](index)
-+ [Galina Leonova](index)
 + [Pasha Seldymirov](index)
 + [Ildar Yakubov](index)
-+ [Mikhail Maximov](index)
-+ [Mikhail Sachkov](index)
+
+
 
 # Footnotes
 
