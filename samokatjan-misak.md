@@ -6,6 +6,7 @@ published: true
 ---
 
 (Rus. Мисак Самоктьян, born. in 1983, Stanitsa Marianskaya) is a Russian visual artist student of Rodchenko School <span id="a1">[\[1\]](#f1)</span>, co-founder of [Proun](proun-movement), also known as [Minasyan (Минасян)](minasyan-misak), curator in Synthposium festival <span id="a2">[\[2\]](#f2)</span>, a transcendental person who does not exist in the consciousness of being-for-itself, phenomenon of the phenomenon, existential emanation of self, ontological accident, escapist-technocrat, minimalist, nothingness structuralist, intelligent dadaist, scholastic saboteur, techno mannerist, catechist of the absurd. Misak living and working in Moscow.
+
 ![](http://plumsfest.ru/img/artists/2013/misak.jpg)
 
 **Misak Samokatjan is posing for Plums Fest in 2013**
@@ -36,7 +37,7 @@ published: true
 |Vimeo <span id="a5">[\[5\]](#f5)</span>|128||
 |Age|35||
 |Article Value|{{ page.content | number_of_words }}||
-|Indexmod|0,0000||
+|Indexmod|0.01242708||
 
 # Footnotes
 
