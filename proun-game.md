@@ -9,7 +9,7 @@ published: true
 
 ![](http://www.proun-game.com/Screenshots/Track5c.jpg)
 
-**Image**
+**Фото экрана игрового пространства игры Проун**
 
 *Фото: [Юст ван Донген](joost-van-dongen) / [Proun-game.com](http://www.proun-game.com/Screenshots.html)*
 
@@ -24,8 +24,8 @@ published: true
 ||2018|2019|
 |-|-|-|
 |Facebook <span id="a3">[\[3\]](#f3)</span>|1841||
-|Instagram <span id="a4">[\[4\]](#f4)</span>|||
-|YouTube <span id="a5">[\[5\]](#f5)</span>|||
+|Instagram|||
+|YouTube|||
 |Age|7||
 |Article Value|{{ page.content | number_of_words }}||
 |Indexmod|0,0000||
@@ -41,7 +41,3 @@ published: true
 [[2]](#a2) <span id="f2"></span> [Proun FAQ (Proun-game.com)](http://www.proun-game.com/FAQ.html#WhoIsJoost)
 
 [[3]](#a3) <span id="f3"></span> [{{page.title}} (Facebook)](https://www.facebook.com/Proun-189243531749/)
-
-[[4]](#a4) <span id="f4"></span> [{{page.title}} (Instagram)](index)
-
-[[5]](#a5) <span id="f5"></span> [{{page.title}} (YouTube)](index)
