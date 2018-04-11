@@ -9,7 +9,7 @@ published: true
 
 ![](http://www.proun-game.com/Screenshots/Track5c.jpg)
 
-**Фото экрана игрового пространства игры Проун**
+**Экран игры Проун**
 
 *Фото: [Юст ван Донген](joost-van-dongen) / [Proun-game.com](http://www.proun-game.com/Screenshots.html)*
 
