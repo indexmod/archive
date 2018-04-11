@@ -23,12 +23,12 @@ published: true
 
 ||2018|2019|
 |-|-|-|
-|Facebook <span id="a3">[\[3\]](#f3)</span>|000||
-|Instagram <span id="a4">[\[4\]](#f4)</span>|000||
-|YouTube <span id="a5">[\[5\]](#f5)</span>|000||
-|Age|30||
-|Article Value|{{ page.content | number_of_words }}||
-|Indexmod|0,0000||
+|Facebook|||
+|Instagram|||
+|YouTube|||
+|Age|?||
+|Words|{{ page.content | number_of_words }}||
+|Indexmod|||
 
 # See also
 
@@ -40,4 +40,3 @@ published: true
 # Footnotes
 
 [[1]](#a1) <span id="f1"></span> [All About Gray in Tokyo Fashion (Tokyo Fashion Express, Japan Broadcasting Corporation)](https://www3.nhk.or.jp/nhkworld/en/tv/tokyofashion/program20180212.html)
-
