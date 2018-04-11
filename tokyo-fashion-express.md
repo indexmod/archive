@@ -21,7 +21,7 @@ published: true
 
 # {{page.title}} Indexmod [*](indexmod)
 
-||2018|2019|
+||2018||
 |-|-|-|
 |Facebook|||
 |Instagram|||
