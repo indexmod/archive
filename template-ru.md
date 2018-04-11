@@ -1,5 +1,5 @@
 ---
-title: Шаблон
+title: Шаблон (по-русски)
 permalink: template-ru
 layout: info-ru
 published: true
