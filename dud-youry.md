@@ -1,5 +1,5 @@
 ---
-title: Dud, Yury
+title: 'Dud, Yury'
 permalink: dud-yury
 layout: default
 published: true
@@ -24,10 +24,10 @@ published: true
 
 ||2018|2019|
 |-|-|-|
-|Facebook <span id="a3">[\[3\]](#f3)</span>|000||
-|Instagram <span id="a4">[\[4\]](#f4)</span>|000||
-|YouTube <span id="a5">[\[5\]](#f5)</span>|000||
-|Age|000|000|
+|Facebook <span id="a3">[\[3\]](#f3)</span>|33892||
+|Instagram <span id="a4">[\[4\]](#f4)</span>|904500||
+|YouTube <span id="a5">[\[5\]](#f5)</span>|2955700||
+|Age|32||
 |Page Value|{{ page.content | number_of_words }}||
 |Indexmod|0,0000||
 
