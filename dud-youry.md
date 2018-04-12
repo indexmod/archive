@@ -5,7 +5,7 @@ layout: default
 published: true
 ---
 
-(Rus. Юрий Дудь, est. 1986, Potsdam) Russian sports journalist, who also runs an youtube channel "Vdud", he interviews famous figures.
+(Rus. Юрий Дудь, est. 1986, Potsdam) Russian sports journalist, who also runs an youtube channel "Vdud" with famous figures interviews.
 
 ![](https://s0.rbk.ru/v6_top_pics/resized/1180xH/media/img/1/31/755101304604311.jpg)
 
@@ -17,9 +17,9 @@ published: true
 
 ||2018|2019|
 |-|-|-|
-|Facebook <span id="a3">[\[3\]](#f3)</span>|33892||
-|Instagram <span id="a4">[\[4\]](#f4)</span>|904500||
-|YouTube <span id="a5">[\[5\]](#f5)</span>|2955700||
+|Facebook <span id="a1">[\[2\]](#f3)</span>|33892||
+|Instagram <span id="a2">[\[2\]](#f2)</span>|904500||
+|YouTube <span id="a3">[\[3\]](#f3)</span>|2955700||
 |Age|32||
 |Page Value|{{ page.content | number_of_words }}||
 |Indexmod|103,42708352||
