@@ -29,7 +29,7 @@ published: true
 |YouTube <span id="a5">[\[5\]](#f5)</span>|2955700||
 |Age|32||
 |Page Value|{{ page.content | number_of_words }}||
-|Indexmod|0,0000||
+|Indexmod|103,42708352||
 
 # See also
 
