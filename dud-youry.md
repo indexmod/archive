@@ -5,7 +5,7 @@ layout: default
 published: true
 ---
 
-(Rus. Юрий Дудь Est. 1986, Potsdam) Russian sports journalist, who also runs an youtube channel he interviews famous figures <span id="a1">[\[1\]](#f1)</span>.
+(Rus. Юрий Дудь, est. 1986, Potsdam) Russian sports journalist, who also runs an youtube channel he interviews famous figures<span id="a1">[\[1\]](#f1)</span>.
 
 ![](https://s0.rbk.ru/v6_top_pics/resized/1180xH/media/img/1/31/755101304604311.jpg)
 
