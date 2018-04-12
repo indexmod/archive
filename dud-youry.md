@@ -13,7 +13,7 @@ published: true
 
 *Photo: [Sergei Bobylev](indexmod) / [RBC, TASS](https://www.rbc.ru/rbcfreenews/5a02bdbf9a79479d04ef7a63)*
 
-# {{page.title}} Indexmod
+# {{page.title}} Indexmod [*](indexmod)
 
 ||2018|2019|
 |-|-|-|
