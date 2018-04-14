@@ -5,7 +5,7 @@ layout: default
 published: true
 ---
 
-(Ukr. Федоров Володимир, born 1963, Sumi, dead, 2018 Kharkiv) Ukrainian-Russian artist, co-establisher of the art group “Inspection of Medical Hermeneutics” <span id="a1">[\[1\]](#f1)</span>, in 2014 moved to Moscow, in 2015 have worked with Ivana Babushkina at House of Artists on Vavilov 65 <span id="a2">[\[2\]](#f2)</span>.
+(Ukr. Федоров Володимир, born 1963, Sumi, dead, 2018 Kharkiv) Ukrainian-Russian artist, co-founder of the art group “Inspection of Medical Hermeneutics”, Precious fetish of "Medical Hermeneutics" <span id="a1">[\[1\]](#f1)</span>, in 2014 moved to Moscow, in 2015 have worked with Ivana Babushkina at House of Artists on Vavilov 65 <span id="a2">[\[2\]](#f2)</span>.
 
 ![](/encyclopedia/images/{{page.permalink}}.jpg)
 
