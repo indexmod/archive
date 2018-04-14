@@ -1,7 +1,7 @@
 ---
 title: 'Амед, Имран (блогер)'
 permalink: amed-imran
-layout: default
+layout: default-ru
 published: true
 ---
 
