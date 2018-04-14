@@ -44,5 +44,3 @@ published: true
 [[1]](#a1) <span id="f1"></span> [Прямая речь: Имран Амед, основатель сайта The Business of Fashion (Look at me, Юлия Выдолоб)](http://www.lookatme.ru/mag/archive/industry-interview/118417-imran-amed)
 
 [[2]](#a2) <span id="f2"></span> [Имран Амед, основатель BoF: "Если сидеть на месте, вы однозначно проиграете" (Бюро 24/7, Сильвия Бомбардини)](https://www.buro247.ru/fashion/interview/imran-amed.html)
-
-`Последняя редакция февр. 2018 (Андрей Дей)`
