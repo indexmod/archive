@@ -1,25 +1,25 @@
 ---
-title: One
-permalink: 1
+title: Template
+permalink: template
 layout: info
 published: true
 ---
 
 (Est. 2013, city) is a --- <span id="a1">[\[1\]](#f1)</span>.
 
-![](images/arkadiev-peter.jpg)
+![](/encyclopedia/images/{{page.permalink}}.jpg)
 
 **Image**
 
 *Photo: [Name](index) / [Source](index)*
 
-# Conspectus
+# {{page.title}} Conspectus
 
 |Year|City|
 |-|-|
 |2017|Moscow|
 
-# Indexmod [*](indexmod)
+# {{page.title}} Indexmod [*](indexmod)
 
 ||2018|2019|
 |-|-|-|
