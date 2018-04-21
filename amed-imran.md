@@ -1,7 +1,7 @@
 ---
 title: 'Амед, Имран (блогер)'
 permalink: amed-imran
-layout: default
+layout: default-ru
 published: true
 ---
 
@@ -22,11 +22,16 @@ published: true
 |2015|Почётный профессор модного бизнеса Каледонский университет Глазго|
 |2016|Совет дизайнеров Америки номинант премии Медиа имени Евгении Шеппард|
 
-# Imran Amed Indexmod
+# {{page.title}} Indexmod [*](indexmod)
 
-|Год|Facebook|Instagram|YouTube|Лет|IAI|
-|-|-|-|-|-|
-|2018|000 <span id="a3">[\[3\]](#f3)</span>|000 <span id="a4">[\[4\]](#f4)</span>|000 <span id="a4">[\[4\]](#f4)</span>|42|0,00000|
+||2018|2019|
+|-|-|-|
+|Facebook <span id="a3">[\[3\]](#f3)</span>|000||
+|Instagram <span id="a4">[\[4\]](#f4)</span>|000||
+|YouTube <span id="a5">[\[5\]](#f5)</span>|000||
+|Возраст|30||
+|Объём статьи|{{ page.content | number_of_words }}||
+|Indexmod|0,0000||
 
 # Cм. также
 
@@ -39,5 +44,3 @@ published: true
 [[1]](#a1) <span id="f1"></span> [Прямая речь: Имран Амед, основатель сайта The Business of Fashion (Look at me, Юлия Выдолоб)](http://www.lookatme.ru/mag/archive/industry-interview/118417-imran-amed)
 
 [[2]](#a2) <span id="f2"></span> [Имран Амед, основатель BoF: "Если сидеть на месте, вы однозначно проиграете" (Бюро 24/7, Сильвия Бомбардини)](https://www.buro247.ru/fashion/interview/imran-amed.html)
-
-`Последняя редакция февр. 2018 (Андрей Дей)`
