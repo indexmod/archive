@@ -30,7 +30,7 @@ Natural beeswax soothes the skin, aloe vera moisturizes it, silk proteins enhanc
 |YouTube <span id="a5">[\[5\]](#f5)</span>|30||
 |Age|6||
 |Article Value|{{ page.content | number_of_words }}||
-|Indexmod|14,83488||
+|Indexmod|0,0249648||
 
 # See also
 
