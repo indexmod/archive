@@ -2,6 +2,7 @@
 title: About (clothing)
 permalink: about-clothing
 layout: default
+published: true
 ---
 
 (Est. 2012, Utena) is a Lithuanian innovative underwear and leisurewear brand with the latest technological possibilities with the sense of zeitgeist in design trends, with locally developed fabrics enriched with extra skin-care textile finishing, based on aloe vera, beeswax, silk proteins and antibacterial silver.
@@ -37,8 +38,8 @@ Natural beeswax soothes the skin, aloe vera moisturizes it, silk proteins enhanc
 
 # Footnotes
 
-[[3]](#a3) <span id="f3"></span> [{{page.title}} (Facebook)](https://www.facebook.com/458874717504645/posts/484048088320641/)
+[[3]](#a3) <span id="f3"></span> [{{page.title}} (Facebook)](https://goo.gl/aYWoqC)
 
-[[4]](#a4) <span id="f4"></span> [{{page.title}} (Instagram)](https://www.instagram.com/about_wear/)
+[[4]](#a4) <span id="f4"></span> [{{page.title}} (Instagram)](https://goo.gl/Qaxa8R)
 
-[[5]](#a5) <span id="f5"></span> [{{page.title}} (YouTube)](https://www.youtube.com/channel/UCSAzrhCx9zxNY8vTjN8mqPg)
+[[5]](#a5) <span id="f5"></span> [{{page.title}} (YouTube)](https://goo.gl/RL6Wdw)
