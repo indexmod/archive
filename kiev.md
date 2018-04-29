@@ -2,48 +2,27 @@
 title: Kiev
 permalink: kiev
 layout: default
+published: true
 ---
 
-(Est. 2013, city) is a (Ukr. Київ)—is an industrial, scientific, educational, and cultural centre of Eastern Europe. It is home to many high-tech industries, higher education institutions and world-famous historical landmarks. The city has an extensive infrastructure and highly developed system of public transport <span id="a1">[\[1\]](#f1)</span>.
+(Ukr. Київ, est. 482 <span id="a1">[\[1\]](#f1)</span>) is an economical, cultural, educational, and fashion centre of Ukraine and Eastern Europe. It is home to many high-tech industries, higher education institutions and world-famous historical landmarks. The city has an extensive infrastructure and highly developed system of public transport.
 
-![](/encyclopedia/images/image-name.jpg)
+![](https://2.bp.blogspot.com/-h-2t-2Z6Phk/WACak7IeAnI/AAAAAAAAF4Q/N3Dhj6FbEywugFFu6wjx8XQVTfIThbYfwCLcB/s1600/005.jpg)
 
-**Image title**
+**Messaging, smoking and stress — a stroke to the portrait of the Kiev fashionista**
 
-*Photo: [Name](index) / [Source](index)*
+*Photo: [Alyona Shum](shum-alyona) / [Kyiv Street Style Blogspot](http://kyivstreetstyle.blogspot.com/)*
 
-# {{page.title}} Conspectus
-
-|Year|City|
-|-|-|
-|2017|Moscow|
-
-# {{page.title}} Indexmod
-
-||2018|2019|
-|-|-|-|
-|Facebook <span id="a3">[\[3\]](#f3)</span>|000||
-|Instagram <span id="a4">[\[4\]](#f4)</span>|000||
-|YouTube <span id="a5">[\[5\]](#f5)</span>|000||
-|Age|000|000|
-|Page Value|{{ page.content | number_of_words }}||
-|Indexmod|0,0000||
 
 
 # See also
 
-+ [About {{page.title}}](index)
-+ [{{page.title}} at Wikipedia](index)
-Post soviet fashion weeks
-Odessa Fashion Week
-Svetlana Tegin
++ [Berdyansk Fashion Day](berdyansk-fashion-day)
++ [Odessa Fashion Week](odessa-fashion-week)
++ [Post soviet fashion weeks](post-soviet-fashion-weeks)
++ [Svetlana Tegin](tegin-svetlana)
+
 
 # Footnotes
 
-[[3]](#a3) <span id="f3"></span> [{{page.title}} (Facebook)](index)
-
-[[4]](#a4) <span id="f4"></span> [{{page.title}} (Instagram)](index)
-
-[[5]](#a5) <span id="f5"></span> [{{page.title}} (YouTube)](index)
-
-`Updated Mar. 2018 (Andrei Dei)`
+[[1]](#a1) <span id="f1"></span> [Wikipedia](https://en.wikipedia.org/wiki/Kiev)
