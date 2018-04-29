@@ -9,7 +9,7 @@ published: true
 |City|Index|Location|Est.|Brands|Operator|
 |-|-|-|-|-|-|
 |Yerevan|PPY|MAH|2004|7|AFC|
-|Odessa|OHFW|2006|30|FWUA|
+|Odessa|OHFW||2006|30|FWUA|
 |Tashkent|AWSU|YIS|2007||FFU|
 |Lviv|LVFW|SE|2009|45|LVFW|
 |Tbilisi|TBFW|RBIH|2009|14|TFW|
