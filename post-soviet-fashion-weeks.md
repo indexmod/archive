@@ -4,6 +4,8 @@ permalink: post-soviet-fashion-weeks
 layout: default
 published: true
 ---
+
+
 |City|Index|Location|Est.|Brands|Operator|
 |-|-|-|-|-|-|
 |Yerevan|PPY|Marriott Armenia Hotel|2004|7|Armenian Fashion Council|
@@ -18,7 +20,6 @@ published: true
 |Riga|RGFW|CCCC|2011|0|BFF|
 |Vilnius|VSFW|Litexpo 1994|0|Vilnius Municipality|
 |Almaty|KZFW|Almaty Towers|2011|5|Mol Bulak Finance|
-
 
 # See also
 
