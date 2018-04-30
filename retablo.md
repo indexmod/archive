@@ -1,7 +1,7 @@
 ---
 title: Ретаблос (иконы)
 permalink: retablos
-layout: default
+layout: default-ru
 published: true
 ---
 
