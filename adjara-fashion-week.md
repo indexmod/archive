@@ -3,6 +3,8 @@ title: Adjara Fashion Week
 permalink: adjara-fashion-week
 layout: default
 published: true
+shortname: AJFW
+indexmod: '0,00'
 ---
 
 (Est. 2015, Batumi) is fashion event in Georgia held in Batumi Palm Apartment.
