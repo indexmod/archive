@@ -2,7 +2,7 @@
 title: PinchukArtCentre
 permalink: pinchukartcentre
 shortname: PAC
-indexmod: '0,00'
+indexmod: '4,69753236'
 layout: default
 published: true
 ---
@@ -22,9 +22,9 @@ published: true
 |Facebook <span id="a3">[\[3\]](#f3)</span>|29524||
 |Instagram <span id="a4">[\[4\]](#f4)</span>|11000||
 |YouTube <span id="a5">[\[5\]](#f5)</span>|277737||
-|Age|30||
+|Age|12||
 |Article Value|{{ page.content | number_of_words }}||
-|Indexmod|0,0000||
+|Indexmod|4,69753236||
 
 # See also
 
