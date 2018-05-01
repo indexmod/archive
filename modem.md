@@ -3,6 +3,8 @@ title: Modem
 permalink: modem
 layout: default
 published: true
+shortname: MODEM
+indexmod: '0,00'
 ---
 (Est. 1997, Paris) is an online platform founded by Ezio Barbaro, the Modem editions “are the working tool and source of professional information dedicated to those who operate in the fields of fashion and design” <span id="a1">[\[1\]](#f1)</span>.
 
