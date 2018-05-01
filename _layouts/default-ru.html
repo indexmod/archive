@@ -23,7 +23,18 @@
 	<meta content="/ms-icon-144x144.png" name="msapplication-TileImage">
 	<meta content="#ffffff" name="theme-color">
 	<meta content="bd6cadbefee34d7e" name="yandex-verification">
-	<title>{{page.title}} в Indexmod (github.io) энциклопедии</title>
+	
+	<!-- Indexmod encyclopedia browser and facebook presentation -->
+	
+	<title>{{page.shortname}} | {{page.indexmod}}</title>
+	<meta name="description" content="Indexmod encyclopedia"/>
+	<meta property="og:title" content="{{page.title}} | {{page.shortname}} {{page.indexmod}}"/>
+        <meta property="og:image" content=""/>
+        <meta property="og:site_name" content="Indexmod"/>
+        <meta property="og:description" content="Indexmod encyclopedia is a fashion and art wiki. The last update of the «{{page.title}}»: at {{ site.time | date_to_long_string }}"/>
+
+        <!-- Indexmod encyclopedia browser and facebook presentation -->
+
 </head>
 <body>
 	{% seo %}
