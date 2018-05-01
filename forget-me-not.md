@@ -3,6 +3,8 @@ title: Forget Me Not
 permalink: forget-me-not
 layout: default
 published: true
+shortname: FGMN
+indexmod: '0,00'
 ---
 
 (Rus. Незабудка, est. 2010) is a Russian unisex clothes brand based in Moscow founded by Artur Lomakin  <span id="a1">[\[1\]](#f1)</span>, collections known with floor-length coats, heavy-knit sweaters and lambskin collars that goes from the "grey anonymity of Moscow's suburbs" <span id="a2">[\[2\]](#f2)</span>, living and working in "the Southern suburb of Chertanovo" <span id="a3">[\[3\]](#f3)</span> in Moscow.
