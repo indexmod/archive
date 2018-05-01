@@ -3,7 +3,7 @@ title: Шаблон (по-русски)
 permalink: template-ru
 layout: default-ru
 shortname: ABC
-indexmod: 000
+indexmod: '0,00'
 published: true
 ---
 
@@ -36,7 +36,7 @@ published: true
 
 + [Официальный сайт {{page.title}}](index)
 + [{{page.title}} at Wikipedia](index)
-+ 
++
 
 # Footnotes
 

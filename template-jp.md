@@ -3,7 +3,7 @@ title: Template (日本語)
 permalink: template-jp
 layout: default-jp
 shortname: ABC
-indexmod: 000
+indexmod: '0,00'
 published: true
 ---
 (設立	2016年, モスクワ) 説明 <span id="a1">[\[1\]](#f1)</span>。

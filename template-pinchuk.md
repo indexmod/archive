@@ -1,7 +1,9 @@
 ---
 title: Pinchuk
 permalink: template-pinchuk
-layout: info
+shortname: ABC
+indexmod: '0,00'
+layout: default
 published: true
 ---
 

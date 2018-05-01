@@ -3,7 +3,7 @@ title: Template
 permalink: template
 layout: default
 shortname: ABC
-indexmod: 000
+indexmod: '0,00'
 published: true
 ---
 
