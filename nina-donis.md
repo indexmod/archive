@@ -3,6 +3,8 @@ title: Nina Donis
 permalink: nina-donis
 layout: default
 published: true
+shortname: NIDO
+indexmod: '0,00'
 ---
 
 
