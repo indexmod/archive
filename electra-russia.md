@@ -3,6 +3,8 @@ title: Electra Russia
 permalink: electra-russia
 layout: default
 published: true
+shortname: ELRA
+indexmod: '2,12'
 ---
 
 (Est. 2010 <span id="a1">[\[1\]](#f1)</span>, Saint Petersburg <span id="a2">[\[2\]](#f2)</span>) is an official representation of the Californian company Electra Bicycle Company (Founded in 1993), which is a division of the American Trek Bicycle Company in Russia and the CIS based on private limited company "VeloKultura SPb. Ltd." (ООО «ВелоКультура СПб.») and operates the brand's stores in Moscow, St. Petersburg, Sochi, Yekaterinburg, Saratov, Krasnodar, Voronezh, Tyumen and Minsk.
@@ -29,19 +31,7 @@ published: true
 ||Natalia and Murad Osman|
 ||Dina Silina|
 ||Nadezhda Sysoeva|
-=======
-||Ilya Bachurin|
-||Mark Berman|
-|2018|Alena Esipova|
-||Oksana He|
-||Timofey Kolesnikov|
-||Vitaly Kozak|
-||Anton Lavrentiev|
-||Elena Letuchaya|
-||Yasmina Muratovich|
-|2018|Natalia and Murad Osman|
-||Dina Silina|
-|2018|Nadezhda Sysoeva|
+
 
 # {{page.title}} Indexmod [*](indexmod)
 
