@@ -40,5 +40,3 @@ published: true
 # Footnotes
 
 [[2]](#a2) <span id="f2"></span> [Влад Монро в радиоспектакле Полоний](https://www.youtube.com/watch?v=e8ohN3fR9tk)
-
-`Updated Mar. 2018 (Andrei Dei)`
