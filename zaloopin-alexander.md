@@ -29,7 +29,7 @@ indexmod: '0,02'
 
 # Zaloopin Indexmod
 
-|Year|Facebook|Instagram|Age|ZLI|
+|Year|Facebook|Instagram|Age|ZLOO|
 |-|-|-|-|-|
 |2018|92 <span id="a6">[\[6\]](#f6)</span>||49|0,004508|
 |2019|||50||
