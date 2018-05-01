@@ -11,9 +11,11 @@ published: true
 
 ![](/encyclopedia/images/{{page.permalink}}.jpg)
 
-**Image**
+**Dineo Seshee Bopape, artist, Victor Pinchuk, businessman and philanthropist**
 
-*Photo: [Name](index) / [Source](index)*
+*Photo: [Sergey Illin, Alexander Pilyugin](index) / [Source](index)*
+
+Photographs provided by the PinchukArtCentre © 2018. Photographed by Sergey Illin, Alexander Pilyugin.
 
 # {{page.title}} Conspectus
 
