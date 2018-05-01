@@ -2,6 +2,8 @@
 title: Template
 permalink: template
 layout: info
+shortname: ABC
+indexmod: 000
 published: true
 ---
 
