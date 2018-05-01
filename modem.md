@@ -29,5 +29,3 @@ indexmod: '0,00'
 # Footnotes
 
 [[1]](#a1) <span id="f1"></span> [ModemOnline.com](ModemOnline.com)
-
-`Updated Mar. 2018 (Andrei Dei)`
