@@ -2,7 +2,7 @@
 title: PinchukArtCentre
 permalink: pinchukartcentre
 shortname: PAC
-indexmod: '4,69753236'
+indexmod: '4,69'
 layout: default
 published: true
 ---
