@@ -1,5 +1,5 @@
 ---
-title: Indexmod (github.io) encyclopedia
+title: Indexmod encyclopedia
 timezone: UTC
 collections:
   posts:
@@ -8,7 +8,7 @@ collections:
   uploads:
     title: Uploads
     output: false
-description: Indexmod (github.io) encyclopedia — blockchain wiki with pretty syntax
+description: Indexmod encyclopedia — is a wiki with pretty syntax
 show_sidebar: false
 show_downloads: false
 show_title: false
@@ -28,29 +28,5 @@ prose:
     - _config.yml
     - /_layouts
     - /_includes
-  metadata:
-    _pages:
-      - name: "layout"
-        field:
-          value: "default"
-      - name: "tags"
-        field:
-          element: "multiselect"
-          label: "Add Tags"
-          placeholder: "Choose Tags"
-          options:
-            - name: "Apples"
-              value: "apples"
-            - name: "Bananas"
-              value: "bananas"
-    _posts/static:
-      - name: "layout"
-        field:
-          element: "hidden"
-          value: "page"
-      - name: "permalink"
-        field:
-          element: "text"
-          label: "Permalink"
-          value: ""
+   
 

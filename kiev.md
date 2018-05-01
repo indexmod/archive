@@ -3,6 +3,8 @@ title: Kiev
 permalink: kiev
 layout: default
 published: true
+shortname: KIEV
+indexmod: '0,00'
 ---
 
 (Ukr. Київ, est. 482 <span id="a1">[\[1\]](#f1)</span>) is an economical, cultural, educational, and fashion centre of Ukraine and Eastern Europe. It is home to many high-tech industries, higher education institutions and world-famous historical landmarks. The city has an extensive infrastructure and highly developed system of public transport.

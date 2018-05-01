@@ -3,6 +3,8 @@ title: 'Dud, Yury'
 permalink: dud-yury
 layout: default
 published: true
+shortname: DUDY
+indexmod: 103
 ---
 
 (Rus. Юрий Дудь, est. 1986, Potsdam) Russian sports journalist, who also runs an youtube channel "Vdud" with famous figures interviews.

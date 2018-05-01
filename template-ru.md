@@ -1,7 +1,9 @@
 ---
 title: Шаблон (по-русски)
 permalink: template-ru
-layout: info-ru
+layout: default-ru
+shortname: ABC
+indexmod: 000
 published: true
 ---
 

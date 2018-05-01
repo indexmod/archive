@@ -1,7 +1,7 @@
 ---
 title: 'Келли-Брант, Мегин Мари'
 permalink: kelly-brunt-megyn-marie
-layout: default
+layout: default-ru
 published: true
 ---
 
