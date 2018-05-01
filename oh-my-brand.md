@@ -3,6 +3,8 @@ title: 'Oh, My (brand)'
 permalink: oh-my-brand
 layout: default
 published: true
+shortname: OHMY
+indexmod: '0,80'
 ---
 
 (Est. 2010, Saint Petersburg) is a Russian brand of basic clothes with moto "Bread, salt and matches" <span id="a1">[\[1\]](#f1)</span> founded by Sergei Kovelenov (Сергей Ковеленов), positioning itself as a competitor of Uniqlo, Gap, Benetton, H&M <span id="a2">[\[2\]](#f2)</span>.
