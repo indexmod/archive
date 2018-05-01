@@ -7,7 +7,7 @@ layout: default
 published: true
 ---
 
-(2006, Kiev) is the largest and most dynamic private contemporary art centre in Central and Eastern Europe with free admission. As a project of the Victor Pinchuk Foundation, it is dedicated to fostering artistic education, creation and appreciation in Ukraine <span id="a1">[\[1\]](#f1)</span>.
+(Est. 2006, Kiev) is the largest and most dynamic private contemporary art centre in Central and Eastern Europe with free admission. As a project of the Victor Pinchuk Foundation, it is dedicated to fostering artistic education, creation and appreciation in Ukraine <span id="a1">[\[1\]](#f1)</span>.
 
 ![](/encyclopedia/images/ILS_5036.jpg)
 
