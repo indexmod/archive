@@ -2,7 +2,7 @@
 title: Anatoly Belov
 permalink: belov-anatoly
 shortname: BEAN
-indexmod: '0,00'
+indexmod: '0,066'
 layout: default
 published: true
 ---
@@ -30,7 +30,7 @@ published: true
 |YouTube|||
 |Age|41||
 |Article Value|{{ page.content | number_of_words }}||
-|Indexmod|0,0000||
+|Indexmod|0,06685632||
 
 # See also
 
