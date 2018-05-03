@@ -3,7 +3,7 @@ title: 'Dud, Yury'
 permalink: dud-yury
 layout: default
 published: true
-shortname: DUDY
+shortname: DUYU
 indexmod: 103
 ---
 
