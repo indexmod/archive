@@ -41,7 +41,7 @@ published: true
 
 # Footnotes
 
-[[1]](#a1) <span id="f1"></span> [{Всегда Современное, Пасмур Рачуйко](https://sovrisk.gallery/artprofile/?aid=149)
+[[1]](#a1) <span id="f1"></span> [Всегда Современное, Пасмур Рачуйко](https://sovrisk.gallery/artprofile/?aid=149)
 
 [[2]](#a2) <span id="f2"></span> [«Слизняк — это просто улитка-бомж, которую чуть сложнее готовить». Художник Пасмур Рачуйко — о том, каково быть живописцем-самоучкой и о парках, полных бесплатной еды (Анна Аскарян, Нож)](https://knife.media/artist-eats-wild-food/)
 
