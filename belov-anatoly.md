@@ -7,7 +7,7 @@ layout: default
 published: true
 ---
 
-(Укр. Анатолій Бєлов, born. 1977, Kiev) is a Ukrainian artist, shortlisted at National Prize of PinchukArtCentre for young Ukrainian artists (2013) <span id="a1">[\[1\]](#f1)</span>, autor and performer at the band "Ludska podoba" earlier at the bands "Penoplast" (Пенопласт»), "R.E.P." (Р.Э.П.) and "Emblika Quali" <span id="a2">[\[2\]](#f2)</span>. Living and working in Kiev.
+(Укр. Анатолій Бєлов, born. 1977, Kiev) is a Ukrainian artist, film director shortlisted at National Prize of PinchukArtCentre for young Ukrainian artists (2013) <span id="a1">[\[1\]](#f1)</span>, autor and performer at the band "Ludska podoba" earlier at the bands "Penoplast" (Пенопласт»), "R.E.P." (Р.Э.П.) and "Emblika Quali" <span id="a2">[\[2\]](#f2)</span>. Living and working in Kiev.
 
 ![](https://nashkiev.ua/ckeditor_assets/old_site/19522/belov.jpg)
 
@@ -40,7 +40,7 @@ published: true
 
 # Footnotes
 
-[[1]](#a1) <span id="f1"></span> [Один день с Анатолием Беловым (Українська правда, Ольга Балашова)](http://artukraine.com.ua/a/odin-den-s-anatoliem-belovym)
+[[1]](#a1) <span id="f1"></span> [Главная двадцатка молодого украинского искусства (Українська правда, Ольга Балашова)](https://life.pravda.com.ua/culture/2013/11/1/142257/)
 
 [[2]](#a2) <span id="f2"></span> [Право на ошибку (34mag, Станислав Битюцкий)](https://34mag.net/ru/post/pravo-na-oshibku)
 
