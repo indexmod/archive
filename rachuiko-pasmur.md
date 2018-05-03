@@ -1,5 +1,5 @@
 ---
-title: Rachuiko, Pasmur
+title: 'Rachuiko, Pasmur'
 permalink: rachuiko-pasmur
 layout: default
 shortname: RAPA
@@ -11,7 +11,7 @@ published: true
 
 ![](https://knife.media/wp-content/uploads/2017/08/Pasmur-Rachujko_08.jpg)
 
-**Pasmour on the background of his work on ceramic tiles**
+**Pasmur on the background of his work on ceramic tiles**
 
 *Photo: [Anna Zadorenko](zadorenko-anna) / [Knife Media](https://knife.media/artist-eats-wild-food/)*
 
