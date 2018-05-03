@@ -27,7 +27,7 @@ published: true
 |-|-|-|
 |Facebook <span id="a4">[\[4\]](#f4)</span>|4895||
 |Instagram <span id="a5">[\[5\]](#f5)</span>|1013||
-|YouTube|||
+|Vimeo|21||
 |Age|41||
 |Article Value|{{ page.content | number_of_words }}||
 |Indexmod|0,06685632||
@@ -49,3 +49,5 @@ published: true
 [[4]](#a4) <span id="f4"></span> [{{page.title}} (Facebook)](https://www.facebook.com/ANATOLIY.BELOV/friends)
 
 [[5]](#a5) <span id="f5"></span> [{{page.title}} (Instagram)](https://www.instagram.com/beefcake_tears/)
+
+[[6]](#a6) <span id="f6"></span> [{{page.title}} (Vimeo)](https://vimeo.com/user8271198)
