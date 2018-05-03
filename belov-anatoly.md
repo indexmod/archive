@@ -1,5 +1,5 @@
 ---
-title: Anatoly Belov
+title: 'Belov, Anatoly'
 permalink: belov-anatoly
 shortname: BEAN
 indexmod: '0,066'
