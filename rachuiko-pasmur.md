@@ -3,7 +3,7 @@ title: 'Rachuiko, Pasmur'
 permalink: rachuiko-pasmur
 layout: default
 shortname: RAPA
-indexmod: '0,00'
+indexmod: '0,1208'
 published: true
 ---
 
