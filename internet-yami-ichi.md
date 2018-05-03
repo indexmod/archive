@@ -43,11 +43,16 @@ indexmod: '0,066'
 |2017|Лондон|
 |2018|Базель|
 
-# {{page.title}} Indexmod
+# {{page.title}} Indexmod [*](indexmod)
 
-|Год|Facebook|Instagram|YouTube|Лет|YAIC|
-|-|-|-|-|-|
-|2018|000 <span id="a3">[\[3\]](#f3)</span>|000 <span id="a4">[\[4\]](#f4)</span>|000 <span id="a4">[\[4\]](#f4)</span>|6|0,00000|
+||2018|2019|
+|-|-|-|
+|Facebook <span id="a4">[\[4\]](#f4)</span>|0||
+|Instagram <span id="a5">[\[5\]](#f5)</span>|0||
+|YouTube|||
+|Age|6||
+|Article Value|{{ page.content | number_of_words }}||
+|Indexmod|0,0||
 
 
 # См. также
