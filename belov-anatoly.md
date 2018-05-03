@@ -7,7 +7,7 @@ layout: default
 published: true
 ---
 
-(Укр. Анатолій Бєлов, born. 1977, Kiev) is a Ukrainian artist, film director shortlisted at National Prize of PinchukArtCentre for young Ukrainian artists (2013) <span id="a1">[\[1\]](#f1)</span>, autor and performer at the band "Ludska podoba" earlier at the bands "Penoplast" (Пенопласт»), "R.E.P." (Р.Э.П.) and "Emblika Quali" <span id="a2">[\[2\]](#f2)</span>. Living and working in Kiev.
+(Укр. Анатолій Бєлов, born. 1977, Kiev) is a Ukrainian artist, film director shortlisted at National Prize of PinchukArtCentre for young Ukrainian artists (2013) <span id="a1">[\[1\]](#f1)</span>, autor and performer at the band "Ludska podoba" earlier at the bands "Penoplast" (Пенопласт), "R.E.P." (Р.Э.П.) and "Emblika Quali" <span id="a2">[\[2\]](#f2)</span>. Living and working in Kiev.
 
 ![](https://nashkiev.ua/ckeditor_assets/old_site/19522/belov.jpg)
 
