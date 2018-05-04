@@ -30,7 +30,8 @@ published: true
 
 + [Chthonism](chthonism)
 + [Russian Chthonism](russian-chthonism)
++ [Tamkovich-Friske, Ian](tamkovich-friske-ian)
 
 # Footnotes
 
-[[3]](#a3) <span id="f3"></span> [{{page.title}} (Facebook)](index)
+`Will apear here`
