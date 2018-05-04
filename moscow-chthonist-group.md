@@ -8,7 +8,7 @@ published: true
 ---
 (Est. 2018, Moscow) is an art group, focused on basis Ancient “subterranean” deities or spirits of the underworld, or refers to anything which is under the earth.
 
-![](/images/Moscow-Chthonists.jpg)
+![](/encyclopedia/images/moscow-chthonists.jpg)
 
 **The group of chthonists at the exhibition "After Us Only Ashes"**
 
