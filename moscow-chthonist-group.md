@@ -18,11 +18,11 @@ published: true
 
 |Year|City|Persone|Event|
 |-|-|-|-|
-|2018|Moscow|Misha Blosyak|After us though ashes|
-|2018|Moscow|Dasha Kuznetsova|After us though ashes|
-|2018|Moscow|Michel Klimin|After us though ashes|
-|2018|Moscow|Irina Petrakova|After us though ashes|
-|2018|Moscow|Jan Tamkovich-Friske|After us though ashes|
+|2018|Moscow|Misha Blosyak||
+|||Dasha Kuznetsova||
+|||Michel Klimin||
+|||Irina Petrakova|After Us Only Ashes|
+|||Jan Tamkovich-Friske|After Us Only Ashes|
 
 
 # See also
