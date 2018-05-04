@@ -1,6 +1,6 @@
 ---
 title: 'Jakovlev, Dmitry (visual artist)'
-permalink: jakovlev-dmitry-visual-artist
+permalink: jakovlev-dmitry-artist
 layout: default
 shortname: JADM
 indexmod: '0,05'
