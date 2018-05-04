@@ -13,7 +13,7 @@ published: true
 
 **Group of chthonists in Moscow**
 
-*Photo: [Dmitry Jakovlev](jakovlev-dmitry-visual-artist) / [Facebook](https://www.facebook.com/dmitry.yakovlev/about?lst=100008481991414%3A714859555%3A1525429921)*
+*Photo: [Dmitry Jakovlev](jakovlev-dmitry-artist) / [Facebook](https://www.facebook.com/dmitry.yakovlev/about?lst=100008481991414%3A714859555%3A1525429921)*
 
 # Known Russian Chthonists
 
