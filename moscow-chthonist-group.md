@@ -34,4 +34,4 @@ published: true
 
 # Footnotes
 
-`Will apear here`
++ Will apear here
