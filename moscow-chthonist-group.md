@@ -6,9 +6,9 @@ shortname: MCHG
 indexmod: Indexmod
 published: true
 ---
-(Est. 2018, Moscow) is an art group, focused on basis Ancient “subterranean” deities or spirits of the underworld, or refers to anything which is under the earth.
+(Est. 2018, Moscow) is an art group, focused on basis Ancient “subterranean” deities or spirits <span id="a1">[\[1\]](#f1)</span> of the underworld, or refers to anything which is under/of the earth.
 
-![](encyclopedia/images/moscow-chthonists-1.jpg)
+![](/encyclopedia/images/moscow-chthonists-1.jpg)
 
 **The group of chthonists at the exhibition "After Us Only Ashes"**
 
@@ -25,7 +25,6 @@ published: true
 |2018|Moscow|Jan Tamkovich-Friske|After us though ashes|
 
 
-
 # See also
 
 + [Chthonism](chthonism)
@@ -34,4 +33,4 @@ published: true
 
 # Footnotes
 
-+ Will apear here
++ [[1]](#a1) <span id="f1"></span> [Chthonic (Wikipedia)](https://en.wikipedia.org/wiki/Chthonic)
