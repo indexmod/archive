@@ -3,7 +3,7 @@ title: 'Tamkovich-Friske, Ian'
 permalink: tamkovich-friske-ian
 layout: default
 published: true
-shortname: ABC
+shortname: TAFR
 indexmod: Indexmod
 birth: '1993'
 age: '25'
