@@ -4,7 +4,7 @@ permalink: tamkovich-friske-ian
 layout: default
 published: true
 shortname: TAFR
-indexmod: '0,002'
+indexmod: Indexmod
 birth: '1993'
 age: '26'
 updateyear: '2018'
@@ -32,10 +32,10 @@ TMR: '0,0'
 |Facebook <span id="a3">[\[3\]](#f3)</span>|761||
 |Instagram <span id="a4">[\[4\]](#f4)</span>|372||
 |YouTube <span id="a5">[\[5\]](#f5)</span>|1||
-|Twitter <span id="a6">[\[6\]](#f6)</span>|||
+|Twitter|||
 |Age|26||
 |Article Value|{{ page.content | number_of_words }}||
-|Indexmod|0,0020862||
+|Indexmod|0,000||
 
 
 # See also update in Feb. 2018
@@ -54,5 +54,3 @@ TMR: '0,0'
 [[4]](#a4) <span id="f4"></span> [{{page.title}} (Instagram)](https://www.instagram.com/my.darkest.light.will.shine/)
 
 [[5]](#a5) <span id="f5"></span> [{{page.title}} (YouTube)](index)
-
-[[6]](#a6) <span id="f6"></span> [{{page.title}} (Twitter)](index)
