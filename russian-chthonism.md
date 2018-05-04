@@ -29,6 +29,7 @@ published: true
 
 + [Chthonism](chthonism)
 + [Moscow Chthonist (group)](moscow-chthonist-group)
++ [Neo-paganism](neo-paganism)
 + [Tamkovich-Friske, Ian](tamkovich-friske-ian)
 
 # Footnotes
