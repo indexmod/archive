@@ -7,7 +7,7 @@ indexmod: '0,00'
 published: true
 ---
 
-(Rus. Дмитрий Яковлев, birth. 1980, Nizhny Novgorod) is a Russain visual-artist, photographer, art director, member of Association Typographique Internationale and Art Directors Club, founder of KunstGroup and Russian-speaking community about typography Ru_Typography, co-founder of DailyType, participant of type competitions and art exhibitions <span id="a1">[\[1\]](#f1)</span>.
+(Rus. Дмитрий Яковлев, birth. 1980, Nizhny Novgorod <span id="a1">[\[1\]](#f1)</span>) is a Russain visual-artist, photographer, art director, member of Association Typographique Internationale and Art Directors Club <span id="a2">[\[2\]](#f2)</span>, founder of KunstGroup and Russian-speaking community about typography Ru_Typography, co-founder of DailyType, participant of type competitions and art exhibitions, founder (Ru_Typography), Co-founder (DailyType) и Founder and Art director (JTF Design) <span id="a3">[\[3\]](#f3)</span>
 
 ![](/encyclopedia/images/{{page.permalink}}.jpg)
 
@@ -26,7 +26,7 @@ published: true
 
 ||2018|2019|
 |-|-|-|
-|Facebook <span id="a3">[\[3\]](#f3)</span>|||
+|Facebook|||
 |Instagram <span id="a4">[\[4\]](#f4)</span>|796||
 |Vimeo <span id="a5">[\[5\]](#f5)</span>|79||
 |Age|38||
@@ -41,9 +41,9 @@ published: true
 
 # Footnotes
 
-[[1]](#a1) <span id="f1"></span> [About {{page.title}} at (Dmitryjakovlev.com)](http://www.dmitryjakovlev.com/)
+[[1]](#a1) <span id="f1"></span> [Рабочее место: Дмитрий Яковлев, креативный директор Leo Burnett (Look At Me, Алиса Таёжная)](http://www.lookatme.ru/mag/archive/experience-other/158205-rabochee-mesto-mitya-yakovlev-leo-burnett)
 
-[[1]](#a1) <span id="f1"></span> [About {{page.title}} at (Dmitryjakovlev.com)](http://www.dmitryjakovlev.com/)
+[[2]](#a2) <span id="f2"></span> [About {{page.title}} at (Dmitryjakovlev.com)](http://www.dmitryjakovlev.com/)
 
 [[3]](#a3) <span id="f3"></span> [{{page.title}} (Facebook)](https://www.facebook.com/dmitry.yakovlev)
 
