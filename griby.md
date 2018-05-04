@@ -62,6 +62,3 @@ In August 2017, producer Yuri Bardash stated that on December 31, 2017 the band 
 [[5]](#a5) <span id="f5"></span> [Name (Instagram)](https://www.instagram.com/gribi__official/)
 
 [[6, 7]](#a6) <span id="f6"></span> [Грибы (группа) (Википедия)](https://ru.wikipedia.org/wiki/Грибы_(группа))
-
-
-`Last update Feb. 2018 (Andrei Dei)`
