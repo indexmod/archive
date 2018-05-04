@@ -16,7 +16,7 @@ TWT: '0,0'
 TMR: '0,0'
 ---
 
-(Руc. Ян Тамкович Фриске, Индивидуальный предприниматель; 1993, Razvilka, Moscovskaya Oblast) is a charachter created by Russian artist Nikita Tereshenko who known as Goodwill Ambassador in the “Preraelite” Brotherhood, and also known with his series of provocative photos that includes images of symbols of celebrities having died or killed recently, among them a Russian actress, singer and model Zhanna Friske and scientist, statesman and liberal politician Boris Nemtsov. Ian working and living in Moscow <span id="a1">[\[1\]](#f1)</span>.
+(Руc. Ян Тамкович Фриске, Индивидуальный предприниматель; 1992, Razvilka, Moscovskaya Oblast) is a charachter created by Russian artist Nikita Tereshenko who known as Goodwill Ambassador in the “Preraelite” Brotherhood, and also known with his series of provocative photos that includes images of symbols of celebrities having died or killed recently, among them a Russian actress, singer and model Zhanna Friske and scientist, statesman and liberal politician Boris Nemtsov. Ian working and living in Moscow <span id="a1">[\[1\]](#f1)</span>.
 
 ![](/encyclopedia/images/image-name.jpg)
 
@@ -31,11 +31,11 @@ Photo: Vlad Chizhenkov / Facebook
 
 ||2018|2019|
 |-|-|-|
-|Facebook <span id="a3">[\[3\]](#f3)</span>|000||
-|Instagram <span id="a4">[\[4\]](#f4)</span>|000||
-|YouTube <span id="a5">[\[5\]](#f5)</span>|000||
-|Twitter <span id="a6">[\[6\]](#f6)</span>|000||
-|Age|25||
+|Facebook <span id="a3">[\[3\]](#f3)</span>|761||
+|Instagram <span id="a4">[\[4\]](#f4)</span>|372||
+|YouTube <span id="a5">[\[5\]](#f5)</span>|1||
+|Twitter <span id="a6">[\[6\]](#f6)</span>|||
+|Age|26||
 |Article Value|{{ page.content | number_of_words }}||
 |Indexmod|0,000||
 
@@ -51,8 +51,10 @@ Photo: Vlad Chizhenkov / Facebook
 
 # Footnotes
 
-[[1]](#a1) <span id="f1"></span> [Tamkovych-Friske at Indexmod Encyclopedia (old site) (old site)](http://example.net/article)
+[[3]](#a3) <span id="f3"></span> [{{page.title}} (Facebook)](https://www.facebook.com/my.darkest.light.will.shine/about?lst=100008481991414%3A100011067371119%3A1525444985)
 
-[[3]](#a3) <span id="f3"></span> [Name (Facebook)](http://example.net/article)
+[[4]](#a4) <span id="f4"></span> [{{page.title}} (Instagram)](https://www.instagram.com/my.darkest.light.will.shine/)
 
-[[4]](#a4) <span id="f4"></span> [Name (Instagram)](http://example.net/article)
+[[5]](#a5) <span id="f5"></span> [{{page.title}} (YouTube)](index)
+
+[[6]](#a6) <span id="f6"></span> [{{page.title}} (Twitter)](index)
