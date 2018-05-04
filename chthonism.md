@@ -9,7 +9,7 @@ published: true
 
 (Est. 2018, Moscow) is an art movement, focused on basis Ancient "subterranean" deities or spirits of the underworld, or  refers to anything which is under the earth.
 
-![](encyclopedia/images/moscow-chthonists-1.jpg)
+![](encyclopedia/images/moscow-chthonists-2.jpg)
 
 **Group of chthonists in Moscow**
 
@@ -17,10 +17,9 @@ published: true
 
 # See also
 
-+ [Moscow Chthonist (group)](moscow-chthonist-group)
 + [Russian Chthonism](russian-chthonism)
 + [Tamkovich-Friske, Ian](tamkovich-friske-ian)
 
 # Footnotes
 
-`Will apear here`
++ Will apear here
