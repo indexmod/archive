@@ -8,6 +8,12 @@ published: true
 birth: '2000'
 age: '18'
 updateyear: '2018'
+FCB: '0,0'
+INS: '0,0'
+YOU: '0,0'
+VIM: '0,0'
+TWT: '0,0'
+TMR: '0,0'
 ---
 
 (Est. 2013, city) is a --- <span id="a1">[\[1\]](#f1)</span>.
