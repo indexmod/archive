@@ -20,12 +20,24 @@ TMR: '0,0'
 
 ![](/encyclopedia/images/image-name.jpg)
 
-**Image caption title**
+**A charschter of Ian Tamkovich-Friske and the artist as Individualny Predprinimatel**
 
 A charschter of Ian Tamkovich-Friske and the artist as Individualny Predprinimatel
 Photo: Vlad Chizhenkov / Facebook
 
-*Photo: [Photographer name](/photographer-name-page) / [Source name](/source-name-page)*
+*Photo: [Vlad Chizhenkov](chizhenkov-vlad) / [Garage](garage)*
+
+# {{page.title}} Indexmod [*](indexmod)
+
+||2018|2019|
+|-|-|-|
+|Facebook <span id="a3">[\[3\]](#f3)</span>|000||
+|Instagram <span id="a4">[\[4\]](#f4)</span>|000||
+|YouTube <span id="a5">[\[5\]](#f5)</span>|000||
+|Twitter <span id="a6">[\[6\]](#f6)</span>|000||
+|Age|25||
+|Article Value|{{ page.content | number_of_words }}||
+|Indexmod|0,000||
 
 
 # See also update in Feb. 2018
