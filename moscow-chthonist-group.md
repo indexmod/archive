@@ -28,6 +28,7 @@ published: true
 # See also
 
 + [Chthonism](chthonism)
++ [Neo-paganism](neo-paganism)
 + [Russian Chthonism](russian-chthonism)
 + [Tamkovich-Friske, Ian](tamkovich-friske-ian)
 
