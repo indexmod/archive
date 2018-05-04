@@ -35,7 +35,7 @@ TMR: '0,0'
 |Twitter <span id="a6">[\[6\]](#f6)</span>|||
 |Age|26||
 |Article Value|{{ page.content | number_of_words }}||
-|Indexmod|0,000||
+|Indexmod|0,0020862||
 
 
 # See also update in Feb. 2018
