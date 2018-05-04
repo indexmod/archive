@@ -17,7 +17,7 @@ published: true
 
 # Known Russian Chthonists
 
-|Persone|City|
+|Person|City|
 |-|-|
 |Misha Blosyak|Moscow|
 |Dasha Kuznetsova|Moscow|
