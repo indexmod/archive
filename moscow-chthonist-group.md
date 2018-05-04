@@ -22,7 +22,7 @@ published: true
 |||Dasha Kuznetsova||
 |||Michel Klimin||
 |||Irina Petrakova|After Us Only Ashes|
-|||Jan Tamkovich-Friske|After Us Only Ashes|
+|||[Tamkovich-Friske, Ian](tamkovich-friske-ian)|After Us Only Ashes|
 
 
 # See also
