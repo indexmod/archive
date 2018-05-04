@@ -3,13 +3,13 @@ title: Chthonism
 permalink: chthonism
 layout: default
 shortname: CHSM
-indexmod: 'Indexmod'
+indexmod: Indexmod
 published: true
 ---
 
 (Est. 2018, Moscow) is an art movement, focused on basis Ancient "subterranean" deities or spirits of the underworld, or  refers to anything which is under the earth.
 
-![](Moscow-Chthonists-2.jpg)
+![](/images/Moscow-Chthonists-2.jpg)
 
 **Group of chthonists in Moscow**
 
@@ -20,6 +20,8 @@ published: true
 + [Chthonism](chthonism)
 + [Moscow Chthonist (group)](moscow-chthonist-group)
 + [Russian Chthonism](russian-chthonism)
++ [Tamkovich-Friske, Ian](tamkovich-friske-ian)
+
 
 # Footnotes
 
