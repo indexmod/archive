@@ -1,9 +1,9 @@
 ---
-title: Jakovlev, Dmitry (visual artist)
+title: 'Jakovlev, Dmitry (visual artist)'
 permalink: jakovlev-dmitry-visual-artist
 layout: default
 shortname: JADM
-indexmod: '0,00'
+indexmod: '0,05'
 published: true
 ---
 
@@ -31,7 +31,7 @@ published: true
 |Vimeo <span id="a5">[\[5\]](#f5)</span>|79||
 |Age|38||
 |Article Value|{{ page.content | number_of_words }}||
-|Indexmod|0,0000||
+|Indexmod|0,05463374||
 
 # See also
 
