@@ -35,7 +35,7 @@ TMR: '0,0'
 |Twitter|||
 |Age|26||
 |Article Value|{{ page.content | number_of_words }}||
-|Indexmod|0,000||
+|Indexmod|0,002||
 
 
 # See also update in Feb. 2018
