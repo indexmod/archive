@@ -29,7 +29,7 @@ published: true
 
 + [Chthonism](chthonism)
 + [Moscow Chthonist (group)](moscow-chthonist-group)
-+ [Russian Chthonism](russian-chthonism)
++ [Tamkovich-Friske, Ian](tamkovich-friske-ian)
 
 # Footnotes
 
