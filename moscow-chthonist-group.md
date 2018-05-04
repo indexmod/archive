@@ -3,11 +3,10 @@ title: Moscow Chthonist (group)
 permalink: moscow-chthonist-group
 layout: default
 shortname: MCHG
-indexmod: 'Indexmod'
+indexmod: Indexmod
 published: true
 ---
-
-(Est. 2013, city) is a --- <span id="a1">[\[1\]](#f1)</span>.
+(Est. 2018, Moscow) is an art movement, focused on basis Ancient “subterranean” deities or spirits of the underworld, or refers to anything which is under the earth.
 
 ![](/encyclopedia/images/{{page.permalink}}.jpg)
 
