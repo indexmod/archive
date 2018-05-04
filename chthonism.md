@@ -22,4 +22,4 @@ published: true
 
 # Footnotes
 
-+ Will apear here
++ [[1]](#a1) <span id="f1"></span> [Chthonic (Wikipedia)](https://en.wikipedia.org/wiki/Chthonic)
