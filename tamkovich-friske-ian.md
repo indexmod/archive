@@ -4,7 +4,7 @@ permalink: tamkovich-friske-ian
 layout: default
 published: true
 shortname: TAFR
-indexmod: Indexmod
+indexmod: '0,002'
 birth: '1993'
 age: '26'
 updateyear: '2018'
