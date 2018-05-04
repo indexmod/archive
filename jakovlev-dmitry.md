@@ -1,5 +1,5 @@
 ---
-title: 'Jakovlev, Dmitry (visual artist)'
+title: 'Jakovlev, Dmitry (artist)'
 permalink: jakovlev-dmitry-artist
 layout: default
 shortname: JADM
