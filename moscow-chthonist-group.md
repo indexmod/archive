@@ -1,5 +1,5 @@
 ---
-title: Moscow Chthonist (group)
+title: Moscow сhthonist (group)
 permalink: moscow-chthonist-group
 layout: default
 shortname: MCHG
