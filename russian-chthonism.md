@@ -9,21 +9,21 @@ published: true
 
 (Est. 2018, Moscow) is an art movement in Russia, focused on basis Ancient "subterranean" <span id="a1">[\[1\]](#f1)</span> deities or spirits of the underworld, or  refers to anything which is under the earth, , with headquarters in Tsentr Krasny <span id="a2">[\[2\]](#f2)</span> in Moscow.
 
-![](/encyclopedia/images/moscow-chthonists-1.jpg)
+![](http://www.theartnewspaper.ru/public/uploads/posts/postbreakout/2017-03/7780f7d5-97e1-45e1-b815-7fd7d2164fb7.jpg)
 
-**Group of chthonists in Moscow**
+**Scheme of Russian Khtonism. The author of the scheme - Mikhail Klimin, drawing - Daria Kuznetsova**
 
-*Photo: [Dmitry Jakovlev](jakovlev-dmitry-artist) / [Facebook](https://www.facebook.com/dmitry.yakovlev/about?lst=100008481991414%3A714859555%3A1525429921)*
+*Drawing: [Daria Kuznetsova](kuznetsova-daria) / [The Art Newspaper](http://www.theartnewspaper.ru/posts/4245/)*
 
 # Known Russian Chthonists
 
 |Person|City|
 |-|-|
 |Misha Blosyak|Moscow|
-|Dasha Kuznetsova|Moscow|
-|Michel Klimin|Moscow|
-|Irina Petrakova|Moscow|
-|Jan Tamkovich-Friske|Moscow|
+|[Daria Kuznetsova](kuznetsova-daria)|Moscow|
+|[Michael Klimin](klimin-michael)|Moscow|
+|[Irina Petrakova](petrakova-irina)|Moscow|
+|[Ian Tamkovich-Friske](tamkovich-friske-ian)|Moscow|
 
 # See also
 
