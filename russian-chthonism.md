@@ -7,7 +7,7 @@ indexmod: Indexmod
 published: true
 ---
 
-(Est. 2018, Moscow) is an art movement in Russia, focused on basis Ancient "subterranean" <span id="a1">[\[1\]](#f1)</span> deities or spirits of the underworld, or  refers to anything which is under the earth, with headquarters in Tsentr Krasny <span id="a2">[\[2\]](#f2)</span> in Moscow.
+(Est. 2018, Moscow) is an art movement in Russia, focused on dead, mummified displays of the tradition of culture in contemporary art based on metaphor of the  Ancient "subterranean" <span id="a1">[\[1\]](#f1)</span> deities or spirits of the underworld, or refers to anything which is under the earth, with headquarters in Tsentr Krasny <span id="a2">[\[2\]](#f2)</span> in Moscow.
 
 ![](http://www.theartnewspaper.ru/public/uploads/posts/postbreakout/2017-03/7780f7d5-97e1-45e1-b815-7fd7d2164fb7.jpg)
 
