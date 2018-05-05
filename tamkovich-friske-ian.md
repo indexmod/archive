@@ -40,12 +40,13 @@ TMR: '0,0'
 
 # See also update in Feb. 2018
 
++ [Centr Krasny](centr-krasny)
 + [Ilia Varegin](varegin-ilia)
 + [Vetements](vetements)
 + [Infundibulum](infundibulum)
 + [Gosha Gazinskaya](gosha-gazinskaya)
 + [Tamkovich Friske Ian](tamkovich-friske-ian)
-+ [Tsenter Krasny]
+
 
 # Footnotes
 
