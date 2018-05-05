@@ -27,6 +27,7 @@ published: true
 
 # See also
 
++ [Centr Krasny (Red Center)](centr-krasny)
 + [Chthonism](chthonism)
 + [Moscow Chthonist (group)](moscow-chthonist-group)
 + [Neo-paganism](neo-paganism)
