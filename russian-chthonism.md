@@ -11,7 +11,7 @@ published: true
 
 ![](http://www.theartnewspaper.ru/public/uploads/posts/postbreakout/2017-03/7780f7d5-97e1-45e1-b815-7fd7d2164fb7.jpg)
 
-**Scheme of Russian Khtonism. The author of the scheme - Mikhail Klimin, drawing - Daria Kuznetsova**
+**Mikhail Klimin's scheme of Russian Khtonism**
 
 *Drawing: [Daria Kuznetsova](kuznetsova-daria) / [The Art Newspaper](http://www.theartnewspaper.ru/posts/4245/)*
 
