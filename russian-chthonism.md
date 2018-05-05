@@ -1,5 +1,5 @@
 ---
-title: Russian Chthonism
+title: Russian сhthonism
 permalink: russian-chthonism
 layout: default
 shortname: RUCH
