@@ -96,6 +96,11 @@ ul {
 	font-weight: 900;
 	color: #454343;
 }
+
+a.one:link {color:#4e80d8; font-family: 'Helvetica Neue'; font-size: 24px; line-height:15px; font-weight: 900;}
+a.one:visited {color:#4e80d8; font-family: 'Helvetica Neue'; font-size: 24px; line-height:15px; font-weight: 900;}
+a.one:hover {color:green; font-family: 'Helvetica Neue'; font-size: 24px; line-height:15px; font-weight: 900;}
+
 a:link {
 	color: #4e80d8;
 	text-decoration: none;
@@ -133,13 +138,6 @@ img {
 	display: block;
 	width: 100%;
 	height: auto;
-}
-footer, footer-ru, footer-jp {
-	color: #454343;
-	font-family: 'Helvetica Neue';
-	font-size: 24px;
-	line-height:15px;
-	font-weight: 900;
 }
 
 
