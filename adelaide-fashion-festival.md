@@ -6,14 +6,14 @@ published: true
 shortname: ADFF
 indexmod: Indexmod
 birth: '2000'
-age: '18'
+age: '5'
 city: Adelaide
 updateyear: '2018'
 facebook: '14231'
 instagram: '28200'
 youtube: '261'
 vimeo: '0,0'
-twitter: '0,0'
+twitter: '1888'
 tumblr: '0,0'
 ---
 
