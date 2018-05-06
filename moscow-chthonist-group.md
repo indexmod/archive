@@ -1,14 +1,14 @@
 ---
-title: Moscow Chthonist (group)
+title: Moscow сhthonist (group)
 permalink: moscow-chthonist-group
 layout: default
 shortname: MCHG
 indexmod: Indexmod
 published: true
 ---
-(Est. 2018, Moscow) is an art group, focused on basis Ancient “subterranean” deities or spirits of the underworld, or refers to anything which is under the earth.
+(Est. 2018, Moscow) is an art group, focused on basis Ancient “subterranean” deities or spirits <span id="a1">[\[1\]](#f1)</span> of the underworld, or refers to anything which is under/of the earth.
 
-![](encyclopedia/images/moscow-chthonists-1.jpg)
+![](/encyclopedia/images/moscow-chthonists-1.jpg)
 
 **The group of chthonists at the exhibition "After Us Only Ashes"**
 
@@ -18,20 +18,21 @@ published: true
 
 |Year|City|Persone|Event|
 |-|-|-|-|
-|2018|Moscow|Misha Blosyak|After us though ashes|
-|2018|Moscow|Dasha Kuznetsova|After us though ashes|
-|2018|Moscow|Michel Klimin|After us though ashes|
-|2018|Moscow|Irina Petrakova|After us though ashes|
-|2018|Moscow|Jan Tamkovich-Friske|After us though ashes|
-
+|2018|Moscow|Misha Blosyak||
+|||Dasha Kuznetsova||
+|||Michel Klimin||
+|||Irina Petrakova|After Us Only Ashes|
+|||[Ian Tamkovich-Friske](tamkovich-friske-ian)|After Us Only Ashes|
 
 
 # See also
 
++ [Centr Krasny (Red Center)](centr-krasny)
 + [Chthonism](chthonism)
++ [Neo-paganism](neo-paganism)
 + [Russian Chthonism](russian-chthonism)
 + [Tamkovich-Friske, Ian](tamkovich-friske-ian)
 
 # Footnotes
 
-+ Will apear here
++ [[1]](#a1) <span id="f1"></span> [Chthonic (Wikipedia)](https://en.wikipedia.org/wiki/Chthonic)

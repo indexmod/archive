@@ -2,11 +2,19 @@
 title: Ottawa Fashion Week
 permalink: ottawa-fashion-week
 layout: default
+published: true
+shortname: OWFW
+indexmod: Indexmod
+birth: '2000'
+age: '18'
+updateyear: '2018'
+FCB: '0,0'
+INS: '0,0'
+YOU: '0,0'
+VIM: '0,0'
+TWT: '0,0'
+TMR: '0,0'
 ---
-
-# Ottawa Fashion Week
-
-
 (Est. 2013, city) is a subject, description-one <span id="a1">[\[1\]](#f1)</span>, description-two <span id="a2">[\[2\]](#f2)</span> description-3 <span id="a3">[\[3\]](#f3)</span>, extra text.
 
 ![](/images/image-name.jpg)

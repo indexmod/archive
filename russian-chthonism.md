@@ -1,5 +1,5 @@
 ---
-title: Russian Chthonism
+title: Russian сhthonism
 permalink: russian-chthonism
 layout: default
 shortname: RUCH
@@ -7,34 +7,34 @@ indexmod: Indexmod
 published: true
 ---
 
-(Est. 2018, Moscow) is an art movement in Russia, focused on basis Ancient "subterranean" deities or spirits of the underworld, or  refers to anything which is under the earth.
+(Est. 2016 Moscow) is an art movement in Russia, focused on dead, mummified displays of the tradition of culture in contemporary art based on metaphor of the  Ancient "subterranean" <span id="a1">[\[1\]](#f1)</span> deities or spirits of the underworld, or refers to anything which is under the earth, described by Michael Klimin and group of artists and based at headquarters in Tsentr Krasny <span id="a2">[\[2\]](#f2)</span> in Moscow.
 
-![](encyclopedia/images/moscow-chthonists-2.jpg)
+![](http://www.theartnewspaper.ru/public/uploads/posts/postbreakout/2017-03/7780f7d5-97e1-45e1-b815-7fd7d2164fb7.jpg)
 
-**Group of chthonists in Moscow**
+**Mikhail Klimin's scheme of Russian Khtonism**
 
-*Photo: [Dmitry Jakovlev](jakovlev-dmitry-artist) / [Facebook](https://www.facebook.com/dmitry.yakovlev/about?lst=100008481991414%3A714859555%3A1525429921)*
+*Drawing: [Daria Kuznetsova](kuznetsova-daria) / [The Art Newspaper](http://www.theartnewspaper.ru/posts/4245/)*
 
 # Known Russian Chthonists
 
-|Persone|City|
+|Person|City|
 |-|-|
 |Misha Blosyak|Moscow|
-|Dasha Kuznetsova|Moscow|
-|Michel Klimin|Moscow|
-|Irina Petrakova|Moscow|
-|Jan Tamkovich-Friske|Moscow|
+|[Daria Kuznetsova](kuznetsova-daria)|Moscow|
+|[Michael Klimin](klimin-michael)|Moscow|
+|[Irina Petrakova](petrakova-irina)|Moscow|
+|[Ian Tamkovich-Friske](tamkovich-friske-ian)|Moscow|
 
 # See also
 
++ [Centr Krasny (Red Center)](centr-krasny)
 + [Chthonism](chthonism)
 + [Moscow Chthonist (group)](moscow-chthonist-group)
-+ [Russian Chthonism](russian-chthonism)
++ [Neo-paganism](neo-paganism)
++ [Tamkovich-Friske, Ian](tamkovich-friske-ian)
 
 # Footnotes
 
-[[3]](#a3) <span id="f3"></span> [{{page.title}} (Facebook)](index)
++ [[1]](#a1) <span id="f1"></span> [Chthonic (Wikipedia)](https://en.wikipedia.org/wiki/Chthonic)
 
-[[4]](#a4) <span id="f4"></span> [{{page.title}} (Instagram)](index)
-
-[[5]](#a5) <span id="f5"></span> [{{page.title}} (YouTube)](index)
++ [[2]](#a2) <span id="f2"></span> [Первый манифест русского хтонизма (The Art Newspaper, Михаил Климин)](http://www.theartnewspaper.ru/posts/4245)

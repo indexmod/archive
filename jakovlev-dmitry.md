@@ -7,7 +7,7 @@ indexmod: '0,05'
 published: true
 ---
 
-(Rus. Дмитрий Яковлев, birth. 1980, Nizhny Novgorod <span id="a1">[\[1\]](#f1)</span>) is a Russain visual-artist, photographer, art director, member of Association Typographique Internationale and Art Directors Club <span id="a2">[\[2\]](#f2)</span>, founder of KunstGroup and Russian-speaking community about typography Ru_Typography, co-founder of DailyType, participant of type competitions and art exhibitions, founder (Ru_Typography), Co-founder (DailyType) и Founder and Art director (JTF Design) <span id="a3">[\[3\]](#f3)</span>
+(Rus. Дмитрий Яковлев, birth. 1980, Nizhny Novgorod <span id="a1">[\[1\]](#f1)</span>) is a Russain visual-artist, photographer, art director, member of Association Typographique Internationale and Art Directors Club <span id="a2">[\[2\]](#f2)</span>, founder of KunstGroup and Russian-speaking community about typography Ru_Typography, co-founder of DailyType, participant of type competitions and art exhibitions, founder and Art director (JTF Design) <span id="a3">[\[3\]](#f3)</span>
 
 ![](http://lamcdn.net/lookatme.ru/post_image-image/gZykp5YP0sQBYCK9zcQsOg-article.jpg)
 
