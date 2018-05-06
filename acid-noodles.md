@@ -3,6 +3,8 @@ title: Acid Noodles
 permalink: acid-noodles
 layout: default
 published: true
+shortname: ACND
+indexmod: Indexmod
 ---
 
 
