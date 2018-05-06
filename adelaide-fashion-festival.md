@@ -11,7 +11,7 @@ city: Adelaide
 updateyear: '2018'
 facebook: '14231'
 instagram: '28200'
-youtube: '0,0'
+youtube: '261'
 vimeo: '0,0'
 twitter: '0,0'
 tumblr: '0,0'
