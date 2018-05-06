@@ -30,5 +30,3 @@ published: true
 
 [[1]](#a1) <span id="f1"></span> [Vasya Kolotusha
 )](http://kolotusha.com/Acid-Noodles)
-
-`Updated Mar. 2018 (Andrei Dei)`
