@@ -29,10 +29,10 @@ tumblr: '0,0'
 
 ||2018|2019|
 |-|-|-|
-|Facebook <span id="a3">[\[3\]](#f3)</span>|{{facebook}}||
-|Instagram <span id="a4">[\[4\]](#f4)</span>|{{instagram}}||
-|YouTube <span id="a5">[\[5\]](#f5)</span>|{{youtube}}||
-|Twitter <span id="a6">[\[6\]](#f6)</span>|{{twitter}}||
+|Facebook <span id="a3">[\[3\]](#f3)</span>|{{ page.facebook }}||
+|Instagram <span id="a4">[\[4\]](#f4)</span>|{{ page.instagram }}||
+|YouTube <span id="a5">[\[5\]](#f5)</span>|{{ page.youtube }}||
+|Twitter <span id="a6">[\[6\]](#f6)</span>|{{ page.twitter }}||
 |Age|5||
 |Page Value|{{ page.content | number_of_words }}||
 |Indexmod|0,0000||
@@ -57,4 +57,3 @@ tumblr: '0,0'
 [[5]](#a5) <span id="f5"></span> [{{page.title}} (YouTube)](https://www.youtube.com/channel/UCsSaeqeoxILhiV4mZ24XBDQ)
 
 [[6]](#a6) <span id="f6"></span> [{{page.title}} (Twitter)](https://twitter.com/ADLFashionFest)
-
