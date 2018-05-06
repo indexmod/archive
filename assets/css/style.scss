@@ -131,7 +131,7 @@ img {
 	filter: grayscale(100%);
 }
 
-img.one:hover {
+img.container:hover {
     /* Start the shake animation and make the animation last for 0.5 seconds */
     animation: shake 0.5s; 
     /* When the animation is finished, start again */
