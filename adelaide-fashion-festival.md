@@ -10,7 +10,7 @@ age: '18'
 city: Adelaide
 updateyear: '2018'
 facebook: '14231'
-instagram: '0,0'
+instagram: '28200'
 youtube: '0,0'
 vimeo: '0,0'
 twitter: '0,0'
