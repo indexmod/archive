@@ -5,7 +5,7 @@ layout: default
 published: true
 shortname: ADFF
 indexmod: Indexmod
-birth: '2000'
+birth: '2013'
 age: '5'
 city: Adelaide
 updateyear: '2018'
@@ -29,10 +29,10 @@ tumblr: '0,0'
 
 ||2018|2019|
 |-|-|-|
-|Facebook <span id="a3">[\[3\]](#f3)</span>|14231||
-|Instagram <span id="a4">[\[4\]](#f4)</span>|28200||
-|YouTube <span id="a5">[\[5\]](#f5)</span>|261||
-|Twitter <span id="a6">[\[6\]](#f6)</span>|1888||
+|Facebook <span id="a3">[\[3\]](#f3)</span>|{{facebook}}||
+|Instagram <span id="a4">[\[4\]](#f4)</span>|{{instagram}}||
+|YouTube <span id="a5">[\[5\]](#f5)</span>|{{youtube}}||
+|Twitter <span id="a6">[\[6\]](#f6)</span>|{{twitter}}||
 |Age|5||
 |Page Value|{{ page.content | number_of_words }}||
 |Indexmod|0,0000||
