@@ -4,7 +4,7 @@ permalink: adelaide-fashion-festival
 layout: default
 published: true
 shortname: ADFF
-indexmod: Indexmod
+indexmod: '0,34'
 birth: '2013'
 age: '5'
 city: Adelaide
