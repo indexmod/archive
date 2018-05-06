@@ -131,8 +131,6 @@ img {
 	filter: grayscale(100%);
 }
 
-
-
 .container {
 	width: 100px;
 }
@@ -140,14 +138,6 @@ img {
 	display: block;
 	width: 100%;
 	height: auto;
-}
-
-.rotateimg90 {
-  -webkit-transform:rotate(90deg);
-  -moz-transform: rotate(90deg);
-  -ms-transform: rotate(90deg);
-  -o-transform: rotate(90deg);
-  transform: rotate(90deg);
 }
 
 
