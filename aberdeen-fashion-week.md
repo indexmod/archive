@@ -3,10 +3,21 @@ title: Aberdeen Fashion Week
 permalink: aberdeen-fashion-week
 layout: default
 published: true
-shortname: AFW
+shortname: ABFW
 indexmod: '0,00'
+shortname: ABC
+indexmod: Indexmod
+birth: '2013'
+age: '18'
+updateyear: '2018'
+FCB: '0,0'
+INS: '0,0'
+YOU: '0,0'
+VIM: '0,0'
+TWT: '0,0'
+TMR: '0,0'
 ---
-(Est. 2013, Aberdeen) is a fashion event in Scotland founded by Lydia Cutler, the world’s only platform promoting and showcasing Kids Wear collections, hosted in Aberdeen, once a year in April followed by AFW sponsored fashion show. In 2018 anounced as Aberdeen Fashion & Art Week <span id="a1">[\[1\]](#f1)</span>.
+(Est. {{ birth }}, Aberdeen) is a fashion event in Scotland founded by Lydia Cutler, the world’s only platform promoting and showcasing Kids Wear collections, hosted in Aberdeen, once a year in April followed by AFW sponsored fashion show. In 2018 anounced as Aberdeen Fashion & Art Week <span id="a1">[\[1\]](#f1)</span>.
 
 ![](/encyclopedia/images/afw-sooz.jpg)
 
