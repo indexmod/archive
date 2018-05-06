@@ -35,7 +35,7 @@ tumblr: '0,0'
 |Twitter <span id="a6">[\[6\]](#f6)</span>|{{ page.twitter }}||
 |Age|5||
 |Page Value|{{ page.content | number_of_words }}||
-|Indexmod|0,0000||
+|Indexmod|{{ page.indexmod }}||
 
 # See also
 
