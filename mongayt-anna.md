@@ -47,5 +47,3 @@ published: true
 [[1, 4]](#a1) <span id="f1"></span> [Ганна Монґайт (Матеріал з Вікіпедії — вільної енциклопедії)](https://uk.wikipedia.org/wiki/Ганна_Монґайт)
 
 [[2, 3]](#a2) <span id="f2"></span> [Анна Монгайт (Кинопоиск)](https://www.kinopoisk.ru/name/2382185/)
-
-`Last update Feb. 2018 by Andrei Dei`
