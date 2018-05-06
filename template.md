@@ -14,6 +14,13 @@ YOU: '0,0'
 VIM: '0,0'
 TWT: '0,0'
 TMR: '0,0'
+city: city
+facebook: '0,0'
+instagram: '0,0'
+youtube: '0,0'
+vimeo: '0,0'
+twitter: '0,0'
+tumblr: '0,0'
 ---
 
 (Est. 2013, city) is a --- <span id="a1">[\[1\]](#f1)</span>.
