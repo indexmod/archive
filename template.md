@@ -31,13 +31,13 @@ tumblr: '0,0'
 
 *Photo: [Name](index) / [Source](index)*
 
-# {{page.title}} Conspectus
+## {{page.title}} Conspectus
 
 |Year|City|
 |-|-|
 |2017|Moscow|
 
-# {{page.title}} Indexmod [*](indexmod)
+## {{page.title}} Indexmod [*](indexmod)
 
 ||2018|2019|
 |-|-|-|
@@ -49,12 +49,12 @@ tumblr: '0,0'
 |Article Value|{{ page.content | number_of_words }}||
 |Indexmod|0,000||
 
-# See also
+## See also
 
 + [About {{page.title}}](index)
 + [{{page.title}} at Wikipedia](index)
 
-# Footnotes
+## Footnotes
 
 [[3]](#a3) <span id="f3"></span> [{{page.title}} (Facebook)](index)
 
