@@ -14,7 +14,7 @@ YOU: '0,0'
 VIM: '0,0'
 TWT: '0,0'
 TMR: '0,0'
-city: city
+city: Moscow
 facebook: '0,0'
 instagram: '0,0'
 youtube: '0,0'
