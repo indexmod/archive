@@ -19,7 +19,7 @@ published: true
 
 ![](/encyclopedia/images/ptichka-logo.jpg)
 
-**会社のロゴ**
+**会社のロゴ創業者のウラジミール・コブゼフ**
 
 *写真: [Ptichka Moscow](ptichka-宅配便)*
 
