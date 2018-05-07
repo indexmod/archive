@@ -23,7 +23,7 @@ published: true
 
 *コラージュ: [Andrei Dei](dei-andrei) / [Indexmod](Indexmod)*
 
-# コンセンサス
+## コンセンサス
 
 |年|イベント|
 |-|-|
@@ -31,7 +31,7 @@ published: true
 |2018|アルマトイ|
 
 
-# {{page.title}} Indexmod [*](indexmod)
+## {{page.title}} Indexmod [*](indexmod)
 
 ||2018|2019|
 |-|-|-|
@@ -42,11 +42,11 @@ published: true
 |ページ値|{{ page.content | number_of_words }}||
 |Indexmod|||
 
-# も参照してください
+## も参照してください
 
 + (英語で) [Berdyansk Marketplace (ブランド)](berdyansk-marketplace)
 
-# 脚注
+## 脚注
 
 [[1]](#a1) <span id="f1"></span> [{{page.title}} (ウェブサイト)](https://ptchk.ru/rules#rec35390751)
 
