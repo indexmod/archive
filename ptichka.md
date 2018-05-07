@@ -38,7 +38,7 @@ published: true
 |Facebook <span id="a3">[\[3\]](#f3)</span>|||
 |Instagram <span id="a4">[\[4\]](#f4)</span>|||
 |YouTube <span id="a5">[\[5\]](#f5)</span>|||
-|年齢|5||
+|年齢|1||
 |ページ値|{{ page.content | number_of_words }}||
 |Indexmod|||
 
