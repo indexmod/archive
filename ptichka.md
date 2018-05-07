@@ -3,7 +3,7 @@ title: Ptichka (宅配便)
 permalink: ptichka-宅配便
 layout: default-jp
 shortname: PTKA
-indexmod: 'Indexmod'
+indexmod: Indexmod
 birth: '2017'
 age: '1'
 updateyear: '2018'
@@ -13,6 +13,7 @@ youtube: '0,0'
 vimeo: '0,0'
 twitter: '0,0'
 tumblr: '0,0'
+published: true
 ---
 (設立	2016年, モスクワ) サービスはUberの原則に取り組んでモスクワで宅配便を呼び出します <span id="a1">[\[1\]](#f1)</span>。
 
@@ -34,10 +35,10 @@ tumblr: '0,0'
 
 ||2018|2019|
 |-|-|-|
-|Facebook <span id="a3">[\[3\]](#f3)</span>|||
-|Instagram <span id="a4">[\[4\]](#f4)</span>|||
-|YouTube <span id="a5">[\[5\]](#f5)</span>|||
-|年齢|5||
+|Facebook <span id="a3">[\[3\]](#f3)</span>|{{ page.facebook }}||
+|Instagram <span id="a4">[\[4\]](#f4)</span>|{{ page.instagram }}||
+|YouTube <span id="a5">[\[5\]](#f5)</span>|{{ page.youtube }}||
+|年齢|1||
 |ページ値|{{ page.content | number_of_words }}||
 |Indexmod|||
 
