@@ -19,7 +19,7 @@ published: true
 
 ![](/encyclopedia/images/kobzev-ptichka.png)
 
-**会社のロゴ**
+**とサービスブレイカーのVladimir Kobzev（В. Кобзев）会社のロゴ**
 
 *コラージュ: [Andrei Dei](dei-andrei) / [Indexmod](Indexmod)*
 
