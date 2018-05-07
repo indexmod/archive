@@ -21,7 +21,7 @@ published: true
 
 **会社のロゴ創業者のウラジミール・コブゼフ (Vladimir Kobzev / Владимир Кобзев)**
 
-*写真: [Ptichka Moscow](ptichka-宅配便)*
+*コラージュ: [Andrei Dei](dei-andrei) / [Indexmod](Indexmod)*
 
 # コンセンサス
 
