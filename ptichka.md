@@ -14,13 +14,13 @@ vimeo: '0,0'
 twitter: '0,0'
 tumblr: '0,0'
 ---
-(設立	2016年, モスクワ) サービスはUberの原則に取り組んでモスクワで宅配便を呼び出します <span id="a1">[\[1\]](#f1)</span>。
+(設立	2017年, モスクワ) サービスはUberの原則に取り組んでモスクワで宅配便を呼び出します <span id="a1">[\[1\]](#f1)</span>。
 
 ![](/encyclopedia/images/kobzev-ptichka.png)
 
 **会社のロゴ**
 
-*写真: [Ptichka Moscow](ptichka-宅配便)*
+*コラージュ: [Andrei Dei](dei-andrei) / [Indexmod](Indexmod)*
 
 # コンセンサス
 
