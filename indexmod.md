@@ -9,16 +9,14 @@ Indexmod formula contains the sum of the official statistics from Facebook, Inst
 
 This formula may be extended with new variables
 
-`FBK + INS + YTB + TWT × AGE ÷ 1 M × PVL ÷ 100`
+`Facebook + Instagram + YouTube/Vimeo + Twitter + Tumblr × Age ÷ 1M × Page value ÷ 100`
 
 ||2018|2019|
 |-|-|-|
 |Facebook <span id="a3">[\[3\]](#f3)</span>|1000||
 |Instagram <span id="a4">[\[4\]](#f4)</span>|1000||
 |YouTube <span id="a5">[\[5\]](#f5)</span>|1000||
-|YouTube <span id="a5">[\[5\]](#f5)</span>|1000||
+|Vimeo <span id="a6">[\[6\]](#f6)</span>|1000||
 |Age|2|3|
 |Page value (words)|{{ page.content | number_of_words }}||
 |Indexmod|0,00528||
-
-
