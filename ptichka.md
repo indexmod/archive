@@ -3,7 +3,7 @@ title: Ptichka (宅配便)
 permalink: ptichka-宅配便
 layout: default-jp
 shortname: PTKA
-indexmod: Indexmod
+indexmod: '0,0'
 birth: '2017'
 age: '1'
 updateyear: '2018'
