@@ -41,13 +41,13 @@ tumblr: '0,0'
 
 ||2018|2019|
 |-|-|-|
-|Facebook <span id="a3">[\[3\]](#f3)</span>|000||
-|Instagram <span id="a4">[\[4\]](#f4)</span>|000||
-|YouTube <span id="a5">[\[5\]](#f5)</span>|000||
-|Twitter <span id="a6">[\[6\]](#f6)</span>|000||
-|Age|30||
+|Facebook <span id="a3">[\[3\]](#f3)</span>|{{ page.facebook }}||
+|Instagram <span id="a4">[\[4\]](#f4)</span>|{{ page.instagram }}||
+|YouTube <span id="a5">[\[5\]](#f5)</span>|{{ page.youtube }}||
+|Twitter <span id="a6">[\[6\]](#f6)</span>|{{ page.twitter }}||
+|Age|{{ page.age }}||
 |Article Value|{{ page.content | number_of_words }}||
-|Indexmod|0,000||
+|Indexmod|{{ page.indexmod }}||
 
 ## See also
 
