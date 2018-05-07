@@ -2,10 +2,8 @@
 title: Lakme Fashion Week
 permalink: lakme-fashion-week
 layout: default
+published: true
 ---
-
-# {{page.title}}
-
 (Est. 2013, city) is a --------- <span id="a1">[\[1\]](#f1)</span>.
 
 ![](/encyclopedia/images/image-name.jpg)
