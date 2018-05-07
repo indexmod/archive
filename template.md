@@ -14,6 +14,13 @@ YOU: '0,0'
 VIM: '0,0'
 TWT: '0,0'
 TMR: '0,0'
+city: city
+facebook: '0,0'
+instagram: '0,0'
+youtube: '0,0'
+vimeo: '0,0'
+twitter: '0,0'
+tumblr: '0,0'
 ---
 
 (Est. 2013, city) is a --- <span id="a1">[\[1\]](#f1)</span>.
@@ -24,13 +31,13 @@ TMR: '0,0'
 
 *Photo: [Name](index) / [Source](index)*
 
-# {{page.title}} Conspectus
+## {{page.title}} Conspectus
 
 |Year|City|
 |-|-|
 |2017|Moscow|
 
-# {{page.title}} Indexmod [*](indexmod)
+## {{page.title}} Indexmod [*](indexmod)
 
 ||2018|2019|
 |-|-|-|
@@ -42,12 +49,12 @@ TMR: '0,0'
 |Article Value|{{ page.content | number_of_words }}||
 |Indexmod|0,000||
 
-# See also
+## See also
 
 + [About {{page.title}}](index)
 + [{{page.title}} at Wikipedia](index)
 
-# Footnotes
+## Footnotes
 
 [[3]](#a3) <span id="f3"></span> [{{page.title}} (Facebook)](index)
 

@@ -10,13 +10,23 @@
 	line-height: 1.3em;
 	list-style-type: none;
 }
-h1, h2, h3, h4, h5, h6 {
+h1 {
 	font-family: 'Georgia', serif;
 	font-size: 39px;
 	font-weight: 900;
 	line-height: 1.2em;
 	color: #454343;
 }
+
+h2, h3, h4, h5, h6 {
+	font-family: 'Helvetica Neue';
+	font-size: 37px;
+	font-weight: 900;
+	line-height: 1.5em;
+	color: #454343;
+}
+
+
 table {
 	font-family: 'Monaco', serif;
 	font-size: 18px;

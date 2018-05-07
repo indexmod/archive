@@ -3,6 +3,8 @@ title: Acid Noodles
 permalink: acid-noodles
 layout: default
 published: true
+shortname: ACND
+indexmod: Indexmod
 ---
 
 
@@ -30,5 +32,3 @@ published: true
 
 [[1]](#a1) <span id="f1"></span> [Vasya Kolotusha
 )](http://kolotusha.com/Acid-Noodles)
-
-`Updated Mar. 2018 (Andrei Dei)`
