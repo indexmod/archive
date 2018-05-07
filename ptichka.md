@@ -19,7 +19,7 @@ published: true
 
 ![](/encyclopedia/images/ptichka-logo.jpg)
 
-**会社のロゴ創業者のウラジミール・コブゼフ**
+**会社のロゴ創業者のウラジミール・コブゼフ (Vladimir Kobzev / Владимир Кобзев)**
 
 *写真: [Ptichka Moscow](ptichka-宅配便)*
 
@@ -27,8 +27,8 @@ published: true
 
 |年|イベント|
 |-|-|
-|2018|ニジニノヴゴロド|
-|2018|アルマトイ|
+|2018|エカテリンブルク (Екатеринбург)|
+|2018|アルマトイ (Алматы)|
 
 
 # {{page.title}} Indexmod [*](indexmod)
