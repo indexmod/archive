@@ -1,5 +1,5 @@
 ---
-
+title: Aberdeen Fashion Week
 permalink: aberdeen-fashion-week.md
 layout: default
 
