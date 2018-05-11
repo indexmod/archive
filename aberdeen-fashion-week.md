@@ -1,6 +1,6 @@
 ---
 title: Aberdeen Fashion Week
-permalink: aberdeen-fashion-week.md
+permalink: aberdeen-fashion-week
 layout: default
 
 
