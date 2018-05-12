@@ -1,7 +1,7 @@
 ---
 title: 'Амед, Имран (блогер)'
 permalink: amed-imran
-layout: default-jp
+layout: default
 shortname: AMIM
 indexmod: Indexmod
 birth: '2000'
