@@ -24,17 +24,17 @@
 }
 
 #date {
-    border-radius: 6px;
-    background: red;
-	padding-left: 5px;
-    padding: 3px; 
-    width: 50%;
-    height: inherit;
-    font-family: 'Arial';
-	font-size: 20px;
-	color: white;
+	font-family: 'Monaco';
+	font-size: 19px;
+	line-height: 4em;
 	font-weight: 900;
-	line-height: 1em;
+	color: green;
+	border: solid 0.1px #e0e0e0;
+	background-color: #f5f5f5;
+	-moz-border-radius: 5px;
+	-webkit-border-radius: 5px;
+	border-radius: 5px;
+	padding: 9px 9px;
 }
 
 
