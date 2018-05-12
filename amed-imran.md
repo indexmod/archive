@@ -45,13 +45,13 @@ tumblr: '0,0'
 |Article Value|{{ page.content | number_of_words }}||
 |Indexmod|{{ page.indexmod }}||
 
-# Cм. также
+## Cм. также
 
 - [The Blueprint](blueprint-the)
 - [The Business of Fashion](business-of-fashion-the)
 - [Buro 24/7](buro-24-7)
 
-# Сноски
+## Сноски
 
 [[1]](#a1) <span id="f1"></span> [Прямая речь: Имран Амед, основатель сайта The Business of Fashion (Look at me, Юлия Выдолоб)](http://www.lookatme.ru/mag/archive/industry-interview/118417-imran-amed)
 
