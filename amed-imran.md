@@ -1,5 +1,4 @@
 ---
-
 title: 'Амед, Имран (блогер)'
 permalink: amed-imran
 layout: default-jp
@@ -15,7 +14,6 @@ youtube: '0,0'
 vimeo: '0,0'
 twitter: '0,0'
 tumblr: '0,0'
-
 ---
 
 (Англ. Imran Amed, род. {{ page.birth }} <span id="a1">[\[1\]](#f1)</span>, {{ page.city }})  британский и канадский предприниматель, основатель и генеральный директор “The Business of Fashion” (Бизнес моды), основатель проекта "BoF Голоса" <span id="a2">[\[2\]](#f2)</span>, живёт и работает в Лондоне.
