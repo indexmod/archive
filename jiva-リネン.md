@@ -1,47 +1,54 @@
 ---
-title: Template (日本語)
-permalink: template-jp
+title: Jiva (リネン)
+permalink: jiva-リネン
 layout: default-jp
-shortname: ABC
-indexmod: '0,00'
-published: true
+shortname: JIVA
+indexmod: Indexmod
+birth: '2017'
+age: '1'
+updateyear: '2018'
+city: Kiev
+facebook: '0,0'
+instagram: '0,0'
+youtube: '0,0'
+vimeo: '0,0'
+twitter: '0,0'
+tumblr: '0,0'
 ---
-(設立	2016年, モスクワ) 説明 <span id="a1">[\[1\]](#f1)</span>。
+(設立	{{ page.birth }}年, {{ page.city }}) 心理療法士Olga Govorova (Ольга Говорова)によって創設された装飾品 - お守りの亜麻からのベッドリネンのブランド。
 
-![](https://github.com/indexmod/encyclopedia/images/image-sample.jpg)
+![](/encyclopedia/images/jiva.jpg)
 
-**図**
+**Olga Govorovaはethnopark "Ukrayins'ke Village"近くの下着のサンプルを紹介しています (2018)**
 
-*写真: [Tom Jamieson](tom-jamieson) / [The New York Times](https://www.nytimes.com/2015/07/05/arts/music/olly-alexander-releases-his-debut-album-with-years-years)*
+*写真: [Andrei Dei](dei-andrei) / [Indexmod Times](indexmod)*
 
-# コンセンサス
+## コンセンサス
 
 |年|イベント|
 |----|---------|
-|2014|説明|
-|2015|説明|
-|2016|説明|
-|2017|説明|
-|2017|説明|
+|2017|設立|
+|2018|ショールームのオープニング|
 
 
-# {{page.title}} Indexmod [*](indexmod)
+## {{page.title}} Indexmod [*](indexmod)
 
 ||2018|2019|
 |-|-|-|
-|Facebook <span id="a3">[\[3\]](#f3)</span>|719||
-|Instagram <span id="a4">[\[4\]](#f4)</span>|4235||
-|YouTube <span id="a5">[\[5\]](#f5)</span>|3380||
-|年齢|5||
-|ページ値|{{ page.content | number_of_words }}||
-|Indexmod|9,503233||
+|Facebook <span id="a3">[\[3\]](#f3)</span>|{{ page.facebook }}||
+|Instagram <span id="a4">[\[4\]](#f4)</span>|{{ page.instagram }}||
+|YouTube <span id="a5">[\[5\]](#f5)</span>|{{ page.youtube }}||
+|Twitter <span id="a6">[\[6\]](#f6)</span>|{{ page.twitter }}||
+|Age|{{ page.age }}||
+|Article Value|{{ page.content | number_of_words }}||
+|Indexmod|{{ page.indexmod }}||
 
-# も参照してください
+## も参照してください
 
-+ (英語で) [Be In (サイト)](be-in-site)
-+ (英語で) [Berdyansk Marketplace (ブランド)](berdyansk-marketplace)
++ (英語で) [Baltic Shamans](baltic-shamans)
 
-# 脚注
+
+## 脚注
 
 [[3]](#a3) <span id="f3"></span> [{{page.title}} (Facebook)](index)
 
