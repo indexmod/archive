@@ -5,6 +5,16 @@ layout: default-ru
 published: true
 shortname: AMIM
 indexmod: Indexmod
+birth: '2000'
+age: '18'
+updateyear: '2018'
+city: Moscow
+facebook: '0,0'
+instagram: '0,0'
+youtube: '0,0'
+vimeo: '0,0'
+twitter: '0,0'
+tumblr: '0,0'
 ---
 
 (Англ. Imran Amed, род. 1976 <span id="a1">[\[1\]](#f1)</span>, Калгари)  британский и канадский предприниматель, основатель и генеральный директор “The Business of Fashion” (Бизнес моды), основатель проекта "BoF Голоса" <span id="a2">[\[2\]](#f2)</span>, живёт и работает в Лондоне.
