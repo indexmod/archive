@@ -14,10 +14,11 @@ youtube: '0,0'
 vimeo: '0,0'
 twitter: '0,0'
 tumblr: '0,0'
+published: true
 ---
 (設立	{{ page.birth }}年, {{ page.city }}) 心理療法士Olga Govorova (Ольга Говорова)によって創設された装飾品 - お守りの亜麻からのベッドリネンのブランド。
 
-![](/encyclopedia/images/jiva.jpg)
+![](/images/jiva.jpg)
 
 **Olga Govorovaはethnopark "Ukrayins'ke Village"近くの下着のサンプルを紹介しています (2018)**
 
