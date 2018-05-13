@@ -14,27 +14,8 @@ indexmod: Indexmod
 
 *Photo: [Anna Shiller](shiller-anna) / [The Moscow Times](http://old.themoscowtimes.com/guides/rus/russia--austria-2014/506313/tvorcheskaya-energiya-rossii/508750.html)*
 
-# {{page.title}} Indexmod
-
-||2018|2019|
-|-|-|-|
-|Facebook <span id="a3">[\[3\]](#f3)</span>|0|000|
-|Instagram <span id="a4">[\[4\]](#f4)</span>|0|000|
-|YouTube <span id="a5">[\[5\]](#f5)</span>|0|000|
-|Age|5|000|
-|Indexmod|{{ page.content | number_of_words }}||
-|Total|0,0000|0,0000|
-
 # See also
 
 + Antimuseum
 + Electromuseum
 + Antikniga of an artist (2015)
-
-# Footnotes
-
-[[3]](#a3) <span id="f3"></span> [{{page.title}} (Facebook)](index)
-
-[[4]](#a4) <span id="f4"></span> [{{page.title}} (Instagram)](index)
-
-[[5]](#a5) <span id="f5"></span> [{{page.title}} (YouTube)](index)
