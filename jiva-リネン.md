@@ -1,5 +1,5 @@
 ---
-title: Jiva (リネン)
+title: Dzhyva (リネン)
 permalink: jiva-リネン
 layout: default-jp
 shortname: JIVA
@@ -16,7 +16,7 @@ twitter: '0,0'
 tumblr: '0,0'
 published: true
 ---
-(設立	{{ page.birth }}年, {{ page.city }}) 心理療法士Olga Govorova (Ольга Говорова)によって創設された装飾品 - お守りの亜麻からのベッドリネンのブランド。
+(Ukr. Джива, 設立	{{ page.birth }}年, {{ page.city }}) 心理療法士Olga Govorova (Ольга Говорова)によって創設された装飾品 - お守りの亜麻からのベッドリネンのブランド。
 
 ![](/images/jiva.jpg)
 
