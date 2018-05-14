@@ -22,7 +22,7 @@ published: true
 
 **Olga Govorovaはethnopark "Ukrayins'ke Village"近くの下着のサンプルを紹介しています (2018)**
 
-*写真: [Andrei Dei](dei-andrei) / [Indexmod Times](indexmod)*
+*写真: [Andrei Dei](dei-andrei) / [Indexmod](indexmod)*
 
 ## コンセンサス
 
