@@ -1,6 +1,6 @@
 ---
 title: Dzhyva (リネン)
-permalink: jiva-リネン
+permalink: dzhyva-リネン
 layout: default-jp
 shortname: JIVA
 indexmod: Indexmod
