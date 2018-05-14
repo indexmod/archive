@@ -1,5 +1,5 @@
 ---
-title: FAQ
+title: QA
 permalink: qa
 layout: info
 published: true
