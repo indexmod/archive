@@ -25,6 +25,6 @@ published: true
 
 # Footnotes
 
-+ [[1]](#a1) <span id="f1"></span> [Chthonic (Wikipedia)](https://en.wikipedia.org/wiki/Chthonic)
+[[1]](#a1) <span id="f1"></span> [Chthonic (Wikipedia)](https://en.wikipedia.org/wiki/Chthonic)
 
-+ [[2]](#a2) <span id="f2"></span> [Первый манифест русского хтонизма (The Art Newspaper, Михаил Климин)](http://www.theartnewspaper.ru/posts/4245)
+[[2]](#a2) <span id="f2"></span> [Первый манифест русского хтонизма (The Art Newspaper, Михаил Климин)](http://www.theartnewspaper.ru/posts/4245)
