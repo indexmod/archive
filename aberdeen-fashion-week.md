@@ -4,6 +4,9 @@ permalink: aberdeen-fashion-week
 layout: default-ru
 published: true
 birth: '2013'
+city: Aberdeen
+shortname: ABFW
+indexmod: Indexmod
 ---
 
 (Est. {{ page.birth }}, {{ page.city }}) is a fashion event in Scotland founded by Lydia Cutler, the world’s only platform promoting and showcasing Kids Wear collections, hosted in Aberdeen, once a year in April followed by AFW sponsored fashion show. In 2018 anounced as Aberdeen Fashion & Art Week <span id="a1">[\[1\]](#f1)</span>.
