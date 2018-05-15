@@ -1,7 +1,7 @@
 ---
 title: Aberdeen Fashion Week
 permalink: aberdeen-fashion-week
-layout: default-ru
+layout: default
 published: true
 birth: '2013'
 city: Aberdeen
