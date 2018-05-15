@@ -3,6 +3,18 @@ title: 'Butcher, Clyde'
 permalink: butcher-clyde
 layout: default
 published: true
+indexmod: Indexmod
+birth: '1942'
+age: '-'
+updateyear: '2018'
+city: Kansas City
+facebook: '0,0'
+instagram: '0,0'
+youtube: '0,0'
+vimeo: '0,0'
+twitter: '0,0'
+tumblr: '0,0'
+shortname: BUCL
 ---
 (Born 1942, Kansas City) American black-and-white photographer, as a child, he spent most of his time drawing boat designs and crafting ship prototypes from scrap metal. Some of the photographer's works are in the collection and exhibited at Gallery of Classic Photography of Moscow <span id="a1">[\[1\]](#f1)</span>.
 

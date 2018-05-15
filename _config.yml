@@ -8,19 +8,19 @@ collections:
   uploads:
     title: Uploads
     output: false
-description: Indexmod encyclopedia — is a wiki with pretty syntax
+description: Indexmod encyclopedia is a fashion and art blockchainpedia
 show_sidebar: false
 show_downloads: false
 show_title: false
 show_description: false
-google_analytics: 'UA-112478299-1'
+google_analytics: 'UA-112478299-2'
 theme: jekyll-theme-minimal
 include: ['.htaccess']
 gems:
 
 prose:
-  rooturl: 'https://indexmod.github.io/encyclopedia/'
-  siteurl: 'https://indexmod.github.io/encyclopedia/'
+  rooturl: 'https://indexmod.gq'
+  siteurl: 'https://indexmod.gq'
   relativeLinks: 'http://prose.github.io/starter/links.jsonp'
   media: '/images'
   ignore:

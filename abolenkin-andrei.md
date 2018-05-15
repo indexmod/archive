@@ -3,6 +3,8 @@ title: 'Abolenkin, Andrei'
 permalink: abolenkin-andrei
 layout: default
 published: true
+shortname: ABAN
+indexmod: Indexmod
 ---
 
 (Rus. Андрей Аболенкин, born 1972, Moscow) is a Russian style and fashion expert <span id="a1">[\[1\]](#f1)</span>, consultant and promoter. Andrei working and living in Moscow.

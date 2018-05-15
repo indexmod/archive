@@ -1,8 +1,8 @@
 ---
 title: Dzhyva (リネン)
-permalink: jiva-リネン
+permalink: dzhyva-リネン
 layout: default-jp
-shortname: JIVA
+shortname: DZVA
 indexmod: Indexmod
 birth: '2017'
 age: '1'

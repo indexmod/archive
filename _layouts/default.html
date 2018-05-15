@@ -29,7 +29,7 @@
 	<title>{{page.shortname}} | {{page.indexmod}}</title>
 	<meta name="description" content="Indexmod encyclopedia"/>
 	<meta property="og:title" content="{{page.title}} | {{page.shortname}} {{page.indexmod}}"/>
-        <meta property="og:image" content=""/>
+        <meta property="og:image" content="https://github.com/indexmod/encyclopedia/images/{{page.indexmod}}.jpg"/>
         <meta property="og:site_name" content="Indexmod"/>
         <meta property="og:description" content="Indexmod encyclopedia is a fashion and art blockchainpedia. The last update of the «{{page.title}}»: at {{ site.time | date_to_long_string }}"/>
 
@@ -44,7 +44,10 @@
     <![endif]-->
 	<div class="wrapper">
 		<header>
-			<p class="date">🌏{{ site.time | date_to_long_string }}</p>
+			<div class="container">
+             <img width="5%" height="5%" src="https://indexmod.github.io/encyclopedia/indexmod-eye.gif">
+				<br>
+             </div>
 		</header>
 		<section>
 			<h1>{{page.title}}</h1>
@@ -52,10 +55,10 @@
 				<p><a class="one" href="https://www.facebook.com/sharer/sharer.php?u=https%3A//indexmod.github.io/encyclopedia/{{page.permalink}}">Share</a> <a class="one" href="http://prose.io/#indexmod/encyclopedia/edit/master/{{page.path}}">Edit</a></p>
 			</div>{{ content | toc }}
 			<div>
-				<p><code class="highlighter-rouge">Words: {{ page.content | number_of_words }} / 500 max.</code><br>
 				<a class="one" href="https://www.facebook.com/sharer/sharer.php?u=https%3A//indexmod.github.io/encyclopedia/{{page.permalink}}">Share</a> <a class="one" href="http://prose.io/#indexmod/encyclopedia/edit/master/{{page.path}}">Edit</a></p>
 			</div>
 		</section>
+		<br>
 		<footer>
 			{% include footer.html %}
 		</footer>
@@ -63,42 +66,45 @@
 	<script src="{{%20'/assets/js/scale.fix.js'%20|%20relative_url%20}}">
 	</script> {% if site.google_analytics %} <!-- Global site tag (gtag.js) - Google Analytics -->
 	 
-	<script async src="https://www.googletagmanager.com/gtag/js?id=UA-112478299-1">
+	<script async src="https://www.googletagmanager.com/gtag/js?id=UA-112478299-2">
 	</script> 
 	<script>
 	                  window.dataLayer = window.dataLayer || [];
 	                  function gtag(){dataLayer.push(arguments);}
 	                  gtag('js', new Date());
 
-	                  gtag('config', 'UA-112478299-1');
+	                  gtag('config', 'UA-112478299-2');
+		
 	</script> <!-- Yandex.Metrika counter -->
-	 
-	<script type="text/javascript">
-	                  (function (d, w, c) {
-	                      (w[c] = w[c] || []).push(function() {
-	                          try {
-	                              w.yaCounter47456422 = new Ya.Metrika2({
-	                                  id:47456422,
-	                                  clickmap:true,
-	                                  trackLinks:true,
-	                                  accurateTrackBoaunce:true
-	                              });
-	                          } catch(e) { }
-	                      });
+<script type="text/javascript" >
+    (function (d, w, c) {
+        (w[c] = w[c] || []).push(function() {
+            try {
+                w.yaCounter48876245 = new Ya.Metrika({
+                    id:48876245,
+                    clickmap:true,
+                    trackLinks:true,
+                    accurateTrackBounce:true,
+                    webvisor:true
+                });
+            } catch(e) { }
+        });
 
-	                      var n = d.getElementsByTagName("script")[0],
-	                          s = d.createElement("script"),
-	                          f = function () { n.parentNode.insertBefore(s, n); };
-	                      s.type = "text/javascript";
-	                      s.async = true;
-	                      s.src = "https://mc.yandex.ru/metrika/tag.js";
+        var n = d.getElementsByTagName("script")[0],
+            s = d.createElement("script"),
+            f = function () { n.parentNode.insertBefore(s, n); };
+        s.type = "text/javascript";
+        s.async = true;
+        s.src = "https://mc.yandex.ru/metrika/watch.js";
 
-	                      if (w.opera == "[object Opera]") {
-	                          d.addEventListener("DOMContentLoaded", f, false);
-	                      } else { f(); }
-	                  })(document, window, "yandex_metrika_callbacks2");
-	</script> <noscript>
-	<div><img alt="" src="https://mc.yandex.ru/watch/47456422" style="position:absolute; left:-9999px;"></div></noscript> <!-- /Yandex.Metrika counter -->
-	 {% endif %}
+        if (w.opera == "[object Opera]") {
+            d.addEventListener("DOMContentLoaded", f, false);
+        } else { f(); }
+    })(document, window, "yandex_metrika_callbacks");
+</script>
+<noscript><div><img src="https://mc.yandex.ru/watch/48876245" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
+<!-- /Yandex.Metrika counter -->
+	
+		 {% endif %}
 </body>
 </html>
