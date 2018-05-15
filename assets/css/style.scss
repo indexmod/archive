@@ -2,9 +2,6 @@
 --- 
 @import "jekyll-theme-minimal";
 
-
-
-
 .intro {
 	font-family: 'Helvetica Neue';
 	font-size: 24px;
@@ -13,14 +10,13 @@
 	list-style-type: none;
 }
 
-
 .date {
 	font-family: 'Helvetica Neue';
-	font-size: 19px;
-	line-height: 1em;
+	font-size: 24px;
+	line-height: 1.6em;
 	font-weight: 900;
 	color: #454343;
-        background: linear-gradient(45deg, white, white);	
+        background: linear-gradient(90deg, silver, grey);	
 	-moz-border-radius: 2px;
 	-webkit-border-radius: 2px;
 	border-radius: 2px;
