@@ -5,7 +5,6 @@ layout: default
 published: true
 ---
 
-# Indexmod Curators
 
 1. Bangkok [Vincent Sung](sung-vincent)
 1. Bali [Uma Kumari](kumari-uma)
