@@ -23,7 +23,8 @@
 	<meta content="/ms-icon-144x144.png" name="msapplication-TileImage">
 	<meta content="#ffffff" name="theme-color">
 	<meta content="bd6cadbefee34d7e" name="yandex-verification">
-	<title>Indexmod</title>
+	<meta content="Indexmod encyclopedia" name="description">
+	<meta content="{{page.title}} | {{ page.permalink }}" name="title">
 </head>
 <body>
 	{% seo %}
@@ -33,7 +34,10 @@
     <![endif]-->
 	<div class="wrapper">
 		<header>
-			<p class="date">{{ site.time | date_to_long_string }}</p>
+			<div class="container">
+				<a href="index"><img src="/indexmod-eye.gif" alt="Indexmod" style="width:auto;height:auto;border:0;">
+</a><br>
+			</div>
 		</header>
 		<section>
 			<h1>{{page.title}}</h1>
@@ -47,7 +51,7 @@
 
 		</section>
 		<footer>
-			{% include footer.html %}
+			{% include footer-cover.html %}
 		</footer>
 	</div>
 	<script src="{{%20'/assets/js/scale.fix.js'%20|%20relative_url%20}}">
