@@ -13,7 +13,7 @@ show_sidebar: false
 show_downloads: false
 show_title: false
 show_description: false
-google_analytics: 'UA-112478299-2'
+google_analytics: 'UA-119267756-1'
 theme: jekyll-theme-minimal
 include: ['.htaccess']
 gems:
