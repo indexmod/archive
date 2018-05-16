@@ -7,7 +7,7 @@ published: true
 
 (Aka Sophichka, born. 1973, Hampshire) is an UK British artist, founder of “Sophie O'Leary Art", The Curator at Indexmod Encyclopedia in London, living and working in London <span id="a1">[\[1\]](#f1)</span>.
 
-![](/encyclopedia/images/sophie.png)
+![](/images/sophie.png)
 
 **Sophie in 1978 in Farnham, Surrey; Sophie in 2014 at Avebury, Wiltshire; Laser and Bubble, Linocut, 2015; Morley Gallery, Lambeth, London. Summer 2015**
 
