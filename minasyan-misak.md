@@ -20,6 +20,7 @@ shortname: MIMI
 |2013|Becoming Rodchenko School student|
 |2016|Establishing Proun|
 |2017|Establishing Synthposium festival|
+|2018|Novoe (Space at Pluton plant area in Moscow)|
 
 # See also
 
