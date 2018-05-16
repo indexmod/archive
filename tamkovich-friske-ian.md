@@ -34,8 +34,8 @@ TMR: '0,0'
 |YouTube <span id="a5">[\[5\]](#f5)</span>|1||
 |Twitter|||
 |Age|26||
-|Article Value|{{ page.content | number_of_words }}||
-|Indexmod|0,002||
+|Indexmod|{{ page.content | number_of_words }}||
+|Total|0,002||
 
 
 # See also update in Feb. 2018
