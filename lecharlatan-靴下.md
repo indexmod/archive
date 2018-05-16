@@ -1,7 +1,7 @@
 ---
 title: Lecharlatan (靴下)
 permalink: lecharlatan-靴下
-layout: default
+layout: default-jp
 published: true
 shortname: LCLT
 indexmod: '9,50'
@@ -60,8 +60,8 @@ indexmod: '9,50'
 |Instagram <span id="a4">[\[4\]](#f4)</span>|4235||
 |YouTube <span id="a5">[\[5\]](#f5)</span>|3380||
 |年齢|5||
-|ページ値|{{ page.content | number_of_words }}||
-|Indexmod|9,503233||
+|Indexmod|{{ page.content | number_of_words }}||
+|合計|9,503233||
 
 # も参照してください
 
