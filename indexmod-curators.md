@@ -1,5 +1,5 @@
 ---
-title: Indexmod Curators
+title: Indexmod curators
 permalink: indexmod-curators
 layout: info
 published: true
