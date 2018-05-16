@@ -17,7 +17,7 @@ published: true
 ---
 (設立	2017年, モスクワ) サービスはUberの原則に取り組んでモスクワで宅配便を呼び出します <span id="a1">[\[1\]](#f1)</span>。
 
-![](/encyclopedia/images/kobzev-ptichka.png)
+![](/images/ptichka-宅配便.jpg)
 
 **とサービスブレイカーのVladimir Kobzev（В. Кобзев）会社のロゴ**
 
@@ -39,8 +39,8 @@ published: true
 |Instagram <span id="a4">[\[4\]](#f4)</span>|||
 |YouTube <span id="a5">[\[5\]](#f5)</span>|||
 |年齢|1||
-|ページ値|{{ page.content | number_of_words }}||
-|Indexmod|||
+|Indexmod|{{ page.content | number_of_words }}||
+
 
 ## も参照してください
 
