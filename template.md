@@ -2,7 +2,7 @@
 title: Template
 permalink: template
 layout: default
-shortname: TEMT
+shortname: TMPL
 indexmod: Indexmod
 birth: '2000'
 age: '18'
