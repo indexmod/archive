@@ -20,13 +20,6 @@ published: true
 |2015|Exibit in Columbia <span id="a2">[\[2\]](#f2)</span>|
 
 
-# {{page.title}} Indexmod
-
-|Year|Facebook|Instagram|YouTube|Age|Indexmod|
-|-|-|-|-|-|
-|2018|100 <span id="a3">[\[3\]](#f3)</span>|200 <span id="a4">[\[4\]](#f4)</span>|300 <span id="a4">[\[4\]](#f4)</span>|12|0,0025|
-
-
 # See also
 
 + [Kristi Malakoff](malakoff-kristi)
@@ -45,5 +38,3 @@ published: true
 [[4]](#a4) <span id="f4"></span> [{{page.title}} (Instagram)](index)
 
 [[5]](#a5) <span id="f5"></span> [{{page.title}} (YouTube)](index)
-
-`Updated Mar. 2018 (Andrei Dei)`
