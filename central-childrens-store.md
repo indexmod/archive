@@ -1,8 +1,9 @@
 ---
 title: Central Children's Store
-permalink: central-children's-store
+permalink: central-childrens-store
 layout: default
 published: true
+shortname: CECS
 ---
 (Est. 1957, Moscow) ex-Children's World (Rus. Центральный Детский Магазин, ЦДМ на Лубянке), is department store for children and youth in the Soviet Union and Russia, in Moscow, on Lubianka Square. The store was opened June 6, 1957. In 1992, the “Children's World” was privatized. From July 1, 2008 mall was closed for reconstruction. Reopened March 31, 2015 
 
