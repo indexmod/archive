@@ -1,10 +1,9 @@
 ---
 title: Dzhyva (リネン)
 permalink: dzhyva-リネン
-layout: default-jp
+layout: default
 shortname: DZVA
-indexmod:
-  '[object Object]': null
+indexmod: Indexmod
 birth: '2017'
 age: '1'
 updateyear: '2018'
