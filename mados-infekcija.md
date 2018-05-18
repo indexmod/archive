@@ -71,8 +71,8 @@ published: true
 |Instagram <span id="a4">[\[4\]](#f4)</span>|955||
 |YouTube <span id="a5">[\[5\]](#f5)</span>|6845||
 |Возраст|19||
-|Объём статьи|{{ page.content | number_of_words }}||
-|Indexmod|1,609908||
+|Indexmod|{{ page.content | number_of_words }}||
+|Всего|1,609908||
 
 # See also
 
