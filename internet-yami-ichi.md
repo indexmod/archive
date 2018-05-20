@@ -1,7 +1,7 @@
 ---
 title: Ями-Ичи (рынок)
 permalink: internet-yami-ichi
-layout: default-ru
+layout: default
 published: true
 shortname: YAIC
 indexmod: '0,000'
@@ -71,5 +71,3 @@ indexmod: '0,000'
 [[4]](#a4) <span id="f4"></span> [{{page.title}} (Instagram)](index)
 
 [[5]](#a5) <span id="f5"></span> [{{page.title}} (YouTube)](index)
-
-`Обновлено фев. 2018 Андрей Дей`
