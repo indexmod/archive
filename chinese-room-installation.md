@@ -3,6 +3,7 @@ title: Chinese room (installation)
 permalink: chinese-room-installation
 layout: default
 published: true
+shortname: CHRI
 ---
 
 (Est. {{ page.birth }}, {{ page.city }}) is a --- <span id="a1">[\[1\]](#f1)</span>.
