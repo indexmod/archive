@@ -3,6 +3,7 @@ title: Zaragoza Fashion Week
 permalink: zaragoza-fashion-week
 layout: default
 published: true
+shortname: ZAFW
 ---
 (Spa. Semana de la Moda de Zaragoza, est. 2011 <span id="a1">[\[1\]](#f1)</span>, Zaragoza) is a fashion event in Spain.
 
