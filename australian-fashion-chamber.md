@@ -8,12 +8,12 @@ published: true
 
 (Est. 2014, Sydney) is a not-for-profit organisation established to promote and develop Australian fashion design locally and internationally <span id="a1">[\[1\]](#f1)</span>.
 
-# Selected milestones
+## Selected milestones
 
 + 2014, Inaugural AFC Christmas Celebration, Sydney
 + 2015, AFC designers abroad showroom announced, Paris <span id="a2">[\[2\]](#f2)</span>
 
-# Objectives
+## Objectives
 
 + Ensure Australian fashion design is competitive internationally
 + Support emerging top talent
@@ -27,11 +27,11 @@ published: true
 
 *Photo: [Australian Fashion Chamber](afc) / [Australian Fashion Chamber](afc)*
 
-# Activities
+## Activities
 
 The Chamber has a host of activities  from guest lecture series for educational institutes to bi-annual business seminars for designers and awards programs.
 
-# Executive Directors
+## Executive Directors
 
 + Glen Schlehuber, Managing Director Oceania-Tiffany & Co.
 + Justin Cudmore, Partner, Marque Lawyers
@@ -41,7 +41,7 @@ The Chamber has a host of activities  from guest lecture series for educational 
 + Malcolm Carfrae, Global Head of Communications, Public Relations and Media, Ralph Lauren International
 + Melissa Grace, Global Marketing Communications Manager, The Woolmark Company
 
-# Non-Executive Directors
+## Non-Executive Directors
 
 + Alicia Kemp, Fashion Category Executive, AMP Capital Shopping Centres
 + Alison Veness, Editor and Publisher, 10 Magazine
@@ -52,13 +52,11 @@ The Chamber has a host of activities  from guest lecture series for educational 
 + Nicky Zimmermann, Founder and Creative Director, Zimmermann
 + Roy Green, Dean of Business, University of Tech
 
-# See also
+## See also
 
 + [Council of Textile & Fashion Industries of Australia](ctfi-australia)
 + [Vogue Australia](vogue-australia)
 
-# Footnotes
+## Footnotes
 
 [[1, 2, 3]](#a1) <span id="f1"></span> [About (Australian Fashion Chamber)](https://ausfashioncouncil.com/who-we-are/)
-
-`Updated Mar. 2018 (Andrei Dei)`
