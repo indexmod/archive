@@ -25,7 +25,7 @@ published: true
 
 *Photo: [Name](index) / [Source](index)*
 
-## {{page.title}} Conspectus
+## {{page.title}} conspectus
 
 |Year|City|
 |-|-|
