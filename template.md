@@ -2,7 +2,7 @@
 title: Template
 permalink: template
 layout: default
-shortname: TEMT
+shortname: TMPL
 indexmod: Indexmod
 birth: '2000'
 age: '18'
@@ -14,11 +14,12 @@ youtube: '0,0'
 vimeo: '0,0'
 twitter: '0,0'
 tumblr: '0,0'
+published: true
 ---
 
 (Est. {{ page.birth }}, {{ page.city }}) is a --- <span id="a1">[\[1\]](#f1)</span>.
 
-![](/encyclopedia/images/image-name.jpg)
+![](/images/{{ page.permalink }}.jpg)
 
 **Image**
 
@@ -39,8 +40,8 @@ tumblr: '0,0'
 |YouTube <span id="a5">[\[5\]](#f5)</span>|{{ page.youtube }}||
 |Twitter <span id="a6">[\[6\]](#f6)</span>|{{ page.twitter }}||
 |Age|{{ page.age }}||
-|Article Value|{{ page.content | number_of_words }}||
-|Indexmod|{{ page.indexmod }}||
+|Indexmod|{{ page.content | number_of_words }}||
+|Total|{{ page.indexmod }}||
 
 ## See also
 

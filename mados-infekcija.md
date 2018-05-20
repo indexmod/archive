@@ -1,8 +1,9 @@
 ---
 title: Mados infekcija
 permalink: mados-infekcija
-layout: default-ru
+layout: default
 published: true
+shortname: MDIA
 ---
 
 (Рус. Модная инфекция, осн. 1999, Вильнюс) самое большое в Литве ежегодное шоу моды <span id="a1">[\[1\]](#f1)</span>, проводится в Центре Современного Искусства Вильнюса (Šiuolaikinio Meno Centras) раз в год весной. Первый сезон открыт в 1999 показом дизайнера Сандры Страукайте (Sandra Straukaitė). События «Модной инфекции» проходят при поддержке Bosca производителя игристого вина и вермутов из Италии <span id="a2">[\[2\]](#f2)</span>.
@@ -71,8 +72,8 @@ published: true
 |Instagram <span id="a4">[\[4\]](#f4)</span>|955||
 |YouTube <span id="a5">[\[5\]](#f5)</span>|6845||
 |Возраст|19||
-|Объём статьи|{{ page.content | number_of_words }}||
-|Indexmod|1,609908||
+|Indexmod|{{ page.content | number_of_words }}||
+|Всего|1,609908||
 
 # See also
 
