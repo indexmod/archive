@@ -1727,9 +1727,14 @@ University, Philadelphia (April 3-May 31), AIGA National Design Center, New York
 ## Experience of teaching
 
 + Lectures organized by ACC + Bauhaus, Weimar, 2002
+
 + Moscow Institute of Contemporary Art, School of Contemporary Art, Master classes 2000-2002
+
 + Lectures in University Saint Denis Paris 8, 1999
-+ Lectures in Rutgers University, Mason Gross School of Arts, 1998
+
++ Lectures in Rutgers University, Mason Gross 
+School of Arts, 1998
+
 + Lectures in Columbia University, Harvard University, 1989
 
 ## {{page.title}} Indexmod
