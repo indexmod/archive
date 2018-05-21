@@ -2020,7 +2020,7 @@ School of Arts, 1998
 |YouTube <span id="a5">[\[5\]](#f5)</span>|||
 |Age|30|31|
 |Indexmod|{{ page.content | number_of_words }}||
-|Indexmod|Total||
+|Total|||
 
 ## Footnotes
 
