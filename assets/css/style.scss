@@ -18,7 +18,13 @@
 	color: #454343;
 }
 
-
+p {
+	font-family: 'Old Standard TT', serif;
+	font-size: 24px;
+	line-height: 1.4em;
+	font-weight: 500;
+	color: #454343;
+}
 h1 {
 	font-family: 'Old Standard TT', serif;
 	font-size: 40px;
@@ -82,13 +88,7 @@ tr:hover {
 del {
 	color: silver;
 }
-p {
-	font-family: 'Old Standard TT', serif;
-	font-size: 24px;
-	line-height: 1.4em;
-	font-weight: 600;
-	color: #454343;
-}
+
 strong {
 	color: #454343;
 	font-family: 'Helvetica Neue';
