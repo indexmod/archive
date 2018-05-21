@@ -21,15 +21,15 @@ published: true
 
 ![](/images/{{ page.permalink }}.jpg)
 
-**Image**
+**Ole Op's “loop” ID  for shirts**
 
-*Photo: [Name](index) / [Source](index)*
+*Photo: [Dmitri Cherniaev](cherniaev-dmitri) / [Facebook](https://www.facebook.com/oleoplovesyou/photos/p.185922335378923/185922335378923/?type=3&theater)*
 
 ## {{page.title}} conspectus
 
-|Year|City|
-|-|-|
-|2017|Moscow|
+|Year|City|Milestone|
+|-|-|-|
+|2017|Moscow|Establishing|
 
 ## {{page.title}} Indexmod [*](indexmod)
 
@@ -50,7 +50,7 @@ published: true
 
 ## Footnotes
 
-[[3]](#a3) <span id="f3"></span> [{{page.title}} (Facebook)](index)
+[[3]](#a3) <span id="f3"></span> [{{page.title}} (Facebook)](https://www.facebook.com/oleoplovesyou/)
 
 [[4]](#a4) <span id="f4"></span> [{{page.title}} (Instagram)](index)
 
