@@ -8,7 +8,7 @@ birth: '2018'
 age: '0'
 updateyear: '2018'
 city: Moscow
-facebook: '0,0'
+facebook: '66'
 instagram: '0,0'
 youtube: '0,0'
 vimeo: '0,0'
