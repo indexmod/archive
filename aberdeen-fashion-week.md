@@ -33,7 +33,7 @@ age: '5'
 |Facebook <span id="a3">[\[3\]](#f3)</span>|||
 |Instagram <span id="a4">[\[4\]](#f4)</span>|||
 |YouTube <span id="a5">[\[5\]](#f5)</span>|||
-|Age|000||
+|Age|{{page.age}}||
 |Indexmod|{{ page.content | number_of_words }}||
 |Total|0,0||
 
