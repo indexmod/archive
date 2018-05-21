@@ -9,7 +9,7 @@ published: true
 
 ![](/images/{{page.permalink}}-1.jpg)
 
-**Cover of the memorial event The Precious Fetish of “Medical Hermeneutics”. Remembering Vladimir Fyodorov**
+**Cover of the memorial event “The Precious Fetish of “Medical Hermeneutics”. Remembering Vladimir Fyodorov”**
 
 *Photo: [Maxim Tuzhikov](tuzhikov-maxim) / [Indexmod Encyclopedia](index)*
 
