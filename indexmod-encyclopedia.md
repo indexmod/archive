@@ -45,14 +45,8 @@ Indexmod was established as brand and concept from the idea of visualization of 
 + [Indexmod Coin](coins)
 + [Identity of Indexmod](identity-of-indexmod)
 + [Indexmod encyclopedia NFC](indexmod-encyclopedia-nfc)
-+ [Index](index)
-+ [Index](index)
-+ [Index](index)
-+ [Index](index)
 
-
-
-# Footnote
+## Footnote
 
 [[1]](#a1) <span id="f1"></span> [Andrei Deinichenko (Indexmod encyclopedia)](deinichenko-andrei)
 
