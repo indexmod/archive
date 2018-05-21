@@ -19,7 +19,7 @@ published: true
 
 (Est. {{ page.birth }}, {{ page.city }}) is a Russian brand of casual wear, also self-nameed as a “human softwear” founded by  artist Dnitri Cherniaev (Дмитрий Черняев) <span id="a1">[\[1\]](#f1)</span>.
 
-![](/images/{{ page.permalink }}.jpg)
+![](/images/{{page.permalink}}.jpg)
 
 **Ole Op's “loop” ID  for shirts**
 
