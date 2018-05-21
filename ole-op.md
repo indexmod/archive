@@ -29,7 +29,7 @@ published: true
 
 |Year|City|Milestone|
 |-|-|-|
-|2017|Moscow|Establishing|
+|2018|Moscow|Establishing|
 
 ## {{page.title}} Indexmod [*](indexmod)
 
