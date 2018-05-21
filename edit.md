@@ -12,7 +12,7 @@ Edit any page following **Edit** link on top of every page, you will be redirect
 **Create new page**
 
 + Follow **Edit**
-+ Find the `template.md`and copy content
++ Find the `template.md` and copy content
 + In encyclopedia tab create new file with .md extention
 + Paste content of the template
 + Edit **Page title** and **Permalink** and save new page
