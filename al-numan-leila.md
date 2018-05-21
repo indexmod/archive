@@ -3,6 +3,7 @@ title: 'Al-Numan, Leila'
 permalink: al-numan-leila
 layout: default
 published: true
+shortname: ANUL
 ---
 
 (Rus. Лэйла Аль-Нуман, born 1969, Moscow) art director at “Alexandria” studio. In 1993 graduated from S. G. Stroganov Moscow University of Art and Industry (faculty of Monumental Decorative and Applied Arts, Department of Glass). She is the author of more than 500 stained glass works. Leila Al-Numan is a member of Artists’ Union of Russia, International Association of UNESCO Artists. Books, “Stained glass in architecture”, Moscow
