@@ -1160,15 +1160,21 @@ pp.58, 162, 314, 320, ill.
 ## 2006
 
 + "AES+F", the presentation on EFAH conference, City Hall, Helsinki, Finland
+
 + "AES+F. LAST RIOT 2", Salvador Diaz Gallery, Madrid, Spain
+
 + "AES+F", Galerie Charlotte Moser, Geneva, Switzerland
+
 + "AES+F. LAST REBELLION (LAST RIOT 2)", Moscow Photobiennale 2006, Moscow, House of Photography, Central Exhibition Hall, Manege. Moscow, Russia
+
 + "AES+F. KING OF THE FOREST", IMA - Institute of Modern Art, Brisbane, Australia
 
 ## 2005
 
 + "AES+F. THE KING OF THE FOREST, MORE THAN PARADISE, LE ROI DES AULNES + KFNY", Juan Ruiz Galeria, Maracaibo, Venezuela
+
 + "AES GROUP. ISLAMIC PROJECT", Claire Oliver, New York, USA
+
 + "AES+F. Action Half Life", Galerie Ruzicska, Salzburg, Austria
 
 ## 2004
@@ -1178,18 +1184,23 @@ pp.58, 162, 314, 320, ill.
 ## 2003
 
 + "ACTION HALF LIFE. EPISODE 2", Guelman Gallery, Moscow, Russia
+
 + "ACTION HALF LIFE. EPISODES 2&3" personal presentation of AES+F group on "Paris Photo 2003", Paris, Galerie Care Noir (Paris), France
+
 + "THE KING OF THE FOREST: NEW YORK (KFNY)", COFA / Claire Oliver Fine Art, New York, USA
+
 + "AES GROUP. OASI – ESPANYA ISLАMICA", Sala Montcada, La Caixa Foundation, Barcelona, Spain
 
 ## 2002
 
 + "LE ROI DES AULNES", Galerie Knoll Budapest, Budapest, Hungary
+
 + "LE ROI DES AULNES", Galerie Knoll Wien, Vienna, Austria
 
 ## 2001
 
 + "WORKSHOP ART MOSCOW", Central House of Artist, Moscow
+
 + "AES. ISLAMIC PROJECT", Galerie Sollertis, Toulouse, France
 
 ## 2000
@@ -1211,23 +1222,17 @@ pp.58, 162, 314, 320, ill.
 
 + "THE YELLOW IS COOKING, THE WHITE IS EATING", Art Media Center "TV Gallery", Moscow.
 
-
-
 ## 1997
 
 + "AES TRAVEL AGENCY TO THE FUTURE", Neue Galerie, Graz, Austria.
 
 + "AES TODAY", Center for Contemporary Art "Ujazdowski Castle", Warsaw, Poland.
 
-
-
 ## 1996
 
 + "MOSCOW — BERLIN, THAN EVERYWHERE...", Guelman Gallery, Moscow.
 
 + "LEDA AND SWAN", Hotel "Estrel", Berlin.
-
-
 
 ## 1995
 
@@ -1243,8 +1248,6 @@ pp.58, 162, 314, 320, ill.
 
 + "THE PRINCE AND THE BEGGAR", Guelman Gallery, Moscow.
 
-
-
 ## 1994
 
 + "KAIN AND ABEL", Galerie Caspar Bingemer, Hamburg, Germany.
@@ -1252,11 +1255,9 @@ pp.58, 162, 314, 320, ill.
 + "SCAR", Guelman Gallery, Moscow.
 
 
-
 ## 1993
 
 + "THE ART OF POSSIBILITIES", Guelman Gallery, Moscow.
-
 
 
 ## 1992
@@ -1266,7 +1267,6 @@ pp.58, 162, 314, 320, ill.
 + "CHILDREN'S BIBLE", Salzau, Cultural Center of Schleswig-Holstein, Germany.
 
 
-
 ## 1991
 
 + "EAST-WEST" Gallery, London, England.
@@ -1274,11 +1274,9 @@ pp.58, 162, 314, 320, ill.
 + "DAS IRDISCHE PARADIES", ifa-Galerie Friedrichstrasse, Berlin, Germany.
 
 
-
 ## 1990
 
 + "PATHETISCHE RHETORIK", Galerie InterArt , Berlin, Germany.
-
 
 
 ## 1989
@@ -1286,8 +1284,6 @@ pp.58, 162, 314, 320, ill.
 + "APOLLO INSPIRING AN EPIC POET", "Howard Yezerski" Gallery, Boston, USA.
 
 + Representation and performance in Carpenter Center (Harvard University), Cambridge, USA.
-
-
 
 
 ## Group Exibitions
@@ -1497,120 +1493,114 @@ pp.58, 162, 314, 320, ill.
 
 ## 2011
 
-"ART MIAMI 2011", Juan Ruiz Gallery, Miami, United States.
++ "ART MIAMI 2011", Juan Ruiz Gallery, Miami, United States.
 
-"BEHOLDER", Talbot Rice Gallery, The University of Edinburgh – Old College, Edinburgh, Scotland, UK.
++ "BEHOLDER", Talbot Rice Gallery, The University of Edinburgh – Old College, Edinburgh, Scotland, UK.
 
-"A WAKE: STILL LIVES AND MOVING IMAGES" Momentum / Kunstlerhaus Betanien, Berlin, Germany.
++ "A WAKE: STILL LIVES AND MOVING IMAGES" Momentum / Kunstlerhaus Betanien, Berlin, Germany.
 
-"THE FEAST OF TRIMALCHIO." at "Scotiabank Nuit Blanche. Toronto Festival 2011" Queen's Park, Toronto, Canada.
++ "THE FEAST OF TRIMALCHIO." at "Scotiabank Nuit Blanche. Toronto Festival 2011" Queen's Park, Toronto, Canada.
 
-"ARTHOUSE SQUAT FORUM", a special project of 4th Moscow Biennale of Contemporary Art, Art house "Arthouse", Moscow, Russia.
++ "ARTHOUSE SQUAT FORUM", a special project of 4th Moscow Biennale of Contemporary Art, Art house "Arthouse", Moscow, Russia.
 
-"LICHTSICHT" – 3rd Projection Biennale, Bad Rothenfelde, Germany.
++ "LICHTSICHT" – 3rd Projection Biennale, Bad Rothenfelde, Germany.
 
-"THE GLOBAL CONTEMPORARY. ART WORLDS AFTER 1989", ZKM | Museum of Contemporary Art, Karlsruhe, Germany.
++ "THE GLOBAL CONTEMPORARY. ART WORLDS AFTER 1989", ZKM | Museum of Contemporary Art, Karlsruhe, Germany.
 
-"inSPIRACJE". International Festival of Visual Arts, Szczecin, Poland.
++ "inSPIRACJE". International Festival of Visual Arts, Szczecin, Poland.
 
-"COMMERCIAL BREAK". Garage CCC, Collateral event of 54th International Art Exhibition – la Biennale di Venezia, Venice, Italy.
++ "COMMERCIAL BREAK". Garage CCC, Collateral event of 54th International Art Exhibition – la Biennale di Venezia, Venice, Italy.
 
-"FROM RUSSIA WITH LOVE". The City of Pietrasanta, Foundation for visual Arts, Palazzo Panichi, Complex Sant Agostino, Pietrasanta, Italy.
++ "FROM RUSSIA WITH LOVE". The City of Pietrasanta, Foundation for visual Arts, Palazzo Panichi, Complex Sant Agostino, Pietrasanta, Italy.
 
-"THE RUSSIAN ART". SEM-Art Gallery, Monte Carlo, Monaco.
++ "THE RUSSIAN ART". SEM-Art Gallery, Monte Carlo, Monaco.
 
-"HEROINES", Museum Thyssen-Bornemisza, Madrid, Spain.
++ "HEROINES", Museum Thyssen-Bornemisza, Madrid, Spain.
 
-"SCOPE NEW YORK Art Fair", Juan Ruiz Gallery, New York, United States.
++ "SCOPE NEW YORK Art Fair", Juan Ruiz Gallery, New York, United States.
 
-"ARMORY SHOW 2011", Pier 94 (Anna Schwartz Gallery), New York, United States.
++ "ARMORY SHOW 2011", Pier 94 (Anna Schwartz Gallery), New York, United States.
 
-"VIP ART FAIR". Anna Schwartz Gallery (Sydney-Melbourne), New York, USA.
++ "VIP ART FAIR". Anna Schwartz Gallery (Sydney-Melbourne), New York, USA.
 
-"BIG POND ADELAIDE FILM FESTIVAL", 6 Cinema Place (off Vaughan Place), Adelaide, Australia.
-
-
++ "BIG POND ADELAIDE FILM FESTIVAL", 6 Cinema Place (off Vaughan Place), Adelaide, Australia.
 
 ## 2010
 
-"THE HISTORY OF RUSSIAN VIDEO ART. VOLUME 3", Moscow Museum of Modern Art, Moscow, Russia.
++ "THE HISTORY OF RUSSIAN VIDEO ART. VOLUME 3", Moscow Museum of Modern Art, Moscow, Russia.
 
-"TRANSFORMATION", Museum of Contemporary Art Tokyo (MOT), Japan.
++ "TRANSFORMATION", Museum of Contemporary Art Tokyo (MOT), Japan.
 
-"CHRONIQUES RUSSES", Le Théâtre de la Photographie et de l'Image Charles Nègre, Nice, France (curated by Agnes de Gouvion Saint-Cur).
++ "CHRONIQUES RUSSES", Le Théâtre de la Photographie et de l'Image Charles Nègre, Nice, France (curated by Agnes de Gouvion Saint-Cur).
 
-"INTER-COOL 3.0: JUGEND BILD MEDIEN". Hartware Medien Kunst Verein im Dortmunder U (Center for Art and Creativity), Dortmund, Germany.
++ "INTER-COOL 3.0: JUGEND BILD MEDIEN". Hartware Medien Kunst Verein im Dortmunder U (Center for Art and Creativity), Dortmund, Germany.
 
-"CONTREPOINT", L'art contemporain russe de l'icone à l'avant-garde en passant par le musée. Musée du Louvre, Louvre médiéval, Paris, France.
++ "CONTREPOINT", L'art contemporain russe de l'icone à l'avant-garde en passant par le musée. Musée du Louvre, Louvre médiéval, Paris, France.
 
-"ST. MORITZ ART MASTERS 2010", St. Moritz, Switzerland.
++ "ST. MORITZ ART MASTERS 2010", St. Moritz, Switzerland.
 
-"SEXUALITY AND TRANSCENDENCE". Pinchuk Art Centre, Kiev, Ukraine.
++ "SEXUALITY AND TRANSCENDENCE". Pinchuk Art Centre, Kiev, Ukraine.
 
-"CONTEMPORARY ART FOR THE TEMPLE OF OLYMPIAN ZEUS". UNESCO-Italy, MACRO, Agrigento, Sicily, Italy.
++ "CONTEMPORARY ART FOR THE TEMPLE OF OLYMPIAN ZEUS". UNESCO-Italy, MACRO, Agrigento, Sicily, Italy.
 
-"FUTUREEVERYTHING" FESTIVAL, Manchester, UK.
++ "FUTUREEVERYTHING" FESTIVAL, Manchester, UK.
 
-"ATOPIA. CONTEMPORARY ART AND CITY". Centre de Cultura Contemporània de Barcelona (CCCB), Barcelona, Spain.
++ "ATOPIA. CONTEMPORARY ART AND CITY". Centre de Cultura Contemporània de Barcelona (CCCB), Barcelona, Spain.
 
-"EXPERIMENTA. ART FOR THE 21ST CENTURY", Arts Centre Melbourne, Australia.
++ "EXPERIMENTA. ART FOR THE 21ST CENTURY", Arts Centre Melbourne, Australia.
 
-"FAST FORWARD 2. THE POWER OF MOTION - MEDIA ART OF THE GOETZ COLLECTION", ZKM | Museum of Contemporary Art, Karlsruhe, Germany.
-
-
++ "FAST FORWARD 2. THE POWER OF MOTION - MEDIA ART OF THE GOETZ COLLECTION", ZKM | Museum of Contemporary Art, Karlsruhe, Germany.
 
 ## 2009
 
-"ARTISSIMA 16", Lingotto Fierre, Marco Noire CA, Turin, Italy.
++ "ARTISSIMA 16", Lingotto Fierre, Marco Noire CA, Turin, Italy.
 
-"VIDENIE", "Europe" Trading Center, NCCA Yekaterinburg, Russia.
++ "VIDENIE", "Europe" Trading Center, NCCA Yekaterinburg, Russia.
 
-ASIAN ART BIENNIAL, Taiwan Museum of Fine Arts, Taipei, Taiwan.
++ ASIAN ART BIENNIAL, Taiwan Museum of Fine Arts, Taipei, Taiwan.
 
-"FEEDFORWARD: Angel of History", Laboral Centro de Arte y Creación Industrial, Gijon, Asturias – Spain.
++ "FEEDFORWARD: Angel of History", Laboral Centro de Arte y Creación Industrial, Gijon, Asturias – Spain.
 
-3rd MOSCOW BIENNIAL, "Garage" CCC, Moscow, Russia.
++ 3rd MOSCOW BIENNIAL, "Garage" CCC, Moscow, Russia.
 
-"WAR & ART – HORROR AND SIMULACRUM OF BEAUTY", Galerie Aube, Kyoto University of Art and Design, Kyoto, Japan.
++ "WAR & ART – HORROR AND SIMULACRUM OF BEAUTY", Galerie Aube, Kyoto University of Art and Design, Kyoto, Japan.
 
-"VIDENIE", PERMM, Perm, Russia.
++ "VIDENIE", PERMM, Perm, Russia.
 
-TOKYO PHOTO 2009, Art Statements Gallery (Hong Kong), Tokyo, Japan.
++ TOKYO PHOTO 2009, Art Statements Gallery (Hong Kong), Tokyo, Japan.
 
-"3RD PHOTOFESTIVAL Mannheim-Ludwigshafen-Heidelberg", Wilhelm-Hack-Museum, Ludwigshafen am Rhein, Germany.
++ "3RD PHOTOFESTIVAL Mannheim-Ludwigshafen-Heidelberg", Wilhelm-Hack-Museum, Ludwigshafen am Rhein, Germany.
 
-"INDIA ART SUMMIT", Video Lounge and booth of Arario Beijing Gallery, Pragati Maidan (ITPO), New Delhi, India.
++ "INDIA ART SUMMIT", Video Lounge and booth of Arario Beijing Gallery, Pragati Maidan (ITPO), New Delhi, India.
 
-"ANTICIPATION", Claire Oliver, New York. "DIGITAL ART LA EXPO", L.A. Center for Digital Art, Rowan Building Downtown, Los Angeles, USA.
++ "ANTICIPATION", Claire Oliver, New York. "DIGITAL ART LA EXPO", L.A. Center for Digital Art, Rowan Building Downtown, Los Angeles, USA.
 
-"ART BASEL’09", Marco Noire Contemporary Art (Turin), Basel Messe, Basel, Switzerland.
++ "ART BASEL’09", Marco Noire Contemporary Art (Turin), Basel Messe, Basel, Switzerland.
 
-"MIDI MIDI MOSCOU", "AES+F / Le Festin de Trimalchio", program Gare Saint Sauveur, lille3000 "Europe XXL", Lille, France.
++ "MIDI MIDI MOSCOU", "AES+F / Le Festin de Trimalchio", program Gare Saint Sauveur, lille3000 "Europe XXL", Lille, France.
 
-"UNCONDITIONAL LOVE", Arsenale Novissimo, Tese di San Cristoforo, Tesa 89, , curated & produced by Alexandrina Markvo, Alinda Sbragia and Christina Steinbrecher, Collateral event of 53rd International Art Exhibition – la Biennale di Venezia, Venice, Italy.
++ "UNCONDITIONAL LOVE", Arsenale Novissimo, Tese di San Cristoforo, Tesa 89, , curated & produced by Alexandrina Markvo, Alinda Sbragia and Christina Steinbrecher, Collateral event of 53rd International Art Exhibition – la Biennale di Venezia, Venice, Italy.
 
-"ART DUBAI", Triumph Gallery, Madinat Jumeirah Complex Dubai, OAE
++ "ART DUBAI", Triumph Gallery, Madinat Jumeirah Complex Dubai, OAE
 "HANDCRAFT", Gallery Proun, Moscow, Russia.
 
-"BORN IN USSR", Ministry of Foreign Affairs, Berlin, Germany.
++ "BORN IN USSR", Ministry of Foreign Affairs, Berlin, Germany.
 
-"MEETING POINT", 10th Havana Biennial, Convent San Francisco, Havana, Cuba.
++ "MEETING POINT", 10th Havana Biennial, Convent San Francisco, Havana, Cuba.
 
-"INTRAMOENIA / EXTRA ART", Castelli di Puglia, Castello di Barletta, Puglia, Italy.
++ "INTRAMOENIA / EXTRA ART", Castelli di Puglia, Castello di Barletta, Puglia, Italy.
 
-"HISTORY OF RUSSIAN VIDEO ART: VOLIME 2", Moscow Museum of Modern Art, Moscow, Russia.
++ "HISTORY OF RUSSIAN VIDEO ART: VOLIME 2", Moscow Museum of Modern Art, Moscow, Russia.
 
-"LES FRONTIÈRES INVISIBLES", Tri Postal, lille3000 "Europe XXL", Lille, France.
++ "LES FRONTIÈRES INVISIBLES", Tri Postal, lille3000 "Europe XXL", Lille, France.
 
-"ANOTHER MYTHOLOGY", NCCA Moscow, Russia.
++ "ANOTHER MYTHOLOGY", NCCA Moscow, Russia.
 
-"STARNIGHT", Haus der Kunst, DLD conference, Munich, Germany.
++ "STARNIGHT", Haus der Kunst, DLD conference, Munich, Germany.
 
-"21 RUSSIA", Pinchuk Art Center, Kiev, Ukraine.
++ "21 RUSSIA", Pinchuk Art Center, Kiev, Ukraine.
 
-"DEAD MOROZ LIVE", Triumph Gallery, Moscow, Russia.
-
-
++ "DEAD MOROZ LIVE", Triumph Gallery, Moscow, Russia
 
 ## 2008
 
@@ -1666,29 +1656,27 @@ TOKYO PHOTO 2009, Art Statements Gallery (Hong Kong), Tokyo, Japan.
 
 ## 2007
 
-"A BRAVE NEW WORLD", Cobra Museum of Modern Art, Amstelveen, The Netherlands.
++ "A BRAVE NEW WORLD", Cobra Museum of Modern Art, Amstelveen, The Netherlands.
 
-"MARAT'S CHOICE", A special project of 2nd Moscow Biennale of Contemporary Art, M. Guelman Gallery, M. Guelman Foundation for Contemporary Art, State Central Museum of Modern History of Russia, Moscow, Russia.
++ "MARAT'S CHOICE", A special project of 2nd Moscow Biennale of Contemporary Art, M. Guelman Gallery, M. Guelman Foundation for Contemporary Art, State Central Museum of Modern History of Russia, Moscow, Russia.
 
-"GORE OT UMA (THE WOES OF WIT)", A special project of 2nd Moscow Biennale of Contemporary Art, State Museum of Literature, Moscow, Russia.
++ "GORE OT UMA (THE WOES OF WIT)", A special project of 2nd Moscow Biennale of Contemporary Art, State Museum of Literature, Moscow, Russia.
 
-"ARTIST’S DIARY", a special project of 2nd Moscow Biennale of Contemporary Art, Central House of Artist, M. Guelman Gallery, Moscow, Russia.
++ "ARTIST’S DIARY", a special project of 2nd Moscow Biennale of Contemporary Art, Central House of Artist, M. Guelman Gallery, Moscow, Russia.
 
-"ARCO", Ifema – Parque Ferial Juan Carlos I, Salvador Diaz Galeria, Madrid, Spain.
++ "ARCO", Ifema – Parque Ferial Juan Carlos I, Salvador Diaz Galeria, Madrid, Spain.
 
-"GATEKEEPERS. Russian Art Scene In The Flow Of Information", Knoll Galerie Wien, Vienna, Austria.
++ "GATEKEEPERS. Russian Art Scene In The Flow Of Information", Knoll Galerie Wien, Vienna, Austria.
 
-"VERYU (I BELIEVE)", Center of Contemporary Art "Vinzavod", Moscow, Russia.
++ "VERYU (I BELIEVE)", Center of Contemporary Art "Vinzavod", Moscow, Russia.
 
-"CLICK, I HOPE", Russian Pavilion at 52nd International Art Exhibition – la Biennale di Venezia, Jardini, Venice, Italy.
++ "CLICK, I HOPE", Russian Pavilion at 52nd International Art Exhibition – la Biennale di Venezia, Jardini, Venice, Italy.
 
-"OTTEPEL (THAW)" (IN THE MIDDLE OF THE ROAD), State Russian Museum and M.Guelman Gallery, St.-Petersburg, Russia.
++ "OTTEPEL (THAW)" (IN THE MIDDLE OF THE ROAD), State Russian Museum and M.Guelman Gallery, St.-Petersburg, Russia.
 
-"HISTORY OF RUSSIAN VIDEO ART: VOLIME 1", Moscow Museum of Modern Art, Moscow, Russia.
++ "HISTORY OF RUSSIAN VIDEO ART: VOLIME 1", Moscow Museum of Modern Art, Moscow, Russia.
 
-"ART MIAMI 2007", Convention Center Miami Beach, Juan Ruiz Galeria (Maracaibo), Miami Beach, USA
-
-
++ "ART MIAMI 2007", Convention Center Miami Beach, Juan Ruiz Galeria (Maracaibo), Miami Beach, USA
 
 ## 2006
 
