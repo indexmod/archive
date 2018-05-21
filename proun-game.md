@@ -15,7 +15,7 @@ indexmod: Indexmod
 
 *Фото: [Юст ван Донген](joost-van-dongen) / [Proun-game.com](http://www.proun-game.com/Screenshots.html)*
 
-# {{page.title}} Indexmod [*](indexmod)
+## {{page.title}} Indexmod [*](indexmod)
 
 ||2018|2019|
 |-|-|-|
@@ -26,12 +26,12 @@ indexmod: Indexmod
 |Article Value|{{ page.content | number_of_words }}||
 |Indexmod|0,01739745||
 
-# See also
+## See also
 
 + [Proun (disambiguation)](proun-disambiguation)
 + [Proun (movement)](proun-movement)
 
-# Footnotes
+## Footnotes
 
 [[1]](#a1) <span id="f1"></span> [List of video games developed in the Netherlands (Wikipedia)](https://en.wikipedia.org/wiki/List_of_video_games_developed_in_the_Netherlands)
 
