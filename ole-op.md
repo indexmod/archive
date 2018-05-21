@@ -17,13 +17,13 @@ tumblr: '0,0'
 published: true
 ---
 
-(Est. {{ page.birth }}, {{ page.city }}) is a Russian brand of casual wear, also self-named as a “human softwear” and founded by artist Dnitri Cherniaev (Дмитрий Черняев) <span id="a1">[\[1\]](#f1)</span>.
+(Est. {{ page.birth }}, {{ page.city }}) is a Russian brand of casual wear, also self-named as a “human softwear” and founded by artist Dmitry Chernyaev (Дмитрий Черняев) <span id="a1">[\[1\]](#f1)</span>.
 
 ![](/images/{{page.permalink}}.jpg)
 
 **Ole Op's “loop” ID  for shirts**
 
-*Photo: [Dmitri Cherniaev](cherniaev-dmitri) / [Facebook](https://www.facebook.com/oleoplovesyou/photos/p.185922335378923/185922335378923/?type=3&theater)*
+*Photo: [Dmitry Chernyaev](chernyaev-dmitry) / [Facebook](https://www.facebook.com/oleoplovesyou/photos/p.185922335378923/185922335378923/?type=3&theater)*
 
 ## {{page.title}} conspectus
 
@@ -45,8 +45,8 @@ published: true
 
 ## See also
 
-+ [Dmitri Cherniaev](cherniaev-dmitri)
-+ [Cherniaevy](cherniaevy)
++ [Dmitry Chernyaev](chernyaev-dmitry)
++ [Chernyaev](chernyaev)
 + [IIIYM](iiiym)
 
 ## Footnotes
