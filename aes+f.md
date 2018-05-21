@@ -1377,8 +1377,6 @@ TOKYO PHOTO 2009, Art Statements Gallery (Hong Kong), Tokyo, Japan.
 
 + "DEPLETION", Doron Sebbag Art Collection, Tel Aviv Museum of Art, Tel Aviv, Israel.
 
-
-
 ## 2007
 
 "A BRAVE NEW WORLD", Cobra Museum of Modern Art, Amstelveen, The Netherlands.
