@@ -1,4 +1,3 @@
-
 ---
 title: Ole Op
 permalink: ole-op
