@@ -13,7 +13,7 @@ shortname: MIMI
 
 *Photo: [Nina Rasiuk](rasiuk-nina) / [Readymag](https://readymag.com/proun/misak/)*
 
-# Conspectus
+## Conspectus
 
 |Year|Milestones|
 |----|---------|
@@ -22,7 +22,7 @@ shortname: MIMI
 |2017|Establishing Synthposium festival|
 |2018|Novoe (Space at Pluton plant area in Moscow)|
 
-# See also
+## See also
 
 + [Proun](proun-movement)
 + [Nina Rasiuk](rasiuk-nina)
@@ -30,7 +30,7 @@ shortname: MIMI
 + [Synthposium](synthposium-festival)
 
 
-# Footnotes
+## Footnotes
 
 [[1]](#a1) <span id="f1"></span> [Samokatyan, Misak (Indexmod Encyclopedia, 2016](https://sites.google.com/site/indexmodencyclopedia/samokatyan-misak)
 
