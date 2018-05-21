@@ -29,7 +29,9 @@ By now the subject of almost 100 solo exhibitions at museums, exhibition spaces 
 ## 2015
 
 + INVERSO MUNDUS. Catalogue, MAMM, Triumph Gallery, Moscow, Russia, text by David Elliott
+
 + 55th BIENNALE DI VENEZIA, Catalogue, Collateral Events Program – Magazzini del Sale, Venice, Italy
+
 + 001 INVERSO MUNDUS. Catalogue, Triumph Gallery, Venice, Italy, text by David Elliott
 
 ## 2014
@@ -38,12 +40,16 @@ By now the subject of almost 100 solo exhibitions at museums, exhibition spaces 
 
 ## 2013
 
-+ 54th BIENNALE DI VENEZIA, Catalogue, Main Program – Padiglione Venezia, Venice, Italy
++ 54th BIENNALE DI VENEZIA, Catalogue, Main Program
+
++ Padiglione Venezia, Venice, Italy
+
 + SILK MAP, Padiglione Venezia, at 54th Biennale di Venezia, Moleskin, Venice, Italy
 
 ## 2012
 
 + THE LIMINAL SPACE TRILOGY. Catalogue, Martin-Gropius-Bau, Triumph Gallery, Olga Sviblova, Gareth Harris, Sara Reisman, Eng-Ger, Berlin, Germany
+
 + THE LIMINAL SPACE TRILOGY. Catalog, Manege Central Exhibition Hall, MAMM, Triumph Gallery, Olga Sviblova, Gareth Harris, Sara Reisman, Eng-Rus, Moscow, Russia
 
 ## 2011
@@ -53,39 +59,56 @@ By now the subject of almost 100 solo exhibitions at museums, exhibition spaces 
 ## 2010
 
 + AES+F. THE FEAST OF TRIMALCHIO. Catalogue, RZhD “Waiting Hall” Sochi Train Station, Triumph Gallery, Moscow, Russia
+
 + AES+F. THE FEAST OF TRIMALCHIO. Catalogue, Garage CCO, Triumph Gallery, Moscow, Russia
 
 ## 2009
 
 + 3rd MOSCOW BIENNIAL, Catalogue, Moscow
+
 + 53rd BIENNALE DI VENEZIA, Catalogue, Collateral Events Program – Arsenale Novissimo, Venice, Italy
+
 + UNCONDITIONAL LOVE, Catalogue, Buro 17, NCCA and MMoMA, Moscow, Russia, text by AES+F, pp. 32-41, ill.
+
 + DOWNTOWN FILM FESTIVAL LOS ANGELES, 08-12_08-22-2009, Catalogue, Los Angeles, USA, p.51, ill.
 
 ## 2008
 
 + "AES+F. THE GREEN PARADISE...", Catalogue, Passage De Retz (Paris), MACRO Future (Rome), MAMM, Moscow, Russia, text by Olga Sviblova, cover, ill.
+
 + ART MIAMI 2008, Catalogue, Juan Ruiz Galeria (Maracaibo, Venezuela), p.167, ill.
+
 + "THE FUTURE DEPENDS ON YOU. NEW RULES", 2008, Catalogue, B-Comm/ZAO "Avangard", pp. 44-51, 132, ill.
+
 + SOTHEBY'S RUSSIAN CONTEMPORARYA ART, 12/03/2008, London, pp.224-250, back cover, ill.
+
 + "THAW: Russian Art From Glasnost to the Present", Chelsea Art Museum and M&J Guelman Gallery, New York, 2008, pp.12-13, 52-53, ill.
 
 ## 2007
 
 + GUELMAN 15, Catalogue, State Russian Museum, Ludwig Museum in Russian, M. Guelman Foundation for CA, M. Guelman Gallery, Moscow-St.-Petersburg, Russia, p. 12, 56, 84, 95, 96, 97, 156, 180, 247, 285, 308,  381-389, 519, ill.
-+ 52nd BIENNALE DI VENEZIA, Catalogue, Main Program – Russian Pavilion, Venice, Italy.
+
++ 52nd BIENNALE DI VENEZIA, Catalogue, Main Program – Russian Pavilion, Venice, Italy
+
 + AES+F. Catalogue, Station Museum of Contemporary Art, Houston, USA, Introduction by Olga Sviblova, ill.
+
 + WAM. # 26-2, Catalogue, Russian Pavilion on 52nd Venice Biennial, by Olga Sviblova, pp.7-13, by Milena Orlova, pp.14-33, ill.
+
 + AES+F. LAST RIOT 2, Catalogue, Pharos Publishers, Pharos Center for Contemporary Art, Nikosia, Cyprus, “Foreword” by Garo Keheyan (pp. 4-5), “The Art of War: Mythologies of Martyrodrom” by Richard Osborne, (pp. 6-16), ill, cover.
+
 + RETHINKING DISSENT, Catalogue, Gothenburg International Biennial for Contemporary Art 2007, by Joa Ljungberg & Edi Muka, pp. 30-31, 43, ill.
 
 ## 2006
 
 + MUTATIONS I, 2006/07, Contemporary European Photography. Catalogue, Contrasto, Italy, by Olga Sviblova, 86-95 pp, ill.
+
 + MOIS EUROPEEN DE LA PHOTOGRAPHIE, Luxemburg 2006, Casino Luxembourg, Forum d’art contemporain, “Mutations I 14.10-19.11.2006” by Paul di Felice pp.18-21, ill.
+
 + FOTOFEST2006. The Earth. Artists Responding to Violence, Catalogue, Fotofest, Houston, USA, Action Half Life by AES+F, pp.3,40-43, ill. ISDN 978-0-9718044-2-5.
-+ UN NUEVO Y BRAVO MUNDO / BRAVE NEW WORLD, Catalogue, Community of Madrid, Madrid, pp.35-47, ill. ISBN 951-53-2799-7 ISSN 0789-0338.
-+ ARS 06, Catalogue, Kiasma MCA, Helsinki, Finland, AES+F. Last Riot by AES+F group, pp. 84-87, ill. ISBN 84-451-2833-7.
+
++ UN NUEVO Y BRAVO MUNDO / BRAVE NEW WORLD, Catalogue, Community of Madrid, Madrid, pp.35-47, ill. ISBN 951-53-2799-7 ISSN 0789-0338
+
++ ARS 06, Catalogue, Kiasma MCA, Helsinki, Finland, AES+F. Last Riot by AES+F group, pp. 84-87, ill. ISBN 84-451-2833-7
 
 ## 2005
 
@@ -100,20 +123,31 @@ By now the subject of almost 100 solo exhibitions at museums, exhibition spaces 
 ## 2004
 
 + REVENGE OF ROMANCE, Catalogue, temporary/contemporary, London, UK, pp. , ill.
+
 + RECONTRES DE LA PHOTOGRAPHIE ARLES 2004, Catalogue, Arles, France, pp. , ill.
-+ ON REASON AND EMOTION. BIENNALE OF SYDNEY 2004, Catalogue, Sydney, Australia, ‘The desecration of the image of a child’ by Ekaterina Dyogot, pp.30-31 , ill.
+
++ ON REASON AND EMOTION. BIENNALE OF SYDNEY 2004, Catalogue, Sydney, Australia, ‘The desecration of the image of a child’ by Ekaterina Dyogot, pp.30-31, ill.
+
 + "BERLIN-MOSCOW / MOSCOW-BERLIN", Catalogue, Trilistnik Publishers, 2004, Moscow, Russia, Vol 1 (Art), pp. 264, 293, ill.
+
 + "ART MIAMI 2004", Catalogue, Miami Beach, USA, COFA / Claire Oliver Fine Art, NY, , pp34-35, 130, ill.
 
 ## 2003
 
 + PARIS PHOTO 2003, Catalogue, Paris, France, 2003, Galerie Carre Noir, pp.30-31, ill.
+
 + "KFNY / The King of the Forest, NY", Catalogue, COFA / Claire Oliver Fine Art, New York, USA, Troy Selvaratnam, ill.
+
 + "BERLIN-MOSCOW / MOSCOW-BERLIN", Catalogue, 2003, Berlin, Germany, pp. 258, 296, ill.
+
 + "GLOBAL > DETAIL. Noordelicht X", Catalogue, USVA Noorderlicht Photogallery, Groningen, Holland, curated by Wim Melis, pp. 78-79, ill.
-+ "Neue Ansätze / Zeitgenõssische Kunst aus Moscau", Catalogue, Kunsthalle Düsseldorf, Germany, text by Olga Sviblova, pp. 4-5, 35-37, 76,.ill.
+
++ "Neue Ansätze / Zeitgenõssische Kunst aus Moscau", Catalogue, Kunsthalle Düsseldorf, Germany, text by Olga Sviblova, pp. 4-5, 35-37, 76, ill.
+
 + "AES Group. OASI – Espaya islàmica", Catalogue, Fundació La Caixa, Barcelona, Spain, "All that glitters is not gold" by María José Balcells, "Islamic Project: The Witnesses of the Future" by Pepa Palomar; ill.
+
 + "UBER MENSCHEN" Colloquium of the College Friedrich Nietzsche at the Stiftung Wemarer Klassik und Kunstsammlungen in collaboration with the ACC Gallery and the City of Weimar, the Province of Modena (Italy) and Clo Ceardlann na gCnoc (Ireland) with the support of the programm Culture 2000 of the European Union, Weimar, Germany, The King of the Forest, pp. 32-37, 136-141, 240-245, ill.
+
 + VEIL. VEILING, REPRESENTATION AND CONTEMPORARY ART, Catalogue, Institute of International Visual Arts, London, in association with Modern Art Oxford, England, pp. 12-13, 26, 188, ill.
 
 ## 2002
@@ -123,30 +157,44 @@ By now the subject of almost 100 solo exhibitions at museums, exhibition spaces 
 ## 2001
 
 + AES+F, SOPHIE CALLE, FABRICE HUBERT, ELIAN LILLE, Bulletin de la Galerie Sollertis No 82, December 2001, ill.
+
 + SENSE OF SPACE. Noorderlicht International Photofestival. Catalogue. 2001, Groningen, Holland, pp. 93-98, 142, ill.
+
 + WARHOL WEEK IN MOSCOW, 2001, Catalogue, Moscow, p. 44, ill.
+
 + AES. ISLAMIC PROJECT, Bulletin de la Galerie Sollertis No 78, May 2001, ill.
-+ ART MOSCOW, 2001, Catalogue, Moscow.
-+ FASHION AND STYLE IN PHOTOGRAPHY, 2001, Catalogue, Moscow House of Photography, Moscow.
-+ ISKUSSTWO 2000, Catalogue, Rosenheim Kunsverein, Germany.
+
++ ART MOSCOW, 2001, Catalogue, Moscow
+
++ FASHION AND STYLE IN PHOTOGRAPHY, 2001, Catalogue, Moscow House of Photography, Moscow
+
++ ISKUSSTWO 2000, Catalogue, Rosenheim Kunsverein, Germany
 
 ## 2000
 
 + DOLL BY THE STAR, Catalogue, Moscow, Russia, pp. IX, XI, 125, ill.
-+ BIENNALE DE LYON, Catalogue, Lyon, France.
-+ IMPACT FILM FESTIVAL, Catalogue, Utrecht, Holland, p. 26.
+
++ BIENNALE DE LYON, Catalogue, Lyon, France
+
++ IMPACT FILM FESTIVAL, Catalogue, Utrecht, Holland, p. 26
+
 
 ## 1999
 
-+ FESTIVAL ATLANTICO’ 99, Catalogue, Lisbon, Portugal, pp. 46-47.
-+ AFTER THE WALL, Catalogue (two volumes), Modern Museum, Stockholm, 1999, by Branimir Stojanovic, Volume II, pp. 006-007, ill.
++ FESTIVAL ATLANTICO’ 99, Catalogue, Lisbon, Portugal, pp. 46-47
+
++ AFTER THE WALL, Catalogue (two volumes), Modern Museum, Stockholm, 1999, by Branimir Stojanovic, Volume II, pp. 006-007, ill
+
 + UN MATIN DU MONDE, Catalogue, Galerie Eric Dupont, 1999, Paris, by Evelyne Jouanno, ill.
 
 ## 1998
 
 + BELEF-98 Art Festival, Catalogue, Belgrade, pp. , ill.
-+ 2nd MONTH OF PHOTOGRAPHY IN MOSCOW. PHOTOBIENNALE-98, ill. Catalogue, Moscow House of Photography, Moscow, 1998, pp. 180-181, ill.
+
++ 2nd MONTH OF PHOTOGRAPHY IN MOSCOW PHOTOBIENNALE-98, ill. Catalogue, Moscow House of Photography, Moscow, 1998, pp. 180-181, ill.
+
 + 11TH TALLINN PRINT TRIENNIAL. Catalogue, Tangents, Tallinn Art Hall, 1998, Tallinn, pp. 198-199, ill.
+
 + ACADEMY OF COLD. Catalogue, Odessa, Ukraine, pp. , ill.
 
 ## 1997
@@ -195,12 +243,15 @@ By now the subject of almost 100 solo exhibitions at museums, exhibition spaces 
 ## 2007
 
 + AES. AES+F, Palace Editions, State Russian Museum, St.-Petersburg, Russia, “The New Brave World of AES+F” by Olesya Turkina, “The Canon Creators” by Alexander Borovsky, “Investigating AES+F’s Videography” by Antonio Geusa, “Glamour to Kill 2” by Javier Panera, ill., ISBN ISBN 978-5-93332-216-0 (Russia)
+
 + ACTION HALF LIFE. AES+F, Nazraeli Press, Portland, USA, “Half-Dead, Half-Life” by Alexander Zeldovich, ill, ISBN 1-59005-125-4
 
 ## 2006
 
 + VITAMIN PH, New Perspectives in Photography, Phaidon Press, 2006, London UK, by Rodrigo Alonso, ill.
+
 + GAMESCENES. Art in the Age of Videogames (John & Levi, 2006) is the first volume entirely dedicated to Game Art. Edited by Matteo Bittanti and Domenico Quaranta
+
 + ACTION HALF LIFE. SCULPTURES, Agey Tomesh Publishers, 2006, Moscow, ill. ISBN 5-91002-005-6
 
 ## 2005
@@ -251,111 +302,164 @@ pp.58, 162, 314, 320, ill.
 ## 2009
 
 + FLASH ART INTERNATIONAL, Vol. XLII, No268, October 2009, Global Art, "AES+F" by Javier Panera, p.87, ill.
+
 + ART E DOSSIER, 10-2009, "La Guerra tiepida, vinta dai Russi", by Philippe Daverio, pp.12-13, ill.
+
 + CONTEMPORARY VISUAL ART & CULTURE BROADSHEET, 38.3, 2009, ‘Fare Mondi and other foreign affairs’, by Astrid Mania, pp. 171-173.
+
 + DI (DIALOG ISKUSSTV), 03-2009, MMoMA, Moscow, p.14, ill.
 
 ## 2008
 
 + DI (DIALOG ISKUSSTV), 02-2008, MMoMA, Moscow, "AES. AES+F. Confronting Phantoms" by Lia Adashevskaya, pp.50-56, ill.
+
 + LE JOURNAL DU JURA, 13 September 2008, "Aurum: tout ce qui brille est-il d’or?", p.3 (ill.), p.5.
 + DI (DIALOG ISKUSSTV), 01-2008, MMoMA, Moscow, "AES. AES+F", p.57, ill.
+
 + DAZED & CONFUSED, Volume 2, issue 62, June 2008, London, UK, pp110-117
 
 ## 2007
 
 + ART REVIEW, #16, November 2007, "The Power 100", "The Russian Connection", p. 162.
+
 + DESILLUSIONIST, No 10-2007, Moscow, Russia, “Actual Art. Question-Answer” by Maria Gadas, pp.32, ill.
+
 + SANAT MILLIYET, 9/2007 126301/582, Istanbul, Turkey, by Rahsan Atasoy, pp.7-12, ill, cover, ISSN 1300-4425.
+
 + AD Russia, 10-2007, pp., ill.
+
 + ZOOM International, #81 July-August 2007, 52 Biennale Venice, Russian Pavilion – Olga Sviblova, Portfolio AES+F, pp. 3-11, ill.
 
 ## 2006
 
 + DESCUBRIR EL ARTE #91, (2006), Madrid, Spain, “Los Fotógrafos del Apocalipsis” Utrilla D., p. 74-80, ill.
+
 + C INTERNATIONAL PHOTO MAGAZINE, #2 2006, Ivory Press, London, UK, Portfolio AES+F, pp.130-138, ill. ISSN 1748-3565
 
 ## 2005
 
 + THE ART NEWSPAPER, #163, November 2005, New York, USA, United Kingdom - ‘Moscow Breakthrough’, p. 6, ill.
+
 + MODERN PAINTERS, October 2005, London, UK, ‘Russians Are Coming. Aren’t They?’ by Mark Rappolt, pp. 57-59, ill.
+
 + ARTNEWS, October 2005, New York, USA, ‘An Art Daler is Exonerated’ by Konstantin Akinsha, pp. 86.
+
 + ARTFORUM, April 2005, New York, USA, ‘Russian Front: The Moscow Biennale’ by John Kelseyi
+
 + ARTNEWS, April 2005, New York, USA, ‘Provocateurs, Ghosts, Accomplices, and Starz’ by Konstantin Akinsha, pp., ill.
+
 + THE ART NEWSPAPER, # 160, July-August 2005, New York, USA, ‘Russian Artists Imagine an Islamic World’, p. 35, ill.
 
 ## 2004
 
 + CAMERA AUSTRIA, No.88 2004, Vienna, Austria, ‘Acttuelle Ausstellungen in Wien’ by Nina Schedlmayer, pp.77-79
+
 + SPIKE, No2-2004, Vienna, Austria, ‘AES+F’ by Manisha Jothady, pp. 103-104, ill.
+
 + EIKON, No.47, 2004, Vienna, by Inge Nevole, pp. 22-26, 31 cover ill.
+
 + FOTOPOST, vol.2, no.4, 2004, Toronto, Canada, by ‘Arles Recontres de la Photographie 2004’ by Katy McCormick, p.9, ill.
+
 + ARTPHOTO, No 4, 2004, Bucharest, Romania, ‘AES+F’ text by AES+F, pp. 70-81, ill.
+
 + AUSTRALIAN ART REVIEW # 5 2004, Sydney, Australia, "A Brazen" by Anne Loxley, pp. 56-59, ill.
+
 + BLACK AND WHITE magazine # 31 2004, Australia, pp. , ill.
+
 + ART MONTHLY AUSTRALIA, Sydney, Australia, cover, ill.
+
 + IMAGES # 5, July-August 2004, Paris, France, ‘Songes anticipation realite? Collectif AES+F’ by Sophie Bernard, pp. 56-59, ill.
+
 + BLAST #9, Paris, France, "L’Assassin est Parmi Nous" by Audrey Mascina, pp. 7, 68-71, ill.
+
 + PHOTO #411, July-August 2004, Paris, France, "Les 35es Recontres d’Arles" by Jemina Boraccino, pp. 84-87, ill.
+
 + NY ARTS /BERLINER KUNST MAGAZINE, Vol.9 No 9-10, September 2004, New York, USA, ‘AES+F group Helps Arts Conquer Mass Media’ by Elena Zaytseva, p. 33, ill.
+
 + ARTNEWS, Vol. 103, No. 2, February 2004, USA, ‘AES+F’ by Arlene McKanic, pp. 112-113, ill.
+
 + FLASH ART International, Vol. XXXVII, No. 234, January-February 2004, Milan, “AES+F” by Amanda Church, pp. 67, 71, ill.
+
 + NY ARTS / BERLINER KUNST MAGAZINE, Vol. 9 No 1, January 2004, cover, ill.
 
 ## 2003
 
 + ARTNEWS, April 2003, COFA/Claire Oliver Fine Art, New York, USA, pp. , ill.
+
 + EXIT Imagen & Cultura, No. 8 2003, Madrid, Spain, p.?, ill.
+
 + FOTOGRAF, 2003, Prague, Chech Republic, ‘Profile: AES’ by Simona Vladikova, pp.10-13, ill.
 
 ## 2002
 
 + ART IN AMERICA, November 2002, “Alternative visions: in a provocative curatorial gesture, this year's Gwangju Biennale was largely dedicated to and determined by independent artist groups and alternative spaces. Report From Gwangju – Critical Essay” by Jonathan Napack
+
 + EXIT Imagen & Cultura, No. 7 2002, Madrid, Spain, cover, pp. 3, 126, 136, 142-143, ill.
+
 + EXIT Imagen & Cultura, No. 6 2002, Madrid, Spain, pp. 14-15, 130-131, ill.
-+ FLASH ART International, Vol. XXXIV No 224 May-June 2002, Milan, Italy, by Yu-Hisao-hwei pp. 65, 67.
+
++ FLASH ART International, Vol. XXXIV No 224 May-June 2002, Milan, Italy, by Yu-Hisao-hwei pp. 65, 67
+
 + MARE ARTICUM, The Baltic Art Magazine, Issue 1 (10).2002, Szczecin, Poland, Globalosation, ill.
+
 + KUNSTFORUM International, No. 158, January-March 2002, Berlin, Germany, by Ulrike Lehmann, cover, pp. 2, 424-425, ill.
 
 ## 2001
 
 + NU: THE NORDIC ART REVIEW, Vol. III No.6/01, Stockholm, Sweden, “Not-strangled-yet” by Ekaterina Degot, pp. 50-53, ill.
+
 + ART CHRONICA, No 6 2001, Moscow, Russia, ill.
+
 + ART CHRONICA, No 4-5 2001, Moscow, Russia, ill.
+
 + BEAUX ART, Special issue 2001, Paris, France, pp. 74-75, ill.
 
 ## 2000
 
 + INTERVISTA No , May 2000, Milan, Italy, "AES group" by Evelyne Jouanno, ill.
+
 + CRUDELIA, No II, July-September 2000, Rome, Italy, “Othello. Asphyxiophilia” AES group, p. 9, ill.
 
 ## 1999
 
 + ART PRESS, Catherine Millet an interview of Bojana Pesich, No 250, 1999, Paris, France, "After the Wall", pp. 42-50, ill.
+
 + CANS (The Chinese Art News), April 1999, Taiwan, p. 129.
+
 + ART PRESS, No 245, 1999, Paris, "Un matin du monde" Alexandre Bohn, pp. 87-88, ill.
 
 ## 1998
 
 + ART NEWS Magazine, June 1998, New York, USA, "3 Penny Exhibition" Silvia Hochfield, p. 130, ill.
+
 + MAX, 1998, Hamburg, Germany, p. 19, ill.
+
 + NEW MOMENT, No. 9/10, 1998, Slovenia, "A non-PC art project", Branislav Dimitrijevic, pp. 72-77, ill.
+
 + KHOUDOZHESTVENNIY JOURNAL (Moscow Art Magazine), No. 22, 1998, Moscow, Russia, "We and the others", Igor Zabel, pp. 27-35, ill.
 
 ## 1997
 
 + FILMZEIT, March-April 1997, Berlin, Germany, Archi Galentz, AES interview, pp. 19-24, ill.
+
 + SIKSI. The Nordic Art Review, Oslo, Norway, vol. XII, Spring 1997, Mika Hannula, pp. 50-53, ill.
+
 + PHOTOGRAPHIES MAGAZINE, 1997, Paris, France, Dominique Gaesler, p. 14-17, ill.
+
 + MARGINA, No. 36, 2/97, Skopye, Macedonia, Alexsandar Boshkovich, pp. 142-149, ill.
 
 ## 1996
 
 + ART, 12/96, Hamburg, Germany, AES group, p. 8, ill.
+
 + ART, 7/96, Hamburg, Gregory Ingleright p. 114, ill.
+
 + NEUE BILDENDE KUNST, No12, 1996, p. 54, ill.
+
 + KHOUDOZHESTVENNIY JOURNAL (Moscow Art Magazine), 12/96, Moscow, Russia, Alexander Balashov, p. 48-51, ill.
+
 + KHOUDOZHESTVENNIY JOURNAL (Moscow Art Magazine), 12/96, Moscow, Russia, Oleg Kireev, p. 85, ill.
+
 + AESTHETE, No. 1, 1/96, Moscow, Russia, Marat Guelman, p. 100-101, ill.
 
 ## 1995
@@ -365,6 +469,7 @@ pp.58, 162, 314, 320, ill.
 ## 1993
 
 + CIRCA Art Magazine, No. 63, Spring 1993, Belfast, Ireland, Susan Read, pp. 24-29, ill.
+
 + KHOUDOZHESTVENNIY JOURNAL (Moscow Art Magazine), No1, 1993, Moscow, Russia, Galina Kouryerova, p. 42, ill.
 
 ## 1992
@@ -374,12 +479,15 @@ pp.58, 162, 314, 320, ill.
 ## 1991
 
 + FLASH ART MAGAZINE. International Edition, Vol. XXIV, No. 158, May-June 1991, Milan, Italy, "Old Fashioned Passion" Victor Miziano, pp. 110-113, ill.
+
 + ART, 12/91, Hamburg, Germany, "Am Einkaufszentrum war kein Platz für Plakatkunst" Martin Tschechne, p. 21, ill.
 
 ## 1990
 
 + PRINT MAGAZINE, XLV-II, March-April 1990, New York, USA, "Reviding in USSR" Constantin Boym, pp. 76-85, ill.
+
 + THE ART NEWSPAPER, International Edition, Vol. I, No. 2, November 1990, London, England, "Beyond perestroika: from Ogonyok with love" p. 5, ill.
+
 + CREATIVE REVIEW, 11/90, London, "Cultures collide in Cambridge" p. 15, ill.
 
 ## 1989
@@ -396,74 +504,107 @@ pp.58, 162, 314, 320, ill.
 ## 2007
 
 + CITIZEN K Russia, #2 2007, Moscow, Russia, "Pogranichniki/Border Control" by Anna Tolstova, p. 266-273, ill.
+
 + TIME Magazine, Vol.169, No. 14, Apr. 2, 2007, Time Warner Publishing B. V., Amsterdam, The Netherlands, “If you build it they will come” by Richard Lacayo, pp.43-46, ill.
 
 ## 2006
 
 + LE MONDE 2, No 141, October 27 2006, Paris, France, cover, pp.22-29 ill.
+
 + ABCD, ABC, (2006), “Tras el Telón de un Barroco Futurista” Revuelta L., p.36
+
 + EL MUNDO (EL CULTURAL) 14/09/2006, “AES+F y la Matanza de los Inocentes” Vozmediano, E., p.28-29.
+
 + EL MUNDO S.XXI (LA LUNA DE METROPOLI), 06/01/06, Madrid, Spain, "Un mundo feliz… o casi", p.79, ill.
+
 + EL MUNDO (EL CULTURAL), 05/01/06, Madrid, Spain, "Un arte a la contra", by Abel H. Pozuelo, p. 30, ill.
 
 ## 2005
 
 + ABS DE LAS ARTES Y LAS LETRAS, 31/12/05, Madrid, Spain, "La hora de la verdad", p.43, "Malos rollos", p.42, ill.
+
 + I-D magazine, Vol. II-XI, Home Issue #261, 2005, London, UK, compiled by Skye Sherwin, p. 101-105, ill.
+
 + DOLCE MAGAZINE, No. 12(23) 2005, Moscow, “Future 2105” interview with AES+F by Alexander Snegirev, pp. 40-45, ill.
+
 + OGONYOK, No. 7/1420, February 20 2005, Moscow, “An Acting Model of Apocalypse” by Olga Sviblova, pp. 52-53, ill.
 
 ## 2004
 
 + VOGUE Russia, # 9, September 2004, Moscow, Russia, “Children in Desert” by Fedor Romer, pp 190, 192, ill.
+
 + CREAM magazine # 29, 2004, Australia, compiled by Poppy Diamantis, p. 102, ill.
+
 + WENTWORTH COURIER CENTRAL, vol.2, No 21, June 3 2004, Sydney, Australia, “Reason & Emotion” by Pam Walker, p.20, ill.
+
 + SUNDAY MORNING HERALD, June 4-10 2004, Sydney, Australia, “Critic’s picks” by Dominique Angeloro, p.27, ill.
+
 + EXTRA SMALL # 2, Paris, France, "Le Monde Sera à Vous" by Audrey Mascina, pp. 74-77, ill.
 
 ## 2003
 
 + TANK, Vol.3 Issue 8, 2003, London, UK, “Gotham. King of the Forest, Part III by AES+F Group”, pp. 98-105, ill.
-+ VOGUE Russia, # 10, October 2003, Fedor Romer, "", pp. 108-111, ill.
+
++ VOGUE Russia, # 10, October 2003, Fedor Romer, pp. 108-111, ill.
+
 + VOGUE Russia, # 2, February 2003, Urate Gurauskaite, "Perfidy and Love", pp. 108-111, ill.
 
 ## 2002
 
 + BRITSKE LISTY, April 3 2002, Prague. Czech Republic, “Přes Rudé náměstí k nové soše Svobody” by jan Paul
+
 + VOGUE Russia, # 12, December 2002, Fedor Romer, "The Art of Purchasing", pp.354-361, ill.
+
 + ELLE DECOR, # 14, November 2002, Sergey Kulikov “Necroromantism”, pp.  86-88, ill.
+
 + YEZHEDNEVNY ZHURNAL (WEEKLY MAGAZINE), # 11 (43), November 11 2002, “”, by , pp. , ill.
+
 + FAKEL, # 8, 2002, “The Life in Islamograde“ by Denis Yatsutko, pp.36-37, ill.
+
 + HARPER’S BAZAAR (Russia), April 2002, Moscow, by Ecatherina Degot, pp. 166-167, ill.
+
 + VOGUE Russia, # 2, February 2001, Moscow, “AES”, Fedor Romer, pp 70-71, ill.
 
 ## 2001
 
 + FAKEL, # 4-5, 2001, Moscow, pp 144-145, ill.
+
 + FAKEL, # 6, 2001, Moscow, pp 8-9, ill.
+
 + TANK, #?, September 2001, London, “Them can dance”, pp., ill.
 
 ## 2000
 
 + TANK, # 10, July 2000, London, pp. 86-97, ill.
+
 + KULT LICHNOSTEY, May-June 2000, Moscow, p.23 , ill.
+
 + MARIE CLAIR, (Russian edition) April 2000, Moscow, by , pp. , ill.
+
 + OGONYOK, No. 23/4650, July 3 2000, Moscow, Alexey Prosekin, pp. 24-28, ill.
 
 ## 1999
 
 + HARPER’S BAZAAR, (Russian edition) November 1999, Moscow, Feodor Romer, pp. 132-135, 157, ill.
-+ VOGUE Russian, #10, October 1999, Moscow, Milena Orlova, pp.
+
++ VOGUE Russian, # 10, October 1999, Moscow, Milena Orlova, pp.
+
 + ROTHMANS ADRENALIN, No. 6, January 1999, Moscow, Danila Afrin and Constantin Rudensky, pp. 69-75, ill.
 
 ## 1998
 
 + PUSHKIN Magazine, No. 4, 1998, Moscow, pp. 56-59, ill.
+
 + ITOGI Weekly, May 1998, Fedor Romer, p. 76, ill.
+
 + VM (Vechernyaya Moskva), No. 14, May 25 - June 7, 1998, Andrey Kovalyov, p. 56, ill.
+
 + MATADOR Magazine, 4-5/98, Moscow, pp. 5, 68, 110-111, ill.
-+ OM Magazine,Moscow, No. 28, September 1998, p. 38, ill.
+
++ OM Magazine, Moscow, No. 28, September 1998, p. 38, ill.
+
 + PTUCH Magazine, Moscow, No. 3, 1998, p. 144, ill.
+
 + PTUCH Magazine, Moscow, September 1998, p. 39, ill.
 
 ## 1997
@@ -473,70 +614,104 @@ pp.58, 162, 314, 320, ill.
 ## 1996
 
 + Marina Koldobskaya, VES MIR, No. 3(7) 1996, St. Petersburg, p. 12-13, ill.
+
 + Nikita Alexeev, ITOGI Weekly, June 4, !996, p. 75, ill.
+
 + Alexander Petrotchenkov, DOMASHNY COMPUTER, 5/96, Moscow, p. 32-33, ill.
+
 + MATADOR Magazine, 6/96, Moscow, pp. 6, 32, ill.
-
-
 
 ## Newspapers
 
 ## 2009
 
 + TELERAMA, 14-20 March 2009, "Plus que parfait", by Luc Le Chatelier, cover + 2 pages (no page numbers)
+
 + LE MONDE, 13 March 2009, "Lille pursuit son enterprise culturelle et urbaine", Geoffroy Deffrennes, (no page number)
 
 ## 2008
 
-+ BIELER TAGBLATT, "Im Widerstreit von Geld und Wert", 17 September 2008, p.22
-+ LISTENER, 12 April 2008, "The ends of the world: two video installations contemplate disaster", p.39
++ BIELER TAGBLATT, "Im Widerstreit von Geld und Wert", 17 September 2008, p. 22
+
++ LISTENER, 12 April 2008, "The ends of the world: two video installations contemplate disaster", p. 39
+
 + MANAWATU STANDARD, 28 March 2008, "The Russians and us", Fran Dibble, p. 12
+
 + DAILY NEWS, 15 March 2008, "Seductive massacre", by Bruce E. Phillips, p. 11
+
 + NATIONAL BUSINESS REVIEW, 7 March 2008, “The world passing above your eyes”, by John Daly-Peoples, p. 47
+
 + NEW ZEALAND HERALD, 28 February 2008, “A capital menu of culture”, by Josie McNaught, p. 4
 
 ## 2005
 
-+ BABELIA, EL PAÍS, 30/09/2006, “La Banalidad del Mal”, Jiménez, C., p. 18.
++ BABELIA, EL PAÍS, 30/09/2006, “La Banalidad del Mal”, Jiménez, C., p. 18
+
 + THE NEW YORK TIMES, 12-30-2005, Arts, Reviews, ‘Russia 2. Bad New From Russia’ by Ken Johnson
+
 + THE NEW YORK TIMES, 11-26-2005, Arts, “Moscow Show Pits Art Against Church and State” by Steven Lee Myers
+
 + THE TIMES, November 5-11 2005, London, UK, “The First Shots in a Modern Revolution” by Mark  Irving, pp. 31-32, ill.
+
 + PULS UK, No. 6, November 10, 2005, London, UK, “Poluses of Russian Art” by Ludmila Lipskaya, p. 13, ill.
 
 ## 2004
 
 + WIENER ZEITUNG, November 2 2004, Vienna, Austria, ‘Das Wettexmag die Wüste nicht’ by Claudia Aigner, p.15, ill.
-+ IL MANIFESTO, August 27 2004, Rome, Italy, ‘Scatti di realismo magico’ by Matilde Hochkofler.
+
++ IL MANIFESTO, August 27 2004, Rome, Italy, ‘Scatti di realismo magico’ by Matilde Hochkofler
+
 + MOSKOVSKY KOMSOMOLETS, May 5 2004, by , ill.
-+ VREMYA NOVOSTEY, April 20 2004, Moscow, by (??), ill.
+
++ VREMYA NOVOSTEY, April 20 2004, Moscow
+
 + L’HUMANITÉ, May 4 2004, Paris, France, “Entre joujou à la mode et oeuvre visionnaire” by Magali Jauffret, ill.
+
 + TAGESSPIEGEL, May 18 2004, Berlin, Germany, “Zuckerguss und Massenmord // Osteuropäische Kunst nach dem Kommunismus: eine Berliner Ausstellung zeigt "Privatisierungen" by, pp. 22, ill.
+
 + NEUE ZÜRICHER ZEITUNG, 2004,
 
 ## 2003
 
 + THE SUNDAY TIMES, November 30 2003, “Behind the Veil”, by Waldemar Januszczak, ill.
+
 + IZVESTIYA, 18 November 2003, Moscow, Rossia, “We should look carefully” by Olga Kabanova, p. 14,  ill.
-+ KOMMERSANT, No 210, November 18 2003, Moscow, Rossia, “How taxi-drivers pick up women passengers”, by Irina Kulik, pp. 21.
+
++ KOMMERSANT, No 210, November 18 2003, Moscow, Rossia, “How taxi-drivers pick up women passengers”, by Irina Kulik, pp. 21
+
 + NEZAVISIMAYA GAZETA, No 210, November 18 2003, Moscow, Rossia, “Fashion for War”, by Michail Sidlin, ill.
+
 + RHEINISCHE POST (DÜSSELDORF), July 3 2003, Düsseldorf, Germany, ill.
+
 + ZÜDDEUTSCHE ZEITUNG, June 20 2003, Dusseldorf, Germany, “Die Armee der Wegwerfmenschen”, by Alex Rühle, ill.
+
 + PRINZ-KÖLN, Ë˛Î¸ 2003, Cologne, Germany, “Kunst zu Zeiten Putins”, ill.
+
 + KÖLNISCHE RUNDSCHAU, July 27 2003, Cologne, Germany, “Heuhaufen und sprechende Jacken” by Ulrich Traub, ill.
+
 + FRANKFURTER ALLGEMEINE SONNTAGSZEITUNG, No. 22, June 1 2003, FrankfurtÚ-am-Main, Germany, “Im Abendrot der Utopien”, by Georg Imdahl, ill.
+
 + IZVESTIYA, May 31 2003, Moscow, Rossia, “Bereza s Avtomatom” by Nikolay Molok, ill.
-+ VREMYA NOVOSTEY, February 7, 2003, by Olga Romantseva.
+
++ VREMYA NOVOSTEY, February 7, 2003, by Olga Romantseva
+
 + VEDOMOSTI, February 14, 2003, by Oleg Zintsov, ill.
-+ ROSSIA, February 11, 2003, Moscow, by Olga Galakhova.
+
++ ROSSIA, February 11, 2003, Moscow, by Olga Galakhova
+
 + NEZAVISIMAYA GAZETA, February 12, 2003, Moscow, by Grigory Zaslavsky, ill.
+
 + KOMMERSANT-DAYLY, No. 23, February 11, 2003, Moscow, by Roman Dolzhansky, p.22 , ill.
+
 + IZVESTIYA, No. 23 (26340)-Moscow, Febryary 10 2003, by Marina Davydova, p.8, ill.
 
 ## 2001
 
 + DER SPIGEL, Nov 2001, Berlin, Germany
-+ LE MONDE, Nov 2001, Paris, France.
-+ LIBERATION, May 4-10 2001, Paris, France, "Islamic Project, Allah Morphosé", p. T15.
+
++ LE MONDE, Nov 2001, Paris, France
+
++ LIBERATION, May 4-10 2001, Paris, France, "Islamic Project, Allah Morphosé", p. T15
 
 ## 2000
 
@@ -545,36 +720,54 @@ pp.58, 162, 314, 320, ill.
 ## 1998
 
 + THE NEW YORK TIMES, Sunday, February 1, 1998, New York, "Eastern Europeans Envision the Future", William Zimmer, ill.
+
 + FORWARD, NYC, February 20, 1998, New York, "Russian-Jewish Art Angers Rutgers Muslims", Blake Eskin, pp. 1, 8, ill.
+
 + THE DAILY TARGUM, New Brunswick (NJ), February 19, 1998, "Three cents worth", Kelly Keegan, pp. 7, 14, ill.
+
 + HOME NEWS TRIBUNE, NJ, January 29, 1998, "Icons of Fear", by Frederick Kaimann, pp. F1, F5, ill.
 + THE STAR LEDGER, NJ, Friday, February 13, 1998, "Slow thaw for artists from the Cold War era", Dan Blachoff, ill.
+
 + KULTUR WEEKENDAAVISEN, February 27 — March 5, 1998, Copenhagen, Denmark, "Russisk Boheme", Mette Sandbye, pp. 1-2, ill.
+
 + DANAS, Tuesday, August 25, 1998, Belgrade, Yugoslavia, ill.
+
 + DEMOKRATIJA, Wednesday, August 26, 1998, Belgrade, Yugoslavia, ill.
 
 ## 1997
 
 + DER STANDARD, September 29, 1997, Vienna, Rainer Metzger, p. 9, ill.
+
 + ZICIE, 12/11 1997, Warsaw, Poland, Barbbara Majewska p. 10, ill.
+
 + GAZETA WYBORCZA, No. 1(113), 2/12 1997, Warsaw, Poland, Monika Kuc, ill.
+
 + RZECZPOSPOLITA, No. 285 (4842), 8/11 1997, Warsaw, Poland, Jan Boncza-Szablowski, ill.
 
 ## 1996
 
 + SEGODNYA, January 20, 1996, Moscow, Sergey Epikhin, Andrey Kovalyov, p. 10, ill.
+
 + SEGODNYA, No. 67, April 1996, Moscow, "Photorobot II", Andrey Kovalyov, Vladimir Levashov, p. 10, ill.
+
 + DIE TAGES ZEITUNG, May 27, 1996, Berlin, "Und wieder Bad Beuys über Russland", Brigitte Werneburg, p. , ill.
+
 + SEGODNYA, No. 87, May 22, 1996, Moscow, Vladimir Salnikov, p. 10, ill.
+
 + SEGODNYA, No. 91, May 28, 1996, Moscow, Vladimir Salnikov, p. 10, ill.
+
 + WOCHENPOST, No. 45, October 31, 1996, Berlin, p. 4, ill.
+
 + EUROPA ZENTRUM (EZ), October 18, 1996, Berlin, Yury Zarubin & Vitaly Moev, p. 8, ill.
+
 + EL DUSTOUR, 11/12 1996, Cairo, Egypt, p. 9, ill.
 
 ## 1995
 
 + KOMMERSANT-DAYLY, No. 105, June 8, 1995, Michail Bode, p. , ill.
+
 + IZYESTIYA/NEDELYA Weekly, July 9, 1995, Moscow, "Body Space", Dmitry Silin, p. 41, ill.
+
 + DER TAGESSPIEGEL, October 16, 1995, Berlin, Ronald Berg, p. 22, ill.
 
 ## 1993
@@ -584,22 +777,31 @@ pp.58, 162, 314, 320, ill.
 ## 1992
 
 + KIELER NACHRICHTEN, No. 131, June 6, 1992, Kiel, Maren Kruse, p. , ill.
+
 + KIELER NACHRICHTEN, November 23, 1992, Josef Pomm, p. , ill.
 
 ## 1991
 
 + RUSSKAYA MYSL, No. 3869, March 8, 1991, Jury Molok, p. 15, ill.
+
 + SVENSKA DAGBLADET, May 17, 1991, Stockholm, Niklas Kierkegard, p. 31, ill.
+
 + KIELER NACHRICHTEN, No. 232, October 5, 1991, Kiel, Maren Kruse, p. 15, ill.
+
 + HAMBURGER MORGENPOST, October 5, 1991, Hamburg, p. 17, ill.
+
 + FRANKFURTER ALGEMEINE ZEITUNG, October 22, 1991, Frankfurt, Susanne Weingarten, p., ill.
-+ DER TAGESSPIEGEL, December 12, 1991, Berlin, Nikola Kuhn, p. 23.
+
++ DER TAGESSPIEGEL, December 12, 1991, Berlin, Nikola Kuhn, p. 23
+
 + DAGBLADET, December 31, 1991, Oslo, Harald Flor, p. 36, ill.
+
 + KIELER NACHRICHTEN, No. 286, December, 1991, Kiel, Maren Kruse, p. 3, ill.
 
 ## 1990
 
 + THE TIMES, No. 63,867, November 19, 1990, London, "Red is another colour" Josef Williams, p. 23, ill.
+
 + CAMBRIDGE EVENING NEWS, November 15, 1990, Cambridge, England, "Free art paints new picture of Russia" Pauline Hunt, p. 26-27, ill.
 
 ## Projects
@@ -607,6 +809,7 @@ pp.58, 162, 314, 320, ill.
 ## 2016
 
 + "Psychosis", by a screenplay of Sarah Kane, a theater performance at Electrotheater Stanislavsky, a common project of Alexander Zeldovich (director) & AES+F (set design)
+
 + "Inverso Mundus", series of digital collages, AES+F
 
 ## 2015
@@ -620,13 +823,17 @@ pp.58, 162, 314, 320, ill.
 ## 2013
 
 + "Inverso Mundus", HD multichannel video, series of digital collages, AES+F (work in progress)
+
 + "Angels-Demons", jewelry collection (a commission by Saha Diamonds Company), AES+F
+
 + "Allegoria Sacra", series of digital collages, AES+F (work in progress)
 
 ## 2012
 
 + "Angels-Demons", jewelry collection (a commission by Saha Diamonds Company), AES+F
+
 + "Angels-Demons", a series of sculptures (interior version), AES+F
+
 + "Allegoria Sacra". series of digital collages, AES+F (work in progress)
 
 # 2011
@@ -640,33 +847,45 @@ pp.58, 162, 314, 320, ill.
 # 2009
 
 + "Angels-Demons", Series of sculptures (fiberglass), AES+F
+
 + "The Feast of Trimalchio".HD video 9-, 3- and 1-channel versions, AES+F
+
 + "The Feast of Trimalchio".Series of digital collages, AES+F (work in progress)
 
 # 2008
 
 + "Europe, Europe". Series of porcelain sculptures, AES+F
+
 + "The Feast of Trimalchio".Series of digital collages, video and sculptures, AES+F (work in progress)
 
 # 2007
 
 + "The First Rider", a plastic sculpture, AES+F
+
 + "Last Riot", HD video, 1-channel & 3-channel versions, AES+F
+
 + "Last Riot. Sculptures", an aluminum sculpture group, AES+F (work in progress)
+
 + "Défilé", a series of digital collages (light boxes) and multimedia, AES+F
 
 # 2006
 
 + "Last Riot. Sculptures", an aluminum sculpture group, AES+F (work in progress)
+
 + "Last Riot", HD video, AES+F
+
 + "Last Riot 2", a series of digital collages, AES+F
+
 + "AHL Sculptures", a bronze sculpture group, AES+F
 
 # 2005
 
 + "Last Riot 2", a series of digital collages, AES+F (work in progress)
+
 + "Last Riot", a series of digital collages, AES+F
+
 + "Action Half Life. Episodes 1", a series of digital collages and drawings on paper, AES+F
+
 + "AHL Sculptures", a bronze sculpture group, AES+F (work in progress)
 
 # 2004
@@ -676,8 +895,11 @@ pp.58, 162, 314, 320, ill.
 # 2003
 
 + "Space Bedouin"
+
 + "KFNY (The King of the Forest, NY)", the 3rd project from the cycle "The King of the Forest", a series of photographs and video, AES+F
+
 + "Action Half Life. Episodes 3 and 2", a series of digital collages and drawings on paper, AES+F
+
 + "Othello by Shakespeare", a theater project, Meyerhold Theater Center, Alexander Zeldovich and AES
 
 # 2002
@@ -687,12 +909,15 @@ pp.58, 162, 314, 320, ill.
 # 2001
 
 + "Le Roi des Aulnes", 1st project from Cycle + "King of the Forest", a series of photographs and video, AES+F
+
 + "Manufacture", photo installation, AES+F
+
 + "Défilé", a series of digital collages (proofs) and multimedia, AES+F (work in progress)
 
 ## 2000
 
 + "Othello. Asphyxiophilia", video and a series of photographs, AES+F (work in progress)
+
 + "OASIS", from the "Islamic Project", a series of handmade carpets, installation, AES
 
 ## 1999-2000
@@ -702,6 +927,7 @@ pp.58, 162, 314, 320, ill.
 ## 1998
 
 + "Who Wants to Live Forever...", a series photographs and video, AES+F
+
 + "The Yellow is Cooking, the White is Eating", video installation, AES
 
 ## 1997-1998
@@ -711,17 +937,21 @@ pp.58, 162, 314, 320, ill.
 ## 1997
 
 + "Suspects. The Seven Inner and the Seven Righteous", a series of photographs, installation, AES+F
+
 + "Eisenstein Palace" Media Center, Moscow, an architectural project, AES
 
 ## 1996
 
 + "AES – Witnesses of the Future. Islamic Project", a series of digital collages, objects, installation & action, AES
+
 + "Corruption. Apotheoses", a series of photographs, installation, AES+F
 
 ## 1995
 
 + "The Prince and The Beggar", a series of photographs, installation, AES, photographer Vladimir Fridkes
+
 + "The Trauma of the Spine", photograph, installation, AES with Brian Conery, photographer Vladimir Fridkes
+
 + "Family Portrait in the Interior", a series of photographs, installation, AES, photographer Vladimir Fridkes
 
 ## 1994-1995
@@ -755,6 +985,7 @@ pp.58, 162, 314, 320, ill.
 ## 1988
 
 + "Russian Landscape of 19th Century", a series of collages, a series of carpets, installation and a book project, AES
+
 + "New Crony - Double Rainbow", painting and book project, AES
 
 ## 1987
@@ -766,23 +997,32 @@ pp.58, 162, 314, 320, ill.
 ## 2017
 
 + "AES+F GROUP: FROM THE LAST RIOT PROJECT", Multimedia Art Museum Moscow, Russia
+
 + "THE FEAST OF TRIMALCHIO", Sunset Boulevard Public Art Program (digital billboards), West Hollywood, California
 
 ## 2016
 
 + "AES+F: INVERSO MUNDUS", Claudine and Jean Marc Salomon Foundation for Contemporary Arts, Manege du Haras d'annecy, Annecy, France
+
 + "AES+F. INVERSO MUNDUS", Mobius Gallery, Bucharest, Romania
+
 + "AES+F. INVERSO MUNDUS", Senda Galeria, Barcelona, Spain
 
 
 ## 2015
 
-+ "AES+F: INVERSO MUNDUS, WOMEN'S LABOR", Special Project of 6th Moscow Biennale of Contemporary Art, Triumph Gallery, Moscow, Russia.
-+ "AES+F: TRILOGY PLUS", Aeroplastics Contemporary, Brussels Belgium.
-+ "AES+F: INVERSO MUNDUS", Special Project of 6th Moscow Biennale of Contemporary Art, Multimedia Art Museum Moscow, Russia.
-+ "AES+F: THE FEAST OF TRIMALCHIO", special screening at Kunsthall Svalbard, North Norway Art Museum, Longyearbyen, Norway.
-+ "001 INVERSO MUNDUS. AES+F", curator Ewald Stastny, Collateral event of 56th Biennale di Venezia, Magazzini del Sale, Magazzino 5, Venice, Italy.
-+ "THE LIMINAL SPACE TRILOGY. Parts 2 & 3", Platform Russia, MAMM, Art Stage Singapore, Singapore.
++ "AES+F: INVERSO MUNDUS, WOMEN'S LABOR", Special Project of 6th Moscow Biennale of Contemporary Art, Triumph Gallery, Moscow, Russia
+
++ "AES+F: TRILOGY PLUS", Aeroplastics Contemporary, Brussels Belgium
+
++ "AES+F: INVERSO MUNDUS", Special Project of 6th Moscow Biennale of Contemporary Art, Multimedia Art Museum Moscow, Russia
+
++ "AES+F: THE FEAST OF TRIMALCHIO", special screening at Kunsthall Svalbard, North Norway Art Museum, Longyearbyen, Norway
+
++ "001 INVERSO MUNDUS. AES+F", curator Ewald Stastny, Collateral event of 56th Biennale di Venezia, Magazzini del Sale, Magazzino 5, Venice, Italy
+
++ "THE LIMINAL SPACE TRILOGY. Parts 2 & 3", Platform Russia, MAMM, Art Stage Singapore, Singapore
+
 + "ALLEGORIA SACRA", public screening in Port Adelaide, Adelaide, Australia
 
 
@@ -796,79 +1036,125 @@ pp.58, 162, 314, 320, ill.
 ## 2013
 
 + "AES+F: THE FEAST OF TRIMALCHIO", in frames of Art Media Festival, Krasnoyarsk, Russia
+
 + "AES+F: ALLEGORIA SACRA", Art Statements Gallery Hong Kong, Hong Kong
+
 + "AES+F" a special part on "HAPPY END?" exhibition project, Tennis Palace Museum, Helsinki, Finland
+
 + "THE LIMINAL SPACE TRILOGY", Featuring artists of Fresh Paint Art Fair (special project, screening), Tel Aviv, Israel
+
 + "THE LIMINAL SPACE TRILOGY", project room on Fresh Paint Art Fair, Tel Aviv, Israel
+
 + "AES+F. ALLEGORIA SACRA", "Pride" Wellness Club, Moscow Region, Russia
+
 + "AES+F. THE LIMINAL SPACE TRILOGY", Faena Arts Center, Buenos Aires, Argentina
+
 + "AES+F. TRILOGY. FINAL CUT", Triumph Gallery, Moscow, Russia
+
 + "ALLEGORIA SACRA. AES+F", The Glasshouse Regional Gallery, Port Macquarie, NSW, Australia
+
 + "AES+F. ANGELS-DEMONS", Anna Schwartz Gallery, Sydney, Australia
-
-
 
 ## 2012
 
 + "AES+F. THE TRILOGY", Artwin Gallery - Kicik QalArt, Baku, Azerbaijan
+
 + "AES+F. THE TRILOGY", Martin-Gropius-Bau, Berlin, Germany
+
 + "AES+F. THE TRILOGY", Central Exhibition Hall "Manege", Moscow, Russia
+
 + "AES+F. THE FEAST OF TRIMALCHIO", Bathurst Regional Art Gallery, Bathurst NSW, Australia
+
 + "AES+F. ALLEGORIA SACRA", Sergey Kuryokhin Modern Art Center, St-Petersburg, Russia
+
 + "AES+F – GUEST OF HONOR" Seoul Photo Art Fair, Seoul. South Korea
+
 + "AES+F. THE FEAST OF TRIMALCHIO". Vanhaerents Art Collection, Brussels, Belgium
+
 + "AES+F. ALLEGORIA SACRA", Art Gallery of South Australia, Adelaide, Australia
 
 ## 2011
 
 + "AES+F. ALLEGORIA SACRA", Triumph Gallery, Moscow
+
 + "ANGELS-DEMONS. PARADE." Melbourne Festival 2011, Swanston Street and St Kilda Road, Melbourne, Australia
+
 + "AES+F. ALLEGORIA SACRA. PICTURES". "Art Moscow 2011" Art Fair, Central House of Artist, Triumph Gallery, Moscow, Russia
+
 + "AES+F. ALLEGORIA SACRA", a special project of 4th Moscow Biennale of Contemporary Art, Multimedia Art Museum, Moscow, Russia
+
 + "THE FEAST OF TRIMALCHIO BY AES+F". Art District Gallery, Le Royal Monceau Hotel, Paris, France
+
 + "AES+F. THE FEAST OF TRIMALCHIO". Perm Museum of Contemporary Art (PERMM), Perm, Russia
+
 + "AES+F. THE FEAST OF TRIMALCHIO". Art Statements Gallery, Tokyo, Japan
 
 ## 2010
 
 + "AES+F. THE FEAST OF TRIMALCHIO". Novy (New) Museum, S-Petersburg, Russia
+
 + "AES+F: THE FEAST OF TRIMALCHIO". Art Gallery of South Australia, Adelaide, Australia
+
 + "AES+F. THE FEAST OF TRIMALCHIO". Melbourne International Arts Festival, Anna Schwartz Gallery, Melbourne, Australia
+
 + "AES+F: THE REVOLUTION STARTS NOW". University of Queensland Art Museum, Brisbane, Australia
+
 + "AES+F. THE FEAST OF TRIMALCHIO". "Garage" Center for Contemporary Culture, Moscow, Russia
+
 + "THE FEAST OF TRIMALCHIO". 17th Sydney Biennale, Cockatoo Island, Sydney, Australia
 
 ## 2009
 
 + "DÉFILÉ", Knoll Gallery Vienna, Austria
+
 + "AES+F", Danube Festival, Stadtsaal, Krems, Austria
+
 + "ANGELS-DEMONS. PARADE", Rambla (rue Faidherbe), lille3000 "Europe XXL", Lille, France
+
 + "AESTHETICS OF VIOLENCE. AES+F Group: video", Haifa Museum of Art, Haifa, Israel
 
 ## 2008
 
 + "MIXED UP CHILDHOOD", City Gallery Imst, Austria
+
 + "AES+F. LAST RIOT", Ruzicska Gallery, Max Gandolf Library, Salzburg, Austria
+
 + "AES+F", RS & A Gallery, London, UK
-+ "AES+F", Marco Noire Contemporary Art, Turin, Italy.
+
++ "AES+F", Marco Noire Contemporary Art, Turin, Italy
+
 + "AES+F", Arario Beijing Gallery (#1), Beijing, PR China
+
 + "LAST RIOT", Gallery 3, Kulturhuset (The Cultural Center of Stockholm), Sweden
+
 + "AES+F: LAST RIOT", University of Queensland Art Museum, Brisbane, Australia
+
 + "LAST RIOT, AES+F", Adelaide Art Festival 2008, Jam Factory Contemporary Craft and Design, Adelaide, Australia
+
 + "LAST RIOT: AES+F", New Zealand International Arts Festival 08, City Gallery Wellington, Wellington, New Zealand
+
 + "AES+F. IL PARADISO VERDE...". MACRO Future (Ex-Mattatoi), Rome, Italy
+
 + "AES TRAVEL AGENCY TO THE FUTURE", "Re-Education: You too can be like us", Thematical Weekend at Hebbel Am Ufer, Berlin, Germany
 
 ## 2007
 
 + "AES. AES+F", Moscow Museum of Modern Art, Moscow, Russia
+
 + "AES+F", Station Museum of Contemporary Art, Houston (TX), USA
+
 + "LAST RIOT", Project Room, Marco Noire Contemporary Art, FIAC – Grand Palais, Paris, France
+
 + "AES+F. LAST RIOT 2", Claire Oliver Gallery, New York, USA
+
 + "LAST RIOT", Marco Noire Contemporary Art, Turin, Italy
+
 + "AES+F. LE VERT PARADIS...", Passage De Retz, Paris, France
+
 + "AES. AES+F. SELECTED WORKS", Triumph Gallery, Moscow
+
 + "AES+F. LAST RIOT 2", The Sotheby's Institute of Art, London, UK
+
 + "AES. AES+F", The State Russian Museum (Marble Palace), St.-Petersburg, Russia
 
 ## 2006
