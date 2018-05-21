@@ -9,7 +9,7 @@ published: true
 
 (Est. 2006, Kiev) is the largest and most dynamic private contemporary art centre in Central and Eastern Europe with free admission. As a project of the Victor Pinchuk Foundation, it is dedicated to fostering artistic education, creation and appreciation in Ukraine <span id="a1">[\[1\]](#f1)</span>.
 
-![](/encyclopedia/images/ILS_5036.jpg)
+![](/images/ILS_5036.jpg)
 
 **Dineo Seshee Bopape, artist, Victor Pinchuk, businessman and philanthropist at vernissage of the shortlisted artists for the PinchukArtCentre Prize 2018**
 
