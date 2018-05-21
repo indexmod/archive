@@ -3,7 +3,6 @@ title: AES+F
 permalink: aes+f
 layout: default
 published: true
-shortname: AESF
 ---
 
 (Rus. АЕС+Ф, est. 1987, Moscow) is one of the most commercially successful Russian art group formedi by Tatiana Arzamasova, Lev Evzovich and Evgeny Svyatsky, and than expanded with the addition of the photographer Vladimir Fridkes in 1995 <span id="a1">[\[1\]](#f1)</span>.
@@ -14,7 +13,7 @@ shortname: AESF
 
 *Photo: [Egor Zaika](index) / [Wallpaper](index)*
 
-# Short Biography
+## Short Biography
 
 AES+F achieved worldwide recognition and acclaim in the Russian Pavilion at the 52-nd Biennale di Venezia in 2007 with their provocative, other-worldly Last Riot (2007), the first in a trio of large-scale, multichannel video installations of striking originality that have come to define both the AES+F aesthetic and the cutting edge of the medium’s capacities. The second of the series, The Feast of Trimalchio (2009), appeared in Venice in 2009, and the third, Allegoria Sacra (2011), debuted at the 4th Moscow Biennale in 2011. United as The Liminal Space Trilogy, this tour-de-force series was premiered in September 2012 at the Martin-Gropius-Bau, Berlin, and the Moscow Manege, the central exhibition hall of the artists’ home city. The Trilogy was shown in the Museum of Fine Arts in La Chaux-De-Fonds, Switzerland (June–September 2014). Most recently all three videos were shown at Albright-Knox Art Gallery, Buffalo, NY (June-September 2015). In 2015 AES+F presented the new project Inverso Mundus at 56th Biennale di Venezia. AES+F received Sergey Kuryokhin Award 2011, the main award of the Kandinsky Prize 2012, the main award of the NordArt Festival 2014, and Pino Pascali Prize 2015 (18th Edition) – all for the project Allegoria Sacra. AES+F were awarded Bronze Medal (2005) and Golden Medal (2013) of Russian National Academy of Fine Arts.
 
@@ -2194,97 +2193,54 @@ Kunsthalle "Faust", Hannover, Germany.
 
 # 1995
 
-+ Grant for Catalogue "Body Space", Soros Center for contemporary art.
++ Grant for Catalogue "Body Space", Soros Center for contemporary art
 
-# Public collections:
+## Public collections:
 
-+ Alltech, Corporate collection, Moscow.
-
++ Alltech, Corporate collection, Moscow
 + The Carmignac Foundation, Paris, France
-
-+ Centre d’Art Contemporain Georges Pompidou, Paris, France.
-
-+ City of Lille, France.
-
++ Centre d’Art Contemporain Georges Pompidou, Paris, France
++ City of Lille, France
 + Chronolux Corporate collection, Moscow, Russia.
-
-+ Centro de Arte Dos de Mayo, Collection of Comunidad de Madrid, Spain.
-
-+ Robert & Renee Drake Collection, Wassenaar, The Netherlands.
-
-+ Estrel Hotel, Berlin, Germany.
-
-+ FNAC, Paris, France.
-
-+ FRAC – Franche-Comté, France.
-
-+ JGS Forward Thinking Museum, New York, USA.
-
++ Centro de Arte Dos de Mayo, Collection of Comunidad de Madrid, Spain
++ Robert & Renee Drake Collection, Wassenaar, The Netherlands
++ Estrel Hotel, Berlin, Germany
++ FNAC, Paris, France
++ FRAC – Franche-Comté, France
++ JGS Forward Thinking Museum, New York, USA
 + Kolon Industries Inc., Kwachon, South Korea
-
-+ Les Abattoirs, Toulouse, France.
-
-+ Locarno Video Bank, Switzerland.
-
-+ Louis Vuitton Foundation for Creation, Paris, France.
-
-+ Maison Européenne de la Photographie, Paris, France.
-
++ Les Abattoirs, Toulouse, France
++ Locarno Video Bank, Switzerland
++ Louis Vuitton Foundation for Creation, Paris, France
++ Maison Européenne de la Photographie, Paris, France
 + Meeschaert Collection, Paris, France
-
-+ Moderna Museet, Stockholm, Sweden.
-
-+ Multimedia Art Museum Moscow (MAMM), Russia.
-
-+ Moscow Museum of Modern Art, Moscow, Russia.
-
++ Moderna Museet, Stockholm, Sweden
++ Multimedia Art Museum Moscow (MAMM), Russia
++ Moscow Museum of Modern Art, Moscow, Russia
 + Museum of Old and New Art (MONA), Moonah, Tasmania, Australia
-
-+ The Museum of Fine Arts, Houston, TX, USA.
-
-+ Musèe de l’Elysèe, Losanne, Switzerland.
-
-+ M. Guelman Foundation for Contemporary Art, Moscow, Russia.
-
++ The Museum of Fine Arts, Houston, TX, USA
++ Musèe de l’Elysèe, Losanne, Switzerland
++ M. Guelman Foundation for Contemporary Art, Moscow, Russia
 + National Center for Contemporary Art Ujazdowski Castle, Warsaw, Poland
-
 + National Center for Contemporary Art, Moscow Branch, Moscow
-
-+ Neue Galerie Graz, Austria.
-
++ Neue Galerie Graz, Austria
 + Nomas Foundation, Rome, Italy
-
 + Northern Norway Art Museum, Tromsø, Norway
-
 + Novy Museum, St. Petersburg, Russia
-
 + Sammlung Alison & Peter W. Klein, Eberdingen-Nussdorf, Germany
-
 + Sammlung Goetz, Munich, Germany
-
 + Stadt Galerie Esslingen-am-Neckar, Germany
-
 + Taguchi Art Collection, Japan
-
 + The Museum of Contemporary Art in Krakow, Poland
-
 + The State Russian Museum, St.-Petersburg, Russia
-
 + The State Tretyakov Gallery, The National Collection of contemporary art, Moscow, Russia
-
 + Vanhaerents Art Collection, Brussels, Belgium
-
 + Vanmoerkerke Collection, Oostende, Belgium
-
 + Videoinsight® Collection, Bologna, Italy
-
 + Wien Museum, Vienna
-
 + ZKM, Karlsruhe, Germany
 
-
-
-# Experience of teaching
+## Experience of teaching
 
 + Lectures organized by ACC + Bauhaus, Weimar, 2002
 + Moscow Institute of Contemporary Art, School of Contemporary Art, Master classes 2000-2002
@@ -2292,7 +2248,7 @@ Kunsthalle "Faust", Hannover, Germany.
 + Lectures in Rutgers University, Mason Gross School of Arts, 1998
 + Lectures in Columbia University, Harvard University, 1989
 
-# {{page.title}} Indexmod
+## {{page.title}} Indexmod
 
 ||2018|2019|
 |-|-|-|
@@ -2300,14 +2256,11 @@ Kunsthalle "Faust", Hannover, Germany.
 |Instagram <span id="a4">[\[4\]](#f4)</span>|17000000|000|
 |YouTube <span id="a5">[\[5\]](#f5)</span>|||
 |Age|30|31|
-|Page Value (words)|500||
-|Indexmod|0,0000||
+|Indexmod|{{ page.content | number_of_words }}||
+|Indexmod|Total||
 
-# Footnotes
+## Footnotes
 
 [[3]](#a3) <span id="f3"></span> [{{page.title}} (Facebook)](https://www.facebook.com/AESplusF/)
 
 [[4]](#a4) <span id="f4"></span> [{{page.title}} (Instagram)](https://www.instagram.com/aesplusf/)
-
-
-`Update Mar. 2018 (Andrei Dei)`
