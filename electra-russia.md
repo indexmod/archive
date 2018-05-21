@@ -11,9 +11,9 @@ indexmod: '2,12'
 
 ![](http://retaildesignblog.net/wp-content/uploads/2014/08/Electra-BikeHub-by-Andrey-Ukolov-Ekaterina-Osipova-Saint-Petersburg-Russia-04.jpg)
 
-**Electra BikeHub by Andrey Ukolov & Ekaterina Osipova, Saint Petersburg – Russia**
+**Electra BikeHub by Andrey Ukolov & Ekaterina Osipova, Saint Petersburg — Russia**
 
-*Photo: [Nikita Kopeikin, Sergey Kuznetsov](http://retaildesignblog.net/2014/08/24/electra-bikehub-by-andrey-ukolov-ekaterina-osipova-saint-petersburg-russia/) / [Retaildesignblog.net/](http://retaildesignblog.net/2014/08/24/electra-bikehub-by-andrey-ukolov-ekaterina-osipova-saint-petersburg-russia/)*
+*Photo: [Nikita Kopeikin and Sergey Kuznetsov](http://retaildesignblog.net/2014/08/24/electra-bikehub-by-andrey-ukolov-ekaterina-osipova-saint-petersburg-russia) / [Retaildesignblog.net](http://retaildesignblog.net/2014/08/24/electra-bikehub-by-andrey-ukolov-ekaterina-osipova-saint-petersburg-russia)*
 
 # {{page.title}} celebrities list 
 
