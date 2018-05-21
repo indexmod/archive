@@ -21,7 +21,7 @@ published: true
 
 ![](/images/{{page.permalink}}.jpg)
 
-**Ole Op's “loop” ID  for shirts**
+**A “loop” ID  for Ole Op's shirts**
 
 *Photo: [Dmitri Cherniaev](cherniaev-dmitri) / [Facebook](https://www.facebook.com/oleoplovesyou/photos/p.185922335378923/185922335378923/?type=3&theater)*
 
