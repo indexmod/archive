@@ -1,5 +1,5 @@
 ---
-title: Indexmod encyclopedia
+title: Indexmod blockchainpedia
 permalink: indexmod-encyclopedia
 layout: default
 published: true
