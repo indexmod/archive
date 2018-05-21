@@ -8,7 +8,7 @@ published: true
 
 (Rus. Татьяна Шапигузова, aka Peggy Guggenheim, Satanusha and Suspiria <span id="a1">[\[1\]](#f1)</span> born 1988, USSR) is a Russian model <span id="a2">[\[2\]](#f2)</span>, artist <span id="a3">[\[3\]](#f3)</span>, DJ, co-founder of Moscow Institute of Kosmic Anomaly living and working in Moscow.
 
-![](/encyclopedia/images/eykhbaum-cecilia.jpg)
+![](/images/eykhbaum-cecilia.jpg)
 
 **Cecilia Eykhbaum playing DJ set at the Urban Fauna Laboratory**
 
