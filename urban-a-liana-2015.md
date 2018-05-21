@@ -3,6 +3,7 @@ title: Urban-a-Liana (2015)
 permalink: urban-a-liana-2015
 layout: default
 published: true
+shortname: URLI
 ---
 (2015, Bangkok) is an installation by Andrei Dei set on the rooftop in the Hossein Farmani's <span id="a1">[\[1\]](#f1)</span> "Rooftop Gallery" on Sukhumvit Street in Bangkok in 2015. Wires and pipes of city communications at Urban-a-Liana are presented as living self-organizing forms.
 
