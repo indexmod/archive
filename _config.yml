@@ -1,5 +1,5 @@
 ---
-title: Indexmod encyclopedia
+title: Indexmod blockchainpedia
 timezone: UTC
 collections:
   posts:
@@ -8,7 +8,7 @@ collections:
   uploads:
     title: Uploads
     output: false
-description: Indexmod encyclopedia is a fashion and art blockchainpedia
+description: Indexmod is a fashion and art blockchainpedia
 show_sidebar: false
 show_downloads: false
 show_title: false
