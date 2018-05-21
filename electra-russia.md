@@ -9,11 +9,11 @@ indexmod: '2,12'
 
 (Est. 2010 <span id="a1">[\[1\]](#f1)</span>, Saint Petersburg <span id="a2">[\[2\]](#f2)</span>) is an official representation of the Californian company Electra Bicycle Company (Founded in 1993), which is a division of the American Trek Bicycle Company in Russia and the CIS based on private limited company "VeloKultura SPb. Ltd." (ООО «ВелоКультура СПб.») and operates the brand's stores in Moscow, St. Petersburg, Sochi, Yekaterinburg, Saratov, Krasnodar, Voronezh, Tyumen and Minsk.
 
-![](/encyclopedia/images/20180404_193333.jpg)
+![](http://retaildesignblog.net/wp-content/uploads/2014/08/Electra-BikeHub-by-Andrey-Ukolov-Ekaterina-Osipova-Saint-Petersburg-Russia-04.jpg)
 
-**Veronika Fedorova (Вероника Федорова), а daughter of the chief editor of Vogue Russia hangs next to the DJ Ksenia Dukalis at the first fashion show Electra on the occasion of the 25th anniversary of the brand at DI Telegraph space in Moscow on April 4th, 2018**
+**Electra BikeHub by Andrey Ukolov & Ekaterina Osipova, Saint Petersburg – Russia**
 
-*Photo: [Andrei Dei](deinichenko-andrei) / [Indexmod](index)*
+*Photo: [Nikita Kopeikin, Sergey Kuznetsov](http://retaildesignblog.net/2014/08/24/electra-bikehub-by-andrey-ukolov-ekaterina-osipova-saint-petersburg-russia/) / [Retaildesignblog.net/](http://retaildesignblog.net/2014/08/24/electra-bikehub-by-andrey-ukolov-ekaterina-osipova-saint-petersburg-russia/)*
 
 # {{page.title}} celebrities list 
 
@@ -31,6 +31,12 @@ indexmod: '2,12'
 ||Natalia and Murad Osman|
 ||Dina Silina|
 ||Nadezhda Sysoeva|
+
+![](/images/20180404_193333.jpg)
+
+**Veronika Fedorova (Вероника Федорова) hangs next to the DJ Ksenia Dukalis at the first fashion show Electra on the occasion of the 25th anniversary of the brand at DI Telegraph space in Moscow on April 4th, 2018**
+
+*Photo: [Andrei Dei](deinichenko-andrei) / [Indexmod](index)*
 
 
 # {{page.title}} Indexmod [*](indexmod)
