@@ -26,7 +26,6 @@ shortname: URLI
 + [Eta (fellowship)](eta-fellowship)
 + [Rooftop Gallery](rooftop-gallery)
 
-
 ## Footnotes
 
 [[3]](#a3) <span id="f3"></span> [About (Farmani Gallery BKK)](http://www.farmanigallery.com/about.html)
