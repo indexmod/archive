@@ -9,7 +9,7 @@ published: true
 
 ![](/images/{{page.permalink}}-1.jpg)
 
-**Vladimir Fedorov (Phedot) in 2015 at Solovetsky Islands**
+**Cover of the memorial event The Precious Fetish of “Medical Hermeneutics”. Remembering Vladimir Fyodorov**
 
 *Photo: [Maxim Tuzhikov](tuzhikov-maxim) / [Indexmod Encyclopedia](index)*
 
