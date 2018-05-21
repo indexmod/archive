@@ -17,11 +17,11 @@ tumblr: '0,0'
 published: true
 ---
 
-(Est. {{ page.birth }}, {{ page.city }}) is a Russian brand of casual wear, also self-nameed as a “human softwear” founded by  artist Dnitri Cherniaev (Дмитрий Черняев) <span id="a1">[\[1\]](#f1)</span>.
+(Est. {{ page.birth }}, {{ page.city }}) is a Russian brand of casual wear, also self-named as a “human softwear” founded by  artist Dnitri Cherniaev (Дмитрий Черняев) <span id="a1">[\[1\]](#f1)</span>.
 
 ![](/images/{{page.permalink}}.jpg)
 
-**A “loop” ID  for Ole Op's shirts**
+**Ole Op's “loop” ID  for shirts**
 
 *Photo: [Dmitri Cherniaev](cherniaev-dmitri) / [Facebook](https://www.facebook.com/oleoplovesyou/photos/p.185922335378923/185922335378923/?type=3&theater)*
 
@@ -29,7 +29,7 @@ published: true
 
 |Year|City|Milestone|
 |-|-|-|
-|2018|Moscow|Establishing|
+|2017|Moscow|Establishing|
 
 ## {{page.title}} Indexmod [*](indexmod)
 
