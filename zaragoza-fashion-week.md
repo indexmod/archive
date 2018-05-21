@@ -7,7 +7,7 @@ shortname: ZAFW
 ---
 (Spa. Semana de la Moda de Zaragoza, est. 2011 <span id="a1">[\[1\]](#f1)</span>, Zaragoza) is a fashion event in Spain.
 
-![](/encyclopedia/images/zaragoza-fashion-week.jpg)
+![](/images/zaragoza-fashion-week.jpg)
 
 **Identity pack "Semana de la Moda, Zaragoza"**
 
