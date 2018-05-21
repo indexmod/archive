@@ -10,9 +10,9 @@ See also: Leila Al-Numan with husband, Free-blown glass is made in a single copy
 
 ![](http://english.spbu.ru/images/news/2017-summer/11/20171117_mkf_bez_instituciy_leila_al_numan_min.jpg)
 
-**Image title**
+**Leila Al-Numan**
 
-*Photo: [Name](index) / [Source](index)*
+*Photo: [St. Petersburg State University](st-petersburg-state-university) / [Spbu.ru](http://english.spbu.ru/news/1403-art-university-graduate-a-creator-or-an-artisan)*
 
 ## See also
 
