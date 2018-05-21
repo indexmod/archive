@@ -45,8 +45,9 @@ published: true
 
 ## See also
 
-+ [About {{page.title}}](index)
-+ [{{page.title}} at Wikipedia](index)
++ [Dmitri Cherniaev](cherniaev-dmitri)
++ [Cherniaevy](cherniaevy)
++ [IIIYM](iiiym)
 
 ## Footnotes
 
