@@ -13,13 +13,13 @@ published: true
 
 *Photo: [Tokyo Fashion Express](tokyo-fashion-express) / [NHK World](https://www3.nhk.or.jp/nhkworld/en/tv/tokyofashion/program20180212.html)*
 
-# TV Presenters
+## Presenters
 
 |Year|Hosted|
 |----|-----|
 |2018|Marie|
 
-# {{page.title}} Indexmod [*](indexmod)
+## {{page.title}} Indexmod [*](indexmod)
 
 ||2018||
 |-|-|-|
@@ -27,16 +27,16 @@ published: true
 |Instagram|||
 |YouTube|||
 |Age|?||
-|Words|{{ page.content | number_of_words }}||
-|Indexmod|||
+|Indexmod|{{ page.content | number_of_words }}||
+|Total|||
 
-# See also
+## See also
 
 + [Bangkok Fashion Week](bangkok-fashion-week)
 + [Jakarta Fashion Week](jakarta-fashion-week)
 + [Hachi](hachi)
 + [Tokyo Fashion Week](tokyo-fashion-week)
 
-# Footnotes
+## Footnotes
 
 [[1]](#a1) <span id="f1"></span> [All About Gray in Tokyo Fashion (Tokyo Fashion Express, Japan Broadcasting Corporation)](https://www3.nhk.or.jp/nhkworld/en/tv/tokyofashion/program20180212.html)
