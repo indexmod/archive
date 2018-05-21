@@ -23,8 +23,8 @@ published: true
 |Instagram <span id="a4">[\[4\]](#f4)</span>|11000||
 |YouTube <span id="a5">[\[5\]](#f5)</span>|277737||
 |Age|12||
-|Article Value|{{ page.content | number_of_words }}||
-|Indexmod|4,69753236||
+|Indexmod|{{ page.content | number_of_words }}||
+|Total|4,6||
 
 # See also
 
