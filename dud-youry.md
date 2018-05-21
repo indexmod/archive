@@ -26,12 +26,12 @@ indexmod: 103
 |Indexmod|{{ page.content | number_of_words }}||
 |Total|103||
 
-# See also
+## See also
 
 + [Airborne Troops Day (2013)](airborne-troops-day-2013)
 + [Амед, Имран (блогер)](amed-imran)
 
-# Footnotes
+## Footnotes
 
 [[3]](#a3) <span id="f3"></span> ["Vdud" (Facebook)](https://www.facebook.com/vdud.tv/)
 
