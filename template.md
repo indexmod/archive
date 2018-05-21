@@ -33,7 +33,7 @@ published: true
 
 ## {{page.title}} Indexmod [*](indexmod)
 
-||2018|2019|
+|Variables|2018|2019|
 |-|-|-|
 |Facebook <span id="a3">[\[3\]](#f3)</span>|{{ page.facebook }}||
 |Instagram <span id="a4">[\[4\]](#f4)</span>|{{ page.instagram }}||
