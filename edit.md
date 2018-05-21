@@ -19,7 +19,7 @@ Edit any page following **Edit** link on top of every page, you will be redirect
 
 ## Writing charachter by charachter
 
-The aim of Indexmod Encyclopedia to simplify wiki syntax for a pretty and light format. Following checklist explains few steps of creating and editing beautiful articles in Indexmod Encyclopedia.
+The aim of Indexmod blockchainpedia to simplify wiki syntax for a pretty and light format. Following checklist explains few steps of creating and editing beautiful articles in blockchainpedia.
 
 ## Markdown
 
