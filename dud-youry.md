@@ -15,7 +15,7 @@ indexmod: 103
 
 *Photo: [Sergei Bobylev](indexmod) / [RBC, TASS](https://www.rbc.ru/rbcfreenews/5a02bdbf9a79479d04ef7a63)*
 
-# {{page.title}} Indexmod [*](indexmod)
+## {{page.title}} Indexmod [*](indexmod)
 
 ||2018|2019|
 |-|-|-|
@@ -23,8 +23,8 @@ indexmod: 103
 |Instagram <span id="a2">[\[2\]](#f2)</span>|904500||
 |YouTube <span id="a3">[\[3\]](#f3)</span>|2955700||
 |Age|32||
-|Page Value|{{ page.content | number_of_words }}||
-|Indexmod|103||
+|Indexmod|{{ page.content | number_of_words }}||
+|Total|103||
 
 # See also
 
