@@ -34,8 +34,8 @@ published: true
 |Instagram <span id="a4">[\[4\]](#f4)</span>|7875||
 |YouTube|||
 |Age|9||
-|Page Value (words)|{{ page.content | number_of_words }}||
-|Indexmod|0,10431018||
+|Indexmod|{{ page.content | number_of_words }}||
+|Total|0,1||
 
 # See also
 
