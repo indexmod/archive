@@ -60,8 +60,8 @@ indexmod: '9,50'
 |Instagram <span id="a4">[\[4\]](#f4)</span>|4235||
 |YouTube <span id="a5">[\[5\]](#f5)</span>|3380||
 |Age|5||
-|Page Value|{{ page.content | number_of_words }}||
-|Indexmod|9,503233||
+|Indexmod|{{ page.content | number_of_words }}||
+|Total|9,5||
 
 # See also
 
