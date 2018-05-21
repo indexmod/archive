@@ -1,5 +1,5 @@
 ---
-title: Indexmod
+title: Indexmod (formula)
 permalink: indexmod
 layout: info
 published: true
