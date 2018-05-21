@@ -2,10 +2,9 @@
 Title: Donate
 Permalink: coins
 Layout: default
+published: true
+shortname: ICOI
 ---
-
-# Indexmod Coin
-
 `In Feb. 2018 1 Indexmod Coin = 10 000 rubles`
 
 🔵 [Buy](https://money.yandex.ru/to/41001208338566)
