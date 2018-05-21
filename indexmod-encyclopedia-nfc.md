@@ -18,7 +18,6 @@ Photo: Evgeniy Kolosov / Indexmod
 
 *Photo: [Name](index) / [Source](index)*
 
-
 ## See also
 
 + [One](index)
