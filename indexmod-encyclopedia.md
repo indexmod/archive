@@ -9,7 +9,7 @@ shortname: INBL
 
 ## Manifesto  
 
-The aim of Indexmod encyclopedia to simplify wiki syntax for a pretty and light format. Following checklist explains few steps of creating and editing beautiful articles in Indexmod encyclopedia.
+The aim of Indexmod to simplify wiki syntax for a pretty and light format. Following checklist explains few steps of creating and editing beautiful articles in Indexmod.
 
 ## {{page.title}} renaming
 
