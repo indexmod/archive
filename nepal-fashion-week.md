@@ -3,6 +3,7 @@ title: 'Himalayan Times TGIF Nepal Fashion Week, The'
 permalink: himalayan-times-tgif-nepal-fashion-week-the
 layout: default
 published: true
+shortname: TGIFNFW
 ---
 (Est. about 2011, Kathmandu) is a fashion event in Nepal <span id="a1">[\[1\]](#f1)</span>.
 
