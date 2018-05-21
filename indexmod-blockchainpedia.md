@@ -17,6 +17,7 @@ The aim of Indexmod encyclopedia to simplify wiki syntax for a pretty and light 
 |-|-|-|
 |2006|ИндексМод Афиша|indexmod.afisha.ru|
 |2007|Indexmod|Indexmod.com|
+|2008|Indexmod|Indexmod.ru|
 |2010|Indexmod Encyclopedia of art and Fashion|Indexmod.info|
 |2013|Indexmod Encyclopedia of art and Fashion|Indexmod.info|
 |2016|Indexmod Encyclopedia|Indexmod.online|
