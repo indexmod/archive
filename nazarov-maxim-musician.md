@@ -13,7 +13,7 @@ shortname: NAMA
 
 *Photo: [Mish Sachkov](sachkov-mikhail) / [Indexmod](index)*
 
-# Conspectus
+## Conspectus
 
 |Year|Milestone|
 |----|-----|
@@ -21,13 +21,13 @@ shortname: NAMA
 |2016|Founding of AVEC|
 
 
-# See also
+## See also
 
 + [Audio Visual Entertainment Company ](audio-visual-entertainment-company)
 + [Sachkov, Mikhail](sachkov-mikhail)
 
 
-# Footnotes
+## Footnotes
 
 [[1, 2]](#a1) <span id="f1"></span> [Внешний вид: Максим Назаров, музыкант и сотрудник Cosmotheca (The Village, Vika Lobanova)](http://www.the-village.ru/village/service-shopping/on-the-street/128509-vneshniy-vid-moskva-maksim-nazarov-muzykant-i-sotrudnik-cosmotheca)
 
