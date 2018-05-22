@@ -3,6 +3,7 @@ title: Africa Fashion Week London
 permalink: africa-fashion-week-london
 layout: default
 published: true
+shortname: AFWL
 ---
 (Est. 2011, London) is a fashion event in England founded by Ronke Ademiluyi <span id="a1">[\[1\]](#f1)</span>, annual event showcasing and celebrating work from established and emerging African designers.
 
