@@ -5,7 +5,7 @@ layout: default
 published: true
 shortname: NAMA
 ---
-(Born. 1984 <span id="a1">[\[1\]](#f1)</span>, Moscow) is a Russian musician <span id="a1">[\[2\]](#f1)</span>, founder of Audio Visual Entertainment Company (AVEC) <span id="a3">[\[3\]](#f3)</span> living in Moscow and NYC. [Edit this page](http://prose.io/#indexmod/encyclopedia/edit/master/nazarov-maxim-musician.md)
+(Born. 1984 <span id="a1">[\[1\]](#f1)</span>, Moscow) is a Russian musician <span id="a1">[\[2\]](#f1)</span>, founder of Audio Visual Entertainment Company (AVEC) <span id="a3">[\[3\]](#f3)</span> living in Moscow and NYC.
 
 ![](/images/{{page.permalink}}.jpg)
 
