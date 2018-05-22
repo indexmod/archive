@@ -3,6 +3,7 @@ title: 'Sachkov, Mikhail'
 permalink: sachkov-mikhail
 layout: default
 published: true
+shortname: MISA
 ---
 (Est. 2013, city) is a Miс Sachkov (Rus. Михаил Сачков) born 1974, Moscow—Russian artist, co-founder and art director in 4S4R, one of the first Russian artists began to work in the genre of fashion film, living and working in Moscow <span id="a1">[\[1\]](#f1)</span>.
 
