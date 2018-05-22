@@ -13,11 +13,11 @@ shortname: CHFW
 
 *Photo: [CFW 2009](index) / [CFW 2009](index)*
 
-# See also
+## See also
 
 + [See also title one](page-template)
 
 
-# Footnotes
+## Footnotes
 
 [[1]](#a1) <span id="f1"></span> [Article name short (Author name)](http://example.net/article)
