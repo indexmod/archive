@@ -39,7 +39,7 @@ indexmod: '2,12'
 *Photo: [Andrei Dei](deinichenko-andrei) / [Indexmod](index)*
 
 
-# {{page.title}} Indexmod [*](indexmod)
+## {{page.title}} Indexmod [*](indexmod)
 
 ||2018|2019|
 |-|-|-|
@@ -50,12 +50,12 @@ indexmod: '2,12'
 |Article Value|{{ page.content | number_of_words }}||
 |Indexmod|2,12630016||
 
-# See also at {{site.title}}
+## See also
 
 + [Electra Bicycle Company](electra-bicycle-company)
 + [Pops (agency)](pops-agency)
 
-# Footnotes
+## Footnotes
 
 [[1]](#a1) <span id="f1"></span> [Electra Bicycle Company (Wikipedia.org)](https://ru.wikipedia.org/wiki/Electra_Bicycle_Company)
 
