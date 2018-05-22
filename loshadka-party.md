@@ -2,6 +2,8 @@
 title: Loshadka Prty (party)
 permalink: loshadka-party
 published: true
+layout: default
+shortname: LPRT
 ---
 
 (Рус. Лошадка-пати, еst. 2009, Saint Petersburg) is a series of parties in Moscow, St. Petersburg,  Kiev and Odessa founded by Dmitri Estrin (Дима Эстрин). The event is known for its freak shows, contrast music program and "the loud bring-ups" <span id="a1">[\[1\]](#f1)</span>.
@@ -34,8 +36,8 @@ published: true
 |Instagram <span id="a4">[\[4\]](#f4)</span>|7875||
 |YouTube|||
 |Age|9||
-|Page Value (words)|{{ page.content | number_of_words }}||
-|Indexmod|0,10431018||
+|Indexmod|{{ page.content | number_of_words }}||
+|Total|0,1||
 
 # See also
 

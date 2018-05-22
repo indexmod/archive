@@ -1,17 +1,12 @@
 ---
-title: Nazarov, Maxim (musician)
+title: 'Nazarov, Maxim (musician)'
 permalink: nazarov-maxim-musician
 layout: default
+published: true
 ---
-
-
-
-# Nazarov, Maxim (musician)
-
-
 (Born. 1984 <span id="a1">[\[1\]](#f1)</span>, Moscow) is a Russian musician <span id="a1">[\[2\]](#f1)</span>, founder of Audio Visual Entertainment Company (AVEC) <span id="a3">[\[3\]](#f3)</span> living in Moscow and NYC. [Edit this page](http://prose.io/#indexmod/encyclopedia/edit/master/nazarov-maxim-musician.md)
 
-![](/encyclopedia/images/nazarov-maxim-sachkov-mikhail.jpg)
+![](/images/{{ page.permalink }}.jpg)
 
 **Maxim Nazarov in 2018 at Simachev Bar**
 
@@ -36,6 +31,3 @@ layout: default
 [[1, 2]](#a1) <span id="f1"></span> [Внешний вид: Максим Назаров, музыкант и сотрудник Cosmotheca (The Village, Vika Lobanova)](http://www.the-village.ru/village/service-shopping/on-the-street/128509-vneshniy-vid-moskva-maksim-nazarov-muzykant-i-sotrudnik-cosmotheca)
 
 [[3]](#a3) <span id="f3"></span> [About (Avec Club)](http://avec.club/avec---about.html)
-
-`Last update Jan 2018 by Andrei Dei`
-
