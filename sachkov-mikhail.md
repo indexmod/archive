@@ -5,7 +5,7 @@ layout: default
 published: true
 shortname: SAMI
 ---
-(Est. 2013, city) is a Miс Sachkov (Rus. Михаил Сачков) born 1974, Moscow—Russian artist, co-founder and art director in 4S4R, one of the first Russian artists began to work in the genre of fashion film, living and working in Moscow <span id="a1">[\[1\]](#f1)</span>.
+(Est. 2013, city) is a Miс Sachkov (Rus. Михаил Сачков) born 1974, Moscow-Russian artist, co-founder and art director in 4S4R, one of the first Russian artists began to work in the genre of fashion film, living and working in Moscow <span id="a1">[\[1\]](#f1)</span>.
 
 ![](/images/image-name.jpg)
 
@@ -35,8 +35,3 @@ shortname: SAMI
 [[4]](#a4) <span id="f4"></span> [{{page.title}} (Instagram)](index)
 
 [[5]](#a5) <span id="f5"></span> [{{page.title}} (YouTube)](index)
-
-
-
-
-
