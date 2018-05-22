@@ -3,7 +3,6 @@ title: Africa Fashion Week London
 permalink: africa-fashion-week-london
 layout: default
 published: true
-shortname: AFWL
 ---
 (Est. 2011, London) is a fashion event in England founded by Ronke Ademiluyi <span id="a1">[\[1\]](#f1)</span>, annual event showcasing and celebrating work from established and emerging African designers.
 
@@ -15,7 +14,7 @@ shortname: AFWL
 
 AFWL was created to introduce this work to a wider audience of potential clients and to generate interest in African fashion in an affordable and ethical manner.
 
-# {{page.title}} Seasons
+## {{page.title}} Seasons
 
 |Year|City|
 |-|-|
@@ -26,24 +25,24 @@ AFWL was created to introduce this work to a wider audience of potential clients
 
 With the popular ‘Face of AFWL’ modelling competition providing an opportunity for models to make their mark on the industry, the focus of AFWL is to ensure that African fashions can be enjoyed by a wide audience in London and across the globe <span id="a2">[\[2\]](#f2)</span>.
 
-# {{page.title}} Indexmod
+## {{page.title}} Indexmod
 
-||2018|2019|
+|Variables|2018|2019|
 |-|-|-|
-|Facebook <span id="a3">[\[3\]](#f3)</span>|93792|000|
-|Instagram <span id="a4">[\[4\]](#f4)</span>|29900|000|
-|YouTube <span id="a5">[\[5\]](#f5)</span>|79956|000|
+|Facebook <span id="a3">[\[3\]](#f3)</span>|93792||
+|Instagram <span id="a4">[\[4\]](#f4)</span>|29900||
+|YouTube <span id="a5">[\[5\]](#f5)</span>|79956||
 |Age|7|000|
 |Indexmod|{{ page.content | number_of_words }}||
-|Total|1,31893112|0,0000|
+|Total|1,31||
 
-# See also
+## See also
 
 + [Ademiluyi, Ronke](ademiluyi-ronke)
 + [Africa Fashion Week Dubai](africa-fashion-week-dubai)
 + [Africa Fashion Week Paris](africa-fashion-week-paris)
 
-# Footnotes
+## Footnotes
 
 [[3]](#a3) <span id="f3"></span> [{{page.title}} (Facebook)](https://www.facebook.com/Africafwl/)
 
