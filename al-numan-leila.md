@@ -16,7 +16,7 @@ shortname: ANUL
 
 ## See also
 
-+ [House of Artists on Vavilov 65а](index)
++ [House of Artists on Vavilov 65а](house-of-artists-on-vavilov-65)
 + [Alexandria studio](alexandria-studio)
 
 
