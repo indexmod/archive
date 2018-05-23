@@ -6,8 +6,7 @@ published: true
 shortname: ANUL
 ---
 
-(Rus. Лэйла Аль-Нуман, born 1969, Moscow) art director at “Alexandria” studio. In 1993 graduated from S. G. Stroganov Moscow University of Art and Industry (faculty of Monumental Decorative and Applied Arts, Department of Glass). She is the author of more than 500 stained glass works. Leila Al-Numan is a member of Artists’ Union of Russia, International Association of UNESCO Artists. Books, “Stained glass in architecture”, Moscow
-See also: Leila Al-Numan with husband, Free-blown glass is made in a single copy, House of Artists on Vavilov 65а, About us — “Alexandria” studio <span id="a1">[\[1\]](#f1)</span>.
+(Rus. Лэйла Аль-Нуман, born 1969, Moscow) art director at “Alexandria” studio. In 1993 graduated from S. G. Stroganov Moscow University of Art and Industry (faculty of Monumental Decorative and Applied Arts, Department of Glass). She is the author of more than 500 stained glass works. Leila Al-Numan is a member of Artists’ Union of Russia, International Association of UNESCO Artists. Books, “Stained glass in architecture”, Moscow <span id="a1">[\[1\]](#f1)</span>.
 
 ![](http://english.spbu.ru/images/news/2017-summer/11/20171117_mkf_bez_instituciy_leila_al_numan_min.jpg)
 
@@ -17,9 +16,10 @@ See also: Leila Al-Numan with husband, Free-blown glass is made in a single copy
 
 ## See also
 
-+ [About {{page.title}}](index)
-+ [{{page.title}} at Wikipedia](index)
++ [House of Artists on Vavilov 65а](index)
++ [Alexandria studio](index)
+
 
 ## Footnotes
 
-[[3]](#a3) <span id="f3"></span> [{{page.title}} (Facebook)](index)
+[[3]](#a3) <span id="f3"></span> [{{page.title}} (Facebook)](https://www.facebook.com/alexandria.glass.studio/?notif_id=1527024751169651&notif_t=page_invite)
