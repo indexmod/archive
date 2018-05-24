@@ -3,6 +3,7 @@ title: 'Sergeenko, Ulyana'
 permalink: sergeenko-ulyana
 layout: default
 published: true
+shortname: SEUL
 ---
 (Rus. Ульяна Сергеенко, born 1979, Ust-Kamennogorsk) Russian fashion designer, founder and owner of the brand Ulyana Sergeenko, "the oligarch’s ex-wife who changed the way Russians dress" <span id="a1">[\[1\]](#f1)</span>, living in Moscow.
 
