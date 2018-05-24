@@ -15,7 +15,7 @@ vimeo: '0,0'
 twitter: '0,0'
 tumblr: '0,0'
 published: true
-founder: Name
+founder: Masha Titova
 founder-2: Name-2
 ---
 
