@@ -13,7 +13,7 @@ published: true
 
 *Photo: [Utenos trikotažas](Utenos trikotažas) / [Ut.lt](http://www.ut.lt/our-brands)*
 
-# Features
+## Features
 
 + No rough stitching
 
@@ -23,7 +23,7 @@ published: true
 
 Natural beeswax soothes the skin, aloe vera moisturizes it, silk proteins enhance its softness and silver ions provide long-lasting protection against bacteria. Every inch of clothing is designed to delight your senses <span id="a1">[\[1\]](#f1)</span>.
 
-# {{page.title}} Indexmod [*](indexmod)
+## {{page.title}} Indexmod [*](indexmod)
 
 ||2018|2019|
 |-|-|-|
@@ -34,11 +34,11 @@ Natural beeswax soothes the skin, aloe vera moisturizes it, silk proteins enhanc
 |Indexmod|{{ page.content | number_of_words }}||
 |Total|0,024||
 
-# See also
+## See also
 
 + [Oh, my (brand)](oh-my-brand)
 
-# Footnotes
+## Footnotes
 
 [[3]](#a3) <span id="f3"></span> [{{page.title}} (Facebook)](https://goo.gl/aYWoqC)
 
