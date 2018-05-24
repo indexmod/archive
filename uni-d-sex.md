@@ -22,7 +22,7 @@ founder: Moscow Cocos
 
 ![](/images/{{ page.permalink }}.jpg)
 
-**Image**
+**Male and female at Uni(D)Sex campaign of the 2018**
 
 *Photo: [Cocos Moscow](cocos-moscow) / [Cocos Moscow](https://cocos-moscow.ru/product-category/unisex/)*
 
