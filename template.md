@@ -24,7 +24,7 @@ founder: Name
 
 **Image**
 
-*Photo: [Name](index) / [Source](index)*
+*Photo: [Not specified](index) / [Source](index)*
 
 ## {{page.title}} conspectus
 
