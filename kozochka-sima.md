@@ -10,7 +10,7 @@ shortname: KOSI
 
 ![](/images/kozochka-vogue.png)
 
-# {{page.title}} Indexmod
+## {{page.title}} Indexmod
 
 ||2018|2019|
 |-|-|-|
@@ -25,17 +25,14 @@ shortname: KOSI
 
 *Photo: [Alena Chendler](chendler-alena) / [Vogue Russia](https://www.vogue.com/slideshow/moscow-shopping-souvenirs-sima-saymon#4)*
 
-# See also
+## See also
 
 + [Simachev Bar](simachev-bar)
 + [Kozak, Vitalii](kozak-vitalii)
 + [Turovnikova, Natalia](turovnikova-natalia)
 
-# Footnotes
+## Footnotes
 
 [[1]](#a1) <span id="f1"></span> [Shopping for Souvenirs in Moscow — Vogue (Alena Chendler)](https://www.vogue.com/slideshow/moscow-shopping-souvenirs-sima-saymon#2)
 
 [[2]](#a2) <span id="f2"></span> [Всё заново: Sima Kozochka о лучших находках на зимней распродаже (Alena Chendler)](https://life.ru/t/%D0%BA%D1%80%D0%B0%D1%81%D0%BE%D1%82%D0%B0/969600/vsio_zanovo_sima_kozochka_o_luchshikh_nakhodkakh_na_zimniei_rasprodazhie)
-
-
-`Last edit Feb. 2108 (Andrei Dei)`
