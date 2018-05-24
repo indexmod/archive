@@ -2,7 +2,7 @@
 title: Uni(D)Sex
 permalink: uni-d-sex
 layout: default
-shortname: UNDS
+shortname: UNDX
 indexmod: Indexmod
 birth: '2018'
 age: '0'
@@ -22,7 +22,7 @@ founder: Moscow Cocos
 
 ![](/images/{{ page.permalink }}.jpg)
 
-**Image**
+**Male and female at Uni(D)Sex by Cocos Moscow campaign of the 2018**
 
 *Photo: [Cocos Moscow](cocos-moscow) / [Cocos Moscow](https://cocos-moscow.ru/product-category/unisex/)*
 
