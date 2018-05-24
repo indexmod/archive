@@ -2,7 +2,7 @@
 title: Uni(D)Sex
 permalink: uni-d-sex
 layout: default
-shortname: UNDS
+shortname: UNDX
 indexmod: Indexmod
 birth: '2018'
 age: '0'
