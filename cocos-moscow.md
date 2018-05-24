@@ -24,7 +24,7 @@ founder-2: Zong Vu
 
 **Image**
 
-*Photo: [Name](index) / [Source](index)*
+*Photo: [FN](index) / [Fashion Network](http://ru.fashionnetwork.com/news/Cocos-Moscow-otkryla-pervyi%CC%86-korner,825918.html#.WwbVN9NubzY)*
 
 ## {{page.title}} stores
 
@@ -63,6 +63,8 @@ founder-2: Zong Vu
 + [Zong Vu](vu-zong)
 
 ## Footnotes
+
+[[1]](#a1) <span id="f1"></span> [Cocos Moscow открыла первый корнер (Fashion Network)](http://ru.fashionnetwork.com/news/Cocos-Moscow-otkryla-pervyi%CC%86-korner,825918.html#.WwbVN9NubzY)
 
 [[3]](#a3) <span id="f3"></span> [{{page.title}} (Facebook)](https://www.facebook.com/cocosmoscow/)
 
