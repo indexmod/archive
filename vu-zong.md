@@ -19,19 +19,13 @@ parent: Name
 parent-2: Name-2
 ---
 
-(Est. {{ page.birth }}, {{ page.city }}) is a --- <span id="a1">[\[1\]](#f1)</span>.
+(Rus. Зонг Ву, born {{ page.birth }}, {{ page.city }}) is a Russian photographer, founder of the brand of Cocos Moscow <span id="a1">[\[1\]](#f1)</span>.
 
 ![](/images/{{ page.permalink }}.jpg)
 
-**Image**
+**Zong Vu**
 
-*Photo: [Name](index) / [Source](index)*
-
-## {{page.title}} conspectus
-
-|Year|City|
-|-|-|
-|2017|Moscow|
+*Photo: [Name](index) / [Vkontakte](https://vk.com/id192281)*
 
 ## {{page.title}} Indexmod [*](indexmod)
 
@@ -56,6 +50,6 @@ parent-2: Name-2
 
 [[4]](#a4) <span id="f4"></span> [{{page.title}} (Instagram)](index)
 
-[[5]](#a5) <span id="f5"></span> [{{page.title}} (YouTube)](index)
+[[5]](#a5) <span id="f5"></span> [{{page.title}} (Fachionbank)](Зонг Ву)
 
 [[6]](#a6) <span id="f6"></span> [{{page.title}} (Vkontakte)](https://vk.com/id192281)
