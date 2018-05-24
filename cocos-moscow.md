@@ -1,8 +1,8 @@
 ---
-title: Cocos
-permalink: template
+title: Cocos Moscow
+permalink: cocos-moscow
 layout: default
-shortname: TMPL
+shortname: COMO
 indexmod: Indexmod
 birth: '2000'
 age: '18'
