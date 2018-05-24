@@ -3,6 +3,7 @@ title: 'Duma, Miroslava'
 permalink: duma-miroslava
 layout: default
 published: true
+shortname: DUMI
 ---
 
 (Born 1985, Surgut) model, journalist from Russia <span id="a1">[\[1\]](#f1)</span>, founder of Buro 24/7, ambassador of Chanel (2013), spokeswoman in "Chime for Change" by Gucci <span id="a2">[\[2\]](#f2)</span>, graduated MGIMO (Masters in International Business Administration). From 2007 worked for Harper’s Bazaar, Axel Springer Russia, Conde Nast and TSUM Moscow.
