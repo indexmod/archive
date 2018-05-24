@@ -22,7 +22,7 @@ shortname: B247
 
 ## {{page.title}} Indexmod
 
-||2018|2019|
+|Variables|2018|2019|
 |-|-|-|
 |Facebook <span id="a3">[\[3\]](#f3)</span>|180964||
 |Instagram <span id="a4">[\[4\]](#f4)</span>|332000||
