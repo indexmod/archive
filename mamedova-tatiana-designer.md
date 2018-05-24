@@ -1,5 +1,5 @@
 ---
-title: 'Mamedova, Tatiana (designer)'
+title: 'Mamedova, Tatiana'
 permalink: mamedova-tatiana-designer
 layout: default
 published: true
