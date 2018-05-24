@@ -13,18 +13,15 @@ published: true
 *Photo: [Photographer name](/photographer-name-page) / [Condé Nast](https://www.condenast.ru/portfolio/magazines/vogue/news/35680/)*
 
 
-# See also
+## See also
 
++ [Cocos Mosco](cocos-moscow)
 + [Nina Donis](page-template)
 + [Saga Furs](page-template)
 + [Vogue Fashion Night Out](page-template)
 
-# Footnotes
-
-[[1]](#a1) <span id="f1"></span> [Article name short (Author name)](http://example.net/article)
+## Footnotes
 
 [[2]](#a2) <span id="f2"></span> [Наталья Туровникова (Вокруг ТВ)](http://www.vokrug.tv/person/show/natalya_turovnikova/)
 
 [[3]](#a3) <span id="f3"></span> [Article name longer so far (Author name too long and much longer)](http://example.net/article)
-
-`Last edit Jan 2018`
