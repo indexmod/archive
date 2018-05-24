@@ -18,43 +18,23 @@ published: true
 founder: Moscow Cocos
 ---
 
-(Est. {{ page.birth }}, {{ page.city }}) is a --- <span id="a1">[\[1\]](#f1)</span>.
+(Est. {{ page.birth }}, {{ page.city }}) is a line of unisex wear of the Russian basic casual wear brand Cocos Moscow <span id="a1">[\[1\]](#f1)</span>.
 
 ![](/images/{{ page.permalink }}.jpg)
 
 **Image**
 
-*Photo: [Name](index) / [Source](index)*
-
-## {{page.title}} conspectus
-
-|Year|City|
-|-|-|
-|2017|Moscow|
-
-## {{page.title}} Indexmod [*](indexmod)
-
-|Variables|2018|2019|
-|-|-|-|
-|Facebook <span id="a3">[\[3\]](#f3)</span>|{{ page.facebook }}||
-|Instagram <span id="a4">[\[4\]](#f4)</span>|{{ page.instagram }}||
-|YouTube <span id="a5">[\[5\]](#f5)</span>|{{ page.youtube }}||
-|Twitter <span id="a6">[\[6\]](#f6)</span>|{{ page.twitter }}||
-|Age|{{ page.age }}||
-|Indexmod|{{ page.content | number_of_words }}||
-|Total|{{ page.indexmod }}||
+*Photo: [Cocos Moscow](cocos-moscow) / [Cocos Moscow](https://cocos-moscow.ru/product-category/unisex/)*
 
 ## See also
 
-+ [About {{page.title}}](index)
-+ [{{page.title}} at Wikipedia](index)
++ [About (clothing)](about-clothing)
++ [Cocos Mosco](cocos-moscow)
++ [Masha Titova](titova-masha)
++ [Natalia Turovnikova](turovnikova-natalia)
++ [Oh, my](oh-my)
++ [Zong Vu](vu-zong)
 
 ## Footnotes
 
-[[3]](#a3) <span id="f3"></span> [{{page.title}} (Facebook)](index)
-
-[[4]](#a4) <span id="f4"></span> [{{page.title}} (Instagram)](index)
-
-[[5]](#a5) <span id="f5"></span> [{{page.title}} (YouTube)](index)
-
-[[6]](#a6) <span id="f6"></span> [{{page.title}} (Twitter)](index)
+[[1]](#a1) <span id="f1"></span> [{{page.title}} (Cocos Moscow)](https://cocos-moscow.ru/product-category/unisex/)
