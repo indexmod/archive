@@ -14,13 +14,11 @@ shortname: BEMA
 
 *Photo: [Berdyansk Marketplace](Berdyansk Marketplace) / [VK](VK)*
 
-# See also
+## See also
 
 + [Berdyansk Fashion Day](berdyansk-fashion-day)
 + [Feelosophy (Store)](feelosophy-store)
 
-# Footnotes
+## Footnotes
 
 [[1]](#a1) <span id="f1"></span> [Berdyansk Marketplace (Pinterest)](https://ru.pinterest.com/berdyanskmarketplace/)
-
-`Updated Mar. 2018 (Andrei Dei)`
