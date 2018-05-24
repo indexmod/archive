@@ -4,6 +4,18 @@ permalink: zambia-fashion-week-the
 layout: default
 published: true
 shortname: ZMFW
+indexmod: Indexmod
+birth: '2011'
+age: '7'
+updateyear: '2018'
+city: Lusaka
+facebook: '15743'
+instagram: '0,0'
+youtube: '0,0'
+vimeo: '0,0'
+twitter: '0,0'
+tumblr: '0,0'
+founder: Name
 ---
 
 (Est. 2013, city) is a --------- <span id="a1">[\[1\]](#f1)</span>.
