@@ -3,6 +3,7 @@ title: Berdyansk Fashion Day
 permalink: berdyansk-fashion-day
 layout: default
 published: true
+shortname: BFDY
 ---
 
 (Est. 2016, Berdyansk) is a fashion event in Azov Sea resort founded by Gayane Vardikyan, with Berdyansk's city hall support <span id="a1">[\[1\]](#f1)</span>.
@@ -13,7 +14,7 @@ published: true
 
 *Photo: [Beautiful Lady](/photographer-name-page) / [Beautiful Lady](Beautiful Lady)*
 
-# Conspectus
+## Conspectus
 
 |Year|Season|Location|
 |----|-----|---|
@@ -21,13 +22,10 @@ published: true
 |2017|2|Sun Resort|
 |2018|3||
 
-# See also
+## See also
 
 + [Berdyansk Marketplace](berdyansk-marketplace)
 
-
-# Footnotes
+## Footnotes
 
 [[1]](#a1) <span id="f1"></span> [Организаторы Berdyansk Fashion Day рассказали, чем их не устроили бердянские фотографы (Ирина Дедушева)](http://pro.berdyansk.biz/content.php?id=44420)
-
-`Updated Mar. 2018 (Andrei Dei)`
