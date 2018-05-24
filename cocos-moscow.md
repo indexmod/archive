@@ -26,13 +26,21 @@ founder-2: Zong Vu
 
 *Photo: [Name](index) / [Source](index)*
 
-## {{page.title}} conspectus
+## {{page.title}} stores
 
-|Year|City|
+|Store|City|
 |-|-|
-|2017|Moscow|
+|МЕГА Теплый Стан|Moscow|
+|ТЦ Авиапарк|Moscow|
+|ТЦ МЕГА Химки |Moscow|
+|ТЦ МЕГА Парнас|Moscow|
+|ГУМ Секция|Moscow|
 
-▪️Чистый пер. д.6 ▪️МЕГА Теплый Стан ▪️ТЦ Авиапарк ▪️ТЦ МЕГА Химки ▪️ТЦ МЕГА Парнас ▪️ГУМ Секция
+## {{page.title}} colabs
+
+|Year|brand|
+|-|-|
+|2018|Natalia Turovnikova|
 
 ## {{page.title}} Indexmod [*](indexmod)
 
@@ -49,10 +57,10 @@ founder-2: Zong Vu
 ## See also
 
 + [About (clothing)](about-clothing)
-+ [Oh, my](oh-my)
-+ [Natalia Turovnikova](turovnikova-natalia)
-+ [Zong Vu](vu-zong)
 + [Masha Titova](titova-masha)
++ [Natalia Turovnikova](turovnikova-natalia)
++ [Oh, my](oh-my)
++ [Zong Vu](vu-zong)
 
 ## Footnotes
 

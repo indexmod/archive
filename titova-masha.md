@@ -45,8 +45,12 @@ published: true
 
 ## See also
 
-+ [About {{page.title}}](index)
-+ [{{page.title}} at Wikipedia](index)
++ [About (clothing)](about-clothing)
++ [Cocos Mosco](cocos-moscow)
++ [Masha Titova](titova-masha)
++ [Natalia Turovnikova](turovnikova-natalia)
++ [Oh, my](oh-my)
++ [Zong Vu](vu-zong)
 
 ## Footnotes
 
