@@ -3,6 +3,7 @@ title: 'Michaelson, Victor'
 permalink: michaelson-victor
 layout: default
 published: true
+shortname: MAVI
 ---
 
 (Born 1955, Moscow) is a Russian professor, teacher at RSUH, founder of “Communicator” and “Slow Food Ulitka”, Doctor of Political Sciences living and working in Moscow <span id="a1">[\[1\]](#f1)</span>.
