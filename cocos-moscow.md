@@ -4,8 +4,8 @@ permalink: cocos-moscow
 layout: default
 shortname: COMO
 indexmod: Indexmod
-birth: '2000'
-age: '18'
+birth: '2017'
+age: '1'
 updateyear: '2018'
 city: Moscow
 facebook: '2505'
@@ -52,7 +52,7 @@ founder-2: Zong Vu
 + [Oh, my](oh-my)
 + [Natalia Turovnikova](turovnikova-natalia)
 + [Zong Vu](vu-zong)
-+ [Zong Vu](vu-zong)
++ [Masha Titova](titova-masha)
 
 ## Footnotes
 
