@@ -1,8 +1,8 @@
 ---
-title: Template
-permalink: template
+title: Titova, Masha
+permalink: titova-masha
 layout: default
-shortname: TMPL
+shortname: TIMA
 indexmod: Indexmod
 birth: '2000'
 age: '18'
@@ -16,6 +16,7 @@ twitter: '0,0'
 tumblr: '0,0'
 published: true
 founder: Name
+founder-2: Name-2
 ---
 
 (Est. {{ page.birth }}, {{ page.city }}) is a --- <span id="a1">[\[1\]](#f1)</span>.

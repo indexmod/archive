@@ -1,5 +1,5 @@
 ---
-title: Template
+title: Cocos
 permalink: template
 layout: default
 shortname: TMPL
@@ -14,8 +14,8 @@ youtube: '0,0'
 vimeo: '0,0'
 twitter: '0,0'
 tumblr: '0,0'
-published: true
 founder: Name
+founder-2: Name-2
 ---
 
 (Est. {{ page.birth }}, {{ page.city }}) is a --- <span id="a1">[\[1\]](#f1)</span>.
@@ -46,8 +46,8 @@ founder: Name
 
 ## See also
 
-+ [About {{page.title}}](index)
-+ [{{page.title}} at Wikipedia](index)
++ [About (clothing)](about-clothing)
++ [Natalia Turovnikova](turovnikova-natalia)
 
 ## Footnotes
 

@@ -1,11 +1,11 @@
 ---
-title: Template
-permalink: template
+title: Vu, Zong
+permalink: vu-zong
 layout: default
 shortname: TMPL
 indexmod: Indexmod
-birth: '2000'
-age: '18'
+birth: '1986'
+age: '32'
 updateyear: '2018'
 city: Moscow
 facebook: '0,0'
@@ -16,6 +16,7 @@ twitter: '0,0'
 tumblr: '0,0'
 published: true
 founder: Name
+founder-2: Name-2
 ---
 
 (Est. {{ page.birth }}, {{ page.city }}) is a --- <span id="a1">[\[1\]](#f1)</span>.
