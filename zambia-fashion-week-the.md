@@ -3,6 +3,7 @@ title: 'Zambia Fashion Week, The'
 permalink: zambia-fashion-week-the
 layout: default
 published: true
+shortname: ZMFW
 ---
 
 (Est. 2013, city) is a --------- <span id="a1">[\[1\]](#f1)</span>.
@@ -11,7 +12,7 @@ published: true
 
 **Image title**
 
-*Photo: [Name](index) / [Source](index)*
+*Photo: [Fortress](fortress) / [Essays Of Africa](http://essaysofafrica.com/zambia-fashion-week-2017/)*
 
 ## {{page.title}} Conspectus
 
