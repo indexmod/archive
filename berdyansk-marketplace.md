@@ -3,6 +3,7 @@ title: Berdyansk Marketplace
 permalink: berdyansk-marketplace
 layout: default
 published: true
+shortname: BEMA
 ---
 
 (Rus. Бердянск Маркетплейс, est. 2016, Moscow) Russian brand of alternative wear with reflective prints, named after "Berdyansk workshop" on Bukhvostova street in Moscow (Мастерская Бердянск) and after city of Berdyansk in Ukraine (Бердянськ).
