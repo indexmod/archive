@@ -4,8 +4,8 @@ permalink: uni-d-sex
 layout: default
 shortname: UNDS
 indexmod: Indexmod
-birth: '2000'
-age: '18'
+birth: '2018'
+age: '0'
 updateyear: '2018'
 city: Moscow
 facebook: '0,0'
@@ -15,7 +15,7 @@ vimeo: '0,0'
 twitter: '0,0'
 tumblr: '0,0'
 published: true
-founder: Name
+founder: Moscow Cocos
 ---
 
 (Est. {{ page.birth }}, {{ page.city }}) is a --- <span id="a1">[\[1\]](#f1)</span>.
