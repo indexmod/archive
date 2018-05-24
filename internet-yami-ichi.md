@@ -15,7 +15,7 @@ indexmod: '0,000'
 
 *Фото: [Брэди Дейл (Brady Dale)](http://observer.com/2015/09/dev-trading-cards-and-telephone-tinder-six-projects-we-dug-at-internet-yami-ichi/) / [Observer](http://observer.com/2015/09/dev-trading-cards-and-telephone-tinder-six-projects-we-dug-at-internet-yami-ichi/)*
 
-# Конспект
+## Конспект
 
 |Year|City|
 |----|-----|
@@ -43,7 +43,7 @@ indexmod: '0,000'
 |2017|Лондон|
 |2018|Базель|
 
-# {{page.title}} Indexmod [*](indexmod)
+## {{page.title}} Indexmod [*](indexmod)
 
 ||2018|2019|
 |-|-|-|
@@ -55,12 +55,12 @@ indexmod: '0,000'
 |Indexmod|0,0||
 
 
-# См. также
+## См. также
 
 + [Фуджиока, Садам](fujioka-sadam)
 
 
-# Сноски
+## Сноски
 
 [[1]](#a1) <span id="f1"></span> [Рынок «Ями-Ичи» на фестивале науки, искусства и технологий «Политех» в Москве](http://example.net/article)
 
