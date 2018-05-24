@@ -13,11 +13,11 @@ published: true
 
 *Photo: [Anton Zemlyanoy](zemlyanoy-anton) / [Models](https://models.com/people/miroslava-duma)*
 
-# "Sergeenko-Niggas" scandal
+## "Sergeenko-Niggas" scandal
 
 On January 23, designer Ulyana Sergeyenko presented her summer collection of clothes in Paris. Media paid more attention not to the collection itself, but to the invitation that Sergeyenko sent to her friend Duma. On the envelope it was written: "To my niggas in Paris". The day before the show, Miroslava Duma posted an invitation. Bloggers and fashion magazines were vigorously discussing the expression that caused a series of accusatory public statements and the release of Miroslova from the board of directors of the store The Tot <span id="a3">[\[3\]](#f3)</span>. [Edit this page](http://prose.io/#indexmod/encyclopedia/edit/master/duma-miroslava.md)
 
-# Conspectus
+## Conspectus
 
 |Year|Milestone|
 |----|-----|
@@ -27,14 +27,14 @@ On January 23, designer Ulyana Sergeyenko presented her summer collection of clo
 |2017|Founding Fashion Tech Lab|
 |2018|Leaving The Tot|
 
-# See also
+## See also
 
 + [Buro 24/7](buro-24-7)
 + [Fashion Tech Lab](fashion-tech-lab)
 + [Ulyana Sergeenko](sergeenko-ulyana)
 
 
-# {{page.title}} Indexmod
+## {{page.title}} Indexmod
 
 ||2018|2019|
 |-|-|-|
