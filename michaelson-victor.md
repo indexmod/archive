@@ -5,7 +5,6 @@ layout: default
 published: true
 shortname: MAVI
 ---
-
 (Born 1955, Moscow) is a Russian professor, teacher at RSUH, founder of “Communicator” and “Slow Food Ulitka”, Doctor of Political Sciences living and working in Moscow <span id="a1">[\[1\]](#f1)</span>.
 
 ![](http://design.hse.ru/system/tt_people/photos/000/000/076/large/%D0%9C%D0%B0%D0%B9%D0%BA%D0%BB%D1%81%D0%BE%D0%BD.png)
@@ -14,7 +13,7 @@ shortname: MAVI
 
 *Photo: [Luba Kozorezova](kozorezova-luba) / [HSE Art And Design School](http://design.hse.ru/team/4352)*
 
-# Family
+## Family
 
 |Member|Name|Profession|Native|Birth|
 |-|-|-|-|-|
@@ -23,7 +22,7 @@ shortname: MAVI
 |Daughter|Anastasia||Toronto|1980|
 |Daughter|Maya||Moscow|2014|
 
-# Conspectus
+## Conspectus
 
 |Year|Milestone|
 |-|-|
@@ -33,15 +32,15 @@ shortname: MAVI
 |2015|Establishing of the "Slow Food Ulitka"|
 |2017|Nokia becoming client of "Communicator" Group|
 
-# See also
+## See also
 
 
 + [Brewhouse (Mytishchi)](brewhouse-mytishchi)
+
 + [Cirque du Soleil](cirque-du-soleil)
+
 + [Slow Food](slow-food)
 
-# Footnotes
+## Footnotes
 
 [[1]](#a1) <span id="f1"></span> [Виктор Майклсон — Про меня – Сноб (Snob)](https://snob.ru/profile/8149)
-
-`Last edit Feb. 2018 (Andrei Dei)`
