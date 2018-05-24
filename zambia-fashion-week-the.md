@@ -1,7 +1,8 @@
 ---
-title: Zambia Fashion Week, The
+title: 'Zambia Fashion Week, The'
 permalink: zambia-fashion-week-the
 layout: default
+published: true
 ---
 
 (Est. 2013, city) is a --------- <span id="a1">[\[1\]](#f1)</span>.
@@ -12,13 +13,13 @@ layout: default
 
 *Photo: [Name](index) / [Source](index)*
 
-# {{page.title}} Conspectus
+## {{page.title}} Conspectus
 
 |Year|City|
 |-|-|
 |2017|Moscow|
 
-# {{page.title}} Indexmod
+## {{page.title}} Indexmod
 
 ||2018|2019|
 |-|-|-|
@@ -29,17 +30,15 @@ layout: default
 |Indexmod|{{ page.content | number_of_words }}||
 |Total|0,0000|0,0000|
 
-# See also
+## See also
 
 + [About {{page.title}}](index)
 + [{{page.title}} at Wikipedia](index)
 
-# Footnotes
+## Footnotes
 
 [[3]](#a3) <span id="f3"></span> [{{page.title}} (Facebook)](index)
 
 [[4]](#a4) <span id="f4"></span> [{{page.title}} (Instagram)](index)
 
 [[5]](#a5) <span id="f5"></span> [{{page.title}} (YouTube)](index)
-
-`Updated Mar. 2018 (Andrei Dei)`
