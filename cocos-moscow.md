@@ -22,7 +22,7 @@ founder-2: Zong Vu
 
 ![](/images/{{ page.permalink }}.jpg)
 
-**Image**
+**The first corner of the Russian brand Cocos Moscow in the shopping center “Aviapark” in the space of the department store Trend Island**
 
 *Photo: [FN](index) / [Fashion Network](http://ru.fashionnetwork.com/news/Cocos-Moscow-otkryla-pervyi%CC%86-korner,825918.html#.WwbVN9NubzY)*
 
@@ -38,7 +38,7 @@ founder-2: Zong Vu
 
 ## {{page.title}} colabs
 
-|Year|brand|
+|Year|Brand|
 |-|-|
 |2018|Natalia Turovnikova|
 
