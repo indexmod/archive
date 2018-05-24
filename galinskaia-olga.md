@@ -3,6 +3,7 @@ title: 'Galinskaia, Olga'
 permalink: galinskaia-olga
 layout: default
 published: true
+shortname: GAOL
 ---
 
 (Rus. Ольга Галинская, born 1973, Temirtau) Russian artist of film costume, stylists, image consultant living and working in Moscow.
