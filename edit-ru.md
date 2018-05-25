@@ -75,11 +75,11 @@ published: true
 
 <span id="a1">[\[1\]](#f1)</span>
 
-## Картинка. подпись и кредиты
+## Картинка, подпись и кредиты
 
 Это ссылка картинки
 
-![](/encyclopedia/images/image-name.jpg)
+`![](/encyclopedia/images/image-name.jpg)`
 
 Это код для подписи под картинкой
 
