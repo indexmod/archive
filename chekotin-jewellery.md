@@ -1,6 +1,6 @@
 ---
 title: Chekotin Jewellery
-permalink: techekotin-jewellery
+permalink: chekotin-jewellery
 layout: default
 shortname: CHJW
 indexmod: Indexmod
@@ -22,9 +22,9 @@ founder: Alexander and Maria Chekotin
 
 ![](/images/{{ page.permalink }}.jpg)
 
-**Pendant from the collection Leonardo**
+**Pendant from the collection Leonardo by Chekotin Jewellery**
 
-*Photo: [Not specified](index) / [Source](index)*
+*Photo: [Chekotin Jewellery](index) / [Source](index)*
 
 ## {{page.title}} conspectus
 
