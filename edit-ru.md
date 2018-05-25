@@ -27,7 +27,7 @@ published: true
 
 ## Markdown
 
-Каждая страница создана с помшью [Markdown](https://daringfireball.net/projects/markdown/syntax) — простого языка для создания статических страниц.
+Каждая страница представляет собой один файл с расширением .md, который написан с использованием [Markdown](https://daringfireball.net/projects/markdown/syntax) — простого языка для создания страниц, которые сайт генерирует в статические страницы в HTML.  
 
 ##  Front matter
 
