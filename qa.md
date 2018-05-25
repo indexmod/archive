@@ -10,4 +10,4 @@ The Indexmod blockchainpedia data core are articles in English, but you can crea
 
 **Why some of the articles are published without content (as template)?**
 
-In 2018, Indexmod blockchainpedia has moved from the Google hosting to the own one based on Jekyll and Github Pages. Some of the articles in the status of “claimed for creation” are staying for several years. You can continue to edit such an article right now.
+In 2018, Indexmod blockchainpedia has moved from the Google hosting to the own one based on Jekyll and Github Pages. Some of the articles are staying for several years in the status of “claimed for creation”. You can continue to edit such an article right now.
