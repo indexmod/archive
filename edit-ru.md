@@ -94,21 +94,25 @@ published: true
 
 ## Раздел «Конспект»
 
-Используй шаблон этого раздела для представления любых структурированных списков и данных
+Используй шаблон этого раздела для представления структурированных списков
 
 `|Год|Город|`
+
 `|---|---|`
+
 `|2014|Токио|`
+
 `|2015|Москва|`
+
 `|2017|Париж|`
 
 Будет показан как
 
-|Year|City|
-|----|-----|
-|2014|Tokyo|
-|2015|Moscow|
-|2017|Paris|
+|Год|Город|
+|---|---|
+|2014|Токио|
+|2015|Москва|
+|2017|Париж|
 
 ## Раздел «См. также»
 
@@ -122,16 +126,14 @@ Will be rendered as
 
 ## Раздел Ссылки
 
-Code for footnote
+Код ссылок
 
 `[[1]](#a1) <span id="f1"></span> [Article 1 (Author 1)] (http://example.net/article)`
 
-Will be rendered as
+Будет показан так 
 
 [[1]](#a1) <span id="f1"></span> [Article 1 (Author 1)](http://example.net/article)
 
-Connect some text using short links <span id="a1">[\[1\]](#f1)</span>, <span id="a2">[\[2\]](#f2)</span>, <span id="a3">[\[3\]](#f3)</span> with links and source in **Footnote** edit. Kepp numbering in links organized: [[1]](#a1) <span id="f1"></span> [Article 1 (Author 1)](http://example.net/article)
-
 ## Prose.io editor
 
-Every page may be edited in [Prose.io](www.prose.io) editor using link "Edit the "page name"" at top-left section of each page. To save  changes you may need have an account and be authorized as [GitHub](https://github.com/join) user.
+Любую страницу можно отредактировать с помощью сайта [Prose.io](www.prose.io) перейдя по ссылке **Edit**. Чтобы сохранить изменения нужно авторизоваться как пользователь [GitHub](https://github.com/join).
