@@ -5,27 +5,31 @@ layout: info
 published: true
 ---
 
-# Ссылка «Редактировать»
+## Ссылка «Редактировать»
 
 Измени любую страницу, следуя по ссылке **Редактировать** вверху каждой страницы, и перейдя в редактор Prose.io. Внимание: для сохранения изменений нужен аккаунт [GitHub](https://github.com/join).
 
-# Создай страницу
+## Создай страницу
 
 + Перейди в [Редктор](http://prose.io/#indexmod/encyclopedia/edit/master/sandbox.md)
+
 + Найди `template.md` и скопируй содержимое
+
 + Во вкладке encyclopedia создай новый файл с расширением .md
+
 + Вклей содержимое `template.md` в новый файл
+
 + Отредактируй **Page title** и **Permalink** в верхней области файла отделённой тремя дефисами ---
 
-# Написание статьи
+## Написание статьи
 
 Цель Индексмод энциклопедии упростить синтакс wiki для красивого и легкого вида статей. Далее несколко советов по аккуратному редактирванию.
 
-# Markdown
+## Markdown
 
 Каждая страница создана с помшью [Markdown](https://daringfireball.net/projects/markdown/syntax) лёгкого и простого языка для создания статических страниц.
 
-#  Front matter
+##  Front matter
 
 Каждая страница имеет скрытую область с мета-данными. Эта область **Front matter** отделена тройными дефисами.
 
@@ -37,11 +41,11 @@ published: true
 
 Пример сверху это **Front matter** странцы с заголовком **How to edit**. Типичный **Front matter** может содержать **Page title**, **Permalink**, **Layout** и другие мета-данные.
 
-# Структура страницы
+## Структура страницы
 
 Видимая часть страницы состоит из **Заголовка**, раздела **Основной**, **Картинки** с **Описанием** и **Кредитами**, раздела **Конспект**, разделов **См. также** м **Сноски**.
 
-# Заголовок  
+## Заголовок  
 
 `# Aberdeen Fashion Week`
 `# Tailor, Victoria`
@@ -49,7 +53,7 @@ published: true
 
 Заголовок содержит название предмета статьи **Рынок Ями-Ичи**, фамилию и имя **Пугачева, Алла** и может быть дополнена уточнением **Рубчинский, Гоша (дизайнер)**.
 
-# Основной раздел
+## Основной раздел
 
 `(Born 1968, Paris)`
 `(Est. 2012, Moscow)`
@@ -64,7 +68,7 @@ published: true
 
 <span id="a1">[\[1\]](#f1)</span>
 
-# Картинка. подпись и кредиты
+## Картинка. подпись и кредиты
 
 Это ссылка картинки
 
@@ -88,7 +92,7 @@ published: true
 
 Название или описание иллюстрации должно быть **жирным шрифтом**. Строка с кредитами начинается с **Имени фотографа** должна быть *курсивом* с [активной ссылкой](active-link.md) и после наклонного разделителя должен быть указан источник откуда взята фотография, и/или название издания. Ссылки могут указывать на еще **не созданные страницы** в энциклопедии c таким **фамилия-имя** и таким видом **название-издания** латиницей.
 
-# Раздел «Конспект»
+## Раздел «Конспект»
 
 Используй шаблон этого раздела для представления любых структурированных списков и данных
 
@@ -106,7 +110,7 @@ published: true
 |2015|Moscow|
 |2017|Paris|
 
-# Раздел «См. также»
+## Раздел «См. также»
 
 See also section connects your page with others pages in Indexmod Encyclopedia. Use following template combining list and link styling syntax. The code
 
@@ -116,7 +120,7 @@ Will be rendered as
 
 + [See also](index)
 
-# Footnotes
+## Раздел Ссылки
 
 Code for footnote
 
@@ -128,6 +132,6 @@ Will be rendered as
 
 Connect some text using short links <span id="a1">[\[1\]](#f1)</span>, <span id="a2">[\[2\]](#f2)</span>, <span id="a3">[\[3\]](#f3)</span> with links and source in **Footnote** edit. Kepp numbering in links organized: [[1]](#a1) <span id="f1"></span> [Article 1 (Author 1)](http://example.net/article)
 
-# Prose.io editor
+## Prose.io editor
 
 Every page may be edited in [Prose.io](www.prose.io) editor using link "Edit the "page name"" at top-left section of each page. To save  changes you may need have an account and be authorized as [GitHub](https://github.com/join) user.
