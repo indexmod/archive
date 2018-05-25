@@ -16,7 +16,7 @@ indexmod: '0,26'
 
 *Photo: [Lookbook](nina-donis) / [Vogue Ukraine](https://vogue.ua/article/fashion/brend/novaya-kollekciya-nina-donis-v-asthik.html)*
 
-# Early collections
+## Early collections
 
 |Name|Season|City|
 |-|-|-|
@@ -29,14 +29,14 @@ indexmod: '0,26'
 |3хх-23|AW 2003/2004|Moscow|
 |Rex|SS 2004|London|
 
-# Nina Donis Indexmod
+## Nina Donis Indexmod
 
 |Year|Facebook|Instagram|Age|NDI|
 |-|-|-|-|-|
 |2018|396 <span id="a3">[\[3\]](#f3)</span>|14100 <span id="a4">[\[4\]](#f4)</span>|18|0,268056|
 |2019|||19||
 
-# See also
+## See also
 
 + [Amelin, Tom](amelin-tom)
 + [Indexmod Encyclopedia](indexmod-encyclopedia)
@@ -46,7 +46,7 @@ indexmod: '0,26'
 + [Pupis, Donis](pupis-donis)
 + [Sovetski, Mai](sovetski-mai)
 
-# Footnotes
+## Footnotes
 
 [[1]](#a1) <span id="f1"></span> [Nina Donis A/W 12/13 fashion film (4S4R)](http://ninadonis-work.tumblr.com)
 
@@ -55,5 +55,3 @@ indexmod: '0,26'
 [[3]](#a3) <span id="f3"></span> [Nina Donis Friends (Facebook)](https://www.facebook.com/nina.donis/friends)
 
 [[4]](#a4) <span id="f4"></span> [Nina Donis (Instagram)](https://www.instagram.com/nina_donis)
-
-`Last update Feb. 2018 (Andrei Dei)`
