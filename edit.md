@@ -128,6 +128,16 @@ Will be rendered as
 
 Connect some text using short links <span id="a1">[\[1\]](#f1)</span>, <span id="a2">[\[2\]](#f2)</span>, <span id="a3">[\[3\]](#f3)</span> with links and source in **Footnote** edit. Kepp numbering in links organized: [[1]](#a1) <span id="f1"></span> [Article 1 (Author 1)](http://example.net/article)
 
+## Translate some page in
+
+Create the copy of the page which you want to be translated. Use another language translated [sample of the page](internet-yami-ichi) as guide. 
+
+Put this 
+
+`Translation label` 
+
+on top section of the page as warning for other editors.
+
 ## Prose.io editor
 
 Every page may be edited in [Prose.io](www.prose.io) editor using link "Edit the "page name"" at top-left section of each page. To save  changes you may need have an account and be authorized as [GitHub](https://github.com/join) user.
