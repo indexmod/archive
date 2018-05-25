@@ -16,7 +16,7 @@ indexmod: Indexmod
 *Photo: [Igor Vasiliadis](igor-vasiliadis) / [Indexmod Encyclopedia](index)*
 
 
-# See also
+## See also
 
 + [Aberdeen Fashion Week](aberdeen-fashion-week)
 + [Acid Noodles](acid-noodles)
@@ -24,6 +24,6 @@ indexmod: Indexmod
 + [Ognenny, Oleg](ognenny-oleg)
 + [Litvinova, Violetta](litvinova-violetta)
 
-# Footnotes
+## Footnotes
 
 [[1]](#a1) <span id="f1"></span> [Выставку памяти Виолетты Литвиновой откроют в «Стране чудес» (Intermedia)](http://www.intermedia.ru/news/286753)
