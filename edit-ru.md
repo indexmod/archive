@@ -123,17 +123,19 @@ published: true
 
 ## Раздел «См. также»
 
-See also section connects your page with others pages in Indexmod Encyclopedia. Use following template combining list and link styling syntax. The code
+«См. также» соединяет определенную статью со связанными по теме статьями в Indexmod blockchainpedia. Используй шаблон ниже  для форматирование списка ссылок. 
+
+Код
 
 `+ [See also](index)`
 
-Will be rendered as
+Будет выглядеть так
 
 + [See also](index)
 
 ## Раздел Ссылки
 
-Код ссылок
+Код 
 
 `[[1]](#a1) <span id="f1"></span> [Article 1 (Author 1)] (http://example.net/article)`
 
