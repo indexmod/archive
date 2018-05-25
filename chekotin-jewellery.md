@@ -24,14 +24,13 @@ founder: Alexander and Maria Chekotin
 
 **Pendant from the collection Leonardo by Chekotin Jewellery**
 
-*Photo: [Chekotin Jewellery](index) / [Source](index)*
+*Photo: [Chekotin Jewellery](chekotin-jewellery) / [Source](chekotin-jewellery)*
 
 ## {{page.title}} conspectus
 
-|Stores|City|
+|Store|City|
 |-|-|
-|36 NOVIY ARBAT ST.,
-SPHERE SHOPPING MALL|Moscow|
+|36 Novy Arbat Sphere Mall|Moscow|
 
 ## {{page.title}} Indexmod [*](indexmod)
 
