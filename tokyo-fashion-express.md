@@ -3,6 +3,7 @@ title: Tokyo Fashion Express
 permalink: tokyo-fashion-express
 layout: default
 published: true
+shortname: TFEX
 ---
 
 (Est. 2013, city) is a TV programm produced by NHK <span id="a1">[\[1\]](#f1)</span>.
