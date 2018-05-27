@@ -11,9 +11,9 @@ title: Iris Van de Coevering
 
 ![](/images/{{ page.permalink }}.jpg)
 
-**Image**
+**Iris van de Coevering gives a treatment at the Spa 101 in the Hilton Bentley**
 
-*Photo: [Not specified](index) / [Source](index)*
+*Photo: [Peter Andrew Bosch](index) / [Miami.com](http://www.miami.com/things-to-do-in-miami/spa-fancy-spa-101-1271)*
 
 ## {{page.title}} conspectus
 
@@ -40,6 +40,8 @@ title: Iris Van de Coevering
 
 
 ## Footnotes
+
+[[1]](#a1) <span id="f1"></span> [Spa Fancy: Spa 101 (Miami.com)](http://www.miami.com/things-to-do-in-miami/spa-fancy-spa-101-1271/)
 
 [[3]](#a3) <span id="f3"></span> [{{page.title}} (Facebook)](index)
 
