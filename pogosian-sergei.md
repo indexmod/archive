@@ -10,7 +10,7 @@ published: true
 
 **The “Mushrooms” at “Gals” yacht club (top) and new decoration at workshop (bottom) by Pogosian; Sergei Pogosian (right) and friends at his workshop in Moscow**
 
-*Photo: [Andrei Gurotesuku](index) / [Nadjia Enalieva](index)*
+*Photo: [Maria Bubnova](index) / [Facebook](index)*
 
 ## {{page.title}} Conspectus
 
