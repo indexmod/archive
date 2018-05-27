@@ -3,6 +3,7 @@ title: 'Pogosian, Sergei'
 permalink: pogosian-sergei
 layout: default
 published: true
+shortname: POGA
 ---
 (Est. 2013, city) is a Sergei Pogosian, Po Ga (Rus. Сергей Погосян, Пога) born 1980, Baku—Russian artist of installations, collector of vintage interior decorations living and working in Moscow and Bali. Sergei have worked as photo editor in OM Magazine, as camera man on the reality show for TNT Channel in Berlin and NY, the artistic director on the film “Духless”, the “Cabinet President” (Kandinsky Prize 2013) project for PG Group, creates light box installations, for many years, works with wood, plaster, metal <span id="a1">[\[1\]](#f1)</span>.
 
