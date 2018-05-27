@@ -3,7 +3,7 @@ title: 'Neretina, Nina'
 permalink: neretina-nina
 layout: default
 published: true
-shortname: NINE
+shortname: NENI
 indexmod: Indexmod
 birth: '1967'
 age: '51'
