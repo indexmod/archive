@@ -21,7 +21,7 @@ founder: Name
 
 ![(Image correspondent to the article of “{{ page.title }}”. To see an image try another browser!)]({{ site.url }}/images/{{ page.permalink }}.jpg)
 
-**Nina Neretina**
+**Nina Neretina and her husband Donis**
 
 *Photo: [Not specified](index) / [The Fashion Model Directory](http://www.fashionmodeldirectory.com/designers/nina-neretina--donis-poupis/)*
 
