@@ -5,6 +5,7 @@ layout: default
 shortname: VDCI
 birth: 1974
 city: Baku
+title: Iris Van de Coevering
 ---
 
 
@@ -48,4 +49,3 @@ city: Baku
 [[5]](#a5) <span id="f5"></span> [{{page.title}} (YouTube)](index)
 
 [[6]](#a6) <span id="f6"></span> [{{page.title}} (Twitter)](index)
-
