@@ -8,7 +8,7 @@ born: null
 birth: 1980
 city: Baku
 ---
-(Rus. Сергей Погосян, Пога, Born {{ page.birth }}, {{ page.city }}) also Po Ga is a Russia and Karabakh artist of installations, collector of vintage interior decorations living and working in Moscow and Bali. Sergei have worked as photo editor in OM Magazine, as camera man on the reality show for TNT Channel in Berlin and NY, the artistic director on the film “Духless”, the “Cabinet President” (Kandinsky Prize 2013) project for PG Group, creates light box installations, for many years, works with wood, plaster, metal <span id="a1">[\[1\]](#f1)</span>.
+(Rus. Сергей Погосян, Пога, born {{ page.birth }}, {{ page.city }}) also Po Ga is a Russian and Karabakh artist of installations, collector of vintage interior decorations living and working in Moscow and Bali. Sergei have worked as photo editor in OM Magazine, as camera man on the reality show for TNT Channel in Berlin and NY, the artistic director on the film “Духless”, the “Cabinet President” (Kandinsky Prize 2013) project for PG Group, creates light box installations, for many years, works with wood, plaster, metal <span id="a1">[\[1\]](#f1)</span>.
 
 ![](/images/{{ page.permalink }}.jpg)
 
