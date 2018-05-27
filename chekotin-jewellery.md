@@ -22,7 +22,7 @@ founder: Alexander and Maria Chekotin
 
 ![](/images/{{ page.permalink }}.jpg)
 
-**Pendant from the collection Leonardo by Chekotin Jewellery**
+**Pendant from the collection “Leonardo” by Chekotin Jewellery**
 
 *Photo: [Chekotin Jewellery](chekotin-jewellery) / [Source](chekotin-jewellery)*
 
