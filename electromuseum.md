@@ -8,7 +8,7 @@ shortname: EMUS
 
 (Rus. Электромузей, est. 2015, Moscow) exhibition space focused on media art in Moscow established in “Rostokino” by “Vystavochnie Zaly Moskvy” <span id="a1">[\[1\]](#f1)</span>.
 
-![](/images/image-name.jpg)
+![(Image correspondent to the article of “{{ page.title }}”. To see an image try another browser!)]({{ site.url }}/images/{{ page.permalink }}.jpg)
 
 **Promo image of the “Gif-gif-gaf” an offline gif-art exhibition**
 
