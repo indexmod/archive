@@ -9,7 +9,7 @@ title: Iris Van de Coevering
 ---
 
 
-(Est. {{ page.birth }}, {{ page.city }}) is a --- <span id="a1">[\[1\]](#f1)</span>.
+(Est. {{ page.birth }}, {{ page.city }}), also Uma Kumari is a Russian designer, founder of the brand of Uma Kumari <span id="a1">[\[1\]](#f1)</span>. Living at Denpasar.
 
 ![](/images/{{ page.permalink }}.jpg)
 
@@ -39,6 +39,7 @@ title: Iris Van de Coevering
 
 + [Sergei Pogosian](pogosian-sergei)
 + [Bali](bali)
+
 
 ## Footnotes
 
