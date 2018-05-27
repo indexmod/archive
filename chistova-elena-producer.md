@@ -3,6 +3,7 @@ title: 'Chistova, Elena'
 permalink: chistova-elena-producer
 layout: default
 published: true
+shortname: CHEL
 ---
 
 
