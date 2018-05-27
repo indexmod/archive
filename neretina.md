@@ -3,6 +3,19 @@ title: 'Neretina, Nina'
 permalink: neretina-nina
 layout: default
 published: true
+shortname: NINE
+indexmod: Indexmod
+birth: '1967'
+age: '18'
+updateyear: '2018'
+city: Moscow
+facebook: '0,0'
+instagram: '0,0'
+youtube: '0,0'
+vimeo: '0,0'
+twitter: '0,0'
+tumblr: '0,0'
+founder: Name
 ---
 (Rus. Нина Неретина, born {{ page.birth }}, {{ page.city }}) is a --- <span id="a1">[\[1\]](#f1)</span>.
 
