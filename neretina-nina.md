@@ -23,7 +23,7 @@ founder: Name
 
 **Nina Neretina**
 
-*Photo: [Name](index) / [Source](index)*
+*Photo: [Not specified](index) / [The Fashion Model Directory](http://www.fashionmodeldirectory.com/designers/nina-neretina--donis-poupis/)*
 
 ## See also
 
