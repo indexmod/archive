@@ -1,8 +1,9 @@
 ---
 title: 'Келли-Брант, Мегин Мари'
 permalink: kelly-brunt-megyn-marie
-layout: default-ru
+layout: default
 published: true
+shortname: KBMM
 ---
 
 (Eng. Megyn Marie Kelly-Brunt; укр. Мегін Келлі, род. 1970, Шампейн) американская журналистка и телеведущая стала изветстна в России после нескольких интервью с Дональдом Трампом и Владимиром Путиным, также известна в США поддержкой анти-ЛГБТ групп <span id="a1">[\[1\]](#f1)</span>.
