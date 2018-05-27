@@ -38,13 +38,14 @@ founder: Name
 |-|-|-|-|-|
 |2018|100 <span id="a3">[\[3\]](#f3)</span>|200 <span id="a4">[\[4\]](#f4)</span>|300 <span id="a4">[\[4\]](#f4)</span>|12|0,0025|
 
-
 ## See also
 
 + [Donis Pupis](index)
 + [Nina Donis](index)
 
 ## Footnotes
+
+[[1]](#a1) <span id="f1"></span> [{{page.title}} (XXXXXX)](index)
 
 [[3]](#a3) <span id="f3"></span> [{{page.title}} (Facebook)](index)
 
