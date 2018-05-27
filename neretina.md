@@ -6,9 +6,9 @@ published: true
 shortname: NINE
 indexmod: Indexmod
 birth: '1967'
-age: '18'
+age: '51'
 updateyear: '2018'
-city: Moscow
+city: Voronezhskaya Oblast
 facebook: '0,0'
 instagram: '0,0'
 youtube: '0,0'
