@@ -17,13 +17,9 @@ twitter: '0,0'
 tumblr: '0,0'
 founder: Name
 ---
-(Rus. Нина Неретина, born {{ page.birth }}, {{ page.city }}) is a --- <span id="a1">[\[1\]](#f1)</span>.
+(Rus. Нина Неретина, born {{ page.birth }}, {{ page.city }}) is a Russian fashion designer, a graduate of Moscow Textile Academy, co-founder of the brand Nina Donis living and working in Cyprus and Moscow <span id="a1">[\[1\]](#f1)</span>.
 
 ![(Image correspondent to the article of “{{ page.title }}”. To see an image try another browser!)]({{ site.url }}/images/{{ page.permalink }}.jpg)
-
-(Est. 2013, city) Nina Neretina 71 SNC (Rus. Нина Неретина) born 1967, Voronezhskaya Oblast Russian fashion designer, a graduate of Moscow Textile Academy, co-founder of the brand Nina Donis living and working in Cyprus and Moscow <span id="a1">[\[1\]](#f1)</span>.
-
-![](/encyclopedia/images/image-name.jpg)
 
 **Image title**
 
