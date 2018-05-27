@@ -37,8 +37,8 @@ title: Iris Van de Coevering
 
 ## See also
 
-+ [About {{page.title}}](index)
-+ [{{page.title}} at Wikipedia](index)
++ [Sergei Pogosian](pogosian-sergei)
++ [Bali](bali)
 
 ## Footnotes
 
