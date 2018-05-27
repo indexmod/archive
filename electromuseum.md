@@ -9,15 +9,15 @@ published: true
 
 ![](/images/image-name.jpg)
 
-**Promo image of the “Gif-gif-gaf”—an offline gif-art exhibition**
+**Promo image of the “Gif-gif-gaf” an offline gif-art exhibition**
 
 *Photo: [Zack Dougherty (Hateplow)](index) / [Electromuseum](index)*
 
 
-## {{page.title}} Selected exhibitions
+## {{page.title}} selected exhibitions
 
- + 2015  Gif-gif-gaf  Anna Titovets
- + 2016  Antimuseum  Electromuseum
+ |2015|Gif-gif-gaf|Anna Titovets|
+ |2016|Antimuseum|Electromuseum|
 
 ## See also
 
