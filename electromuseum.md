@@ -3,6 +3,7 @@ title: Electromuseum
 permalink: electromuseum
 layout: default
 published: true
+shortname: EMUS
 ---
 
 (Rus. Электромузей, est. 2015, Moscow) exhibition space focused on media art in Moscow established in “Rostokino” by “Vystavochnie Zaly Moskvy” <span id="a1">[\[1\]](#f1)</span>.
