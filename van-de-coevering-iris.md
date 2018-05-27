@@ -7,7 +7,7 @@ birth: 1974
 city: Baku
 title: Iris Van de Coevering
 ---
-(Born {{ page.birth }}, {{ page.city }}), also Uma Kumari is a Russian designer, founder of the brands of Spa 101 and Uma Kumari <span id="a1">[\[1\]](#f1)</span>. Living at Denpasar.
+(Born {{ page.birth }}, {{ page.city }}), also Uma Kumari is a Russian designer, founder of the brands of Spa 101 and Uma Kumari <span id="a1">[\[1\]](#f1)</span>. Living in Denpasar.
 
 ![ Image of the “{{ page.title }}”]({{ site.url }}/images/{{ page.permalink }}.jpg)
 
