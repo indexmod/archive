@@ -9,7 +9,7 @@ shortname: CHEL
 
 (Rus. Елена Чистова, born. 1958, Sverdlovsk) Russian music producer working and living in Moscow <span id="a1">[\[1\]](#f1)</span>.
 
-![](/encyclopedia/images/chistova-elena.jpg)
+![](/images/chistova-elena.jpg)
 
 **Elena Chistova**
 
