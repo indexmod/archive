@@ -30,14 +30,14 @@
 	<meta content="{{page.shortname}} | {{ page.content | number_of_words }}" name="title">
 	
 	
-	<!-- Indexmod encyclopedia browser and facebook presentation -->
+	<!-- Indexmod blockchainpedia browser and facebook presentation -->
 	
 	<meta content="{{page.title}} | {{page.shortname}} ({{ page.content | number_of_words }})" property="og:title">
 	<meta content="{{site.url}}/images/{{page.permalink}}.jpg" property="og:image">
 	<meta content="Indexmod" property="og:site_name">
-	<meta content="Indexmod is a fashion and art blockchainpedia. Updated on {{ site.time | date_to_long_string }} update day for «{{page.title}}»" property="og:description">
+	<meta content="Indexmod is a fashion and art blockchainpedia. Updated on {{ site.time | date_to_long_string }} the article for {{page.title}} at Indexmod blockchainpedia" property="og:description">
 	
-	<!-- Indexmod encyclopedia browser and facebook presentation -->
+	<!-- Indexmod blockchainpedia browser and facebook presentation -->
 </head>
 <body>
 	<link href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}" rel="stylesheet">
