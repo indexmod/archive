@@ -12,24 +12,6 @@ published: true
 
 *Photo: [Maria Bubnova](index) / [Facebook](index)*
 
-## {{page.title}} Conspectus
-
-|Year|City|
-|-|-|
-|2014|Bali|
-
-## {{page.title}} Indexmod [*](indexmod)
-
-|Variables|2018|2019|
-|-|-|-|
-|Facebook <span id="a3">[\[3\]](#f3)</span>|{{ page.facebook }}||
-|Instagram <span id="a4">[\[4\]](#f4)</span>|{{ page.instagram }}||
-|YouTube <span id="a5">[\[5\]](#f5)</span>|{{ page.youtube }}||
-|Twitter <span id="a6">[\[6\]](#f6)</span>|{{ page.twitter }}||
-|Age|{{ page.age }}||
-|Indexmod|{{ page.content | number_of_words }}||
-|Total|{{ page.indexmod }}||
-
 
 ## See also
 
