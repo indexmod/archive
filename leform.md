@@ -41,14 +41,16 @@ pinterest: '113'
 
 ## See also
 
-+ [Gosha Gazinskaya](index)
-+ [Nina Donis](index)
-+ [Rodion Mamontov](index)
-+ [Tom Amelin](index)
-+ [Aliona Doletskaya](index)
-+ [Dirk Bickembergs](index)
-+ [Dries Van Noten](index)
-+ [Martin Margiela](index)
++ [Artspeaksnow](artspeaksnow)
++ [Muka Concepts](muka-concepts)
++ [Gosha Gazinskaya](gosha-gazinskaya)
++ [Nina Donis](nina-donis)
++ [Rodion Mamontov](mamontov-rodion)
++ [Tom Amelin](amelin-tom)
++ [Aliona Doletskaya](doletskaya-aliona)
++ [Dirk Bickembergs](bickembergs-dirk)
++ [Dries Van Noten](noten-dries-van)
++ [Martin Margiela](margiela-martin)
 
 ## Footnotes
 
