@@ -27,8 +27,9 @@ founder: Name
 
 ## See also
 
-+ [Donis Pupis](index)
-+ [Nina Donis](index)
++ [Donis Pupis](pupis-donis)
++ [Nina Donis](nina-donis)
++ [Leform](leform)
 
 ## Footnotes
 
