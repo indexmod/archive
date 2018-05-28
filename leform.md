@@ -33,7 +33,7 @@ pinterest: '113'
 |-|-|-|
 |Facebook <span id="a3">[\[3\]](#f3)</span>|{{ page.facebook }}||
 |Instagram <span id="a4">[\[4\]](#f4)</span>|{{ page.instagram }}||
-|YouTube <span id="a5">[\[5\]](#f5)</span>|{{ page.youtube }}||
+|Pinterest <span id="a5">[\[5\]](#f5)</span>|{{ page.pinterest }}||
 |Twitter <span id="a6">[\[6\]](#f6)</span>|{{ page.twitter }}||
 |Age|{{ page.age }}||
 |Indexmod|{{ page.content | number_of_words }}||
@@ -56,7 +56,7 @@ pinterest: '113'
 
 [[4]](#a4) <span id="f4"></span> [{{page.title}} (Instagram)](https://www.instagram.com/leformstore/)
 
-[[5]](#a5) <span id="f5"></span> [{{page.title}} (YouTube)](index)
+[[5]](#a5) <span id="f5"></span> [{{page.title}} (Pinterest)](https://ru.pinterest.com/kmamontova/leformstore/)
 
 [[6]](#a6) <span id="f6"></span> [{{page.title}} (Twitter)](index)
 
