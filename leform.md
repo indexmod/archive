@@ -13,7 +13,7 @@ facebook: '36072'
 instagram: '48300'
 youtube: '0,0'
 vimeo: '0,0'
-twitter: '0,0'
+twitter: '1232'
 tumblr: '0,0'
 founder: Rodion Mamomtov
 pinterest: '113'
