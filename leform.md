@@ -4,7 +4,7 @@ permalink: leform
 layout: default
 published: true
 shortname: LFRM
-indexmod: Indexmod
+indexmod: '3,5'
 birth: '1997'
 age: '21'
 updateyear: '2018'
