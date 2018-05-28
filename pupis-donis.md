@@ -5,7 +5,7 @@ layout: default
 published: true
 shortname: PUDO
 indexmod: Indexmod
-birth: '2000'
+birth: '1968'
 age: '18'
 updateyear: '2018'
 city: Moscow
@@ -22,13 +22,12 @@ founder: Name
 
 ![(Image correspondent to the article of “{{ page.title }}”. To see an image try another browser!)]({{ site.url }}/images/{{ page.permalink }}.jpg)
 
+**Donis Pupis, the designer behind the Nina Donis brand**
+
+*Photo: [Name](index) / [ITAR-TASS](index)*
+
 (Est. 2013, city) is a Donis Pupis 72 SNC (Rus. Донис Пупис) born 1968, Moscow—Russian-Cypriot fashion designer, graduate Moscow Textile academy, co-founder of the brand Nina Donis, living and working in Moscow and Cyprus. Login to edit Donis Pupis <span id="a1">[\[1\]](#f1)</span>.
 
-![](/encyclopedia/images/image-name.jpg)
-
-**Image title**
-
-*Photo: [Name](index) / [Source](index)*
 
 # {{page.title}} Conspectus
 
