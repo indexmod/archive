@@ -52,6 +52,10 @@ pinterest: '113'
 
 ## Footnotes
 
+[[1]](#a1) <span id="f1"></span> [Прямая речь: Родион Мамонтов (Lookatme.ru)](http://www.lookatme.ru/flow/posts/fashion-radar/98283-intervyu-s-rodionom-mamontovym-2010-06-29)
+
+[[2]](#a2) <span id="f2"></span> [About (Leform.ru)](https://leform.ru/about/)
+
 [[3]](#a3) <span id="f3"></span> [{{page.title}} (Facebook)](https://www.facebook.com/LEFORM.store/)
 
 [[4]](#a4) <span id="f4"></span> [{{page.title}} (Instagram)](https://www.instagram.com/leformstore/)
@@ -59,7 +63,3 @@ pinterest: '113'
 [[5]](#a5) <span id="f5"></span> [{{page.title}} (Pinterest)](https://ru.pinterest.com/kmamontova/leformstore/)
 
 [[6]](#a6) <span id="f6"></span> [{{page.title}} (Twitter)](https://twitter.com/leformstore)
-
-
-
-
