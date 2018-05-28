@@ -1,10 +1,14 @@
 ---
-title: Pupis, Donis
+title: 'Pupis, Donis'
 permalink: pupis-donis
 layout: default
+published: true
 ---
 
-# {{page.title}}
+(Est. {{ page.birth }}, {{ page.city }}) is a --- <span id="a1">[\[1\]](#f1)</span>.
+
+![(Image correspondent to the article of “{{ page.title }}”. To see an image try another browser!)]({{ site.url }}/images/{{ page.permalink }}.jpg)
+
 
 (Est. 2013, city) is a Donis Pupis 72 SNC (Rus. Донис Пупис) born 1968, Moscow—Russian-Cypriot fashion designer, graduate Moscow Textile academy, co-founder of the brand Nina Donis, living and working in Moscow and Cyprus. Login to edit Donis Pupis <span id="a1">[\[1\]](#f1)</span>.
 
