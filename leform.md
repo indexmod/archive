@@ -53,7 +53,7 @@ founder: Rodion Mamomtov
 
 [[3]](#a3) <span id="f3"></span> [{{page.title}} (Facebook)](https://www.facebook.com/LEFORM.store/)
 
-[[4]](#a4) <span id="f4"></span> [{{page.title}} (Instagram)](index)
+[[4]](#a4) <span id="f4"></span> [{{page.title}} (Instagram)](https://www.instagram.com/leformstore/)
 
 [[5]](#a5) <span id="f5"></span> [{{page.title}} (YouTube)](index)
 
