@@ -9,13 +9,14 @@ birth: '1997'
 age: '21'
 updateyear: '2018'
 city: Moscow
-facebook: '0,0'
-instagram: '0,0'
+facebook: '36072'
+instagram: '48300'
 youtube: '0,0'
 vimeo: '0,0'
 twitter: '0,0'
 tumblr: '0,0'
 founder: Rodion Mamomtov
+pinterest: '113'
 ---
 
 (Rus. Леформ, est. {{ page.birth }}, {{ page.city }}) is an oldest multibrand conceptual store in Russia founded by {{ page.founder }} <span id="a1">[\[1\]](#f1)</span> at Povarskaya street in Moscow. At the beginning of 2016, Leform is a chain of 3 stores including new flagship men's and women's store at 7 Dmitrovsky pereulok and the 17th kilometer from MKAD on Dmitrovskoye Shosse in an area of Kashtanovaya Roshcha in Moscow region <span id="a2">[\[2\]](#f2)</span>.
