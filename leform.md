@@ -58,7 +58,7 @@ pinterest: '113'
 
 [[5]](#a5) <span id="f5"></span> [{{page.title}} (Pinterest)](https://ru.pinterest.com/kmamontova/leformstore/)
 
-[[6]](#a6) <span id="f6"></span> [{{page.title}} (Twitter)](index)
+[[6]](#a6) <span id="f6"></span> [{{page.title}} (Twitter)](https://twitter.com/leformstore)
 
 
 
