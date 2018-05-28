@@ -5,6 +5,17 @@ layout: default
 published: true
 shortname: NIDO
 indexmod: '0,26'
+birth: '2000'
+age: '18'
+updateyear: '2018'
+city: Moscow
+facebook: '0,0'
+instagram: '0,0'
+youtube: '0,0'
+vimeo: '0,0'
+twitter: '0,0'
+tumblr: '0,0'
+founder: 'Nina Neretina, Donis Pupis'
 ---
 
 
