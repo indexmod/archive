@@ -6,7 +6,7 @@ published: true
 shortname: PUDO
 indexmod: Indexmod
 birth: '1968'
-age: '18'
+age: '50'
 updateyear: '2018'
 city: Moscow
 facebook: '0,0'
