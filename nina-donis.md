@@ -29,12 +29,17 @@ indexmod: '0,26'
 |3хх-23|AW 2003/2004|Moscow|
 |Rex|SS 2004|London|
 
-## Nina Donis Indexmod
+## {{page.title}} Indexmod [*](indexmod)
 
-|Year|Facebook|Instagram|Age|NDI|
-|-|-|-|-|-|
-|2018|396 <span id="a3">[\[3\]](#f3)</span>|14100 <span id="a4">[\[4\]](#f4)</span>|18|0,268056|
-|2019|||19||
+|Variables|2018|2019|
+|-|-|-|
+|Facebook <span id="a3">[\[3\]](#f3)</span>|{{ page.facebook }}||
+|Instagram <span id="a4">[\[4\]](#f4)</span>|{{ page.instagram }}||
+|YouTube <span id="a5">[\[5\]](#f5)</span>|{{ page.youtube }}||
+|Twitter <span id="a6">[\[6\]](#f6)</span>|{{ page.twitter }}||
+|Age|{{ page.age }}||
+|Indexmod|{{ page.content | number_of_words }}||
+|Total|{{ page.indexmod }}||
 
 ## See also
 
