@@ -1,5 +1,5 @@
 ---
-title: Davydova, Victoria
+title: 'Davydova, Victoria'
 permalink: davydova-victoria
 layout: default
 shortname: VIDA
@@ -22,15 +22,15 @@ founder: Name
 
 ![(Image correspondent to the article of “{{ page.title }}”. To see an image try another browser!)]({{ site.url }}/images/{{ page.permalink }}.jpg)
 
-**Image**
+**Viktoria Davydova**
 
-*Photo: [Not specified](index) / [Source](index)*
+*Photo: [Not specified](index) / [Condenast.ru](index)*
 
 ## {{page.title}} conspectus
 
-|Year|City|
+|Year|Milestone|
 |-|-|
-|2017|Moscow|
+|2018|Left the publishing house|
 
 ## {{page.title}} Indexmod [*](indexmod)
 
