@@ -1,5 +1,5 @@
 ---
-title: Fedorova, Maria
+title: 'Fedorova, Maria'
 permalink: fedorova-maria
 layout: default
 shortname: FEMA
@@ -18,7 +18,11 @@ published: true
 founder: Name
 ---
 
+<<<<<<< HEAD
 (Est. {{ page.birth }} <span id="a1">[\[1\]](#f1)</span>, {{ page.city }}) is a is a Russian stylist, Editor-in-Chief of Vogue,  <span id="a2">[\[2\]](#f2)</span>. Living and working in Moscow.
+=======
+(Rus. Мария Федорова, born {{ page.birth }}, {{ page.city }}) is a --- <span id="a1">[\[1\]](#f1)</span>.
+>>>>>>> a845fd537429270f300088e6b3c543c3a59fc5df
 
 ![(Image correspondent to the article of “{{ page.title }}”. To see an image try another browser!)]({{ site.url }}/images/{{ page.permalink }}.jpg)
 
