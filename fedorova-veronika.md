@@ -1,11 +1,11 @@
 ---
-title: Fedorova, Maria
-permalink: fedorova-maria
+title: Template
+permalink: fedorova-veronika
 layout: default
-shortname: FEMA
+shortname: FEVE
 indexmod: Indexmod
-birth: '1972'
-age: '46'
+birth: '1997'
+age: '21'
 updateyear: '2018'
 city: Moscow
 facebook: '0,0'
@@ -15,7 +15,7 @@ vimeo: '0,0'
 twitter: '0,0'
 tumblr: '0,0'
 published: true
-founder: Name
+mother: Maria Fedorova
 ---
 
 (Est. {{ page.birth }}, {{ page.city }}) is a --- <span id="a1">[\[1\]](#f1)</span>.
