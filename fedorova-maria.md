@@ -47,8 +47,9 @@ founder: Name
 
 ## See also
 
-+ [About {{page.title}}](index)
-+ [{{page.title}} at Wikipedia](index)
++ [Veronika Fedorova](fedorova-veronika)
++ [Victoria Davydova](davydova-victoria)
+
 
 ## Footnotes
 
