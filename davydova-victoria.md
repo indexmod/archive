@@ -1,5 +1,5 @@
 ---
-title: Victoria Davydova
+title: Davydova, Victoria
 permalink: davydova-victoria
 layout: default
 shortname: VIDA
@@ -18,7 +18,7 @@ published: true
 founder: Name
 ---
 
-(Est. {{ page.birth }}, {{ page.city }}) is a --- <span id="a1">[\[1\]](#f1)</span>.
+(Est. {{ page.birth }}, {{ page.city }}) is a Russian journalist, former editor-in-chief of the Russian magazine Vogue, former editor-consultant of the Glamor magazine, previously worked as editor-in-chief of the magazine Tatler <span id="a1">[\[1\]](#f1)</span>. In 2018 Victoria left the publishing house where she worked for 20 years.
 
 ![(Image correspondent to the article of “{{ page.title }}”. To see an image try another browser!)]({{ site.url }}/images/{{ page.permalink }}.jpg)
 
@@ -46,8 +46,8 @@ founder: Name
 
 ## See also
 
-+ [About {{page.title}}](index)
-+ [{{page.title}} at Wikipedia](index)
++ [Maria Fedorova](fedorova-maria)
++ [Anna Yaroshenko](yaroshenko-anna)
 
 ## Footnotes
 
