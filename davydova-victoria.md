@@ -2,7 +2,7 @@
 title: 'Davydova, Victoria'
 permalink: davydova-victoria
 layout: default
-shortname: VIDA
+shortname: DAVI
 indexmod: Indexmod
 birth: '1968'
 age: '50'
