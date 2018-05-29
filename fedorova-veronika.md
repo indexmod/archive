@@ -1,5 +1,5 @@
 ---
-title: Template
+title: Fedorova, Veronika
 permalink: fedorova-veronika
 layout: default
 shortname: FEVE
