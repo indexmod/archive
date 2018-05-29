@@ -8,11 +8,13 @@ published: true
 
 ![](/encyclopedia/images/yaroshenko.jpg)
 
+![(Image correspondent to the article of “{{ page.title }}”. To see an image try another browser!)]({{ site.url }}/images/{{ page.permalink }}.jpg)
+
 **Anna Yaroshenko in Penino**
 
 *Photo: [Andrei Dei](deinichenko-andrei) / [ Indexmod Encyclopedia](index)*
 
-# Children
+## Children
 
 |Children|Name|Birth|
 |--|--|--|
@@ -20,18 +22,17 @@ published: true
 |Daughter|Valentina Volkogonov|2010|
 
 
-# See also
+## See also
 
 - [La Reserve Vintage](reserve-vintage-la)
+
 - [Natalia Turovnikova](turovnikova-natalia)
 
 
-# Footnotes
+## Footnotes
 
 [[1]](#a1) <span id="f1"></span> [Article name (Author name)](http://example.net/article)
 
 [[2]](#a2) <span id="f2"></span> [Article name (Author name)](http://example.net/article)
 
 [[3]](#a3) <span id="f3"></span> [Article name (Author name)](http://example.net/article)
-
-`Updated Mar. 2018 (Andrei Dei)`
