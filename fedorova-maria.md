@@ -1,5 +1,5 @@
 ---
-title: Fedorova, Maria
+title: 'Fedorova, Maria'
 permalink: fedorova-maria
 layout: default
 shortname: FEMA
@@ -18,7 +18,7 @@ published: true
 founder: Name
 ---
 
-(Est. {{ page.birth }}, {{ page.city }}) is a --- <span id="a1">[\[1\]](#f1)</span>.
+(Rus. Мария Федорова, born {{ page.birth }}, {{ page.city }}) is a --- <span id="a1">[\[1\]](#f1)</span>.
 
 ![(Image correspondent to the article of “{{ page.title }}”. To see an image try another browser!)]({{ site.url }}/images/{{ page.permalink }}.jpg)
 
