@@ -18,21 +18,20 @@ published: true
 mother: Maria Fedorova
 ---
 
-(Est. {{ page.birth }}, {{ page.city }}) is a Russian stylist, Editor-in-Chief of Vogue in Russia <span id="a1">[\[1\]](#f1)</span>.
+(Est. {{ page.birth }}, {{ page.city }}) is a RSVP PR & Lifestyle Communications Agency
+Digital manager. <span id="a1">[\[1\]](#f1)</span>.
 
 ![(Image correspondent to the article of “{{ page.title }}”. To see an image try another browser!)]({{ site.url }}/images/{{ page.permalink }}.jpg)
 
-**Image**
+**Veronika Fedorova in 2017**
 
 *Photo: [Kirill Kirillov](kirillov-kirill) / [Peopletalk.ru](https://peopletalk.ru/article/novoe-pokolenie-doch-glavreda-glamour-mashi-fedorovoy-veronika-o-razvode-roditeley-pervoy-rabote-i-l/)*
 
-## {{page.title}} conspectus
+## {{page.title}} family
 
-|Year|Edition|
+|Relative|Name, ocupation|
 |-|-|
-|2001|GQ|
-|2003|Glamour|
-|2018|Vogue|
+|Mother|Maria Fedorova, Editor-in-Chief Vogue Russia|
 
 ## {{page.title}} Indexmod [*](indexmod)
 

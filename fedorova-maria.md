@@ -18,19 +18,21 @@ published: true
 founder: Name
 ---
 
-(Est. {{ page.birth }}, {{ page.city }}) is a --- <span id="a1">[\[1\]](#f1)</span>.
+(Est. {{ page.birth }} <span id="a1">[\[1\]](#f1)</span>, {{ page.city }}) is a is a Russian stylist, Editor-in-Chief of Vogue,  <span id="a2">[\[2\]](#f2)</span>. Living and working in Moscow.
 
 ![(Image correspondent to the article of “{{ page.title }}”. To see an image try another browser!)]({{ site.url }}/images/{{ page.permalink }}.jpg)
 
-**Image**
+**Maria Fedorova**
 
 *Photo: [Not specified](index) / [Source](index)*
 
 ## {{page.title}} conspectus
 
-|Year|City|
+|Year|Edition|
 |-|-|
-|2017|Moscow|
+|2001|GQ|
+|2003|Glamour|
+|2018|Vogue|
 
 ## {{page.title}} Indexmod [*](indexmod)
 
@@ -50,6 +52,10 @@ founder: Name
 + [{{page.title}} at Wikipedia](index)
 
 ## Footnotes
+
+[[1]](#a1) <span id="f1"></span> [Биография (Buro 24/7)](https://www.buro247.ru/stars/mariya-fedorova)
+
+[[2]](#a2) <span id="f2"></span> [Мария Фёдорова, главный редактор Glamour (The Village)](https://www.the-village.ru/village/service-shopping/on-the-street/160763-masha-fyodorova-glamour)
 
 [[3]](#a3) <span id="f3"></span> [{{page.title}} (Facebook)](index)
 
