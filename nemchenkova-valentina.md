@@ -1,5 +1,5 @@
 ---
-title: Nemchenkova, Valentina
+title: 'Nemchenkova, Valentina'
 permalink: nemchenkova-valentina
 layout: default
 shortname: NEVA
@@ -13,6 +13,7 @@ instagram: '2680'
 youtube: '0,0'
 vimeo: '0,0'
 soundcloud: '180'
+published: true
 ---
 
 (Rus. Валентина Немченкова, born {{ page.birth }}, {{ page.city }}) is a Russian costume designer <span id="a1">[\[1\]](#f1)</span>, model <span id="a2">[\[2\]](#f2)</span>, stylist <span id="a3">[\[3\]](#f3)</span> and DJ <span id="a4">[\[4\]](#f4)</span>. Living and working in Moscow.
@@ -28,13 +29,13 @@ soundcloud: '180'
 |Year|City|
 |-|-|
 |2003|Chanel catwalks|
-|2017|Ritz Carlton|
+|2017|Ritz Carlton Moscow DJ sets|
 
 ## {{page.title}} marriage and family  
 
 |Year|Name, relation|
 |-|-|
-|1999|Nemchinov, husband|
+|1999-2000|Eugeny Nemchinov (Smyslovye galutsinatsii), husband|
 
 ## {{page.title}} Indexmod [*](indexmod)
 
