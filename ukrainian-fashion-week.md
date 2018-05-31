@@ -3,6 +3,7 @@ title: Ukrainian Fashion Week
 permalink: ukrainian-fashion-week
 layout: default
 published: true
+shortname: URFW
 ---
 `To remove Template tag go Edit`
 
