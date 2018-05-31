@@ -3,6 +3,7 @@ title: 'Zaitsev, Vyacheslav'
 permalink: zaitsev-vyacheslav
 layout: default
 published: true
+shortname: ZAVY
 ---
 (Rus. Слава Зайцев, born 1938, Ivanovo) a Soviet in the past and Russian fashion designer, painter, graphic artist and theatrical costume designer, founder, CEO, creative director of Slava Zaitsev fashion house in Moscow  <span id="a1">[\[1\]](#f1)</span>.
 
