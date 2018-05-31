@@ -3,6 +3,7 @@ title: 'Zavyalova, Tatiana'
 permalink: zavyalova-tatiana
 layout: default
 published: true
+shortname: ZATA
 ---
 `To remove Template tag go Edit`
 
