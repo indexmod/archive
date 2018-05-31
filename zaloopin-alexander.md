@@ -15,7 +15,7 @@ indexmod: '0,004'
 
 *Photo: [Sergei Misenko](misenko-sergei) / [Sobaka](http://www.sobaka.ru/city/portrety/13779)*
 
-# Singles and albums
+## Singles and albums
 
 |Year|Name|
 |----|----|
@@ -23,11 +23,11 @@ indexmod: '0,004'
 |2016|Alladin (single) <span id="a5">[\[5\]](#f5)</span>|
 
 
-# Performances
+## Performances
 
 + “Chinese Pilot Jao Da” Club Moscow (2018)
 
-# Zaloopin Indexmod
+## Zaloopin Indexmod
 
 |Year|Facebook|Instagram|Age|ZLOO|
 |-|-|-|-|-|
@@ -35,13 +35,13 @@ indexmod: '0,004'
 |2019|||50||
 
 
-# See also
+## See also
 
 + [Kirill Shamanov](shamanov-kirill)
 + [Zaitsev, Vyacheslav](zaitsev-vyacheslav)
 + [Zambia Fashion Week, The](zambia-fashion-week-the)
 
-# Footnotes
+## Footnotes
 
 [[1]](#a1) <span id="f1"></span> [Портреты. Александр Залупин (Sobaka, Кирилл Шаманов)](http://www.sobaka.ru/city/music/10143)
 
@@ -53,5 +53,3 @@ indexmod: '0,004'
 [[4, 5]](#a4) <span id="f4"></span> [Alexander Zaloopin, Tracks, Albums (SoundCloud ®)](https://soundcloud.com/alexander-zaloopin)
 
 [[6]](#a6) <span id="f6"></span> [Александр Залупин. Музыкант (Facebook)](https://www.facebook.com/Александр-Залупин-514792745368492/)
-
-`Updated Mar. 2018 (Andrei Dei)`
