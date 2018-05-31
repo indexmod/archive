@@ -15,10 +15,10 @@ vimeo: '0,0'
 twitter: '0,0'
 tumblr: '0,0'
 published: true
-founder: Timothy Oulton, Vadim Yasnogorodky
+founder: 'Timothy Oulton, Vadim Yasnogorodky'
 ---
 
-(Est. {{ page.birth }}, {{ page.city }}) is a furniture concept store inspirited by British vintage style founded by {{ page.founder }}<span id="a1">[\[1\]](#f1)</span> and connected to Halo furniture factory.
+(Est. {{ page.birth }}, {{ page.city }}) is a furniture concept store inspirited by British vintage style founded by {{ page.founder }} <span id="a1">[\[1\]](#f1)</span> and connected to Halo furniture factory.
 
 ![(Image correspondent to the article of “{{ page.title }}”. To see an image try another browser!)]({{ site.url }}/images/{{ page.permalink }}.jpg)
 
