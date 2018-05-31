@@ -30,6 +30,12 @@ soundcloud: '180'
 |2003|Chanel catwalks|
 |2017|Ritz Carlton|
 
+## {{page.title}} marriage and family  
+
+|Year|Name, relation|
+|-|-|
+|1999|Nemchinov, husband|
+
 ## {{page.title}} Indexmod [*](indexmod)
 
 |Variables|2018|2019|
