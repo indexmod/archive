@@ -4,7 +4,7 @@ permalink: alexander-arutyunov-brand
 layout: default
 published: true
 ---
-'This is template, to remove this tag follow Edit link'
+`This is template, to remove this tag follow Edit link`
 
 (Est. {{ page.birth }}, {{ page.city }}) is a --- <span id="a1">[\[1\]](#f1)</span>.
 
