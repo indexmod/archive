@@ -16,14 +16,16 @@ twitter: '0,0'
 tumblr: '0,0'
 published: true
 ---
+`This is template, to remove this tag follow Edit link`
+
 
 (Est. {{ page.birth }}, {{ page.city }}) is a --- <span id="a1">[\[1\]](#f1)</span>.
 
-![](/images/{{ page.permalink }}.jpg)
+![(Image correspondent to the article of “{{ page.title }}”. To see an image try another browser!)]({{ site.url }}/images/{{ page.permalink }}.jpg)
 
 **Image**
 
-*Photo: [Name](index) / [Source](index)*
+*Photo: [Not specified](index) / [Source](index)*
 
 ## {{page.title}} conspectus
 
@@ -45,12 +47,12 @@ published: true
 
 ## See also
 
-+ [House of Artists on Vavilov 65](house-of-artists-on-vavilov-65.)
-+ [Al-Numan, Leila](al-numan-leila)
++ [About {{page.title}}](index)
++ [{{page.title}} at Wikipedia](index)
 
 ## Footnotes
 
-[[3]](#a3) <span id="f3"></span> [{{page.title}} (Facebook)](https://www.facebook.com/alexandria.glass.studio/?notif_id=1527024751169651&notif_t=page_invite)
+[[3]](#a3) <span id="f3"></span> [{{page.title}} (Facebook)](index)
 
 [[4]](#a4) <span id="f4"></span> [{{page.title}} (Instagram)](index)
 
