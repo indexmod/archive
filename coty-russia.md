@@ -4,6 +4,8 @@ permalink: coty-russia
 layout: default
 published: true
 shortname: CORU
+birth: 1999
+city: Moscow
 ---
 (Rus. Коти Россия, est {{ page.birth }}, {{ page.city }}) a global leader in beauty with 47 brands in 40 countries with the capitalisation of $4.4b in revenue <span id="a1">[\[1\]](#f1)</span>. In Russia Coty have more than 150 employees and representatives in different regions.
 
