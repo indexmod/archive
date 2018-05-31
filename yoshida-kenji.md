@@ -3,6 +3,7 @@ title: 'Yoshida, Kenji'
 permalink: yoshida-kenji
 layout: default
 published: true
+shortname: YOKE
 ---
 (Jp. 吉田 健二, born 1924, Ikeda) artist known by “gold leaf and other metallic overlays are applied to contrasting fields of bright colour and black ground”, living in Japan.
 
