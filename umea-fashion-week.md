@@ -2,36 +2,47 @@
 title: Umeå Fashion Week
 permalink: umea-fashion-week
 layout: default
+published: true
 ---
+`To remove Template tag go Edit`
 
-# Umeå Fashion Week
+(Est. {{ page.birth }}, {{ page.city }}) is a --- <span id="a1">[\[1\]](#f1)</span>.
 
-(Est. 2013, city) is a subject, description-one <span id="a1">[\[1\]](#f1)</span>, description-two <span id="a2">[\[2\]](#f2)</span> description-3 <span id="a3">[\[3\]](#f3)</span>, extra text. [Edit this page](http://prose.io/#indexmod/encyclopedia/edit/master/umea-fashion-week.md)
+![(Image correspondent to the article of “{{ page.title }}”. To see an image try another browser!)]({{ site.url }}/images/{{ page.permalink }}.jpg)
 
-![](/images/image-name.jpg)
+**Image**
 
-*Image caption*
+*Photo: [Not specified](index) / [Source](index)*
 
-*Photo: [Photographer name](http://example.net/) / [Source name](http://example.net/)*
-
-# Conspectus
+## Сonspectus
 
 |Year|City|
-|----|---------|
-|2014|Tokyo|
-|2015|Moscow|
-|2017|Kiev|
+|-|-|
+|2017|Moscow|
 
-# See also
+## Indexmod [*](indexmod)
 
-- [Source name](http://example.net/)
-- [Source name](http://example.net/)
-- [Source name](http://example.net/)
+|Variables|2018|2019|
+|-|-|-|
+|Facebook <span id="a3">[\[3\]](#f3)</span>|{{ page.facebook }}||
+|Instagram <span id="a4">[\[4\]](#f4)</span>|{{ page.instagram }}||
+|YouTube <span id="a5">[\[5\]](#f5)</span>|{{ page.youtube }}||
+|Twitter <span id="a6">[\[6\]](#f6)</span>|{{ page.twitter }}||
+|Age|{{ page.age }}||
+|Indexmod|{{ page.content | number_of_words }}||
+|Total|{{ page.indexmod }}||
 
-# Footnotes
+## See also
 
-[[1]](#a1) <span id="f1"></span> [Article name (Author name)](http://example.net/article)
++ [About {{page.title}}](index)
++ [{{page.title}} at Wikipedia](index)
 
-[[2]](#a2) <span id="f2"></span> [Article name (Author name)](http://example.net/article)
+## Footnotes
 
-[[3]](#a3) <span id="f3"></span> [Article name (Author name)](http://example.net/article)
+[[3]](#a3) <span id="f3"></span> [{{page.title}} (Facebook)](index)
+
+[[4]](#a4) <span id="f4"></span> [{{page.title}} (Instagram)](index)
+
+[[5]](#a5) <span id="f5"></span> [{{page.title}} (YouTube)](index)
+
+[[6]](#a6) <span id="f6"></span> [{{page.title}} (Twitter)](index)
