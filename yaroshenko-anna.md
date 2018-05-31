@@ -26,11 +26,3 @@ published: true
 + [Natalia Turovnikova](turovnikova-natalia)
 + [Valentina Nemchenkova](nemchenkova-valentina)
 
-
-## Footnotes
-
-[[1]](#a1) <span id="f1"></span> [Article name (Author name)](http://example.net/article)
-
-[[2]](#a2) <span id="f2"></span> [Article name (Author name)](http://example.net/article)
-
-[[3]](#a3) <span id="f3"></span> [Article name (Author name)](http://example.net/article)
