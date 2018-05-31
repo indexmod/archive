@@ -7,7 +7,7 @@ published: true
 ---
 (Rus. Юдашкин, Валентин Абрамович, born. 1963, Bakovka) is a Russian fashion designer <span id="a1">[\[1\]](#f1)</span>.
 
-![](https://s3.cdn.teleprogramma.pro/wp-content/uploads/2018/01/42b6a10b184feed434f4210aabe1cff5.jpg)
+![(Image correspondent to the article of “{{ page.title }}”. To see an image try another browser!)]({{ site.url }}/images/{{ page.permalink }}.jpg)
 
 **Valentin Youdashkin**
 
