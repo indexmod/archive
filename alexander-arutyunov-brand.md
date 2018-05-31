@@ -6,6 +6,7 @@ published: true
 ---
 `This is template, to remove this tag follow Edit link`
 
+
 (Est. {{ page.birth }}, {{ page.city }}) is a --- <span id="a1">[\[1\]](#f1)</span>.
 
 ![(Image correspondent to the article of “{{ page.title }}”. To see an image try another browser!)]({{ site.url }}/images/{{ page.permalink }}.jpg)
