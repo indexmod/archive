@@ -30,5 +30,4 @@ indexmod: Indexmod
 
 # Footnotes
 
-[[1]](#a1) <span id="f1"></span> [Vasya Kolotusha
-)](http://kolotusha.com/Acid-Noodles)
+[[1]](#a1) <span id="f1"></span> [Vasya Kolotusha](http://kolotusha.com/Acid-Noodles)
