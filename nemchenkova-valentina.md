@@ -4,8 +4,8 @@ permalink: nemchenkova-valentina
 layout: default
 shortname: NEVA
 indexmod: Indexmod
-birth: '1981'
-age: '18'
+birth: '1983'
+age: '35'
 updateyear: '2018'
 city: Sverdlovsk
 facebook: '0,0'
@@ -18,19 +18,20 @@ published: true
 founder: Name
 ---
 
-(Est. {{ page.birth }}, {{ page.city }}) is a Russian fashion designer <span id="a1">[\[1\]](#f1)</span>, model <span id="a2">[\[2\]](#f2)</span>, stylist <span id="a3">[\[3\]](#f3)</span> and DJ <span id="a4">[\[4\]](#f4)</span>. Living and working in Moscow.
+(Est. {{ page.birth }}, {{ page.city }}) is a Russian costume designer <span id="a1">[\[1\]](#f1)</span>, model <span id="a2">[\[2\]](#f2)</span>, stylist <span id="a3">[\[3\]](#f3)</span> and DJ <span id="a4">[\[4\]](#f4)</span>. Living and working in Moscow.
 
 ![(Image correspondent to the article of “{{ page.title }}”. To see an image try another browser!)]({{ site.url }}/images/{{ page.permalink }}.jpg)
 
-**Valentina Nemchenkova by Rachel Chandler Guinness for Midland Agency — в China Town, Manhattan, New York City**
+**Valentina Nemchenkova by Rachel Chandler Guinness for Midland Agency --- в China Town, Manhattan, New York City**
 
 *Photo: [Rachel Chandler Guinness](guinness-rachel-chandler) / [Facebook](https://www.facebook.com/photo.php?fbid=10211530962375381&set=a.1644315753467.84893.1404071175&type=3&theater)*
 
-## {{page.title}} conspectus
+## {{page.title}}  
 
 |Year|City|
 |-|-|
-|2017|Moscow|
+|2003|Chanel catwalks|
+|2017|Ritz Carlton|
 
 ## {{page.title}} Indexmod [*](indexmod)
 
@@ -54,13 +55,13 @@ founder: Name
 
 [[1]](#a1) <span id="f1"></span> [ZZZ (XXX)](index)
 
-[[2]](#a2) <span id="f2"></span> [ZZZ (XXX)](index)
+[[2]](#a2) <span id="f2"></span> [Valentina Nemchenkova (Midland)](http://midland.agency/)
 
-[[3]](#a3) <span id="f3"></span> [Tinder / Juravlove / Valentina Nemchenkova. Скотный Двор, СПб (Partybeep.com)](https://www.facebook.com/valentina.nemchenkova)
+[[3]](#a3) <span id="f3"></span> [Soviet Souls by Anastasia Ivanova (Nasty Magazine)](http://www.nastymagazine.com/fashion/soviet-souls-by-anastasia-ivanova/)
 
-[[4]](#a4) <span id="f4"></span> [ZZZ (XXX)](index)
+[[4]](#a4) <span id="f4"></span> [Valentina Nemchenkova at Скотный двор, СПб (Party Beep)](https://www.facebook.com/valentina.nemchenkova)
 
-[[5]](#a5) <span id="f5"></span> [{{page.title}} (YouTube)](index)
+[[5]](#a5) <span id="f5"></span> [{{page.title}} (YouTube)](https://www.youtube.com/channel/UC6M17lpY_HsrWdlHsZlYOpw)
 
 [[6]](#a6) <span id="f6"></span> [{{page.title}} (Twitter)](index)
 
