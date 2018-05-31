@@ -3,6 +3,7 @@ title: 'Karagodin, Andrey'
 permalink: karagodin-andrey
 layout: default
 published: true
+shortname: KAAN
 ---
 `To remove Template tag go Edit`
 
