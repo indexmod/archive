@@ -24,9 +24,9 @@ published: true
 
 ## See also
 
-- [La Reserve Vintage](reserve-vintage-la)
-
-- [Natalia Turovnikova](turovnikova-natalia)
++ [La Reserve Vintage](reserve-vintage-la)
++ [Natalia Turovnikova](turovnikova-natalia)
++ [Valentina Nemchenkova](nemchenkova-valentina)
 
 
 ## Footnotes
