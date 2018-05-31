@@ -4,37 +4,40 @@ permalink: africa-fashion-week-paris
 layout: default
 published: true
 ---
-(Est. 2013, city) is a --------- <span id="a1">[\[1\]](#f1)</span>.
+'This is template, to remove this tag follow Edit link'
 
-![](/encyclopedia/images/{{page.permalink}}.jpg)
+(Est. {{ page.birth }}, {{ page.city }}) is a --- <span id="a1">[\[1\]](#f1)</span>.
 
-**Image title**
+![(Image correspondent to the article of “{{ page.title }}”. To see an image try another browser!)]({{ site.url }}/images/{{ page.permalink }}.jpg)
 
-*Photo: [Name](index) / [Source](index)*
+**Image**
 
-# {{page.title}} Conspectus
+*Photo: [Not specified](index) / [Source](index)*
+
+## {{page.title}} conspectus
 
 |Year|City|
 |-|-|
 |2017|Moscow|
 
-# {{page.title}} Indexmod
+## {{page.title}} Indexmod [*](indexmod)
 
-||2018|2019|
+|Variables|2018|2019|
 |-|-|-|
-|Facebook <span id="a3">[\[3\]](#f3)</span>|000|000|
-|Instagram <span id="a4">[\[4\]](#f4)</span>|000|000|
-|YouTube <span id="a5">[\[5\]](#f5)</span>|000|000|
-|Age|000|000|
+|Facebook <span id="a3">[\[3\]](#f3)</span>|{{ page.facebook }}||
+|Instagram <span id="a4">[\[4\]](#f4)</span>|{{ page.instagram }}||
+|YouTube <span id="a5">[\[5\]](#f5)</span>|{{ page.youtube }}||
+|Twitter <span id="a6">[\[6\]](#f6)</span>|{{ page.twitter }}||
+|Age|{{ page.age }}||
 |Indexmod|{{ page.content | number_of_words }}||
-|Total|0,0000|0,0000|
+|Total|{{ page.indexmod }}||
 
-# See also
+## See also
 
 + [About {{page.title}}](index)
 + [{{page.title}} at Wikipedia](index)
 
-# Footnotes
+## Footnotes
 
 [[3]](#a3) <span id="f3"></span> [{{page.title}} (Facebook)](index)
 
@@ -42,4 +45,4 @@ published: true
 
 [[5]](#a5) <span id="f5"></span> [{{page.title}} (YouTube)](index)
 
-`Updated Mar. 2018 (Andrei Dei)`
+[[6]](#a6) <span id="f6"></span> [{{page.title}} (Twitter)](index)
