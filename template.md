@@ -17,6 +17,7 @@ tumblr: '0,0'
 published: true
 founder: Name
 ---
+`To remove Template tag go Edit`
 
 (Est. {{ page.birth }}, {{ page.city }}) is a --- <span id="a1">[\[1\]](#f1)</span>.
 
@@ -26,13 +27,13 @@ founder: Name
 
 *Photo: [Not specified](index) / [Source](index)*
 
-## {{page.title}} conspectus
+## Сonspectus
 
 |Year|City|
 |-|-|
 |2017|Moscow|
 
-## {{page.title}} Indexmod [*](indexmod)
+## Indexmod [*](indexmod)
 
 |Variables|2018|2019|
 |-|-|-|
