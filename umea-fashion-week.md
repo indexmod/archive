@@ -3,6 +3,7 @@ title: Umeå Fashion Week
 permalink: umea-fashion-week
 layout: default
 published: true
+shortname: UMFW
 ---
 `To remove Template tag go Edit`
 
