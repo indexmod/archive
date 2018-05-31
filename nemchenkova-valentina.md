@@ -35,7 +35,7 @@ published: true
 
 |Year|Name, relation|
 |-|-|
-|1999|Eugeny Nemchinov (Snyslovye galutsinatsii), husband|
+|1999-2000|Eugeny Nemchinov (Smyslovye galutsinatsii), husband|
 
 ## {{page.title}} Indexmod [*](indexmod)
 
