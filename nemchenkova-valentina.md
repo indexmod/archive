@@ -23,7 +23,7 @@ soundcloud: '180'
 
 *Photo: [Rachel Chandler Guinness](guinness-rachel-chandler) / [Facebook](https://www.facebook.com/photo.php?fbid=10211530962375381&set=a.1644315753467.84893.1404071175&type=3&theater)*
 
-## {{page.title}}  
+## {{page.title}} conspectus  
 
 |Year|City|
 |-|-|
