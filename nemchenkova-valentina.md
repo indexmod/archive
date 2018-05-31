@@ -20,7 +20,7 @@ published: true
 
 ![(Image correspondent to the article of “{{ page.title }}”. To see an image try another browser!)]({{ site.url }}/images/{{ page.permalink }}.jpg)
 
-**Valentina Nemchenkova by Rachel Chandler Guinness for Midland Agency --- в China Town, Manhattan, New York City**
+**Valentina Nemchenkova by Rachel Chandler Guinness for Midland Agency в China Town, Manhattan, New York City**
 
 *Photo: [Rachel Chandler Guinness](guinness-rachel-chandler) / [Facebook](https://www.facebook.com/photo.php?fbid=10211530962375381&set=a.1644315753467.84893.1404071175&type=3&theater)*
 
