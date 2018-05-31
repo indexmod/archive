@@ -3,6 +3,7 @@ title: LG Fashion Week
 permalink: lg-fashion-week
 layout: default
 published: true
+shortname: LGFW
 ---
 `To remove Template tag go Edit`
 
