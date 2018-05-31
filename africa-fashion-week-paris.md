@@ -3,6 +3,7 @@ title: Africa Fashion Week Paris
 permalink: africa-fashion-week-paris
 layout: default
 published: true
+shortname: AFWP
 ---
 `To remove Template tag go Edit`
 
@@ -14,13 +15,13 @@ published: true
 
 *Photo: [Not specified](index) / [Source](index)*
 
-## Сonspectus
+## {{page.title}} conspectus
 
 |Year|City|
 |-|-|
 |2017|Moscow|
 
-## Indexmod [*](indexmod)
+## {{page.title}} Indexmod [*](indexmod)
 
 |Variables|2018|2019|
 |-|-|-|
