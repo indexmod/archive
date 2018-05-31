@@ -3,6 +3,7 @@ title: Valencia Fashion Week
 permalink: valencia-fashion-week
 layout: default
 published: true
+shortname: VLFW
 ---
 `To remove Template tag go Edit`
 
