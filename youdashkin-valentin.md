@@ -1,7 +1,8 @@
 ---
 title: 'Youdashkin, Valentin'
 permalink: youdashkin-valentin
-layout: social
+layout: default
+shortname: YUVA
 published: true
 ---
 
