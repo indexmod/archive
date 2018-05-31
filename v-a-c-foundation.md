@@ -25,7 +25,7 @@ shortname: VACF
 + Massimiliano Joni—curator of the 55th Venice Biennale, director of the exhibition program of the New Museum of Modern Art (New York), artistic director of the Trussardi Foundation (Milan)
 + Ian Peel—director of Outset Foundation 4
 
-# Artists working with
+## Artists working with
 
 + Eugene Antufiev
 + Alex Galkin
@@ -64,6 +64,6 @@ shortname: VACF
 
 ## Footnotes
 
-[[1, 2]](#a1) <span id="f1"></span> [About the Fundation (Author name)](http://www.v-a-c.ru/foundation/)
+[[1, 2]](#a1) <span id="f1"></span> [About the Fundation](http://www.v-a-c.ru/foundation/)
 
 [[3—5]](#a2) <span id="f2"></span> [“Фонд «Виктория — искусство быть современным»” (Википедия)](https://ru.wikipedia.org/wiki/Фонд_«Виктория_—_искусство_быть_современным»)
