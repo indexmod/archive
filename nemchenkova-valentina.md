@@ -8,14 +8,11 @@ birth: '1983'
 age: '35'
 updateyear: '2018'
 city: Sverdlovsk
-facebook: '0,0'
-instagram: '0,0'
+facebook: '2916'
+instagram: '2680'
 youtube: '0,0'
 vimeo: '0,0'
-twitter: '0,0'
-tumblr: '0,0'
-published: true
-founder: Name
+soundcloud: '180'
 ---
 
 (Est. {{ page.birth }}, {{ page.city }}) is a Russian costume designer <span id="a1">[\[1\]](#f1)</span>, model <span id="a2">[\[2\]](#f2)</span>, stylist <span id="a3">[\[3\]](#f3)</span> and DJ <span id="a4">[\[4\]](#f4)</span>. Living and working in Moscow.
@@ -38,7 +35,7 @@ founder: Name
 |Variables|2018|2019|
 |-|-|-|
 |YouTube <span id="a5">[\[5\]](#f5)</span>|{{ page.youtube }}||
-|Twitter <span id="a6">[\[6\]](#f6)</span>|{{ page.twitter }}||
+|Soundcloud <span id="a6">[\[6\]](#f6)</span>|{{ page.soundcloud }}||
 |Facebook <span id="a7">[\[7\]](#f7)</span>|{{ page.facebook }}||
 |Instagram <span id="a8">[\[8\]](#f8)</span>|{{ page.instagram }}||
 |Age|{{ page.age }}||
@@ -63,7 +60,7 @@ founder: Name
 
 [[5]](#a5) <span id="f5"></span> [{{page.title}} (YouTube)](https://www.youtube.com/channel/UC6M17lpY_HsrWdlHsZlYOpw)
 
-[[6]](#a6) <span id="f6"></span> [{{page.title}} (Twitter)](index)
+[[6]](#a6) <span id="f6"></span> [Santa Valentina (Sound Cloud)](https://soundcloud.com/santavalentina)
 
 [[7]](#a7) <span id="f7"></span> [{{page.title}} (Facebook)](https://www.facebook.com/valentina.nemchenkova)
 
