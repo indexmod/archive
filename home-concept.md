@@ -28,9 +28,9 @@ founder: 'Timothy Oulton, Vadim Yasnogorodky'
 
 ## Сonspectus
 
-|Year|City|
+|Year|Milestone, City|
 |-|-|
-|2017|Moscow|
+|2006|Founding, Moscow|
 
 ![(Image correspondent to the article of “{{ page.title }}”. To see an image try another browser!)]({{ site.url }}/images/{{ page.permalink }}-1.jpg)
 
