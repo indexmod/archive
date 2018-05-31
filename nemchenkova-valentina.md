@@ -50,7 +50,7 @@ soundcloud: '180'
 
 ## Footnotes
 
-[[1]](#a1) <span id="f1"></span> [ZZZ (XXX)](index)
+[[1]](#a1) <span id="f1"></span> [Moscow based costume designer Valentina Nemchenkova (Yooying.com)](https://www.yooying.com/valentina.nemchenkova)
 
 [[2]](#a2) <span id="f2"></span> [Valentina Nemchenkova (Midland)](http://midland.agency/)
 
