@@ -3,6 +3,7 @@ title: 'Yusipov, Ruslan'
 permalink: yusipov-ruslan
 layout: default
 published: true
+shortname: YURU
 ---
 `To remove Template tag go Edit`
 
