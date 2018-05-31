@@ -8,7 +8,7 @@ indexmod: Indexmod
 ---
 (2015, Moscow) is an interactive exhibit curated by Maria Pudan for Tsvetnoy Central Market in 2015 in Moscow. Young artists Mic Sachov and Vasya Kolotusha <span id="a1">[\[1\]](#f1)</span> are among participants of Acid Noodles expositions.
 
-![]![(Image correspondent to the article of “{{ page.title }}”. To see an image try another browser!)]({{ site.url }}/images/{{ page.permalink }}.jpg)
+![(Image correspondent to the article of “{{ page.title }}”. To see an image try another browser!)]({{ site.url }}/images/{{ page.permalink }}.jpg)
 
 **Acid Noodles cover image by Vasya Kolotusha**
 
