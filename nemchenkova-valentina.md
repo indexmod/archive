@@ -15,7 +15,7 @@ vimeo: '0,0'
 soundcloud: '180'
 ---
 
-(Est. {{ page.birth }}, {{ page.city }}) is a Russian costume designer <span id="a1">[\[1\]](#f1)</span>, model <span id="a2">[\[2\]](#f2)</span>, stylist <span id="a3">[\[3\]](#f3)</span> and DJ <span id="a4">[\[4\]](#f4)</span>. Living and working in Moscow.
+(Rus. Валентина Немченкова, born {{ page.birth }}, {{ page.city }}) is a Russian costume designer <span id="a1">[\[1\]](#f1)</span>, model <span id="a2">[\[2\]](#f2)</span>, stylist <span id="a3">[\[3\]](#f3)</span> and DJ <span id="a4">[\[4\]](#f4)</span>. Living and working in Moscow.
 
 ![(Image correspondent to the article of “{{ page.title }}”. To see an image try another browser!)]({{ site.url }}/images/{{ page.permalink }}.jpg)
 
