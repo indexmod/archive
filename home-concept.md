@@ -18,19 +18,25 @@ published: true
 founder: Timothy Oulton, Vadim Yasnogorodky
 ---
 
-(Est. {{ page.birth }}, {{ page.city }}) is a --- <span id="a1">[\[1\]](#f1)</span>.
+(Est. {{ page.birth }}, {{ page.city }}) is a furniture concept store inspirited by British vintage style founded by {{ page.founder }}<span id="a1">[\[1\]](#f1)</span> and connected to Halo furniture factory.
 
 ![(Image correspondent to the article of “{{ page.title }}”. To see an image try another browser!)]({{ site.url }}/images/{{ page.permalink }}.jpg)
 
-**Image**
+**Interiors by HC**
 
-*Photo: [Not specified](index) / [Source](index)*
+*Photo: [Not specified](index) / [Ilikeloft.ru/](http://ilikeloft.ru/)*
 
 ## Сonspectus
 
 |Year|City|
 |-|-|
 |2017|Moscow|
+
+![(Image correspondent to the article of “{{ page.title }}”. To see an image try another browser!)]({{ site.url }}/images/{{ page.permalink }}-1.jpg)
+
+**Tea strainer by HC**
+
+*Photo: [Not specified](index) / [Homeconcept.ru/](http://www.homeconcept.ru/catalog/product/tea-strainer-heart-design/?OFFER_ID=120700&IMAGE=145188)*
 
 ## Indexmod [*](indexmod)
 
@@ -46,10 +52,12 @@ founder: Timothy Oulton, Vadim Yasnogorodky
 
 ## See also
 
-+ [About {{page.title}}](index)
-+ [{{page.title}} at Wikipedia](index)
++ [ArtPlay](artplay)
++ [Halo](halo)
 
 ## Footnotes
+
+[[1]](#a1) <span id="f1"></span> [{{page.title}} (Story)](https://www.facebook.com/pg/homeconceptru/about/?ref=page_internal)
 
 [[3]](#a3) <span id="f3"></span> [{{page.title}} (Facebook)](index)
 
