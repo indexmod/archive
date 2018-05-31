@@ -14,13 +14,13 @@ published: true
 
 *Photo: [Not specified](index) / [Source](index)*
 
-## {{page.title}} conspectus
+## Сonspectus
 
 |Year|City|
 |-|-|
 |2017|Moscow|
 
-## {{page.title}} Indexmod [*](indexmod)
+## Indexmod [*](indexmod)
 
 |Variables|2018|2019|
 |-|-|-|
