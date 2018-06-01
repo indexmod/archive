@@ -8,9 +8,9 @@ birth: '2010'
 age: '8'
 updateyear: '2018'
 city: Moscow
-facebook: '0,0'
-instagram: '0,0'
-youtube: '0,0'
+facebook: '1250'
+instagram: '13500'
+youtube: '393'
 vimeo: '0,0'
 twitter: '0,0'
 tumblr: '0,0'
@@ -51,10 +51,10 @@ founder: Name
 
 ## Footnotes
 
-[[3]](#a3) <span id="f3"></span> [{{page.title}} (Facebook)](index)
+[[3]](#a3) <span id="f3"></span> [{{page.title}} (Facebook)](https://www.facebook.com/beinopen)
 
-[[4]](#a4) <span id="f4"></span> [{{page.title}} (Instagram)](index)
+[[4]](#a4) <span id="f4"></span> [{{page.title}} (Instagram)](https://www.instagram.com/bein_open/)
 
-[[5]](#a5) <span id="f5"></span> [{{page.title}} (YouTube)](index)
+[[5]](#a5) <span id="f5"></span> [{{page.title}} (YouTube)](https://www.youtube.com/beinopen/)
 
 [[6]](#a6) <span id="f6"></span> [{{page.title}} (Twitter)](index)
