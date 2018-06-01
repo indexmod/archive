@@ -28,9 +28,10 @@ founder: Name
 
 ## Сonspectus
 
-|Year|City|
+|Year|Location|
 |-|-|
-|2017|Moscow|
+|2017|Хлебозавод №9|
+|2018|Хлебозавод №9|
 
 ## Indexmod [*](indexmod)
 
