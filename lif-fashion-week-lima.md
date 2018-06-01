@@ -1,3 +1,23 @@
+---
+title: LIF Fashion Week (Lima)
+permalink: lif-fashion-week-lima
+layout: default
+shortname: LIFW
+indexmod: Indexmod
+birth: '2011'
+age: '7'
+updateyear: '2018'
+city: Lima
+facebook: '96302'
+instagram: '0,0'
+youtube: '0,0'
+vimeo: '0,0'
+twitter: '0,0'
+tumblr: '0,0'
+location: Lima Convention Center
+founder: Efrain Salas Vinatea Lifestyle Advisors & Event Design, Grupo El Comercio
+---
+
 (LIF Fashion Week (Lima), est. {{ page.birth }}, {{ page.city }}) is a fashion event in {{ page.location }} founded {{ page.founder }} where Peruvians can show their talent and proposals to the world and boost the fashion industry in the country <span id="a1">[\[1\]](#f1)</span>.
 
 ![(Image correspondent to the article of “{{ page.title }}”. To see an image try another browser!)]({{ site.url }}/images/{{ page.permalink }}.jpg)
