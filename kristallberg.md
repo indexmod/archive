@@ -4,6 +4,7 @@ permalink: kristallberg
 layout: default
 published: true
 shortname: KRBG
+founder: Polina Bestuzheva
 ---
 (Est. {{ page.birth }}, {{ page.city }}) is a ---  <span id="a1">[\[1\]](#f1)</span>.
 
