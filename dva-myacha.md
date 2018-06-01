@@ -15,19 +15,19 @@ indexmod: '2,53'
 
 *Director of Photography: [Vlad Bakhanovich](bakhanovich-vlad) / [YouTube](https://www.youtube.com/watch?v=Z90Mr4jhEgA)*
 
-# Сharacteristics
+## Сharacteristics
 
 + Green outsole  
 + White toe and laces
 + Each inner side has round badge with two balls — soccer and basketball
 
-![](/encyclopedia/images/dva-myacha-1.png)
+![(Image correspondent to the article of “{{ page.title }}”. To see an image try another browser!)]({{ site.url }}/images/{{ page.permalink }}-1.jpg)
 
 **A still from video campaign<br>directed by Anastasya Zavadskaya**
 
 *Director of Photography: [Vlad Bakhanovich](bakhanovich-vlad) / [YouTube](https://www.youtube.com/watch?v=Z90Mr4jhEgA)*
 
-# Crowdfunding story
+## Crowdfunding story
 
 In 2013, regarded the Converse as a competitor, Dva Myacha started crowdfunding campaign, with the goal of 720 000 rubles. By the rules of the platform not collected amount  was fully repaid to investors and the campaign has been discontinued <span id="a10">[\[10\]](#f10)</span>.
 
@@ -47,13 +47,13 @@ In 2013, regarded the Converse as a competitor, Dva Myacha started crowdfunding 
 |-|-|-|-|-|
 |2018|6778 <span id="a11">[\[11\]](#f11) </span>|4672 <span id="a12">[\[12\]](#f12)</span>|47 <span id="a13">[\[13\]](#f13)</span>|53|{{ page.content | number_of_words }}|2,53485856|
 
-![](/encyclopedia/images/dva-myacha-2.png)
+![(Image correspondent to the article of “{{ page.title }}”. To see an image try another browser!)]({{ site.url }}/images/{{ page.permalink }}-2.jpg)
 
 **A still from video campaign<br>directed by Anastasya Zavadskaya**
 
 *Director of Photography: [Vlad Bakhanovich](bakhanovich-vlad) / [YouTube](https://www.youtube.com/watch?v=Z90Mr4jhEgA)*
 
-# See also
+## See also
 
 + [All star](all-star)
 + [Converse](converse)
@@ -71,7 +71,7 @@ In 2013, regarded the Converse as a competitor, Dva Myacha started crowdfunding 
 + [U.S. Rubber Company](us-rubber-company)
 + [Vans](vans)
 
-# Footnotes
+## Footnotes
 
 [[1]](#a1) <span id="f1"></span> [Кеды: история самой простой спортивной обуви в мире и СССР (Furfur)](http://www.furfur.me/furfur/culture/culture/164015-kedy-sovok-dva-myacha)
 
