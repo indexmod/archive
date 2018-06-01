@@ -12,25 +12,26 @@ facebook: '82433'
 instagram: '8378'
 youtube: '0,0'
 vimeo: '0,0'
-twitter: '0,0'
+twitter: '2119'
 tumblr: '0,0'
 published: true
 founder: Alexey Bazhenov
 ---
 
-(Be-in.ru, est. {{ page.birth }}, {{ page.city }}) is a web site founded by {{ page.founder }}  as a service for finding stores and clothes, as well as an online basket for shopping in the largest online stores <span id="a1">[\[1\]](#f1)</span>.
+(Be-in.ru, est. {{ page.birth }}, {{ page.city }}) is a web site founded by {{ page.founder }}  as a service for finding stores and clothes, as well as an online basket for shopping in the largest online stores in Moscow <span id="a1">[\[1\]](#f1)</span>.
 
 ![(Image correspondent to the article of “{{ page.title }}”. To see an image try another browser!)]({{ site.url }}/images/{{ page.permalink }}.jpg)
 
-**Image**
+**Front page of “{{ page.title }}” in 2018**
 
-*Photo: [Not specified](index) / [Source](index)*
+*Photo: [Andrei Dei](index) / [Indexmod](index)*
 
 ## Сonspectus
 
-|Year|City|
+|Year|Events|
 |-|-|
-|2017|Moscow|
+|2017|Be In Open|
+|2018|Be In Open|
 
 ## Indexmod [*](indexmod)
 
@@ -38,8 +39,7 @@ founder: Alexey Bazhenov
 |-|-|-|
 |Facebook <span id="a3">[\[3\]](#f3)</span>|{{ page.facebook }}||
 |Instagram <span id="a4">[\[4\]](#f4)</span>|{{ page.instagram }}||
-|YouTube <span id="a5">[\[5\]](#f5)</span>|{{ page.youtube }}||
-|Twitter <span id="a6">[\[6\]](#f6)</span>|{{ page.twitter }}||
+|Twitter <span id="a5">[\[5\]](#f5)</span>|{{ page.twitter }}||
 |Age|{{ page.age }}||
 |Indexmod|{{ page.content | number_of_words }}||
 |Total|{{ page.indexmod }}||
@@ -55,6 +55,4 @@ founder: Alexey Bazhenov
 
 [[4]](#a4) <span id="f4"></span> [{{page.title}} (Instagram)](https://www.instagram.com/beinru/)
 
-[[5]](#a5) <span id="f5"></span> [{{page.title}} (YouTube)](index)
-
-[[6]](#a6) <span id="f6"></span> [{{page.title}} (Twitter)](index)
+[[5]](#a5) <span id="f5"></span> [{{page.title}} (Twitter)](https://twitter.com/beinru?lang=en)
