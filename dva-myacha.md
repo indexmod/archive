@@ -11,7 +11,7 @@ updateyear: '2018'
 city: Moscow
 facebook: '6778'
 instagram: '4672'
-youtube: '0,0'
+youtube: '47'
 vimeo: '0,0'
 twitter: '0,0'
 tumblr: '0,0'
