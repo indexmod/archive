@@ -9,7 +9,7 @@ birth: '1965'
 age: '53'
 updateyear: '2018'
 city: Moscow
-facebook: '0,0'
+facebook: '6778'
 instagram: '0,0'
 youtube: '0,0'
 vimeo: '0,0'
@@ -44,16 +44,17 @@ founder: Evgeni Raykov (2016)
 
 In 2013, regarded the Converse as a competitor, Dva Myacha started crowdfunding campaign, with the goal of 720 000 rubles. By the rules of the platform not collected amount  was fully repaid to investors and the campaign has been discontinued <span id="a10">[\[10\]](#f10)</span>.
 
-# {{page.title}} Indexmod [*](indexmod)
+## Indexmod [*](indexmod)
 
-||2018|2019|
+|Variables|2018|2019|
 |-|-|-|
-|Facebook <span id="a3">[\[3\]](#f3)</span>|000||
-|Instagram <span id="a4">[\[4\]](#f4)</span>|000||
-|YouTube <span id="a5">[\[5\]](#f5)</span>|000||
-|Age|000|000|
-|Page Value|{{ page.content | number_of_words }}||
-|Indexmod|0,0000||
+|Facebook <span id="a3">[\[3\]](#f3)</span>|{{ page.facebook }}||
+|Instagram <span id="a4">[\[4\]](#f4)</span>|{{ page.instagram }}||
+|YouTube <span id="a5">[\[5\]](#f5)</span>|{{ page.youtube }}||
+|Twitter <span id="a6">[\[6\]](#f6)</span>|{{ page.twitter }}||
+|Age|{{ page.age }}||
+|Indexmod|{{ page.content | number_of_words }}||
+|Total|{{ page.indexmod }}||
 
 
 |Year|Facebook|Instagram|YouTube|Age|Indexmod|Total|
