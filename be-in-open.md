@@ -24,7 +24,7 @@ founder: Be-in, Alexey Bazhenov
 
 **Be In Open 2017**
 
-*Photo: [Not specified](index) / [Source](index)*
+*Photo: [Youlia Kalmykova](index) / [District-f.org](https://district-f.org/2017/06/07/be-in-open-2017/)*
 
 ## Сonspectus
 
