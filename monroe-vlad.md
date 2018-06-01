@@ -7,7 +7,8 @@ shortname: MOVL
 ---
 (Rus. Влад Мамышев-Монро, born 1969, Leningrad — dead 2013, Bali) Russian artist, performer, laureate of the Kandinsky Prize (2007) in the nomination of the media project of the year <span id="a1">[\[1\]](#f1)</span>.
 
-![](/images/{{page.permalink}}.jpg)
+
+![(Image correspondent to the article of “{{ page.title }}”. To see an image try another browser!)]({{ site.url }}/images/{{ page.permalink }}.jpg)
 
 **Self-portrait with Mark Almond, <br>1992 — 1993**
 
