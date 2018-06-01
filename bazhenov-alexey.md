@@ -23,7 +23,7 @@ founder: Name
 
 ![(Image correspondent to the article of “{{ page.title }}”. To see an image try another browser!)]({{ site.url }}/images/{{ page.permalink }}.jpg)
 
-**Alexey Bazhenov at Birzha Bar at MediaBuzz event**
+**Alexey Bazhenov at Birzha Bar at MediaBuzz event in Saint Petersburg**
 
 *Photo: [Maria Tarasova](index) / [Svetznn.com](http://svetznn.com/vstrecha-s-osnovatelem-portala-be-in-ru-alekseem-bazhenovym-2/)*
 

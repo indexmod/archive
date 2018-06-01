@@ -4,8 +4,8 @@ permalink: be-in-open
 layout: default
 shortname: BIOP
 indexmod: Indexmod
-birth: '2017'
-age: '2'
+birth: '2016'
+age: '3'
 updateyear: '2018'
 city: Moscow
 facebook: '1250'
@@ -15,7 +15,7 @@ vimeo: '0,0'
 twitter: '0,0'
 tumblr: '0,0'
 published: true
-founder: Be-in (site), Alexey Bazhenov
+founder: Be-in (site) and Alexey Bazhenov
 ---
 
 (Est. {{ page.birth }}, {{ page.city }}) is a fashion event in Moscow founded {{ page.founder }} <span id="a1">[\[1\]](#f1)</span>.
