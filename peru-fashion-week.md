@@ -1,25 +1,24 @@
 ---
-title: Template
-permalink: template
+title: Peru Fashion Week
+permalink: peru-fashion-week
 layout: default
-shortname: TMPL
+shortname: PUFW
 indexmod: Indexmod
-birth: '2010'
-age: '8'
+birth: '2000'
+age: '18'
 updateyear: '2018'
 city: Moscow
-facebook: '0,0'
+facebook: '104'
 instagram: '0,0'
 youtube: '0,0'
 vimeo: '0,0'
-twitter: '0,0'
+twitter: '14'
 tumblr: '0,0'
 published: true
 founder: Name
 ---
-`Remove Template tag: go Edit`
 
-(Est. {{ page.birth }}, {{ page.city }}) is a ---  <span id="a1">[\[1\]](#f1)</span>.
+(Est. {{ page.birth }}, {{ page.city }}) is a fashion event in Peru positioning country internationally in the world fashion market and being “protagonists of a true creative concept” <span id="a1">[\[1\]](#f1)</span>.
 
 ![(Image correspondent to the article of “{{ page.title }}”. To see an image try another browser!)]({{ site.url }}/images/{{ page.permalink }}.jpg)
 
@@ -47,15 +46,16 @@ founder: Name
 
 ## See also
 
-+ [About {{page.title}}](index)
-+ [{{page.title}} at Wikipedia](index)
++ [LIF Fashion Week (Lima)](lif-fashion-week-lima)
++ [Lima](lima)
+
 
 ## Footnotes
 
-[[3]](#a3) <span id="f3"></span> [{{page.title}} (Facebook)](index)
+[[3]](#a3) <span id="f3"></span> [{{page.title}} (Facebook)](https://www.facebook.com/perufashionweek/)
 
 [[4]](#a4) <span id="f4"></span> [{{page.title}} (Instagram)](index)
 
 [[5]](#a5) <span id="f5"></span> [{{page.title}} (YouTube)](index)
 
-[[6]](#a6) <span id="f6"></span> [{{page.title}} (Twitter)](index)
+[[6]](#a6) <span id="f6"></span> [{{page.title}} (Twitter)](https://twitter.com/perufashionweek)
