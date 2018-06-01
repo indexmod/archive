@@ -5,6 +5,8 @@ layout: default
 published: true
 shortname: KRBG
 founder: Polina Bestuzheva
+birth: 2010
+city: Moscow
 ---
 (Est. {{ page.birth }}, {{ page.city }}) is a ---  <span id="a1">[\[1\]](#f1)</span>.
 
