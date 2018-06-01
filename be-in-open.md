@@ -4,8 +4,8 @@ permalink: be-in-open
 layout: default
 shortname: BIOP
 indexmod: Indexmod
-birth: '2010'
-age: '8'
+birth: '2017'
+age: '2'
 updateyear: '2018'
 city: Moscow
 facebook: '1250'
@@ -15,14 +15,14 @@ vimeo: '0,0'
 twitter: '0,0'
 tumblr: '0,0'
 published: true
-founder: Name
+founder: Be-in, Alexey Bazhenov
 ---
 
 (Est. {{ page.birth }}, {{ page.city }}) is a ---  <span id="a1">[\[1\]](#f1)</span>.
 
 ![(Image correspondent to the article of “{{ page.title }}”. To see an image try another browser!)]({{ site.url }}/images/{{ page.permalink }}.jpg)
 
-**Be In Open**
+**Be In Open 2017**
 
 *Photo: [Not specified](index) / [Source](index)*
 
