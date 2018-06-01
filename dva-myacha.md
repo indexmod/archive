@@ -3,8 +3,19 @@ title: Dva Myacha
 permalink: dva-myacha
 layout: default
 published: true
-shortname: DVMC
+shortname: DVMH
 indexmod: '2,53'
+birth: '1965'
+age: '53'
+updateyear: '2018'
+city: Moscow
+facebook: '0,0'
+instagram: '0,0'
+youtube: '0,0'
+vimeo: '0,0'
+twitter: '0,0'
+tumblr: '0,0'
+founder: Name
 ---
 (Est. {{ page.birth }}, {{ page.city }}) is a ---  <span id="a1">[\[1\]](#f1)</span>.
 
