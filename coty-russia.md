@@ -3,7 +3,7 @@ title: Coty Russia
 permalink: coty-russia
 layout: default
 published: true
-shortname: CORU
+shortname: COTR
 birth: 1999
 city: Moscow
 ---
