@@ -3,6 +3,7 @@ title: Kolhui
 permalink: kolhui
 layout: default
 published: true
+shortname: KLHI
 ---
 (Rus. Колхуи, колдовские художники, "witchcraft artists", est. 2002, Saint Petersburg) is a group, about 13 participants, of artists, also artist Nikolai Kopeikin one of the founders, formed in 2002 to explore so called multrealism <span id="a1">[\[1\]](#f1)</span>. The works of the group's participants are in more than 30 museums of Russia and abroad. Exhibitions of the group, with different composition, about 15 in Moscow, St. Petersburg, Geneva, V. Novgorod, etc.
 
