@@ -10,7 +10,7 @@ age: '53'
 updateyear: '2018'
 city: Moscow
 facebook: '6778'
-instagram: '0,0'
+instagram: '4672'
 youtube: '0,0'
 vimeo: '0,0'
 twitter: '0,0'
