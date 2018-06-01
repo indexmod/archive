@@ -56,11 +56,6 @@ In 2013, regarded the Converse as a competitor, Dva Myacha started crowdfunding 
 |Indexmod|{{ page.content | number_of_words }}||
 |Total|{{ page.indexmod }}||
 
-
-|Year|Facebook|Instagram|YouTube|Age|Indexmod|Total|
-|-|-|-|-|-|
-|2018|6778 <span id="a11">[\[11\]](#f11) </span>|4672 <span id="a12">[\[12\]](#f12)</span>|47 <span id="a13">[\[13\]](#f13)</span>|53|{{ page.content | number_of_words }}|2,53485856|
-
 ![(Image correspondent to the article of “{{ page.title }}”. To see an image try another browser!)]({{ site.url }}/images/{{ page.permalink }}-2.jpg)
 
 **A still from video campaign<br>directed by Anastasya Zavadskaya**
