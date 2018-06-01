@@ -4,10 +4,10 @@ permalink:   bazhenov-alexey
 layout: default
 shortname: BAAL
 indexmod: Indexmod
-birth: '2010'
-age: '8'
+birth: '19XX'
+age: 'XX'
 updateyear: '2018'
-city: Moscow
+city: SPB
 facebook: '0,0'
 instagram: '0,0'
 youtube: '0,0'
@@ -18,7 +18,7 @@ published: true
 founder: Name
 ---
 
-(Est. {{ page.birth }}, {{ page.city }}) is a ---  <span id="a1">[\[1\]](#f1)</span>.
+(Est. {{ page.birth }}, {{ page.city }}) is a founder and CEO of Be-in.ru <span id="a1">[\[1\]](#f1)</span>.
 
 ![(Image correspondent to the article of “{{ page.title }}”. To see an image try another browser!)]({{ site.url }}/images/{{ page.permalink }}.jpg)
 

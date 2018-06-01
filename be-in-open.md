@@ -18,7 +18,7 @@ published: true
 founder: Be-in, Alexey Bazhenov
 ---
 
-(Est. {{ page.birth }}, {{ page.city }}) is a ---  <span id="a1">[\[1\]](#f1)</span>.
+(Est. {{ page.birth }}, {{ page.city }}) is a fashion event in Moscow <span id="a1">[\[1\]](#f1)</span>.
 
 ![(Image correspondent to the article of “{{ page.title }}”. To see an image try another browser!)]({{ site.url }}/images/{{ page.permalink }}.jpg)
 
@@ -30,8 +30,9 @@ founder: Be-in, Alexey Bazhenov
 
 |Year|Location|
 |-|-|
+|2016||
 |2017|Хлебозавод №9|
-|2018|Хлебозавод №9|
+|2018 <span id="a2">[\[2\]](#f2)</span>|Хлебозавод №9|
 
 ## Indexmod [*](indexmod)
 
@@ -40,7 +41,7 @@ founder: Be-in, Alexey Bazhenov
 |Facebook <span id="a3">[\[3\]](#f3)</span>|{{ page.facebook }}||
 |Instagram <span id="a4">[\[4\]](#f4)</span>|{{ page.instagram }}||
 |YouTube <span id="a5">[\[5\]](#f5)</span>|{{ page.youtube }}||
-|Twitter <span id="a6">[\[6\]](#f6)</span>|{{ page.twitter }}||
+|Twitter|{{ page.twitter }}||
 |Age|{{ page.age }}||
 |Indexmod|{{ page.content | number_of_words }}||
 |Total|{{ page.indexmod }}||
@@ -52,10 +53,12 @@ founder: Be-in, Alexey Bazhenov
 
 ## Footnotes
 
+[[1]](#a1) <span id="f1"></span> [Чего ждать от форума новой модной индустрии BE IN OPEN? (Sobaka)](http://www.sobaka.ru/fashion/heroes/58078)
+
+[[2]](#a2) <span id="f2"></span> [Алексей Баженов, основатель Be-in.ru: «Мы уже скопировали все, что можно, и теперь начинаем искать самобытность» (New Retail)](http://www.sobaka.ru/fashion/heroes/58078)
+
 [[3]](#a3) <span id="f3"></span> [{{page.title}} (Facebook)](https://www.facebook.com/beinopen)
 
 [[4]](#a4) <span id="f4"></span> [{{page.title}} (Instagram)](https://www.instagram.com/bein_open/)
 
 [[5]](#a5) <span id="f5"></span> [{{page.title}} (YouTube)](https://www.youtube.com/beinopen/)
-
-[[6]](#a6) <span id="f6"></span> [{{page.title}} (Twitter)](index)
