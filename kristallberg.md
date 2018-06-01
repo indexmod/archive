@@ -4,6 +4,8 @@ permalink: kristallberg
 layout: default
 published: true
 ---
+(Est. {{ page.birth }}, {{ page.city }}) is a ---  <span id="a1">[\[1\]](#f1)</span>.
+
 (Rus. Кристаллберг, est. 2010, Moscow) is a fashion brand founded by Polina Bestuzheva in 2010. In the period from 2010 to 2015 under the name Kristallberg got one collection F / W 2010-2011.
 
 ![(Image correspondent to the article of “{{ page.title }}”. To see an image try another browser!)]({{ site.url }}/images/{{ page.permalink }}.jpg)
