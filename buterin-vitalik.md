@@ -4,6 +4,7 @@ permalink: buterin-vitalik
 position: null
 layout: default
 published: true
+shortname: BUVI
 ---
 (Rus. Виталик Бутерин, born 1994, Russia) is a programmer, founder of Ethereum and co-founder of Bitcoin Magazine, living and working in Switzerland <span id="a1">[\[1\]](#f1)</span>.
 
