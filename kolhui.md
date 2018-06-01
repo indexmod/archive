@@ -32,7 +32,7 @@ shortname: KLHI
 ||Pavlik Lemtybozh|
 ||Alexey Khatskevich|
 
-At different times, Grigory Mayofis, Alexander Liver, Ivan Tourist, Prokhor, Ivan Ushkov, Sergei Pakhomov, Vsevolod Emelin, Alexander Erashov, Denis Donchenko, Boris Trevozhny, Stas Kazimov, Mikhail Rubtsov, Oleg Teptsov, Andrei Kuzmin, Porfiry Fedorin joined the group at different times, Alexey Sergeev, Grigory Yushchenko, Igor Mezheritsky, Alexander Vilkin, and others.
+At different times, Grigory Mayofis, Alexander Liver, Ivan Tourist, Prokhor, Ivan Ushkov, Sergei Pakhomov, Vsevolod Emelin, Alexander Erashov, Denis Donchenko, Boris Trevozhny, Stas Kazimov, Mikhail Rubtsov, Oleg Teptsov, Andrei Kuzmin, Porfiry Fedorin joined the group at different times, Alexey Sergeev, Grigory Yushchenko, Igor Mezheritsky, Alexander Vilkin and others.
 
 ## See also
 
