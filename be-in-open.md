@@ -22,7 +22,7 @@ founder: Name
 
 ![(Image correspondent to the article of “{{ page.title }}”. To see an image try another browser!)]({{ site.url }}/images/{{ page.permalink }}.jpg)
 
-**Image**
+**Be In Open**
 
 *Photo: [Not specified](index) / [Source](index)*
 
