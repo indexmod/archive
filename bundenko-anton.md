@@ -5,7 +5,7 @@ layout: default
 published: true
 shortname: BUAN
 indexmod: Indexmod
-birth: '2010'
+birth: '1989'
 age: '8'
 updateyear: '2018'
 city: Moscow
