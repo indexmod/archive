@@ -3,6 +3,7 @@ title: Levadnaja Details
 permalink: levadnaja-details
 layout: default
 published: true
+shortname: LEDE
 ---
 
 
@@ -57,5 +58,3 @@ http://en.levadnajadetails.com/
 [[4]](#a4) <span id="f4"></span> [{{page.title}} (Instagram)](https://www.instagram.com/levadnajadetails/?hl=ru)
 
 [[5]](#a5) <span id="f5"></span> [{{page.title}} (YouTube)](https://www.youtube.com/channel/UCko1ZlAIcKPUiHcugwB90ew/featured)
-
-`Updated Mar. 2018 (Andrei Dej)`
