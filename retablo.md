@@ -1,7 +1,7 @@
 ---
 title: Ретаблос (иконы)
 permalink: retablos
-layout: default-ru
+layout: default
 published: true
 shortname: RTBL
 ---
