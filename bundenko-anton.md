@@ -4,7 +4,7 @@ permalink: bundenko-anton
 layout: default
 published: true
 shortname: BUAN
-indexmod: Indexmod
+indexmod: '0,01'
 birth: '1989'
 age: '28'
 updateyear: '2018'
@@ -56,13 +56,13 @@ founder: Name
 |-|-|-|-|-|
 |2018|568 <span id="a3">[\[3\]](#f3)</span>|000 <span id="a4">[\[4\]](#f4)</span>|000 <span id="a5">[\[5\]](#f5)</span>|28|0,015904|
 
-# See also
+## See also
 
 + [Evan Desmond Yee](yee-evan-desmond)
 + [Air](air-store)
 + [ArtTube](arttube)
 
-# Footnotes
+## Footnotes
 
 [[1]](#a1) <span id="f1"></span> [Антон Бунденко рассказал ArtTube о своем проекте «Futureisnown» (ArtTube)](https://moscow.arttube.ru/anton-bundenko-rasskazal-arttube-o-svoem-proekte-futureisnown/)
 
