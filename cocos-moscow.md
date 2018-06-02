@@ -16,6 +16,7 @@ twitter: '0,0'
 pinterest: '5'
 founder: Masha Titova
 founder-2: Zong Vu
+published: true
 ---
 
 (Est. {{ page.birth }}, {{ page.city }}) is a Russian brand of basic casual wear founded by {{page.founder}} and {{page.founder-2}} <span id="a1">[\[1\]](#f1)</span>.
@@ -59,7 +60,7 @@ founder-2: Zong Vu
 + [About (clothing)](about-clothing)
 + [Masha Titova](titova-masha)
 + [Natalia Turovnikova](turovnikova-natalia)
-+ [Oh, my](oh-my)
++ [Oh, my](oh-my-brand)
 + [Zong Vu](vu-zong)
 
 ## Footnotes
