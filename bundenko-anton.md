@@ -6,10 +6,10 @@ published: true
 shortname: BUAN
 indexmod: Indexmod
 birth: '1989'
-age: '8'
+age: '28'
 updateyear: '2018'
 city: Moscow
-facebook: '0,0'
+facebook: '568'
 instagram: '0,0'
 youtube: '0,0'
 vimeo: '0,0'
@@ -35,6 +35,19 @@ founder: Name
 |-|-|
 |2017|Orgy of things|
 |2018|"Futureisnown"|
+
+## Indexmod [*](indexmod)
+
+|Variables|2018|2019|
+|-|-|-|
+|Facebook <span id="a3">[\[3\]](#f3)</span>|{{ page.facebook }}||
+|Instagram <span id="a4">[\[4\]](#f4)</span>|{{ page.instagram }}||
+|YouTube <span id="a5">[\[5\]](#f5)</span>|{{ page.youtube }}||
+|Twitter <span id="a6">[\[6\]](#f6)</span>|{{ page.twitter }}||
+|Age|{{ page.age }}||
+|Indexmod|{{ page.content | number_of_words }}||
+|Total|{{ page.indexmod }}||
+
 
 
 # {{page.title}} Indexmod
