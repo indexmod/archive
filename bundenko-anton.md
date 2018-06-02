@@ -3,6 +3,7 @@ title: 'Bundenko, Anton'
 permalink: bundenko-anton
 layout: default
 published: true
+shortname: BUAN
 ---
 (Rus. Антон Бунденко. 1989, Moscow) Russian artist, founder of the "Futureisnown" <span id="a1">[\[1\]](#f1)</span> project for Air store in Moscow.
 
