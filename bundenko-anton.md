@@ -3,12 +3,25 @@ title: 'Bundenko, Anton'
 permalink: bundenko-anton
 layout: default
 published: true
+shortname: BUAN
+indexmod: '0,01'
+birth: '1989'
+age: '28'
+updateyear: '2018'
+city: Moscow
+facebook: '568'
+instagram: '0,0'
+youtube: '0,0'
+vimeo: '0,0'
+twitter: '0,0'
+tumblr: '0,0'
+founder: Name
 ---
-(Rus. Антон Бунденко. 1989, Moscow) Russian artist, founder of the "Futureisnown" <span id="a1">[\[1\]](#f1)</span> project for Air store in Moscow.
+(Est. {{ page.birth }}, {{ page.city }}) is a Russian artist, founder of the "Futureisnown" <span id="a1">[\[1\]](#f1)</span> project for Air store in Moscow.
 
-![](https://moscow.arttube.ru/wp-content/uploads/sites/2/2018/02/01.jpg)
+![(Image correspondent to the article of “{{ page.title }}”. To see an image try another browser!)]({{ site.url }}/images/{{ page.permalink }}.jpg)
 
-**Anton Bundenko**
+**Anton Bundenko in 2018**
 
 *Photo: [Evgenia Zubchenko](zubchenko-evgenia) / [ArtTube](https://moscow.arttube.ru/anton-bundenko-rasskazal-arttube-o-svoem-proekte-futureisnown/)*
 
@@ -19,25 +32,26 @@ published: true
 |2017|Orgy of things|
 |2018|"Futureisnown"|
 
+## Indexmod [*](indexmod)
 
-# {{page.title}} Indexmod
+|Variables|2018|2019|
+|-|-|-|
+|Facebook <span id="a3">[\[3\]](#f3)</span>|{{ page.facebook }}||
+|Instagram|{{ page.instagram }}||
+|YouTube|{{ page.youtube }}||
+|Age|{{ page.age }}||
+|Indexmod|{{ page.content | number_of_words }}||
+|Total|{{ page.indexmod }}||
 
-|Year|Facebook|Instagram|YouTube|Age|Indexmod|
-|-|-|-|-|-|
-|2018|568 <span id="a3">[\[3\]](#f3)</span>|000 <span id="a4">[\[4\]](#f4)</span>|000 <span id="a5">[\[5\]](#f5)</span>|28|0,015904|
 
-# See also
+## See also
 
 + [Evan Desmond Yee](yee-evan-desmond)
 + [Air](air-store)
 + [ArtTube](arttube)
 
-# Footnotes
+## Footnotes
 
 [[1]](#a1) <span id="f1"></span> [Антон Бунденко рассказал ArtTube о своем проекте «Futureisnown» (ArtTube)](https://moscow.arttube.ru/anton-bundenko-rasskazal-arttube-o-svoem-proekte-futureisnown/)
 
 [[3]](#a3) <span id="f3"></span> [{{page.title}} (Facebook)](https://www.facebook.com/bundenko/about?lst=100008481991414%3A100000954243608%3A1520888490&section=contact_basic)
-
-[[4]](#a4) <span id="f4"></span> [{{page.title}} (Instagram)](index)
-
-[[5]](#a5) <span id="f5"></span> [{{page.title}} (YouTube)](index)
