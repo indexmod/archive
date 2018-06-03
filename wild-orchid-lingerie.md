@@ -18,7 +18,7 @@ published: true
 founder: Name
 ---
 
-(Est. {{ page.birth }}, {{ page.city }}) is a is a Russia's largest operator in the market of lingerie, swimwear, home wear and beachwear  <span id="a1">[\[1\]](#f1)</span>.
+(Est. {{ page.birth }}, {{ page.city }}) is a Russia's largest operator in the market of lingerie, swimwear, home wear and beachwear  <span id="a1">[\[1\]](#f1)</span>.
 
 ![(Image correspondent to the article of “{{ page.title }}”. To see an image try another browser!)]({{ site.url }}/images/{{ page.permalink }}.jpg)
 
