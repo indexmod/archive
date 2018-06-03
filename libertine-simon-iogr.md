@@ -1,6 +1,6 @@
 ---
 title: 'Libertine, Simon'
-permalink: libertine-simon-iogr
+permalink: libertine-simon
 layout: default
 published: true
 shortname: LISI
