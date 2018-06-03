@@ -1,9 +1,10 @@
 ---
-title: Libertine, Simon (Iogr)
+title: 'Libertine, Simon'
 permalink: libertine-simon-iogr
 layout: default
+published: true
 ---
-# {{page.title}}
+
 
 (Est. 2013, city) is a Libertine (brand)
 Libertine, est. 2001, LA—is an American fashion brand founded by Johnson Hartig.1 Login to edit Libertine
