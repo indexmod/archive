@@ -17,19 +17,14 @@ twitter: '0,0'
 tumblr: '0,0'
 founder: Name
 ---
-(Est. {{ page.birth }}, {{ page.city }}) is a ---  <span id="a1">[\[1\]](#f1)</span>.
+(Est. {{ page.birth }}, {{ page.city }}) is a is an American fashion brand founded by Johnson Hartig <span id="a1">[\[1\]](#f1)</span>.
 
 ![(Image correspondent to the article of “{{ page.title }}”. To see an image try another browser!)]({{ site.url }}/images/{{ page.permalink }}.jpg)
 
-**Image**
+**From Libertine fall-winter 2016 look-book (fragment)**
 
-*Photo: [Not specified](index) / [Source](index)*
+*Photo: [Libertine](index) / [Siim Kohv Ltd](index)*
 
-## Сonspectus
-
-|Year|City|
-|-|-|
-|2017|Moscow|
 
 ## Indexmod [*](indexmod)
 
@@ -45,6 +40,11 @@ founder: Name
 
 ## See also
 
++ Diggy Smalls
++ Taylor Swift
++ Karl Lagerfeld
++ Anna Wintour
++ Mick Jagger 
 + [About {{page.title}}](index)
 + [{{page.title}} at Wikipedia](index)
 
@@ -58,9 +58,6 @@ founder: Name
 
 [[6]](#a6) <span id="f6"></span> [{{page.title}} (Twitter)](index)
 
-
-(Est. 2013, city) is a Libertine (brand)
-Libertine, est. 2001, LA—is an American fashion brand founded by Johnson Hartig.1 Login to edit Libertine
 
 CONTENTS
 
@@ -79,45 +76,4 @@ Today he lives and works in Los Angeles with his rescue troopers Terence and Dig
 
 
 
-From Libertine fall-winter 2016 look-book (fragment)
-Photo: Libertine / Siim Kohv Ltd
-See also
-Diggy Smalls
-Taylor Swift
-Karl Lagerfeld
-Anna Wintour
-Mick Jagger <span id="a1">[\[1\]](#f1)</span>.
 
-![](/encyclopedia/images/image-name.jpg)
-
-**Image title**
-
-*Photo: [Name](index) / [Source](index)*
-
-# {{page.title}} Conspectus
-
-|Year|City|
-|-|-|
-|2017|Moscow|
-
-# {{page.title}} Indexmod
-
-|Year|Facebook|Instagram|YouTube|Age|Indexmod|
-|-|-|-|-|-|
-|2018|000 <span id="a3">[\[3\]](#f3)</span>|000 <span id="a4">[\[4\]](#f4)</span>|000 <span id="a5">[\[5\]](#f5)</span>|00|0,0000|
-
-
-# See also
-
-+ [About {{page.title}}](index)
-+ [{{page.title}} at Wikipedia](index)
-
-# Footnotes
-
-[[3]](#a3) <span id="f3"></span> [{{page.title}} (Facebook)](index)
-
-[[4]](#a4) <span id="f4"></span> [{{page.title}} (Instagram)](index)
-
-[[5]](#a5) <span id="f5"></span> [{{page.title}} (YouTube)](index)
-
-`Updated Mar. 2018 (Andrei Dei)`
