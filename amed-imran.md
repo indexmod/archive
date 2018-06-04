@@ -19,7 +19,7 @@ published: true
 
 (Англ. Imran Amed, род. {{ page.birth }} <span id="a1">[\[1\]](#f1)</span>, {{ page.city }})  британский и канадский предприниматель, основатель и генеральный директор “The Business of Fashion” (Бизнес моды), основатель проекта "BoF Голоса" <span id="a2">[\[2\]](#f2)</span>, живёт и работает в Лондоне.
 
-![](http://style.gq.com.au/media/file_uploads/2/6/7/0/26713-1.jpg)
+![(Image correspondent to the article of “{{ page.title }}”. To see an image try another browser!)]({{ site.url }}/images/{{ page.permalink }}.jpg)
 
 **Имран Амед выступает во время презентации "BoF Голоса" в Сиднейском оперном театре**
 
