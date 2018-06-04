@@ -2,10 +2,8 @@
 title: Lambada Market
 permalink: lambada-market
 layout: default
+published: true
 ---
-
-# {{page.title}}
-
 (Est. 2013, city) is a Lambada Market (Rus. Ламбада-маркет) est. in 2008, Moscow—a abrand that unites an online store and monthly fair in Moscow founded by Elena Kamai. Login to edit Lambada Market <span id="a1">[\[1\]](#f1)</span>.
 
 ![](/encyclopedia/images/image-name.jpg)
