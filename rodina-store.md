@@ -23,7 +23,7 @@ founder: Artiom Malyshev
 
 **Limited edition of T-shirts "Forward for the Nizhny" by Sasha Stan**
 
-*Photo: [Not specified](index) / [Source](index)*
+*Photo: [Basketball club Nizhny Novgorod](index) / [Nn-basket.ru](http://nn-basket.ru/)*
 
 ## Сonspectus
 
