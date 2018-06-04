@@ -37,7 +37,20 @@
 	<div class="wrapper">
 		<header>
 			<div class="container">
-				<a href="index"><img src="/indexmod-eye.gif" alt="Indexmod" style="width:auto;height:auto;border:0;">
+				<a href="index"><img src="/indexmod-eye.gif" alt="Indexmod" style="width:auto;height:auto;border:0;"> <marquee direction="down" width="auto" height="auto" behavior="alternate" style="border:solid">
+  <marquee behavior="alternate">
+    <ul>
+
+  {% assign mypages = site.pages | sort: "order" %}
+  {% for page in mypages %}
+   <li class="intro">
+  <a href="{{ page.url | absolute_url }}">#{{ page.shortname }} ({{ page.content | number_of_words }})</a>
+  </li>
+  {% endfor %}
+  
+</ul>
+  </marquee>
+</marquee>
 </a><br>
 			</div>
 		</header>
