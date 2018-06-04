@@ -24,7 +24,7 @@ founder: 'Timothy Oulton, Vadim Yasnogorodky'
 
 **Interiors by HC**
 
-*Photo: [Not specified](index) / [Ilikeloft.ru/](http://ilikeloft.ru/)*
+*Photo: [Not specified](index) / [Ilikeloft.ru/](http://ilikeloft.ru)*
 
 ## Сonspectus
 
