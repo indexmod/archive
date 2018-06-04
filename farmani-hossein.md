@@ -14,7 +14,7 @@ shortname: FRHS
 
 *Фото: [Cattleya Jaruthavee](jaruthavee-cattleya) / [Школа Визуальных Искусств](http://schoolva.ru/2015/hossein-farmani/)*
 
-# Проекты
+## Проекты
 
 |Year|City|
 |----|-----|
@@ -34,7 +34,7 @@ shortname: FRHS
 ||Miami Snap|
 |2014|Rooftop Gallery BKK|
 
-# {{page.title}} Indexmod [*](indexmod)
+## Indexmod [*](indexmod)
 
 ||2018|2019|
 |-|-|-|
@@ -45,13 +45,13 @@ shortname: FRHS
 |Page Value|{{ page.content | number_of_words }}||
 |Indexmod|0,0000||
 
-# См. также
+## См. также
 
 + [Rooftop Gallery](rooftop-gallery)
 + [Винсент Сунг](sung-vinsent)
 + [Urban-a-Liana (2015)](urban-a-liana-2015)
 
 
-# Сноски
+## Сноски
 
 [[1]](#a1) <span id="f1"></span> [Лекция Хоссейна Фармани — Фотография. Маркетинг и бизнес. (Школа Визуальных Искусств)](http://example.net/article)
