@@ -7,7 +7,7 @@ published: true
 
 (Eng. Hossein Farmani, Pers. حسین فرمانی, род. 1969, Tehran)  иранский фотограф и коллекционер, основатель Группы Фармани [(Farmani Group)](farmani-group), базирующуюся в Лондоне и Бангкоке, основатель премии Lucie Awards, работал с Хельмутом Ньютоном, Ричардом Аведоном, Стивом Маккарри <span id="a1">[\[1\]](#f1)</span>.
 
-![](http://schoolva.ru/wp-content/uploads/2015/10/hossein_farmani-by_cattleya_jaruthavee.jpg)
+![(Image correspondent to the article of “{{ page.title }}”. To see an image try another browser!)]({{ site.url }}/images/{{ page.permalink }}.jpg)
 
 **Хоссейн Фармани**
 
