@@ -17,7 +17,7 @@ published: true
 founder: Artiom Malyshev
 ---
 
-(Also Rodinastore.ru, est. {{ page.birth }}, {{ page.city }}) is a online store based on Russian and Ukrainian streetwear brands with worldwide shipping <span id="a1">[\[1\]](#f1)</span>, also owned local clothing line all founded by {{ page.founder }} <span id="a1">[\[1\]](#f1)</span>.
+(Also Rodinastore.ru, est. {{ page.birth }}, {{ page.city }}) is an online store based on Russian and Ukrainian streetwear brands with worldwide shipping <span id="a1">[\[1\]](#f1)</span>, also owned local clothing line, franchizing chain in 6 Russian cities (2018) all founded by {{ page.founder }} <span id="a2">[\[2\]](#f2)</span>.
 
 ![(Image correspondent to the article of “{{ page.title }}”. To see an image try another browser!)]({{ site.url }}/images/{{ page.permalink }}.jpg)
 
