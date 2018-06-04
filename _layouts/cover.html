@@ -41,15 +41,14 @@
 			</div>
 					
 					<br>
-<marquee direction="left" width="100%" height="100%" behavior="scroll" style="border:0px">
+<marquee direction="left" width="100%" height="100%" behavior="slide" style="border:0px">
 
-  {% assign mypages = site.pages | sort: "order" %}
+  {% assign mypages = site.pages | sort: "comma" %}
   {% for page in mypages %}
-   <li class="intro">
+   <span class="intro">
   <a href="{{ page.url | absolute_url }}">{{ page.shortname }} ({{ page.content | number_of_words }})</a>
-  </li>
+  </span>
   {% endfor %}
-
   </marquee>
 
 		</header>
