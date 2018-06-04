@@ -41,13 +41,13 @@
 			</div>
 					
 					
-<marquee direction="down" width="auto" height="auto" behavior="scroll" style="border:0px">
+<marquee direction="left" width="100%" height="100%" behavior="scroll" style="border:0px">
     <ul>
   {% assign mypages = site.pages | sort: "order" %}
   {% for page in mypages %}
-   <span class="intro">
-  <a href="{{ page.url | absolute_url }}">#{{ page.shortname }} ({{ page.content | number_of_words }})</a>
-  </span>
+   <li class="intro">
+  <a href="{{ page.url | absolute_url }}">{{ page.shortname }} ({{ page.content | number_of_words }})</a>
+  </li>
   {% endfor %}
 </ul>
   </marquee>
