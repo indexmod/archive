@@ -43,7 +43,7 @@
 			
 			<marquee behavior="scroll" scrollamount="15" direction="left" height="100%" loop="-1" style="border:0px" width="100%">{% assign mypages = site.pages | sort: "comma" %} {% for page in mypages %} <span class="intro"><a href="{{%20page.url%20|%20absolute_url%20}}">{{ page.shortname }} ({{ page.content | number_of_words }})</a></span> {% endfor %}</marquee>
 			
-			<marquee behavior="scroll" scrollamount="30" direction="left" height="100%" loop="-1" style="border:0px" width="100%">{% assign mypages = site.pages | sort: "comma" %} {% for page in mypages %} <span class="intro"><a href="{{%20page.url%20|%20absolute_url%20}}">{{ page.founder }} ({{ page.birth }})</a></span> {% endfor %}</marquee>
+			<marquee behavior="scroll" scrollamount="30" direction="left" height="100%" loop="-1" style="border:0px" width="100%">{% assign mypages = site.pages | sort: "comma" %} {% for page in mypages %} <span class="intro"><a href="{{%20page.url%20|%20absolute_url%20}}">{{ page.founder }} {{ page.birth }}</a></span> {% endfor %}</marquee>
 			
 		</header>
 		<section>
