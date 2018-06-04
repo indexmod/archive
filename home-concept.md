@@ -32,7 +32,7 @@ founder: 'Timothy Oulton, Vadim Yasnogorodky'
 |-|-|
 |2006|Founding, Moscow|
 
-![(Image correspondent to the article of “{{ page.title }}”. To see an image try another browser!)]({{ site.url }}/images/{{ page.permalink }}-1.jpg)
+![(Image correspondent to the article of “{{ page.title }}”. To see an image try another browser.)]({{ site.url }}/images/{{ page.permalink }}-1.jpg)
 
 **Tea strainer by HC**
 
