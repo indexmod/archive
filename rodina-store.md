@@ -60,7 +60,7 @@ founder: Artiom Malyshev
 
 [[1]](#a1) <span id="f1"></span> [{{page.title}} (Facebook)](https://www.facebook.com/rodinastoreru)
 
-[[2]](#a2) <span id="f2"></span> [Как российские streetwear-марки продаются в регионах (Максим Муратов, Иe-in.ru)](https://www.be-in.ru/people/39085-rodina/)
+[[2]](#a2) <span id="f2"></span> [Как российские streetwear-марки продаются в регионах (Максим Муратов, Be-in.ru)](https://www.be-in.ru/people/39085-rodina/)
 
 [[3]](#a3) <span id="f3"></span> [{{page.title}} (Facebook)](https://www.facebook.com/rodinastoreru)
 
