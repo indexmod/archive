@@ -23,8 +23,8 @@
 	<meta content="/ms-icon-144x144.png" name="msapplication-TileImage">
 	<meta content="#ffffff" name="theme-color">
 	<style>
-@import url('https://fonts.googleapis.com/css?family=Old+Standard+TT');
-</style>
+	@import url('https://fonts.googleapis.com/css?family=Old+Standard+TT');
+	</style>
 	<meta content="bd6cadbefee34d7e" name="yandex-verification">
 	<title>{{ site.title }}</title>
 </head>
@@ -37,20 +37,12 @@
 	<div class="wrapper">
 		<header>
 			<div class="container">
-				<a href="index"><img src="/indexmod-eye.gif" alt="Indexmod" style="width:auto;height:auto;border:0;"> </a>
-			</div>
-					
-					<br>
-<marquee direction="left" width="100%" height="100%" behavior="scroll" loop="-1" style="border:0px">
-
-  {% assign mypages = site.pages | sort: "comma" %}
-  {% for page in mypages %}
-   <span class="intro">
-  <a href="{{ page.url | absolute_url }}">{{ page.title }} ({{ page.content | number_of_words }})</a>
-  </span>
-  {% endfor %}
-  </marquee>
-
+				<a href="index"><img alt="Indexmod" src="/indexmod-eye.gif" style="width:auto;height:auto;border:0;"></a>
+			</div><br>
+			<marquee behavior="scroll" speed="4" direction="left" height="100%" loop="-1" style="border:0px" width="100%">{% assign mypages = site.pages | sort: "comma" %} {% for page in mypages %} <span class="intro"><a href="{{%20page.url%20|%20absolute_url%20}}">{{ page.title }} ({{ page.content | number_of_words }})</a></span> {% endfor %}</marquee>
+			
+			<marquee behavior="scroll" speed="7" direction="left" height="100%" loop="-1" style="border:0px" width="100%">{% assign mypages = site.pages | sort: "comma" %} {% for page in mypages %} <span class="intro"><a href="{{%20page.url%20|%20absolute_url%20}}">{{ page.shortname }} ({{ page.content | number_of_words }})</a></span> {% endfor %}</marquee>
+			
 		</header>
 		<section>
 			{{ content }}
@@ -65,39 +57,38 @@
 	<script async src="https://www.googletagmanager.com/gtag/js?id=UA-112478299-1">
 	</script> 
 	<script>
-	   window.dataLayer = window.dataLayer || [];
-	   function gtag(){dataLayer.push(arguments);}
-	   gtag('js', new Date());
-	   gtag('config', 'UA-112478299-1');
+	      window.dataLayer = window.dataLayer || [];
+	      function gtag(){dataLayer.push(arguments);}
+	      gtag('js', new Date());
+	      gtag('config', 'UA-112478299-1');
 	</script> <!-- Yandex.Metrika counter -->
-<script type="text/javascript" >
-    (function (d, w, c) {
-        (w[c] = w[c] || []).push(function() {
-            try {
-                w.yaCounter48876245 = new Ya.Metrika({
-                    id:48876245,
-                    clickmap:true,
-                    trackLinks:true,
-                    accurateTrackBounce:true,
-                    webvisor:true
-                });
-            } catch(e) { }
-        });
+	<script type="text/javascript">
+	   (function (d, w, c) {
+	       (w[c] = w[c] || []).push(function() {
+	           try {
+	               w.yaCounter48876245 = new Ya.Metrika({
+	                   id:48876245,
+	                   clickmap:true,
+	                   trackLinks:true,
+	                   accurateTrackBounce:true,
+	                   webvisor:true
+	               });
+	           } catch(e) { }
+	       });
 
-        var n = d.getElementsByTagName("script")[0],
-            s = d.createElement("script"),
-            f = function () { n.parentNode.insertBefore(s, n); };
-        s.type = "text/javascript";
-        s.async = true;
-        s.src = "https://mc.yandex.ru/metrika/watch.js";
+	       var n = d.getElementsByTagName("script")[0],
+	           s = d.createElement("script"),
+	           f = function () { n.parentNode.insertBefore(s, n); };
+	       s.type = "text/javascript";
+	       s.async = true;
+	       s.src = "https://mc.yandex.ru/metrika/watch.js";
 
-        if (w.opera == "[object Opera]") {
-            d.addEventListener("DOMContentLoaded", f, false);
-        } else { f(); }
-    })(document, window, "yandex_metrika_callbacks");
-</script>
-<noscript><div><img src="https://mc.yandex.ru/watch/48876245" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
-<!-- /Yandex.Metrika counter -->
+	       if (w.opera == "[object Opera]") {
+	           d.addEventListener("DOMContentLoaded", f, false);
+	       } else { f(); }
+	   })(document, window, "yandex_metrika_callbacks");
+	</script> <noscript>
+	<div><img alt="" src="https://mc.yandex.ru/watch/48876245" style="position:absolute; left:-9999px;"></div></noscript> <!-- /Yandex.Metrika counter -->
 	 {% endif %}
 </body>
 </html>
