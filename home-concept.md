@@ -24,7 +24,7 @@ founder: 'Timothy Oulton, Vadim Yasnogorodky'
 
 **Interiors by HC**
 
-*Photo: [Not specified](index) / [Ilikeloft.ru/](http://ilikeloft.ru/)*
+*Photo: [Not specified](index) / [Ilikeloft.ru](http://ilikeloft.ru)*
 
 ## Сonspectus
 
@@ -36,7 +36,7 @@ founder: 'Timothy Oulton, Vadim Yasnogorodky'
 
 **Tea strainer by HC**
 
-*Photo: [Not specified](index) / [Homeconcept.ru/](http://www.homeconcept.ru/catalog/product/tea-strainer-heart-design/?OFFER_ID=120700&IMAGE=145188)*
+*Photo: [Not specified](index) / [Homeconcept.ru](http://www.homeconcept.ru/catalog/product/tea-strainer-heart-design/?OFFER_ID=120700&IMAGE=145188)*
 
 ## Indexmod [*](indexmod)
 
