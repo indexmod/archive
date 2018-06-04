@@ -17,7 +17,7 @@ published: true
 founder: Artiom Malyshev
 ---
 
-(Also Rodinastore.ru, est. {{ page.birth }}, {{ page.city }}) is a online store Russian and Ukrainian streetwear brands with worldwide shipping, also local clothing line founded by {{ page.founder }} <span id="a1">[\[1\]](#f1)</span>.
+(Also Rodinastore.ru, est. {{ page.birth }}, {{ page.city }}) is a online store based on Russian and Ukrainian streetwear brands with worldwide shipping, also owned local clothing line all founded by {{ page.founder }} <span id="a1">[\[1\]](#f1)</span>.
 
 ![(Image correspondent to the article of “{{ page.title }}”. To see an image try another browser!)]({{ site.url }}/images/{{ page.permalink }}.jpg)
 
@@ -27,9 +27,13 @@ founder: Artiom Malyshev
 
 ## Сonspectus
 
-|Year|City|
+|Year|City|Event|
 |-|-|
-|2017|Moscow|
+|2015|Moscow|Faces and Laces|
+|2016|Moscow|Lambada Market|
+|2017|NN|Dukh Ulits film presenting|
+|2017|NN|Dukh Ulits book publishing|
+|2018|NN|Rodina - Sport collection launch|
 
 ## Indexmod [*](indexmod)
 
@@ -47,6 +51,11 @@ founder: Artiom Malyshev
 
 + [Artiom Malyshev](malyshev-artiom)
 + [Be in Open](be-in-open)
++ [Faces and Laces](faces-and-laces)
++ [Lambada Market](lambada-market)
+
+
+
 
 ## Footnotes
 
