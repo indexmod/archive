@@ -18,7 +18,7 @@ published: true
 founderof: Anna Delvey Fundation
 ---
 
-(Rus. Анна Сорокина, born {{ page.birth }}, {{ page.city }}) is a Russian immigrant, founder of the {{ page.founderof }} in NYC <span id="a1">[\[1\]](#f1)</span>, posing as a thoroughbred German woman, described by New York Magazine online supplement The Cut as "wannabe socialite busted for skipping out on pricey hotel bills", who was arrested in Malibu in the summer of 2017 and charged with six charges as thefts and their attempts. Since October 2017, Anna Delvey (Sorokina) awaits trial in Rikers Prison on the eponymous island near New York <span id="a2">[\[2\]](#f2)</span>.
+(Rus. Анна Делви, also Анна Сорокина {{ page.birth }}, {{ page.city }}) is a Russian immigrant, founder of the {{ page.founderof }} in NYC <span id="a1">[\[1\]](#f1)</span>, posing as a thoroughbred German woman, described by New York Magazine online supplement The Cut as "wannabe socialite busted for skipping out on pricey hotel bills", who was arrested in Malibu in the summer of 2017 and charged with six charges as thefts and their attempts. Since October 2017, Anna Delvey (Sorokina) awaits trial in Rikers Prison on the eponymous island near New York <span id="a2">[\[2\]](#f2)</span>.
 
 ![(Image correspondent to the article of “{{ page.title }}”. To see an image try another browser!)]({{ site.url }}/images/{{ page.permalink }}.jpg)
 
