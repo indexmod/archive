@@ -3,6 +3,7 @@ title: 'Farmani, Hossein'
 permalink: farmani-hossein
 layout: default
 published: true
+shortname: FRHS
 ---
 
 (Eng. Hossein Farmani, Pers. حسین فرمانی, род. 1969, Tehran)  иранский фотограф и коллекционер, основатель Группы Фармани [(Farmani Group)](farmani-group), базирующуюся в Лондоне и Бангкоке, основатель премии Lucie Awards, работал с Хельмутом Ньютоном, Ричардом Аведоном, Стивом Маккарри <span id="a1">[\[1\]](#f1)</span>.
