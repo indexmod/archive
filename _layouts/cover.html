@@ -46,7 +46,7 @@
   {% assign mypages = site.pages | sort: "comma" %}
   {% for page in mypages %}
    <span class="intro">
-  <a href="{{ page.url | absolute_url }}">{{ page.shortname }} ({{ page.content | number_of_words }})</a>
+  <a href="{{ page.url | absolute_url }}">{{ page.title }} ({{ page.content | number_of_words }})</a>
   </span>
   {% endfor %}
   </marquee>
