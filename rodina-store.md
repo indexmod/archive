@@ -49,12 +49,11 @@ founder: Artiom Malyshev
 
 ## See also
 
-+ [Artiom Malyshev](malyshev-artiom)
 + [Be in Open](be-in-open)
 + [Faces and Laces](faces-and-laces)
 + [Lambada Market](lambada-market)
-
-
++ [Lecharlatan (socks)](lecharlatan)
++ [Artiom Malyshev](malyshev-artiom)
 
 
 ## Footnotes
