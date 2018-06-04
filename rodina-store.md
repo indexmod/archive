@@ -31,9 +31,9 @@ founder: Artiom Malyshev
 |-|-|
 |2015|Moscow|Faces and Laces|
 |2016|Moscow|Lambada Market|
-|2017|NN|Dukh Ulits film presenting|
-|2017|NN|Dukh Ulits book publishing|
-|2018|NN|Rodina - Sport collection launch|
+|2017|Nizhny Novgorod|Dukh Ulits film presenting|
+|2017|Nizhny Novgorod|Dukh Ulits book publishing|
+|2018|Nizhny Novgorod|Rodina - Sport collection launch|
 
 ## Indexmod [*](indexmod)
 
