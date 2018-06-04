@@ -2,7 +2,7 @@
 title: Delvey, Anna
 permalink: delvey-anna
 layout: default
-shortname: TMPL
+shortname: DVAN
 indexmod: Indexmod
 birth: '1991'
 age: '27'
