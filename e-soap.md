@@ -23,7 +23,7 @@ shortname: ESOP
 
 ## See also
 
-+ [Idelsonverolab](idelsonverolab)
++ [Idelson Vero Decor Lab](idelson-vero-decor-lab)
 + [Internet Yami-Ichi](internet-yami-ichi)
 + [Intektra](Intektra)
 
