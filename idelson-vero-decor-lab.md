@@ -5,7 +5,7 @@ layout: default
 shortname: IVDL
 indexmod: Indexmod
 birth: '2006'
-age: '8'
+age: '12'
 updateyear: '2018'
 city: Moscow
 facebook: '87'
