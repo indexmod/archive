@@ -24,7 +24,7 @@ founder: Veronika Idelson
 
 **Veronika Idelson a founder of Idelson Vero Decor Lab**
 
-*Photo: [Not specified](index) / [Source](index)*
+*Photo: [Not specified](index) / [Facebook](index)*
 
 ## Indexmod [*](indexmod)
 
@@ -32,8 +32,6 @@ founder: Veronika Idelson
 |-|-|-|
 |Facebook <span id="a3">[\[3\]](#f3)</span>|{{ page.facebook }}||
 |Instagram <span id="a4">[\[4\]](#f4)</span>|{{ page.instagram }}||
-|YouTube <span id="a5">[\[5\]](#f5)</span>|{{ page.youtube }}||
-|Twitter <span id="a6">[\[6\]](#f6)</span>|{{ page.twitter }}||
 |Age|{{ page.age }}||
 |Indexmod|{{ page.content | number_of_words }}||
 |Total|{{ page.indexmod }}||
