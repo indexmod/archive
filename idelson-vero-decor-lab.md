@@ -18,7 +18,7 @@ published: true
 founder: Veronika Idelson
 ---
 
-(Est. {{ page.birth }}, {{ page.city }}) is a  studio founded by {{ page.founder }} offering decor of the interior and events, costumes, window dressing, houses and festive event, brazil for carnivals. Repair from idea, drawing, to full execution  <span id="a1">[\[1\]](#f1)</span>.
+(Est. {{ page.birth }}, {{ page.city }}) is a  studio founded by {{ page.founder }} offering decor of the interior and events, costumes, window dressing, houses and festive event, costumes for carnivals.
 
 ![(Image correspondent to the article of “{{ page.title }}”. To see an image try another browser!)]({{ site.url }}/images/{{ page.permalink }}.jpg)
 
