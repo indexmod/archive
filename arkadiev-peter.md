@@ -3,6 +3,7 @@ title: Arkadiev, Peter
 permalink: arkadiev-peter
 layout: social
 published: true
+shortname: ARPE
 ---
 
 (Est. 2013, city) is a PhD, seniour research fellow at the Department of Typology and Comparative Linguistics <span id="a1">[\[1\]](#f1)</span>.

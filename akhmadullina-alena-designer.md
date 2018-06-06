@@ -2,6 +2,7 @@
 title: 'Akhmadullina, Alena (designer)'
 permalink: akhmadullina-alena-designer
 layout: default
+shortname: AKHM
 published: true
 ---
 

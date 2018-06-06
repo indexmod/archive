@@ -3,6 +3,7 @@ title: Alexander Arutyunov (brand)
 permalink: alexander-arutyunov-brand
 layout: default
 published: true
+shortname: ALAR
 ---
 `This is template, to remove this tag follow Edit link`
 

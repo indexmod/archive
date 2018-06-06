@@ -3,6 +3,7 @@ title: Antarctic Biennale
 permalink: antarctic-biennale
 layout: default
 published: true
+shortname: ATBN
 ---
 (Rus. Первая антарктическая биенале, est. {{ page.birth }}, {{ page.city }}) is a initiated by curator Nadim Samman and Russian artist Alexander Ponomarev at the 14th Venice Architecture Biennale (June 7 November 23, 2014) where was first presented pavilion of Antarctica <span id="a1">[\[1\]](#f1)</span>.
 
@@ -45,8 +46,3 @@ published: true
 [[5]](#a5) <span id="f5"></span> [{{page.title}} (YouTube)](index)
 
 [[6]](#a6) <span id="f6"></span> [{{page.title}} (Twitter)](index)
-
-
-
-
-

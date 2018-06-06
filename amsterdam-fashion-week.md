@@ -3,6 +3,7 @@ title: Amsterdam Fashion Week
 permalink: amsterdam-fashion-week
 layout: default
 published: true
+shortname: AMFW
 ---
 `This is template, to remove this tag follow Edit link`
 

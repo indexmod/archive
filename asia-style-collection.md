@@ -3,6 +3,7 @@ title: Asia Style Collection
 permalink: asia-style-collection
 position:
 layout: default
+shortname: ASCL
 ---
 
 (Est. 2013, city) is a --- <span id="a1">[\[1\]](#f1)</span>.

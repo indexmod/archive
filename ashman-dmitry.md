@@ -3,6 +3,7 @@ title: Ashman, Dmitry
 permalink: ashman-dmitry
 layout: default
 published: true
+shortname: ASDM
 ---
 
 (Est. 2013, city) is a --- <span id="a1">[\[1\]](#f1)</span>.

@@ -2,6 +2,7 @@
 title: Athens Xclusive Designers Week
 permalink: athens-xclusive-designers-week
 layout: default
+shortname: AEDW
 ---
 
 (Est. 2013, city) is a --- <span id="a1">[\[1\]](#f1)</span>.

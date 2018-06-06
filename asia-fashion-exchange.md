@@ -3,6 +3,7 @@ title: Asia Fashion Exchange
 permalink: asia-fashion-exchange
 position:
 layout: default
+shortname: ASFE
 ---
 (Est. 2013, city) is a --- <span id="a1">[\[1\]](#f1)</span>.
 

@@ -2,6 +2,7 @@
 title: Antwerp Fashion Show
 permalink: antwerp-fashion-show
 layout: default
+shortname: AWFW
 ---
 
 (Est. 2013, city) is a --- <span id="a1">[\[1\]](#f1)</span>.

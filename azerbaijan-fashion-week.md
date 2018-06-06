@@ -3,6 +3,7 @@ title: Azerbaijan Fashion Week
 permalink: azerbaijan-fashion-week
 position:
 layout: default
+shortname: AZFW
 ---
 
 (Est. 2013, city) is a --- <span id="a1">[\[1\]](#f1)</span>.

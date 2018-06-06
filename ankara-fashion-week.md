@@ -3,6 +3,7 @@ title: Ankara Fashion Week
 permalink: ankara-fashion-week
 layout: default
 published: true
+shortname: ARFW
 ---
 `This is template, to remove this tag follow Edit link`
 

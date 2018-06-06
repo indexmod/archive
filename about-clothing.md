@@ -2,6 +2,7 @@
 title: About (clothing)
 permalink: about-clothing
 layout: default
+shortname: ABCL
 published: true
 ---
 

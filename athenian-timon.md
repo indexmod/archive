@@ -3,6 +3,7 @@ title: Athenian, Timon
 permalink: athenian-timon
 layout: default
 published: true
+shortname: ATTI
 ---
 
 (Est. 2013, city) is a --- <span id="a1">[\[1\]](#f1)</span>.

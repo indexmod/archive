@@ -3,6 +3,7 @@ title: Amazônia Fashion Week
 permalink: amazonia-fashion-week
 layout: default
 published: true
+shortname: AZFW
 ---
 
 (Est. 2013, city) is a The Amazon Fashion Week is a fashion event that has been taking place since 2007 and features parade brands from Pará, a new creators parade and a fashion fair <span id="a1">[\[1\]](#f1)</span>.

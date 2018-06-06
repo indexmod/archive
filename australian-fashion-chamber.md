@@ -4,6 +4,7 @@ permalink: australian-fashion-chamber
 position: null
 layout: default
 published: true
+shortname: AUFC
 ---
 
 (Est. 2014, Sydney) is a not-for-profit organisation established to promote and develop Australian fashion design locally and internationally <span id="a1">[\[1\]](#f1)</span>.

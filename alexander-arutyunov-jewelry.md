@@ -2,6 +2,7 @@
 title: Alexander Arutyunov Jewelry
 permalink: alexander-arutyunov-jewelry
 layout: default
+shortname: ALJW
 ---
 
 (Est. 2014, Moscow) is a brand founded by Alexander Arutyunov. See also: Alexander Arutyunov <span id="a1">[\[1\]](#f1)</span>, description-two <span id="a2">[\[2\]](#f2)</span> description-3 <span id="a3">[\[3\]](#f3)</span>, extra text.
