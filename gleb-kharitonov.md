@@ -3,6 +3,7 @@ title: Kharitonov, Gleb
 permalink: kharitonov-gleb
 layout: default
 shortname: KHGB
+anothername: Heisler
 indexmod: Indexmod
 birth: '2010'
 age: '8'
@@ -22,15 +23,15 @@ founderof: Name
 
 ![(Image correspondent to the article of “{{ page.title }}”. To see an image try another browser!)]({{ site.url }}/images/{{ page.permalink }}.jpg)
 
-**Image**
+**Gleb Kharitonov**
 
-*Photo: [Not specified](index) / [Source](index)*
+*Photo: [Not specified](index) / [Look At Me](index)*
 
 ## Сonspectus
 
 |Year|City|
 |-|-|
-|2017|Moscow|
+|2017|Riga|
 
 ## Indexmod [*](indexmod)
 
