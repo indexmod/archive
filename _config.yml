@@ -21,12 +21,10 @@ gems:
 prose:
   rooturl: 'https://indexmod.gq'
   siteurl: 'https://indexmod.gq'
-  relativeLinks: 'http://prose.github.io/starter/links.jsonp'
+  relativeLinks: 'https://prose.github.io/starter/links.jsonp'
   media: '/images'
   ignore:
     - index.md
     - _config.yml
     - /_layouts
     - /_includes
-   
-
