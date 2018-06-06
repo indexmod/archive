@@ -1,8 +1,7 @@
 ---
 title: Proun (disambiguation)
 permalink: proun-disambiguation
-layout: default
-published: true
+layout: info
 ---
 
 + [Proun (gallery)](proun-gallery)
