@@ -2,18 +2,18 @@
 title: Proun (movement)
 permalink: proun-movement
 layout: default
+shortname: PRMV
 published: true
 ---
+(Рус. Проун, est. 2016, Moscow) is an aesthetic movement appeared in the association of visual artists Misak Samoktian, Alexei Rudenko, Alexandra Gavrilova and Sergei Titov (Stain Group). Later the movement included G. Leonova, A. Rebrov, I. Yakubov, M. Maximov, M. Sachkov, P. Seldimirov.
 
-(Рус. Проун, est. 2016, Moscow) is an aesthetic movement appeared in the association of visual artists Misak Samoktian, Alexei Rudenko, Alexandra Gavrilova and Sergei Titov (Stain Group). Later the movement included G. Leonova, A. Rebrov, I. Yakubov, M. Maximov, M. Sachkov, P. Seldimirov. 
-
-![](https://rm-content.s3-accelerate.amazonaws.com/58cea0d6ef52950077521e06/890473/upload-2bd57570-bb65-11e7-b2f7-4506fd48469e.jpg)
+![(Image correspondent to the article of “{{ page.title }}”. To see an image try another browser!)]({{ site.url }}/images/{{ page.permalink }}.jpg)
 
 **Audiovisual sculpture, in the form of a spatial sound wave. Misak Samokatyan, 2016**
 
 *Photo: [Proun](proun-movement) / [Readymag Proun](https://readymag.com/proun/893272/)*
 
-# {{page.title}} Conspectus
+## Conspectus
 
 |Year|Persone|
 |-|-|
@@ -27,7 +27,7 @@ published: true
 |2018|Mikhail Maximov|
 |2018|Mikhail Sachkov|
 
-# {{page.title}} Indexmod [*](indexmod)
+## Indexmod [*](indexmod)
 
 ||2018|2019|
 |-|-|-|
@@ -38,7 +38,7 @@ published: true
 |Article Value|{{ page.content | number_of_words }}||
 |Indexmod|0,0004378||
 
-# See also
+## See also
 
 + [Galina Leonova](index)
 + [Mikhail Maximov](index)
@@ -51,6 +51,6 @@ published: true
 + [Pasha Seldymirov](index)
 + [Ildar Yakubov](index)
 
-# Footnotes
+## Footnotes
 
 [[1]](#a1) <span id="f1"></span> [{{page.title}} (Facebook)](https://www.facebook.com/PROUNcontinuum/)
