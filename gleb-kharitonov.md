@@ -19,7 +19,7 @@ published: true
 founderof: Kharitonov Space Center
 ---
 
-(Est. {{ page.birth }}, {{ page.city }}) is a Russian artist founder of {{ page.founderof }} <span id="a1">[\[1\]](#f1)</span>.
+(Also Gleb Heisler <span id="a1">[\[1\]](#f1)</span>, born {{ page.birth }}, {{ page.city }}) is a Russian artist founder of {{ page.founderof }} <span id="a2">[\[2\]](#f2)</span>.
 
 ![(Image correspondent to the article of “{{ page.title }}”. To see an image try another browser!)]({{ site.url }}/images/{{ page.permalink }}.jpg)
 
@@ -52,7 +52,9 @@ founderof: Kharitonov Space Center
 
 ## Footnotes
 
-[[3]](#a3) <span id="f3"></span> [{{page.title}} (Facebook)](index)
+[[1]](#a1) <span id="f1"></span> [Gleb Heisler (Facebook)](https://www.facebook.com/profile.php?id=100001157400309)
+
+[[3]](#a3) <span id="f3"></span> [{{page.title}} (Facebook)](https://www.facebook.com/profile.php?id=100001157400309)
 
 [[4]](#a4) <span id="f4"></span> [{{page.title}} (Instagram)](index)
 
