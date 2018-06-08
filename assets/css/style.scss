@@ -1,5 +1,5 @@
---- 
---- 
+---
+---
 @import "jekyll-theme-minimal";
 
 .intro {
@@ -8,6 +8,38 @@
 	font-weight: 700;
 	line-height: 1.4em;
 	list-style-type: none;
+}
+
+.tooltip {
+	  font-family: 'Helvetica Neue';
+	  font-size: 24px;
+	  font-weight: 700;
+	  line-height: 0.5em;
+    position: relative;
+    display: inline-block;
+    border-bottom: 2px dotted red;
+}
+
+.tooltip .tooltiptext {
+	  font-family: 'Helvetica Neue';
+	  font-size: 15px;
+	  font-weight: 100;
+	  line-height: 0.5em;
+    visibility: hidden;
+    width: 50px;
+    background-color: white;
+    color: black;
+    text-align: center;
+    border-radius: 6px;
+    padding: 5px 0;
+
+    /* Position the tooltip */
+    position: absolute;
+    z-index: 1;
+}
+
+.tooltip:hover .tooltiptext {
+    visibility: visible;
 }
 
 .date {
@@ -159,5 +191,3 @@ img {
 	width: 100%;
 	height: auto;
 }
-
-
