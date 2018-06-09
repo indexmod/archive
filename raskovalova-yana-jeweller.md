@@ -1,48 +1,30 @@
 ---
-title: Raskovalova, Yana (jeweller)
+title: 'Raskovalova, Yana (jeweller)'
 permalink: raskovalova-yana-jeweller
 layout: default
+published: true
 ---
+(Rus. Яна Расковалова, born {{ page.birth }}, {{ page.city }}) is a is a Russian jeweler, founder of Yana Jewellery living in Moscow  <span id="a1">[\[1\]](#f1)</span>.
 
-# {{page.title}}
+![(Image correspondent to the article of “{{ page.title }}”. To see an image try another browser!)]({{ site.url }}/images/{{ page.permalink }}.jpg)
 
-(Est. 2013, city) is a Yana Raskovalova  013  SNC (Rus. Яна Расковалова) born, 19??, St. Petersburg—is a Russian jeweler, founder of Yana Jewellery living in Moscow. Sign in to edit Yana Raskovalova <span id="a1">[\[1\]](#f1)</span>.
+**Yana Raskovalova in 2015**
 
-![](/encyclopedia/images/raskovalova.jpg)
-
-**Image title**
-Yana Raskovalova in 2015
-Photo: Alena Chendler (fragment) / Sobaka
-*Photo: [Name](index) / [Source](index)*
-
-# {{page.title}} Conspectus
-
-|Year|City|
-|-|-|
-|2017|Moscow|
-
-# {{page.title}} Indexmod
-
-|Year|Facebook|Instagram|YouTube|Age|Indexmod|
-|-|-|-|-|-|
-|2018|000 <span id="a3">[\[3\]](#f3)</span>|000 <span id="a4">[\[4\]](#f4)</span>|000 <span id="a5">[\[5\]](#f5)</span>|00|0,0000|
+*Photo: [Alena Chendler](index) / [Sobaka](index)*
 
 
-# See also
+## See also
 
-+ [About {{page.title}}](index)
-+ [{{page.title}} at Wikipedia](index)
-012  Elena Perminova
-014  Vika Gazinskaya
-Yana Jewellery
-Nika Belotserkovskaya
++ [Elena Perminova](index)
++ [Vika Gazinskaya](index)
++ [Vika Gazinskaya](index)
++ [Nika Belotserkovskaya](index)
 
-# Footnotes
+
+## Footnotes
 
 [[3]](#a3) <span id="f3"></span> [{{page.title}} (Facebook)](index)
 
 [[4]](#a4) <span id="f4"></span> [{{page.title}} (Instagram)](index)
 
 [[5]](#a5) <span id="f5"></span> [{{page.title}} (YouTube)](index)
-
-`Updated Mar. 2018 (Andrei Dei)`
