@@ -5,7 +5,7 @@ layout: default
 published: true
 shortname: EMPOS
 indexmod: Indexmod
-birth: '2010'
+birth: '2012'
 age: '8'
 updateyear: '2018'
 city: Moscow
@@ -15,7 +15,7 @@ youtube: '0,0'
 vimeo: '0,0'
 twitter: '0,0'
 tumblr: '0,0'
-founder: Name
+founder: 'Mamedova, Taiana'
 ---
 (Est. {{ page.birth }}, {{ page.city }}) is a ---  <span id="a1">[\[1\]](#f1)</span>.
 
