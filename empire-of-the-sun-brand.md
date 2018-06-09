@@ -4,37 +4,23 @@ permalink: empire-of-the-sun-brand
 layout: default
 published: true
 ---
+(Est. {{ page.birth }}, {{ page.city }}) is a ---  <span id="a1">[\[1\]](#f1)</span>.
 
 (Shorten: EMP.OS, est. 2012, Ubud) is a yoga and sportswear brand created by designer Tatiana Mamedova <span id="a1">[\[1\]](#f1)</span>.
 
-![](/encyclopedia/images/vlad.jpg)
+![(Image correspondent to the article of “{{ page.title }}”. To see an image try another browser!)]({{ site.url }}/images/{{ page.permalink }}.jpg)
 
 **Vlad Monroe wearing dress of the Empire of the sun, Bali, 2013**
 
 *Photo: [Tatiana Mamedova](index) / [Empire of the sun](index)*
 
-# {{page.title}} Conspectus
 
-|Year|City|
-|-|-|
-|2014|Tokyo|
-|2017|Paris|
+## See also
 
-# {{page.title}} Indexmod
++ [Tatiana Mamedova](index)
++ [Vlad Monroe](index)
 
-|Year|Facebook|Instagram|YouTube|Age|IMD|
-|-|-|-|-|-|
-|2018|100 <span id="a3">[\[3\]](#f3)</span>|200 <span id="a4">[\[4\]](#f4)</span>|300 <span id="a4">[\[4\]](#f4)</span>|12|0,0025|
-
-
-# See also
-
-+ [One](index)
-+ [Two](index)
-+ Tatiana Mamedova
-+ Vlad Monroe
-
-# Footnotes
+## Footnotes
 
 [[3]](#a3) <span id="f3"></span> [{{page.title}} (Facebook)](index)
 
