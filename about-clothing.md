@@ -8,7 +8,7 @@ published: true
 
 (Est. 2012, Utena) is a Lithuanian innovative underwear and leisurewear brand with the latest technological possibilities with the sense of zeitgeist in design trends, with locally developed fabrics enriched with extra skin-care textile finishing, based on aloe vera, beeswax, silk proteins and antibacterial silver.
 
-![](http://www.ut.lt/images/5a7d607cb31451356572fe94?w=860)
+![(Image correspondent to the article of “{{ page.title }}”. To see an image try another browser!)]({{ site.url }}/images/{{ page.permalink }}.jpg)
 
 **Beside its core B2B activities, Utenos trikotažas internationally operates two in-house created fashion brands**
 

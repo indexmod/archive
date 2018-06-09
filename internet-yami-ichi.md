@@ -8,7 +8,7 @@ indexmod: '0,000'
 ---
 (англ. Internet Yami-Ichi; яп. インターネットヤミ市; осн. 2012, Токио) «черный рынок зависимых от интернета», «свободный рынок офлайн-браузинга», который дает возможность спроецировать цифровой мир в реальную жизнь в виде материализованных интернет-явлений в исполнении художников, дизайнеров, программистов и энтузиастов интернет-культуры. Впервые рынок Ями-Ичи провели в Токио в 2012 году, в последующие годы рынок проводили в Нью-Йорке, Амстердаме, Брюсселе, Сан-Паулу, Берлине, Москве <span id="a1">[\[1\]](#f1)</span>, так же в Новом Орлеане проходил одноимённый микро-рынок <span id="a2">[\[2\]](#f2)</span>.
 
-![](https://nyoobserver.files.wordpress.com/2015/09/yami5-e1442267948712.jpg)
+![(Image correspondent to the article of “{{ page.title }}”. To see an image try another browser!)]({{ site.url }}/images/{{ page.permalink }}.jpg)
 
 **Сувениры "Звезд Гитхаба" <br>
 на рынке Ями-Ичи в Новом Орлеане**
@@ -42,6 +42,8 @@ indexmod: '0,000'
 |2017|Тель Авив|
 |2017|Лондон|
 |2018|Базель|
+
+![(Image correspondent to the article of “{{ page.title }}”. To see an image try another browser!)]({{ site.url }}/images/{{ page.permalink }}-1.jpg)
 
 ## {{page.title}} Indexmod [*](indexmod)
 
