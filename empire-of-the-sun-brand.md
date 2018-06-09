@@ -17,9 +17,7 @@ twitter: '0,0'
 tumblr: '0,0'
 founder: 'Mamedova, Taiana'
 ---
-(Est. {{ page.birth }}, {{ page.city }}) is a ---  <span id="a1">[\[1\]](#f1)</span>.
-
-(Shorten: EMP.OS, est. 2012, Ubud) is a yoga and sportswear brand created by designer Tatiana Mamedova <span id="a1">[\[1\]](#f1)</span>.
+(Shorten: EMP.OS, est. {{ page.birth }}, {{ page.city }}) is a yoga and sportswear brand created by designer Tatiana Mamedova  <span id="a1">[\[1\]](#f1)</span>.
 
 ![(Image correspondent to the article of “{{ page.title }}”. To see an image try another browser!)]({{ site.url }}/images/{{ page.permalink }}.jpg)
 
