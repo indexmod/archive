@@ -6,6 +6,7 @@ layout: default
 published: true
 born: 1973
 city: Cambridge
+shortname: WEWI
 ---
 (Rus. Уилл Вебстер, born {{ page.birth }}, {{ page.city }}) is an artist “whose practice reflects upon structures of knowledge and their spatial expression, informed by a period of ten years working as a photographer of spaces and locations, an experience that seeded inquiry into the human appetite for two, three and four-dimensional representations”  <span id="a1">[\[1\]](#f1)</span>.
 
