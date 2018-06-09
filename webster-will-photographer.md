@@ -19,11 +19,11 @@ Photo: Anastasia Ames / Facebook
 
 ## Exhibitions
 
-2015, Remember Nature, 1 Granary Square, London
-2015, I can explain, The Russia House, London
-2015, Aestivation, Bayam Shaw School of Art, London
-2015, You're the reason our kids are Ugly, The Laundry, London
-2014, Big Space, 1 Granary Square, London
++ 2015, Remember Nature, 1 Granary Square, London
++ 2015, I can explain, The Russia House, London
++ 2015, Aestivation, Bayam Shaw School of Art, London
++ 2015, You're the reason our kids are Ugly, The Laundry, London
++ 2014, Big Space, 1 Granary Square, London
 
 
 ## Education
