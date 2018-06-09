@@ -1,23 +1,22 @@
 ---
-title: Webster, Will (photographer)
+title: 'Webster, Will (photographer)'
 permalink: webster-will-photographer
-position:
+position: null
 layout: default
+published: true
 ---
+(Est. {{ page.birth }}, {{ page.city }}) is an artist “whose practice reflects upon structures of knowledge and their spatial expression, informed by a period of ten years working as a photographer of spaces and locations, an experience that seeded inquiry into the human appetite for two, three and four-dimensional representations”  <span id="a1">[\[1\]](#f1)</span>.
 
+(Est. 2013, city) Will Webster (Rus. Уилл Вебстер) born 1973, Cambridge—is an artist “whose practice reflects upon structures of knowledge and their spatial expression, informed by a period of ten years working as a photographer of spaces and locations, an experience that seeded inquiry into the human appetite for two, three and four-dimensional representations” <span id="a1">[\[1\]](#f1)</span>. 
 
-(Est. 2013, city) Will Webster (Rus. Уилл Вебстер) born 1973, Cambridge—is an artist “whose practice reflects upon structures of knowledge and their spatial expression, informed by a period of ten years working as a photographer of spaces and locations, an experience that seeded inquiry into the human appetite for two, three and four-dimensional representations” <span id="a1">[\[1\]](#f1)</span>, description-two <span id="a2">[\[2\]](#f2)</span> description-3 <span id="a3">[\[3\]](#f3)</span>, extra text. [Edit this page](http://prose.io/#indexmod/encyclopedia/edit/master/webster-will-photographer.md)
+![(Image correspondent to the article of “{{ page.title }}”. To see an image try another browser!)]({{ site.url }}/images/{{ page.permalink }}.jpg)
 
-![](/images/image-name.jpg)
+**Will Webster in 2010**
 
-**Image caption**
-
-Will Webster in 2010
 Photo: Anastasia Ames / Facebook
+*Photo: [Anastasia Ames](index) / [Facebook](index)*
 
-*Photo: [Photographer name](http://example.net/) / [Source name](http://example.net/)*
-
-# Exhibitions
+## Exhibitions
 
 2015, Remember Nature, 1 Granary Square, London
 2015, I can explain, The Russia House, London
@@ -25,33 +24,23 @@ Photo: Anastasia Ames / Facebook
 2015, You're the reason our kids are Ugly, The Laundry, London
 2014, Big Space, 1 Granary Square, London
 
-# Conspectus
 
-|Year|City|
-|----|---------|
-|2014|Tokyo|
-|2015|Moscow|
-|2017|Kiev|
-
-# Education
+## Education
 
 + BSc Psychology, University of Exeter, 1992-95
 + MA Photography, Central St. Martins, London, 2014-16
-# Photographs held
 
-+ Photographs held in several private collections in the UK, USA and Russia.2
+## Photographs held
 
-# See also
++ Photographs held in several private collections in the UK, USA and Russia
 
-- [Source name](http://example.net/)
-- [Source name](http://example.net/)
-- [Source name](http://example.net/)
+## See also
 
-GQ Russia
-Vogue Russia
-Walter Petrovsky
+- [GQ Russia](http://example.net/)
+- [Vogue Russia](http://example.net/)
+- [Walter Petrovsky](http://example.net/)
 
-# Footnotes
+## Footnotes
 
 [[1]](#a1) <span id="f1"></span> [Will Webster's Site (Author name)](http://example.net/article)
 
