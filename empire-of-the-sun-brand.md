@@ -6,9 +6,9 @@ published: true
 shortname: EMPOS
 indexmod: Indexmod
 birth: '2012'
-age: '8'
+age: '6'
 updateyear: '2018'
-city: Moscow
+city: Ubud
 facebook: '0,0'
 instagram: '0,0'
 youtube: '0,0'
