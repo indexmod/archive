@@ -3,5 +3,3 @@ RewriteEngine On
 RewriteBase /
 # rewrite rules go here
 </IfModule>
-
-Redirect /index.html https://indexmod.ga/
