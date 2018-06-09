@@ -3,7 +3,7 @@ title: Empire of the sun (brand)
 permalink: empire-of-the-sun-brand
 layout: default
 published: true
-shortname: TMPL
+shortname: EMPOS
 indexmod: Indexmod
 birth: '2010'
 age: '8'
