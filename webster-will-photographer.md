@@ -7,9 +7,7 @@ published: true
 born: 1973
 city: Cambridge
 ---
-(Est. {{ page.birth }}, {{ page.city }}) is an artist “whose practice reflects upon structures of knowledge and their spatial expression, informed by a period of ten years working as a photographer of spaces and locations, an experience that seeded inquiry into the human appetite for two, three and four-dimensional representations”  <span id="a1">[\[1\]](#f1)</span>.
-
-(Est. 2013, city) Will Webster (Rus. Уилл Вебстер) born 1973, Cambridge—is an artist “whose practice reflects upon structures of knowledge and their spatial expression, informed by a period of ten years working as a photographer of spaces and locations, an experience that seeded inquiry into the human appetite for two, three and four-dimensional representations” <span id="a1">[\[1\]](#f1)</span>. 
+(Rus. Уилл Вебстер, born {{ page.birth }}, {{ page.city }}) is an artist “whose practice reflects upon structures of knowledge and their spatial expression, informed by a period of ten years working as a photographer of spaces and locations, an experience that seeded inquiry into the human appetite for two, three and four-dimensional representations”  <span id="a1">[\[1\]](#f1)</span>.
 
 ![(Image correspondent to the article of “{{ page.title }}”. To see an image try another browser!)]({{ site.url }}/images/{{ page.permalink }}.jpg)
 
