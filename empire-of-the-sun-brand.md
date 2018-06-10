@@ -1,5 +1,5 @@
 ---
-title: Empire of the sun (brand)
+title: Empire of the sun
 permalink: empire-of-the-sun-brand
 layout: default
 published: true
