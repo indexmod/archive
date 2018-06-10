@@ -17,7 +17,7 @@ tumblr: '0,0'
 published: true
 ---
 
-(Est. {{ page.birth }}, {{ page.city }}) is a Russian historian-medievalist and journalist. Candidate of Historical Sciences. One of the authors of the "Orthodox Encyclopedia" and the "Great Russian Encyclopedia." In 2003-2012 he was the editor-in-chief of the Russian version of GQ. In 2016-2018, he headed the Russian version of Forbes magazine  <span id="a1">[\[1\]](#f1)</span>.
+(Est. {{ page.birth }}, {{ page.city }}) is a Russian historian-medievalist and journalist. One of the authors of the "Orthodox Encyclopedia". In 2003-2012 he was the editor-in-chief of the Russian version of GQ. In 2016-2018, he headed the Russian version of Forbes magazine  <span id="a1">[\[1\]](#f1)</span>.
 
 ![(Image correspondent to the article of “{{ page.title }}”. To see an image try another browser!)]({{ site.url }}/images/{{ page.permalink }}.jpg)
 
