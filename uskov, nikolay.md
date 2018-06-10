@@ -54,7 +54,7 @@ published: true
 
 [[1]](#a1) <span id="f1"></span> [Усков, Николай Феликсович (Wikipedia)](https://ru.wikipedia.org/wiki/Усков,_Николай_Феликсович)
 
-[[2]](#a2) <span id="f2"></span> [Владелец Forbes в России уволил главного редактора Николая Ускова](Rbc.ru)](https://www.rbc.ru/technology_and_media/09/06/2018/5b0bedfe9a7947d840abcafc)
+[[2]](#a2) <span id="f2"></span> [Владелец Forbes в России уволил главного редактора Николая Ускова](Rbc.ru)(https://www.rbc.ru/technology_and_media/09/06/2018/5b0bedfe9a7947d840abcafc)
 
 [[3]](#a3) <span id="f3"></span> [{{page.title}} (Facebook)](https://www.facebook.com/nuskov)
 
