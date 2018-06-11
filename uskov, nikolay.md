@@ -1,5 +1,5 @@
 ---
-title: Uskov, Nikolay
+title: 'Uskov, Nikolay'
 permalink: uskov-nikolay
 layout: default
 shortname: USKOV
@@ -17,7 +17,7 @@ tumblr: '0,0'
 published: true
 ---
 
-(Est. {{ page.birth }}, {{ page.city }}) is a ---  <span id="a1">[\[1\]](#f1)</span>.
+(Est. {{ page.birth }}, {{ page.city }}) is a Russian historian-medievalist and journalist. One of the authors of the "Orthodox Encyclopedia". In 2003-2012 he was the editor-in-chief of the Russian version of GQ. In 2016-2018, he headed the Russian version of Forbes magazine  <span id="a1">[\[1\]](#f1)</span>.
 
 ![(Image correspondent to the article of “{{ page.title }}”. To see an image try another browser!)]({{ site.url }}/images/{{ page.permalink }}.jpg)
 
@@ -52,9 +52,9 @@ published: true
 
 ## Footnotes
 
-[[1]](#a1) <span id="f1"></span> [{{page.title}} (Facebook)](index)
+[[1]](#a1) <span id="f1"></span> [Усков, Николай Феликсович (Wikipedia)](https://ru.wikipedia.org/wiki/Усков,_Николай_Феликсович)
 
-[[2]](#a2) <span id="f2"></span> [Владелец Forbes в России уволил главного редактора Николая Ускова](Rbc.ru)](https://www.rbc.ru/technology_and_media/09/06/2018/5b0bedfe9a7947d840abcafc)
+[[2]](#a2) <span id="f2"></span> [Владелец Forbes в России уволил главного редактора Николая Ускова (Rbc.ru)](https://www.rbc.ru/technology_and_media/09/06/2018/5b0bedfe9a7947d840abcafc)
 
 [[3]](#a3) <span id="f3"></span> [{{page.title}} (Facebook)](https://www.facebook.com/nuskov)
 
