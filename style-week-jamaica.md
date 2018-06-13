@@ -2,7 +2,7 @@
 title: Style Week Jamaica
 permalink: style-week-jamaica
 layout: default
-shortname: TMPL
+shortname: SWJM
 indexmod: Indexmod
 birth: '2010'
 age: '8'
