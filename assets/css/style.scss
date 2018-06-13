@@ -1,5 +1,6 @@
----
----
+--- 
+--- 
+
 @import "jekyll-theme-minimal";
 
 .intro {
@@ -9,43 +10,37 @@
 	line-height: 1.5em;
 	list-style-type: none;
 }
-
 .tooltip {
-	  font-family: 'Helvetica Neue';
-	  font-size: 24px;
-	  font-weight: 700;
-	  line-height: 1em;
-    position: relative;
-    display: inline-block;
-    border-bottom: 0px dotted white;
+	font-family: 'Helvetica Neue';
+	font-size: 24px;
+	font-weight: 700;
+	line-height: 1em;
+	position: relative;
+	display: inline-block;
+	border-bottom: 0px dotted white;
 }
-
 .tooltip .tooltiptext {
-	  font-family: 'Helvetica Neue';
-		font-size: 24px;
-	  font-weight: 700;
-	  line-height: 1em;
-    visibility: hidden;
-    width: 50px;
-    background-color: silver;
-    color: black;
-    text-align: center;
-    border-radius: 6px;
-    padding: 5px 0;
-
-    /* Position the tooltip */
-		/* Position the tooltip */
-    position: absolute;
-    z-index: 1;
-    top: 100%;
-    left: 50%;
-    margin-left: -25px;
+	font-family: 'Helvetica Neue';
+	font-size: 24px;
+	font-weight: 700;
+	line-height: 1em;
+	visibility: hidden;
+	width: 50px;
+	background-color: green;
+	color: white;
+	text-align: center;
+	border-radius: 7px;
+	padding: 5px 0;
+	/* Position the tooltip */
+	position: absolute;
+	z-index: 1;
+	top: 100%;
+	left: 50%;
+	margin-left: -25px;
 }
-
 .tooltip:hover .tooltiptext {
-    visibility: visible;
+	visibility: visible;
 }
-
 .date {
 	font-family: 'Old Standard TT', serif;
 	font-size: 24px;
@@ -53,7 +48,6 @@
 	font-weight: 500;
 	color: black;
 }
-
 p {
 	font-family: 'Old Standard TT', serif;
 	font-size: 24px;
@@ -68,7 +62,6 @@ h1 {
 	line-height: 1em;
 	color: #454343;
 }
-
 h2, h3, h4, h5, h6 {
 	font-family: 'Helvetica Neue';
 	font-size: 32px;
@@ -76,8 +69,6 @@ h2, h3, h4, h5, h6 {
 	line-height: 1em;
 	color: #454343;
 }
-
-
 table {
 	font-family: 'Monaco', serif;
 	font-size: 18px;
@@ -87,7 +78,8 @@ table {
 	border-collapse: collapse;
 }
 th {
-	font-family: 'Monaco', serif;;
+	font-family: 'Monaco', serif;
+	;
 	background-color: #f5f5f5;
 	color: red;
 	font-weight: 900;
@@ -124,12 +116,11 @@ tr:hover {
 del {
 	color: silver;
 }
-
 strong {
 	color: #454343;
 	font-family: 'Helvetica Neue';
 	font-size: 24px;
-	line-height:15px;
+	line-height: 15px;
 	font-weight: 900;
 }
 em {
@@ -152,11 +143,27 @@ ul {
 	font-weight: 900;
 	color: #454343;
 }
-
-a.one:link {color:#4e80d8; font-family: 'Helvetica Neue'; font-size: 24px; line-height:15px; font-weight: 900;}
-a.one:visited {color:#4e80d8; font-family: 'Helvetica Neue'; font-size: 24px; line-height:15px; font-weight: 900;}
-a.one:hover {color:green; font-family: 'Helvetica Neue'; font-size: 24px; line-height:15px; font-weight: 900;}
-
+a.one:link {
+	color: #4e80d8;
+	font-family: 'Helvetica Neue';
+	font-size: 24px;
+	line-height: 15px;
+	font-weight: 900;
+}
+a.one:visited {
+	color: #4e80d8;
+	font-family: 'Helvetica Neue';
+	font-size: 24px;
+	line-height: 15px;
+	font-weight: 900;
+}
+a.one:hover {
+	color: green;
+	font-family: 'Helvetica Neue';
+	font-size: 24px;
+	line-height: 15px;
+	font-weight: 900;
+}
 a:link {
 	color: #4e80d8;
 	text-decoration: none;
@@ -177,7 +184,6 @@ a:active {
 	text-decoration: none;
 	font-weight: 700;
 }
-
 img {
 	max-width: 100%;
 	min-width: 100%;
@@ -186,7 +192,6 @@ img {
 	-webkit-filter: grayscale(95%);
 	filter: grayscale(95%);
 }
-
 .container {
 	width: 50px;
 }
