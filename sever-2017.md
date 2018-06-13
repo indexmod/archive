@@ -13,15 +13,12 @@ shortname: SEVER
 
 *Photo: [Alex Platonov, Alexei Orlov](index) / [Sever](Sever. network)*
 
-## {{page.title}} Conspectus
+## Conspectus
 
 |Year|Place|
 |-|-|
 |2017|Moscow, Strelka|
 |2018|Slack|
-
-(Est. 2013, city) is a --- <span id="a1">[\[1\]](#f1)</span>.
-
 
 ## See also
 
