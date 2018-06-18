@@ -17,40 +17,23 @@ tumblr: '0,0'
 published: true
 founder: Kohei Nawa
 ---
-`Remove Template tag. Go Edit.`
 
-(Est. {{ page.birth }}, {{ page.city }}) is a ---  <span id="a1">[\[1\]](#f1)</span>.
+(Built {{ page.birth }}, {{ page.city }}) is an art pavilion built by [Sandwich Inc.](sandwich-inc) under direction of {{ page.founder }} on the campus of Shinshoji Zen temple. A ship-shaped building with traditional kokerabuki wooden shingles, it gives the impression that it is gently floating over the stony landscape. Walking through the ocean of rocks and feeling their materiality, the viewer ascends a slope and enters the pavilion from a small entryway. Inside is darkness, where a quiet ocean lies. The ripples reflect glimmers of light <span id="a1">[\[1\]](#f1)</span>.
 
 ![(Image correspondent to the article of “{{ page.title }}”. To see an image try another browser!)]({{ site.url }}/images/{{ page.permalink }}.jpg)
 
-**Image**
+**An art pavilion of Kohtei in the campus of Shinshoji Zen temple**
 
-*Photo: [Not specified](index) / [Source](index)*
-
-## Сonspectus
-
-|Year|City|
-|-|-|
-|2017|Moscow|
-
-## Indexmod [*](indexmod)
-
-|Variables|2018|2019|
-|-|-|-|
-|Facebook <span id="a3">[\[3\]](#f3)</span>|{{ page.facebook }}||
-|Instagram <span id="a4">[\[4\]](#f4)</span>|{{ page.instagram }}||
-|YouTube <span id="a5">[\[5\]](#f5)</span>|{{ page.youtube }}||
-|Twitter <span id="a6">[\[6\]](#f6)</span>|{{ page.twitter }}||
-|Age|{{ page.age }}||
-|Indexmod|{{ page.content | number_of_words }}||
-|Total|{{ page.indexmod }}||
+*Photo: [Nobutada Omote](omote-nobutada) / [Szmg.jp](https://szmg.jp/en/explore/kohtei/)*
 
 ## See also
 
-+ [About {{page.title}}](index)
-+ [{{page.title}} at Wikipedia](index)
++ [Nawa, Kohei](nawa-kohei)
++ [Sandwich Inc.](sandwich-inc)
 
 ## Footnotes
+
+[[1]](#a1) <span id="f1"></span> [{{page.title}} (Szmg.jp)](https://szmg.jp/en/explore/kohtei/)
 
 [[3]](#a3) <span id="f3"></span> [{{page.title}} (Facebook)](index)
 

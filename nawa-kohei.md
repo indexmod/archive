@@ -18,13 +18,13 @@ published: true
 founder: Name
 ---
 
-(Est. {{ page.birth }}, {{ page.city }}) is a ---  <span id="a1">[\[1\]](#f1)</span>.
+(Est. {{ page.birth }}, {{ page.city }}) is a Japanese sculptor who in 2009, established Sandwich Inc., a platform for his creative work, in Kyoto. He has held solo exhibitions in Japan and abroad, including Kohei Nawa: Synthesis at the Museum of Contemporary Art Tokyo in 2011 and Force at Pace London. He is a professor in the Graduate School of Art and Design at Kyoto University of Art and Design. Based on his original portmanteau PixCell, which combines pixel, the smallest digital image unit, with cell, Nawa uses a range of materials and technologies including beads, prisms, polyurethane foam and silicon oil, to explore new possibilities in sculpture.  <span id="a1">[\[1\]](#f1)</span>.
 
 ![(Image correspondent to the article of “{{ page.title }}”. To see an image try another browser!)]({{ site.url }}/images/{{ page.permalink }}.jpg)
 
-**Image**
+**Kohei Nawa**
 
-*Photo: [Not specified](index) / [Source](index)*
+*Photo: [Nobutada Omote](omote-nobutada) ([Sandwich Inc.](sandwich-inc)) / [Szmg.jp](https://szmg.jp/en/explore/kohtei/)*
 
 ## Сonspectus
 
@@ -46,10 +46,12 @@ founder: Name
 
 ## See also
 
-+ [About {{page.title}}](index)
-+ [{{page.title}} at Wikipedia](index)
++ [Kohtei](kohtei)
++ [Sandwich Inc.](sandwich-inc)
 
 ## Footnotes
+
+[[1]](#a1) <span id="f1"></span> [{{page.title}} (Szmg.jp)](https://szmg.jp/en/explore/kohtei/)
 
 [[3]](#a3) <span id="f3"></span> [{{page.title}} (Facebook)](index)
 

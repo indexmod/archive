@@ -22,15 +22,10 @@ founder: Kohei Nawa
 
 ![(Image correspondent to the article of “{{ page.title }}”. To see an image try another browser!)]({{ site.url }}/images/{{ page.permalink }}.jpg)
 
-**Image**
+**Team of Sandwich in Kyoto**
 
-*Photo: [Not specified](index) / [Source](index)*
+*Photo: [Shungo Takeda](takeda-shungo) / [Szmg.jp](https://szmg.jp/en/explore/kohtei/)*
 
-## Сonspectus
-
-|Year|City|
-|-|-|
-|2017|Moscow|
 
 ## Indexmod [*](indexmod)
 
@@ -46,8 +41,9 @@ founder: Kohei Nawa
 
 ## See also
 
-+ [About {{page.title}}](index)
-+ [{{page.title}} at Wikipedia](index)
++ [Kohtei](kohtei)
++ [Nawa, Kohei](nawa-kohei)
+
 
 ## Footnotes
 
