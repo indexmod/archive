@@ -17,48 +17,40 @@ twitter: '0,0'
 tumblr: '0,0'
 founder: Name
 ---
+(B. {{ page.birth }}, {{ page.city }}) is a Russian artist, curator, writer, programmer and hacker, co-founder of Partizaning living and working in Moscow <span id="a1">[\[1\]](#f1)</span>.
 
-(Est. 1980, city) is a Igor Ponosov (Rus. Игорь Поносов) born 1980, Moscow—Russian artist, curator, writer, programmer and hacker1, co-founder of Partizaning living and working in Moscow. Login to edit Igor Ponosov <span id="a1">[\[1\]](#f1)</span>.
+![(Image correspondent to the article of “{{ page.title }}”. To see an image try another browser!)]({{ site.url }}/images/{{ page.permalink }}.jpg)
 
-![](/encyclopedia/images/image-name.jpg)
+**Igor Ponosov (left) and Partizaning co-founders**
 
-**Image title**
-Igor Ponosov wearing his tent-coat in 2015
-Photo: Mila Tabolenko / Igor Ponosov
+*Photo: [Partizaning](index) / [Lab.partizaning.org](http://lab.partizaning.org/?page_id=1275)*
 
-Igor Ponosov demonstrates his tent-coat in 2015
-Gif: Andrei Dei from video by Evgeniy Belov (Cinemot) / Coub
-*Photo: [Name](index) / [Source](http://lab.partizaning.org/?page_id=1275)*
+![(Image correspondent to the article of “{{ page.title }}”. To see an image try another browser!)]({{ site.url }}/images/{{ page.permalink }}-1.jpg)
 
+**Igor Ponosov wearing his tent-coat in 2015**
 
-Igor Ponosov (left) and team of “Partizaning”
-Photo: author unknown / Lab Partizaning
+*Photo: Mila Tabolenko / Igor Ponosov*
 
+![(Image correspondent to the article of “{{ page.title }}”. To see an image try another browser!)]({{ site.url }}/images/{{ page.permalink }}-2.jpg)
 
-A group has established in beginning of 2010 with goal is to reflect and promote the idea of art-based DIY activism and rethinking, restructuring and improving urban environments and communities, and to explore the role of art as a practical tool for inclusive city regeneration and social activism, to provide documentation and analysis of the role of art in reshaping public spaces, cities and human interactions. Login to edit
+**Igor Ponosov demonstrates his tent-coat in 2015**
 
-# {{page.title}} Indexmod
+*Gif: Andrei Dei from video by Evgeniy Belov (Cinemot) / Coub*
 
-|Year|Facebook|Instagram|YouTube|Age|Indexmod|
-|-|-|-|-|-|
-|2018|000 <span id="a3">[\[3\]](#f3)</span>|000 <span id="a4">[\[4\]](#f4)</span>|000 <span id="a5">[\[5\]](#f5)</span>|00|0,0000|
+## A group
 
+Partizaning group has established in beginning of 2010 with goal is to reflect and promote the idea of art-based DIY activism and rethinking, restructuring and improving urban environments and communities, and to explore the role of art as a practical tool for inclusive city regeneration and social activism, to provide documentation and analysis of the role of art in reshaping public spaces, cities and human interactions. Login to edit
 
-# See also
+## See also
 
-+ [About {{page.title}}](index)
-+ [{{page.title}} at Wikipedia](index)
++ [Partizaning (disambiguation)](index)
++ [Anton Polsky (Make)](index)
++ [Shriya Malhotra)](index)
++ [Dmytro Zaiets](index)
 
-Partizaning (disambiguation)
-Anton Polsky (Make)
-Shriya Malhotra
-Dmytro Zaiets
+## Footnotes
 
-# Footnotes
-
-1 About Partizaning Lab
-
-[[1]](#a1) <span id="f1"></span> [{{page.title}} (Facebook)](http://lab.partizaning.org/?page_id=1275)
+[[1]](#a1) <span id="f1"></span> [About (Partizaning Lab)](http://lab.partizaning.org/?page_id=1275)
 
 [[3]](#a3) <span id="f3"></span> [{{page.title}} (Facebook)](index)
 
