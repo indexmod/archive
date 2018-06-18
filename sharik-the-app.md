@@ -1,5 +1,5 @@
 ---
-title: Sharik, the (app)
+title: 'Sharik, the (app)'
 permalink: sharik-the-app
 layout: default
 shortname: sharik
@@ -18,7 +18,7 @@ published: true
 founder: Niyaz Karim
 ---
 
-(Est. {{ page.birth }}, {{ page.city }}) is an unique concept of the messenger app represented by {{ page.founder }} in {{ page.birth }} in {{ page.city }} <span id="a1">[\[1\]](#f1)</span>.
+(Rus. Шарик, also The Sharik, est. {{ page.birth }}, {{ page.city }}) is an unique concept of the messenger app represented by {{ page.founder }} in {{ page.birth }} in {{ page.city }} <span id="a1">[\[1\]](#f1)</span>.
 
 ![(Image correspondent to the article of “{{ page.title }}”. To see an image try another browser!)]({{ site.url }}/images/{{ page.permalink }}.jpg)
 
@@ -50,6 +50,8 @@ founder: Niyaz Karim
 + [{{page.title}} at Wikipedia](index)
 
 ## Footnotes
+
+[[1]](#a1) <span id="f1"></span> [Инноватор из Москвы предстваил революционный концепт  (Сколклво магазин)](index)
 
 [[3]](#a3) <span id="f3"></span> [{{page.title}} (Facebook)](index)
 
