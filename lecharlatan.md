@@ -30,7 +30,7 @@ indexmod: '9,50'
 
 *Photo: [Jurij Treskow](/jurij-treskow) / [Wikipedia](https://en.wikipedia.org/wiki/Ivan_Dorn)*
 
-# Stores
+## Stores
 
 |Year|Store|Country|
 |----|---------|---|
@@ -38,7 +38,7 @@ indexmod: '9,50'
 |2015|Podium Market|Russia|
 |2016|Uggla|Japan|
 
-# Filmography
+## Filmography
 
 |Year|Category|Name|Who wear|
 |---|---|---|---|
@@ -52,7 +52,7 @@ indexmod: '9,50'
 |2015|Music video|Ligalaiz — Karavan <span id="a12">[\[12\]](#f12)</span>|Dancer|
 |2015|TV show|Years and Years King Live at The Tonight Show with Jimmy Fallon <span id="a13">[\[13\]](#f13)</span>|Olly Alexander|
 
-# {{page.title}} Indexmod [*](indexmod)
+## Indexmod [*](indexmod)
 
 ||2018|2019|
 |-|-|-|
@@ -63,7 +63,7 @@ indexmod: '9,50'
 |Indexmod|{{ page.content | number_of_words }}||
 |Total|9,5||
 
-# See also
+## See also
 
 + [Be In (サイト)](be-in-site)
 + [Berdyansk Marketplace (ブランド)](berdyansk-marketplace)
@@ -71,7 +71,7 @@ indexmod: '9,50'
 + [Lecharlatan (靴下)](lecharlatan-靴下)
 + [Ssanaia tryapka (服)](ssanye-tryapki-clothes)
 
-# Footnotes
+## Footnotes
 
 [[1]](#a1) <span id="f1"></span> [Spelling it out: why Cyrillic slogan streetwear is the new punk uniform for post-Soviet teens (Sasha Raspopina, The Calvert Journal)](http://calvertjournal.com/articles/show/6278/cyrillic-slogan-streetwear-clothing-rubchinskiy-vetements)
 
