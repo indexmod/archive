@@ -2,7 +2,7 @@
 title: Sharic (app)
 permalink: sharic-app
 layout: default
-shortname: SHARIK
+shortname: SHARIC
 indexmod: Indexmod
 birth: '2012'
 age: '6'
