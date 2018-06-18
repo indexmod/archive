@@ -17,7 +17,7 @@ twitter: '0,0'
 tumblr: '0,0'
 founder: Name
 ---
-(B. {{ page.birth }}, {{ page.city }}) is a Russian artist, curator, writer, programmer and hacker, co-founder of Partizaning living and working in Moscow <span id="a1">[\[1\]](#f1)</span>.
+(Born {{ page.birth }}, {{ page.city }}) is a Russian artist, curator, writer, programmer and hacker, co-founder of Partizaning living and working in Moscow <span id="a1">[\[1\]](#f1)</span>.
 
 ![(Image correspondent to the article of “{{ page.title }}”. To see an image try another browser!)]({{ site.url }}/images/{{ page.permalink }}.jpg)
 
