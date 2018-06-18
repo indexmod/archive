@@ -26,11 +26,6 @@ founder: Name
 
 *Photo: [Nobutada Omote](omote-nobutada) ([Sandwich Inc.](sandwich-inc)) / [Szmg.jp](https://szmg.jp/en/explore/kohtei/)*
 
-## Сonspectus
-
-|Year|City|
-|-|-|
-|2017|Moscow|
 
 ## Indexmod [*](indexmod)
 
