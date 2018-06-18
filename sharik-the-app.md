@@ -1,6 +1,6 @@
 ---
 title: Sharic (app)
-permalink: sharik-the-app
+permalink: sharic-app
 layout: default
 shortname: SHARIK
 indexmod: Indexmod
