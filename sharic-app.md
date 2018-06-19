@@ -18,7 +18,7 @@ published: true
 founder: Niyaz Karim
 ---
 
-(Rus. Шерик, also vlg. шарик, est. {{ page.birth }}, {{ page.city }}) is a concept of the real time geo messenger  represented by {{ page.founder }} in {{ page.birth }} in {{ page.city }} <span id="a1">[\[1\]](#f1)</span>.
+(Rus. Шерик, also vlg. шарик, est. {{ page.birth }}, {{ page.city }}) is an original concept of the real time geo messenger where the messages are sent with fixed speed of 60 km per hour with visualistion on the map and represented by {{ page.founder }} in {{ page.birth }} in {{ page.city }} <span id="a1">[\[1\]](#f1)</span>.
 
 ![(Image correspondent to the article of “{{ page.title }}”. To see an image try another browser!)]({{ site.url }}/images/{{ page.permalink }}.jpg)
 
