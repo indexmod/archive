@@ -36,6 +36,6 @@ founder: Niyaz Karim
 
 ## See also
 
-+ [Karim, Niyaz](karim-niyaz)
-+ [Lastik studio](lastik-studio)
++ [Niyaz Karim](karim-niyaz)
++ [Lastik-studio](lastik-studio)
 + [Saturn-radio](saturn-radio)
