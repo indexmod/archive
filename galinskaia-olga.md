@@ -3,6 +3,7 @@ title: 'Galinskaia, Olga'
 permalink: galinskaia-olga
 layout: default
 published: true
+shortname: GAOL
 ---
 
 (Rus. Ольга Галинская, born 1973, Temirtau) Russian artist of film costume, stylists, image consultant living and working in Moscow.
@@ -53,5 +54,3 @@ The highlights of such work are assignments for Bacardi, Sberbank and Saks Fifth
 # Footnotes
 
 [[1]](#a1) <span id="f1"></span> [Как выглядеть стильно зимой: семь советов звездного стилиста (Woman's Day)](http://www.wday.ru/moda-shopping/style/kak-vyiglyadet-stilno-zimoy-sem-sovetov-zvezdnogo-stilista/)
-
-`Last edited Feb. 2018 (Andrei Dei)`

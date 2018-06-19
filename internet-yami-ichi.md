@@ -3,6 +3,8 @@ title: Ями-Ичи (рынок)
 permalink: internet-yami-ichi
 layout: default
 published: true
+shortname: YAIC
+indexmod: '0,000'
 ---
 (англ. Internet Yami-Ichi; яп. インターネットヤミ市; осн. 2012, Токио) «черный рынок зависимых от интернета», «свободный рынок офлайн-браузинга», который дает возможность спроецировать цифровой мир в реальную жизнь в виде материализованных интернет-явлений в исполнении художников, дизайнеров, программистов и энтузиастов интернет-культуры. Впервые рынок Ями-Ичи провели в Токио в 2012 году, в последующие годы рынок проводили в Нью-Йорке, Амстердаме, Брюсселе, Сан-Паулу, Берлине, Москве <span id="a1">[\[1\]](#f1)</span>, так же в Новом Орлеане проходил одноимённый микро-рынок <span id="a2">[\[2\]](#f2)</span>.
 
@@ -13,7 +15,7 @@ published: true
 
 *Фото: [Брэди Дейл (Brady Dale)](http://observer.com/2015/09/dev-trading-cards-and-telephone-tinder-six-projects-we-dug-at-internet-yami-ichi/) / [Observer](http://observer.com/2015/09/dev-trading-cards-and-telephone-tinder-six-projects-we-dug-at-internet-yami-ichi/)*
 
-# Конспект
+## Конспект
 
 |Year|City|
 |----|-----|
@@ -41,19 +43,24 @@ published: true
 |2017|Лондон|
 |2018|Базель|
 
-# {{page.title}} Indexmod
+## {{page.title}} Indexmod [*](indexmod)
 
-|Год|Facebook|Instagram|YouTube|Лет|YII|
-|-|-|-|-|-|
-|2018|000 <span id="a3">[\[3\]](#f3)</span>|000 <span id="a4">[\[4\]](#f4)</span>|000 <span id="a4">[\[4\]](#f4)</span>|6|0,00000|
+||2018|2019|
+|-|-|-|
+|Facebook <span id="a4">[\[4\]](#f4)</span>|0||
+|Instagram <span id="a5">[\[5\]](#f5)</span>|0||
+|YouTube|||
+|Age|6||
+|Article Value|{{ page.content | number_of_words }}||
+|Indexmod|0,0||
 
 
-# См. также
+## См. также
 
 + [Фуджиока, Садам](fujioka-sadam)
 
 
-# Сноски
+## Сноски
 
 [[1]](#a1) <span id="f1"></span> [Рынок «Ями-Ичи» на фестивале науки, искусства и технологий «Политех» в Москве](http://example.net/article)
 
@@ -64,5 +71,3 @@ published: true
 [[4]](#a4) <span id="f4"></span> [{{page.title}} (Instagram)](index)
 
 [[5]](#a5) <span id="f5"></span> [{{page.title}} (YouTube)](index)
-
-`Обновлено фев. 2018 Андрей Дей`

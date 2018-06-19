@@ -3,14 +3,11 @@ title: Zaragoza Fashion Week
 permalink: zaragoza-fashion-week
 layout: default
 published: true
+shortname: ZAFW
 ---
-<<<<<<< HEAD
-
-=======
->>>>>>> 0739e0381de7dc20e1fcd721bf5fa66373d78a91
 (Spa. Semana de la Moda de Zaragoza, est. 2011 <span id="a1">[\[1\]](#f1)</span>, Zaragoza) is a fashion event in Spain.
 
-![](/encyclopedia/images/zaragoza-fashion-week.jpg)
+![](/images/zaragoza-fashion-week.jpg)
 
 **Identity pack "Semana de la Moda, Zaragoza"**
 
@@ -33,5 +30,3 @@ published: true
 # Footnotes
 
 [[1]](#a1) <span id="f1"></span> [Semana de la Moda, Zaragoza at Federación de industrias Textiles y de la Confección de Aragón, (FITCA)](http://fitca.com/?p=2560)
-
-`Updated Mar. 2018 (Andrei Dei)`

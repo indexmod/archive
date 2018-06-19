@@ -3,6 +3,7 @@ title: Avedon, Richard
 permalink: avedon-richard
 position:
 layout: default
+shortname: AVRI
 ---
 
 (Est. 2013, city) Richard Avedon born 1923, NYC; died 2004 San Antonio—an American fashion and portrait photographer was born to a Jewish family of Jacob Israel Avedon a Russian-born immigrant and Anna, from a family that owned a dress-manufacturing business, encouraged Richard's love of fashion and art. <span id="a1">[\[1\]](#f1)</span>, description-two <span id="a2">[\[2\]](#f2)</span> description-3 <span id="a3">[\[3\]](#f3)</span>, extra text.

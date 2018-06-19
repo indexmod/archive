@@ -3,6 +3,7 @@ title: Asuncion Fashion Week
 permalink: asuncion-fashion-week
 position:
 layout: default
+shortname: ASFW
 ---
 (Est. 2013, city) is a --- <span id="a1">[\[1\]](#f1)</span>.
 

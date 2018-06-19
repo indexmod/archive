@@ -3,17 +3,18 @@ title: 'Farmani, Hossein'
 permalink: farmani-hossein
 layout: default
 published: true
+shortname: FRHS
 ---
 
 (Eng. Hossein Farmani, Pers. حسین فرمانی, род. 1969, Tehran)  иранский фотограф и коллекционер, основатель Группы Фармани [(Farmani Group)](farmani-group), базирующуюся в Лондоне и Бангкоке, основатель премии Lucie Awards, работал с Хельмутом Ньютоном, Ричардом Аведоном, Стивом Маккарри <span id="a1">[\[1\]](#f1)</span>.
 
-![](http://schoolva.ru/wp-content/uploads/2015/10/hossein_farmani-by_cattleya_jaruthavee.jpg)
+![(Image correspondent to the article of “{{ page.title }}”. To see an image try another browser!)]({{ site.url }}/images/{{ page.permalink }}.jpg)
 
 **Хоссейн Фармани**
 
 *Фото: [Cattleya Jaruthavee](jaruthavee-cattleya) / [Школа Визуальных Искусств](http://schoolva.ru/2015/hossein-farmani/)*
 
-# Проекты
+## Проекты
 
 |Year|City|
 |----|-----|
@@ -33,7 +34,7 @@ published: true
 ||Miami Snap|
 |2014|Rooftop Gallery BKK|
 
-# {{page.title}} Indexmod [*](indexmod)
+## Indexmod [*](indexmod)
 
 ||2018|2019|
 |-|-|-|
@@ -44,13 +45,13 @@ published: true
 |Page Value|{{ page.content | number_of_words }}||
 |Indexmod|0,0000||
 
-# См. также
+## См. также
 
 + [Rooftop Gallery](rooftop-gallery)
 + [Винсент Сунг](sung-vinsent)
 + [Urban-a-Liana (2015)](urban-a-liana-2015)
 
 
-# Сноски
+## Сноски
 
 [[1]](#a1) <span id="f1"></span> [Лекция Хоссейна Фармани — Фотография. Маркетинг и бизнес. (Школа Визуальных Искусств)](http://example.net/article)

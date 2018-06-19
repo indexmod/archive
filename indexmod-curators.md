@@ -1,11 +1,13 @@
 ---
-title: Indexmod Curators
+title: Indexmod curators
 permalink: indexmod-curators
-layout: default
+layout: info
 published: true
 ---
 
-# Indexmod Curators
+The mission of Indexmod is to uncover the new cultural centers of the world, as well as artists, designers, galleries, museums, institutions, Biennial, Fashion Weeks, memes, art objects in an open wiki with a view to works of art forms from different parts of the world to lead an independent dialogue.
+
+If you are interested in becoming a local curator and you live in one of the listened cities, contact the encyclopedia just e-mailing to Chief Editor.
 
 1. Bangkok [Vincent Sung](sung-vincent)
 1. Bali [Uma Kumari](kumari-uma)
@@ -42,6 +44,4 @@ published: true
 1. Tokyo [Mico Kazumi](kazumi-mico)
 1. Venice [Maria Sinitsina](sinitsina-maria)
 
-The mission of IE is to describe all the cultural centers of the world, including artists, designers, galleries, museums, institutions, Biennial, Fashion Week, memes, art objects in an open wiki with a view to works of art forms from different parts of the world to lead an independent dialogue.
 
-If you are interested in becoming a local curator and you live in one of the listened cities, contact the encyclopedia just e-mailing to Chief Editor.

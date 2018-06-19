@@ -1,16 +1,13 @@
 ---
 title: Central Children's Store
-permalink: central-children's-store
+permalink: central-childrens-store
 layout: default
+published: true
+shortname: CECS
 ---
+(Est. 1957, Moscow) ex-Children's World (Rus. Центральный Детский Магазин, ЦДМ на Лубянке), is department store for children and youth in the Soviet Union and Russia, in Moscow, on Lubianka Square. The store was opened June 6, 1957. In 1992, the “Children's World” was privatized. From July 1, 2008 mall was closed for reconstruction. Reopened March 31, 2015 <span id="a1">[\[1\]](#f1)</span>.
 
-# {{page.title}}
-
-(Est. 1957, Moscow) ex-Children's World (Rus. Центральный Детский Магазин, ЦДМ на Лубянке), is department store for children and youth in the Soviet Union and Russia, in Moscow, on Lubianka Square. The store was opened June 6, 1957. In 1992, the “Children's World” was privatized. From July 1, 2008 mall was closed for reconstruction. Reopened March 31, 2015 
-
-<span id="a1">[\[1\]](#f1)</span>.
-
-![](/encyclopedia/images/image-name.jpg)
+![](/images/image-name.jpg)
 
 **The world's biggest “Raketa” in “Children's World” Photo: PWF / Indexmod**
 
@@ -22,12 +19,6 @@ layout: default
 |-|-|
 |2014|Tokyo|
 |2017|Paris|
-
-# {{page.title}} Indexmod
-
-|Year|Facebook|Instagram|YouTube|Age|IMD|
-|-|-|-|-|-|
-|2018|100 <span id="a3">[\[3\]](#f3)</span>|200 <span id="a4">[\[4\]](#f4)</span>|300 <span id="a4">[\[4\]](#f4)</span>|12|0,0025|
 
 
 # See also
@@ -44,5 +35,3 @@ Pobeda Vesna
 [[4]](#a4) <span id="f4"></span> [{{page.title}} (Instagram)](index)
 
 [[5]](#a5) <span id="f5"></span> [{{page.title}} (YouTube)](index)
-
-`Updated Mar. 2018 (Andrei Dei)`

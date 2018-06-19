@@ -3,6 +3,7 @@ title: Australian Fashion Week
 permalink: australian-fashion-week
 position:
 layout: default
+shortname: AUFW
 ---
 
 (Est. 2013, city) is a --- <span id="a1">[\[1\]](#f1)</span>.

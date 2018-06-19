@@ -1,7 +1,7 @@
 ---
 title: Ким Ё Чен
 permalink: kim-yo-jong
-layout: default
+layout: default-ru
 published: true
 ---
 

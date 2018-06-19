@@ -1,42 +1,44 @@
 ---
-title: Zavyalova, Tatiana
+title: 'Zavyalova, Tatiana'
 permalink: zavyalova-tatiana
 layout: default
 published: true
+shortname: ZATA
 ---
+`To remove Template tag go Edit`
 
-# {{page.title}}
+(Est. {{ page.birth }}, {{ page.city }}) is a --- <span id="a1">[\[1\]](#f1)</span>.
 
-(Est. 2013, city) is a --------- <span id="a1">[\[1\]](#f1)</span>.
+![(Image correspondent to the article of “{{ page.title }}”. To see an image try another browser!)]({{ site.url }}/images/{{ page.permalink }}.jpg)
 
-![](/encyclopedia/images/image-name.jpg)
+**Image**
 
-**Image title**
+*Photo: [Not specified](index) / [Source](index)*
 
-*Photo: [Name](index) / [Source](index)*
-
-# {{page.title}} Expositions
-Biorobots (2014), Antimuseum
-Dancing in St. Petersburg (2015),  Antimuseum
-La Primavera, Spring, Весна (2014), Antimuseum
+## Сonspectus
 
 |Year|City|
 |-|-|
 |2017|Moscow|
 
-# {{page.title}} Indexmod
+## Indexmod [*](indexmod)
 
-|Year|Facebook|Instagram|YouTube|Age|Indexmod|
-|-|-|-|-|-|
-|2018|000 <span id="a3">[\[3\]](#f3)</span>|000 <span id="a4">[\[4\]](#f4)</span>|000 <span id="a5">[\[5\]](#f5)</span>|00|0,0000|
+|Variables|2018|2019|
+|-|-|-|
+|Facebook <span id="a3">[\[3\]](#f3)</span>|{{ page.facebook }}||
+|Instagram <span id="a4">[\[4\]](#f4)</span>|{{ page.instagram }}||
+|YouTube <span id="a5">[\[5\]](#f5)</span>|{{ page.youtube }}||
+|Twitter <span id="a6">[\[6\]](#f6)</span>|{{ page.twitter }}||
+|Age|{{ page.age }}||
+|Indexmod|{{ page.content | number_of_words }}||
+|Total|{{ page.indexmod }}||
 
-
-# See also
+## See also
 
 + [About {{page.title}}](index)
 + [{{page.title}} at Wikipedia](index)
 
-# Footnotes
+## Footnotes
 
 [[3]](#a3) <span id="f3"></span> [{{page.title}} (Facebook)](index)
 
@@ -44,4 +46,4 @@ La Primavera, Spring, Весна (2014), Antimuseum
 
 [[5]](#a5) <span id="f5"></span> [{{page.title}} (YouTube)](index)
 
-`Updated Mar. 2018 (Andrei Dei)`
+[[6]](#a6) <span id="f6"></span> [{{page.title}} (Twitter)](index)

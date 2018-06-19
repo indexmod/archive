@@ -1,19 +1,19 @@
 ---
 title: 'Youdashkin, Valentin'
 permalink: youdashkin-valentin
-layout: social
+layout: default
+shortname: YUVA
 published: true
 ---
-
 (Rus. Юдашкин, Валентин Абрамович, born. 1963, Bakovka) is a Russian fashion designer <span id="a1">[\[1\]](#f1)</span>.
 
-![](https://s3.cdn.teleprogramma.pro/wp-content/uploads/2018/01/42b6a10b184feed434f4210aabe1cff5.jpg)
+![(Image correspondent to the article of “{{ page.title }}”. To see an image try another browser!)]({{ site.url }}/images/{{ page.permalink }}.jpg)
 
 **Valentin Youdashkin**
 
 *Photo: [Teleprogramma](teleprogramma) / [Woman Rambler](https://woman.rambler.ru/fashion/38843880-yudashkin-valentin-abramovich/)*
 
-# Family 
+## Family 
 
 |Relative|Name|
 |-|-|
@@ -21,10 +21,10 @@ published: true
 |Dauter|Galina|
 
 
-# See also
+## See also
 
-- [Valentin Youdashkin (brand)](valentin-youdashkin-brand)
++ [Valentin Youdashkin (brand)](valentin-youdashkin-brand)
 
-# Footnotes
+## Footnotes
 
 [[1]](#a1) <span id="f1"></span> [Valentin Abramovich Yudashkin (Wikipedia)](https://en.wikipedia.org/wiki/Valentin_Yudashkin)

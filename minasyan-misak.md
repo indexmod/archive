@@ -1,35 +1,36 @@
 ---
-title: Minasyan, Misak
+title: 'Minasyan, Misak'
 permalink: minasyan-misak
 layout: default
+published: true
+shortname: MIMI
 ---
+(Rus. Мисак Минасян, born. in 1983, Stanitsa Marianskaya) is a Russian visual artist student of Rodchenko School <span id="a1">[\[1\]](#f1)</span>, co-founder of [Proun](proun-movement), also known as [Samokatyan (Самоктьян)](samokatjan-misak), curator in Synthposium festival <span id="a2">[\[2\]](#f2)</span>, a transcendental person who does not exist in the consciousness of being-for-itself, phenomenon of the phenomenon, existential emanation of self, ontological accident, escapist-technocrat, minimalist, nothingness structuralist, intelligent dadaist, scholastic saboteur, techno mannerist, catechist of the absurd <span id="a3">[\[3\]](#f3)</span>. Misak living and working in Moscow.
 
-# Minasyan, Misak
+![](https://d3n32ilufxuvd1.cloudfront.net/58cea0d6ef52950077521e06/891274/upload-e75f6910-b988-11e7-854f-8d7efb5c9763.png)
 
-(Rus. Мисак Минасян, born. in 1983, Stanitsa Marianskaya) is a Russian visual artist student of Rodchenko School <span id="a1">[\[1\]](#f1)</span>, founder of [Proun](proun-movement), also known as Samokatyan (Самоктьян), curator in Synthposium festival <span id="a2">[\[2\]](#f2)</span>, a transcendental person who does not exist in the consciousness of being-for-itself, phenomenon of the phenomenon, existential emanation of self, ontological accident, escapist-technocrat, minimalist, nothingness structuralist, intelligent dadaist, scholastic saboteur, techno mannerist, catechist of the absurd <span id="a3">[\[3\]](#f3)</span>. Misak living and working in Moscow. [Edit this page](http://prose.io/#indexmod/encyclopedia/edit/master/minasyan-misak.md)
+**Misak Minasyan**
 
-![](http://plumsfest.ru/img/artists/2013/misak.jpg)
+*Photo: [Nina Rasiuk](rasiuk-nina) / [Readymag](https://readymag.com/proun/misak/)*
 
-*Misak Minasyan is posing for Plums Fest in 2013 <br>
-Photo: [Nina Rasiuk](rasiuk-nina) / [Plums Fest](http://plumsfest.ru/samokatyan/)*
-
-# Conspectus
+## Conspectus
 
 |Year|Milestones|
 |----|---------|
 |2013|Becoming Rodchenko School student|
 |2016|Establishing Proun|
 |2017|Establishing Synthposium festival|
+|2018|Novoe (Space at Pluton plant area in Moscow)|
+
+## See also
+
++ [Proun](proun-movement)
++ [Nina Rasiuk](rasiuk-nina)
++ [Samokatyan (Самоктьян)](samokatjan-misak)
++ [Synthposium](synthposium-festival)
 
 
-
-# See also
-
-- [Nina Rasiuk](rasiuk-nina)
-- [Synthposium](synthposium-festival)
-- [Proun](proun-movement)
-
-# Footnotes
+## Footnotes
 
 [[1]](#a1) <span id="f1"></span> [Samokatyan, Misak (Indexmod Encyclopedia, 2016](https://sites.google.com/site/indexmodencyclopedia/samokatyan-misak)
 

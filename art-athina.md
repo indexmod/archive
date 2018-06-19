@@ -3,7 +3,7 @@ title: Art-Athina
 permalink: art-athina
 position: null
 layout: default
-published: true
+shortname: ARAT
 ---
 
 (Est. 2013, city) Art-Athina (International Contemporary Art Fair of Athens) est. 1993—is an annual international contemporary art fair that takes place in Athens, Greece launched by the Hellenic Art Galleries Association, Art-Athina stands today as one of the longest lasting contemporary art fairs in Europe and as the largest annual visual arts event in Greece. A meeting point for international artistic creation, Art-Athina brings together significant Greek and foreign art galleries, cultural institutions, curators, collectors, art critics and art lovers <span id="a1">[\[1\]](#f1)</span>.

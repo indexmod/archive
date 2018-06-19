@@ -1,5 +1,5 @@
 ---
-title: Indexmod Encyclopedia
+title: Indexmod blockchainpedia
 timezone: UTC
 collections:
   posts:
@@ -8,49 +8,23 @@ collections:
   uploads:
     title: Uploads
     output: false
-description: Indexmod Encyclopedia — blockchain wiki with pretty syntax
+description: Indexmod is a fashion and art blockchainpedia
 show_sidebar: false
 show_downloads: false
 show_title: false
 show_description: false
-google_analytics: 'UA-112478299-1'
+google_analytics: 'UA-119267756-1'
 theme: jekyll-theme-minimal
 include: ['.htaccess']
 gems:
 
 prose:
-  rooturl: 'https://indexmod.github.io/encyclopedia/'
-  siteurl: 'https://indexmod.github.io/encyclopedia/'
-  relativeLinks: 'http://prose.github.io/starter/links.jsonp'
+  rooturl: 'https://indexmod.gq'
+  siteurl: 'https://indexmod.gq'
+  relativeLinks: 'https://prose.github.io/starter/links.jsonp'
   media: '/images'
   ignore:
     - index.md
     - _config.yml
     - /_layouts
     - /_includes
-  metadata:
-    _pages:
-      - name: "layout"
-        field:
-          value: "default"
-      - name: "tags"
-        field:
-          element: "multiselect"
-          label: "Add Tags"
-          placeholder: "Choose Tags"
-          options:
-            - name: "Apples"
-              value: "apples"
-            - name: "Bananas"
-              value: "bananas"
-    _posts/static:
-      - name: "layout"
-        field:
-          element: "hidden"
-          value: "page"
-      - name: "permalink"
-        field:
-          element: "text"
-          label: "Permalink"
-          value: ""
-

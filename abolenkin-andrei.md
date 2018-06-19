@@ -3,6 +3,8 @@ title: 'Abolenkin, Andrei'
 permalink: abolenkin-andrei
 layout: default
 published: true
+shortname: ABAN
+indexmod: Indexmod
 ---
 
 (Rus. Андрей Аболенкин, born 1972, Moscow) is a Russian style and fashion expert <span id="a1">[\[1\]](#f1)</span>, consultant and promoter. Andrei working and living in Moscow.
@@ -14,7 +16,7 @@ published: true
 *Photo: [Igor Vasiliadis](igor-vasiliadis) / [Indexmod Encyclopedia](index)*
 
 
-# See also
+## See also
 
 + [Aberdeen Fashion Week](aberdeen-fashion-week)
 + [Acid Noodles](acid-noodles)
@@ -22,6 +24,6 @@ published: true
 + [Ognenny, Oleg](ognenny-oleg)
 + [Litvinova, Violetta](litvinova-violetta)
 
-# Footnotes
+## Footnotes
 
 [[1]](#a1) <span id="f1"></span> [Выставку памяти Виолетты Литвиновой откроют в «Стране чудес» (Intermedia)](http://www.intermedia.ru/news/286753)

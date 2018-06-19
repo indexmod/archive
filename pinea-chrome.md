@@ -3,11 +3,12 @@ title: Pinea Chrome
 permalink: pinea-chrome
 layout: default
 published: true
+shortname: PICH
 ---
 
-(2013, Nakhabino) is a concept of interior gadget created by Andrei Deinichenko from is a pine and chrome-plated aluminum details <span id="a1">[\[1\]](#f1)</span>.
+(2013, Nakhabino) is a concept of interior gadget created by Andrei Deinichenko made of a pine and chrome-plated aluminum details <span id="a1">[\[1\]](#f1)</span>.
 
-![](/encyclopedia/images/pinea-chrome.jpg)
+![](/images/pinea-chrome.jpg)
 
 **1. A Pinea Chrome robots at the indoor composition; 2. Cover of Pinea Chrome campaign at Vimeo; 3. Scetch of the robot's ID tag; 4. Set of Pinea Chrome in box sketch; 5, 7. Pinea Chrome at Moscow-River near Nikolona Gora; 6. Robot and projection installation scheme; 8. Gadget setting scheme; 9. In-box-manual**
 
@@ -39,8 +40,8 @@ The prototype Pinea Chrome has been assembled in Moscow from pine and chrome-pla
 |Vimeo <span id="a4">[\[4\]](#f4)</span>|20||
 |YouTube <span id="a5">[\[5\]](#f5)</span>|13||
 |Age|5||
-|Page Value|{{ page.content | number_of_words }}||
-|Indexmod|0,0005181||
+|Indexmod|{{ page.content | number_of_words }}||
+|Total|0,0005||
 
 
 # See also

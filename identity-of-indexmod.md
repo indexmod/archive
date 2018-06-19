@@ -5,9 +5,9 @@ layout: default
 published: true
 ---
 
-(Est. 2006, Moscow) a sign for Indexmod Encyclopedia of Art and Fashion created by Andrei Deinichenko in 2015 based on the earlier image of 2011 by Andrei Abramov (Odinmay).
+(Est. 2006, Moscow) a sign for Indexmod Encyclopedia of Art and Fashion created by Andrei Deinichenko in 2015 based on the earlier image of 2011 by Andrei Abramov (Odinmay). 
 
-![](/encyclopedia/images/indexmod-2011.png)
+![](/images/indexmod-2011.png)
 
 **An “Eye” of Indexmod of 2011**
 
@@ -19,35 +19,34 @@ published: true
 
 *Image: [Andrei Dei](dei-andrei) / [Indexmod](indexmod)*
 
-# Conspectus
+## Conspectus
 
-|Year|Image keys|
-|----|-----|
-|2011|Eye on "IM"|
-|2015|Eye in gold|
-|2016|Eye and waves|
-|2018|Orbit with Eye|
+|Year|Image keys|Name|
+|-|-|-|
+|2011|Eye on "IM"||
+|2015|Eye in gold||
+|2016|Eye and waves||
+|2017|Orbit with Eye||
+|2018|Sphere with I|Indexmod blockchainpedia|
 
-![](/encyclopedia/images/eye-gold.png)
+![](/images/eye-gold.png)
 
 **An “Eye” of Indexmod  in gold 2015**
 
 *Image: [Andrei Dei](dei-andrei) / [Indexmod](indexmod)*
 
-![](/encyclopedia/images/vector.jpg)
+![](/images/vector.jpg)
 
 **Vector of developing of Indexmod identity**
 
 *Image: [Andrei Dei](dei-andrei) / [Indexmod](indexmod)*
 
-# See also
+## See also
 
 + [Odinmay](odinmay)
 + [Andrei Abramov](abramov-Andrei)
 + [Eta](eta)
 
-# Footnotes
+## Footnotes
 
 [[1]](#a1) <span id="f1"></span> [Article name short (Author name)](http://example.net/article)
-
-`Last edit Feb. 2018 (Andrei Dei)`

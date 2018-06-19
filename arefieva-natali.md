@@ -1,7 +1,7 @@
 ---
 title: Arefieva, Natali
 permalink: arefieva-natali
-position:
+shortname: ARNA
 layout: default
 ---
 

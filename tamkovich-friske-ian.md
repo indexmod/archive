@@ -3,62 +3,50 @@ title: 'Tamkovich-Friske, Ian'
 permalink: tamkovich-friske-ian
 layout: default
 published: true
+shortname: TAFR
+indexmod: '0,002'
+birth: '1993'
+age: '26'
+updateyear: '2018'
+
 ---
 
-(Руc. Ян Тамкович Фриске, Индивидуальный предприниматель; 1993, Razvilka, Moscovskaya Oblast) is a charachter created by Russian artist Nikita Tereshenko who known as Goodwill Ambassador in the “Preraelite” Brotherhood, and also known with his series of provocative photos that includes images of symbols of celebrities having died or killed recently, among them a Russian actress, singer and model Zhanna Friske and scientist, statesman and liberal politician Boris Nemtsov. Ian working and living in Moscow <span id="a1">[\[1\]](#f1)</span>, description-two <span id="a2">[\[2\]](#f2)</span> description-three <span id="a3">[\[3\]](#f3)</span>, extra text.
+(Руc. Ян Тамкович-Фриске, Индивидуальный предприниматель, born, 1992, Razvilka) is a charachter created by Russian artist Nikita Tereshenko who known as Goodwill Ambassador in the “Preraelite” Brotherhood, and also known with his series of provocative photos that includes images of symbols of celebrities having died or killed recently, among them a Russian actress, singer and model Zhanna Friske and scientist, statesman and liberal politician Boris Nemtsov. Ian working and living in Moscow <span id="a1">[\[1\]](#f1)</span>.
 
-![](/encyclopedia/images/image-name.jpg)
+![](https://afisha.yuga.ru/media/70/75/54104_265863237125920_91199234953418488__qem95at.jpg)
 
-**Image caption title**
+**A charschter of Ian Tamkovich-Friske in 2017**
 
-A charschter of Ian Tamkovich-Friske and the artist as Individualny Predprinimatel
-A character of Ian Tamkovich-Friske and the artist as Individualny Predprinimatel
-Photo: Vlad Chizhenkov / Facebook
 
-*Photo: [Photographer name](/photographer-name-page) / [Source name](/source-name-page)*
+*Photo: [Afisha.yuga.ru](Afisha.yuga.ru)*
 
-# XXX Indexmod
+# {{page.title}} Indexmod [*](indexmod)
 
-|Year|Facebook|Instagram|Age|XXX|
-|-|-|-|-|-|
-|2018|ХХ <span id="a3">[\[3\]](#f3)</span>||ХХ <span id="a4">[\[4\]](#f4)</span>|Х,ХХ|
-|2019|||ХХ||
+||2018|2019|
+|-|-|-|
+|Facebook <span id="a3">[\[3\]](#f3)</span>|761||
+|Instagram <span id="a4">[\[4\]](#f4)</span>|372||
+|YouTube <span id="a5">[\[5\]](#f5)</span>|1||
+|Twitter|||
+|Age|26||
+|Indexmod|{{ page.content | number_of_words }}||
+|Total|0,002||
+
 
 # See also update in Feb. 2018
 
++ [Centr Krasny (Red Center)](centr-krasny)
 + [Ilia Varegin](varegin-ilia)
 + [Vetements](vetements)
-+ [Vemina](vemina)
-+ [Romanyuk Lisa](romanyuk-lisa)
-+ [Raare Fashion Days](raare-fashion-days)
-+ [Nina Donis](nina-donis)
-+ [Moscow Fashion House Slava Zaitsev](moscow-fashion-house-slava-zaitsev)
 + [Infundibulum](infundibulum)
-+ [Griby](griby)
 + [Gosha Gazinskaya](gosha-gazinskaya)
-+ [Gazinskaya Vika](gazinskaya-vika)
-+ [Galetsky Moscow](galetsky-moscow)
-+ [Galetsky Anton](galetsky-anton)
-+ [Deinichenko Andrei](deinichenko-andrei)
-+ [Indexmod Encyclopedia](indexmod-encyclopedia)
-+ [Antimuseum](antimuseum)
-+ [Antimuseum-2](antimuseum-2)
-+ [Antarctic Biennale](antarctic-biennale)
-+ [APXL](apxl)
-+ [Art Athina](art-athina)
-+ [Firm](firm)
 + [Tamkovich Friske Ian](tamkovich-friske-ian)
-+ [Zaitsev Vyacheslav](zaitsev-vyacheslav)
-+ [Tsenter Krasny]
-+ [Michel Klimin]
+
 
 # Footnotes
 
-[[1]](#a1) <span id="f1"></span> [Tamkovych-Friske at Indexmod Encyclopedia (old site) (old site)](http://example.net/article)
+[[3]](#a3) <span id="f3"></span> [{{page.title}} (Facebook)](https://www.facebook.com/my.darkest.light.will.shine/about?lst=100008481991414%3A100011067371119%3A1525444985)
 
-[[3]](#a3) <span id="f3"></span> [Name (Facebook)](http://example.net/article)
+[[4]](#a4) <span id="f4"></span> [{{page.title}} (Instagram)](https://www.instagram.com/my.darkest.light.will.shine/)
 
-[[4]](#a4) <span id="f4"></span> [Name (Instagram)](http://example.net/article)
-
-
-`Last update Feb. 2018 (Andrei Dei)`
+[[5]](#a5) <span id="f5"></span> [{{page.title}} (YouTube)](index)

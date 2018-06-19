@@ -3,12 +3,13 @@ title: Levadnaja Details
 permalink: levadnaja-details
 layout: default
 published: true
+shortname: LEDE
 ---
 
 
 (Est. 2006, Moscow) is a brand, established by clothes, bags, accessories and ceramics designer Svetlana Levadnaja to combine the rich Russian traditions with the modern context <span id="a1">[\[1\]](#f1)</span>.
 
-![](/encyclopedia/images/levadnaja.png)
+![(Image correspondent to the article of “{{ page.title }}”. To see an image try another browser!)]({{ site.url }}/images/{{ page.permalink }}.jpg)
 
 **Fragment of vase "Steppe" from Levadnaja Ceramics collection by Levadnaja Details**
 
@@ -57,5 +58,3 @@ http://en.levadnajadetails.com/
 [[4]](#a4) <span id="f4"></span> [{{page.title}} (Instagram)](https://www.instagram.com/levadnajadetails/?hl=ru)
 
 [[5]](#a5) <span id="f5"></span> [{{page.title}} (YouTube)](https://www.youtube.com/channel/UCko1ZlAIcKPUiHcugwB90ew/featured)
-
-`Updated Mar. 2018 (Andrei Dej)`

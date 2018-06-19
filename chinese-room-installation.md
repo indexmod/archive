@@ -2,47 +2,47 @@
 title: Chinese room (installation)
 permalink: chinese-room-installation
 layout: default
+published: true
+shortname: CHRI
 ---
 
+(Est. {{ page.birth }}, {{ page.city }}) is a --- <span id="a1">[\[1\]](#f1)</span>.
 
+![](/images/{{ page.permalink }}.jpg)
 
-# Chinese room (installation)
+**Image**
 
+*Photo: [Name](index) / [Source](index)*
 
-(Est. 2013, city) is a subject, description-one <span id="a1">[\[1\]](#f1)</span>, description-two <span id="a2">[\[2\]](#f2)</span> description-three <span id="a3">[\[3\]](#f3)</span>, extra text. [Edit this page](http://prose.io/#indexmod/encyclopedia/edit/master/page-template.md)
-
-![](/encyclopedia/images/image-name.jpg)
-
-**Image caption title**
-
-*Photo: [Photographer name](/photographer-name-page) / [Source name](/source-name-page)*
-
-# Conspectus
+## {{page.title}} conspectus
 
 |Year|City|
-|----|-----|
-|2014|Tokyo|
-|2015|Moscow|
-|2017|Paris|
+|-|-|
+|2017|Moscow|
 
-# See also
+## {{page.title}} Indexmod [*](indexmod)
 
-+ [See also title one](page-template)
-+ [See also title two](page-template)
-+ [See also title three](page-template)
+||2018|2019|
+|-|-|-|
+|Facebook <span id="a3">[\[3\]](#f3)</span>|{{ page.facebook }}||
+|Instagram <span id="a4">[\[4\]](#f4)</span>|{{ page.instagram }}||
+|YouTube <span id="a5">[\[5\]](#f5)</span>|{{ page.youtube }}||
+|Twitter <span id="a6">[\[6\]](#f6)</span>|{{ page.twitter }}||
+|Age|{{ page.age }}||
+|Indexmod|{{ page.content | number_of_words }}||
+|Total|{{ page.indexmod }}||
 
-# Footnotes
+## See also
 
-[[1]](#a1) <span id="f1"></span> [Article name short (Author name)](http://example.net/article)
++ [About {{page.title}}](index)
++ [{{page.title}} at Wikipedia](index)
 
-[[2]](#a2) <span id="f2"></span> [Article name little longer (Author name longer)](http://example.net/article)
+## Footnotes
 
-[[3]](#a3) <span id="f3"></span> [Article name longer so far (Author name too long and much longer)](http://example.net/article)
+[[3]](#a3) <span id="f3"></span> [{{page.title}} (Facebook)](index)
 
----
+[[4]](#a4) <span id="f4"></span> [{{page.title}} (Instagram)](index)
 
-`Editorial`
+[[5]](#a5) <span id="f5"></span> [{{page.title}} (YouTube)](index)
 
-`Warnings`
-
-`Notes`
+[[6]](#a6) <span id="f6"></span> [{{page.title}} (Twitter)](index)

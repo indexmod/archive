@@ -1,15 +1,9 @@
 <!DOCTYPE html>
 <html>
 <body>
-<div class="container">
-<img width="50" height="50" src="https://indexmod.github.io/encyclopedia/indexmod-eye.gif">
-</div>
-<br>
-<p>This is <a href="index">Indexmod Encyclopedia</a></p>
-<hr>
-<br>
-<p><a href="edit">How to edit</a></p>
-<p><a href="qa">Question → answer</a></p>
-<p><a href="https://www.facebook.com/groups/1827319437559156/about/">Indexmod on Facebook</a></p>  
+<p><a class="one" href="edit">How to edit</a></p>
+<p><a class="one" href="qa">QA</a></p>
+<p><a class="one" href="https://www.facebook.com/groups/1827319437559156/about/">Facebook watching</a></p>
+  <p class="date"><b>#<u>{{ page.shortname }}</u> ({{ page.content | number_of_words }})</b><br>is an Indexmod of the “{{ page.title }}”<br> at the <a href="index">{{ site.title }}</a><br>{{ site.time | date_to_long_string }}</p>
 </body>
 </html>

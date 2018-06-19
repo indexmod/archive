@@ -3,6 +3,8 @@ title: Lecharlatan (靴下)
 permalink: lecharlatan-靴下
 layout: default
 published: true
+shortname: LCLT
+indexmod: '9,50'
 ---
 (設立	2016年, モスクワ) 衣料品ブランドです、ロシアストリートウェアブランド <span id="a1">[\[1\]](#f1)</span>、アンレイ・ボジエフによるル・シャラタンを設立した高品質のソックスを提供する独立したレーベル <span id="a2">[\[2\]](#f2)</span> そして マリア・アルダロワ <span id="a3">[\[3\]](#f3)</span>, 後で共同設立者から購入した Andrey Bozhyev（2015）によってLecharlatanとして登録されました。TEDxサドーヴェリングのパートナー <span id="a4">[\[4\]](#f4)</span>。
 
@@ -12,7 +14,7 @@ published: true
 
 *写真: [Tom Jamieson](tom-jamieson) / [The New York Times](https://www.nytimes.com/2015/07/05/arts/music/olly-alexander-releases-his-debut-album-with-years-years)*
 
-# コンセンサス
+## コンセンサス
 
 |年|イベント|
 |----|---------|
@@ -28,7 +30,7 @@ published: true
 
 *写真: [Jurij Treskow](/jurij-treskow) / [Wikipedia](https://en.wikipedia.org/wiki/Ivan_Dorn)*
 
-# お店のリスト
+## お店のリスト
 
 |年|ショップ|国|
 |----|---------|---|
@@ -36,7 +38,7 @@ published: true
 |2015|表彰台市場 (Podium Market)|ロシア|
 |2016|Uggla|日本|
 
-# フィルモグラフィー
+## フィルモグラフィー
 
 |年|カテゴリー|映画|誰が着る|
 |---|---|---|---|
@@ -50,7 +52,7 @@ published: true
 |2015|ミュージックビデオ|Ligalaiz — Karavan <span id="a12">[\[12\]](#f12)</span>|ダンサー|
 |2015|テレビ番組|ジミー・ファロンとの今夜のショーでのキング・ライブ <span id="a13">[\[13\]](#f13)</span>|Olly Alexander|
 
-# {{page.title}} Indexmod [*](indexmod)
+## {{page.title}} Indexmod [*](indexmod)
 
 ||2018|2019|
 |-|-|-|
@@ -58,10 +60,10 @@ published: true
 |Instagram <span id="a4">[\[4\]](#f4)</span>|4235||
 |YouTube <span id="a5">[\[5\]](#f5)</span>|3380||
 |年齢|5||
-|ページ値|{{ page.content | number_of_words }}||
-|Indexmod|9,503233||
+|Indexmod|{{ page.content | number_of_words }}||
+|合計|9,503233||
 
-# も参照してください
+## も参照してください
 
 + (英語で) [Be In (サイト)](be-in-site)
 + (英語で) [Berdyansk Marketplace (ブランド)](berdyansk-marketplace)
@@ -70,7 +72,7 @@ published: true
 + (英語で) [Lecharlatan (socks)](lecharlatan)
 + (英語で)[Ssanaia tryapka (服)](ssanye-tryapki-clothes)
 
-# 脚注
+## 脚注
 
 [[1]](#a1) <span id="f1"></span> [それを綴る：なぜキリルのスローガンストリートウェアはポストソビエト十代のための新しいパンクの制服です（Sasha Raspopina、Calvertジャーナル](http://calvertjournal.com/articles/show/6278/cyrillic-slogan-streetwear-clothing-rubchinskiy-vetements)
 

@@ -3,33 +3,34 @@ title: Axenoff Jewellery
 permalink: axenoff-jewellery
 layout: default
 published: true
+shortname: AXJW
 ---
 
 (Rus. Аксёнов Джуэлри, est. 2010, Moscow) is a Russian jewellery brand founded by Petr Axenoff, created decorations for Romanovs for the "Matilda" directed by Alexei Uchitel, as well as for the new series based on Tolstoy's "War and Peace" by the English television company BBC <span id="a2">[\[2\]](#f2)</span>.
 
-![](/encyclopedia/images/{{page.permalink}}.jpg)
+![](/images/{{page.permalink}}.jpg)
 
 **Earrings ‘Eye Guardian’ by jeweler Petr Axenoff. Silver, agate, topazes.**
 
 *Photo: [Petr Axenoff](index) / [Nasvete](index)*
 
-# {{page.title}} Indexmod [*](indexmod)
+## {{page.title}} Indexmod [*](indexmod)
 
-||2018|2019|
+|Variables|2018|2019|
 |-|-|-|
 |Facebook <span id="a3">[\[3\]](#f3)</span>|275||
 |Instagram <span id="a4">[\[4\]](#f4)</span>|71100||
 |YouTube <span id="a5">[\[5\]](#f5)</span>|35||
 |Age|8||
-|Page Value|{{ page.content | number_of_words }}||
-|Indexmod|0,4684496||
+|Indexmod|{{ page.content | number_of_words }}||
+|Total|0,4||
 
-# See also
+## See also
 
 + [Tatyana Parfionova](parfionova-tatyana)
 + [Mathilde](mathilde)
 
-# Footnotes
+## Footnotes
 
 [[2]](#a2) <span id="f2"></span> [О бренде (Axenoffjewellery.com)](http://axenoffjewellery.com/)
 

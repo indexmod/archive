@@ -3,11 +3,12 @@ title: 'O''Leary, Sophie'
 permalink: o-leary-sophie
 layout: default
 published: true
+shortname: OLSO
 ---
 
 (Aka Sophichka, born. 1973, Hampshire) is an UK British artist, founder of “Sophie O'Leary Art", The Curator at Indexmod Encyclopedia in London, living and working in London <span id="a1">[\[1\]](#f1)</span>.
 
-![](/encyclopedia/images/sophie.png)
+![](/images/o-leary-sophie.jpg)
 
 **Sophie in 1978 in Farnham, Surrey; Sophie in 2014 at Avebury, Wiltshire; Laser and Bubble, Linocut, 2015; Morley Gallery, Lambeth, London. Summer 2015**
 
@@ -18,13 +19,6 @@ published: true
 |Year|Place|
 |-|-|
 |2015|Exibit in Columbia <span id="a2">[\[2\]](#f2)</span>|
-
-
-# {{page.title}} Indexmod
-
-|Year|Facebook|Instagram|YouTube|Age|Indexmod|
-|-|-|-|-|-|
-|2018|100 <span id="a3">[\[3\]](#f3)</span>|200 <span id="a4">[\[4\]](#f4)</span>|300 <span id="a4">[\[4\]](#f4)</span>|12|0,0025|
 
 
 # See also
@@ -45,5 +39,3 @@ published: true
 [[4]](#a4) <span id="f4"></span> [{{page.title}} (Instagram)](index)
 
 [[5]](#a5) <span id="f5"></span> [{{page.title}} (YouTube)](index)
-
-`Updated Mar. 2018 (Andrei Dei)`

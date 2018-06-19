@@ -1,47 +1,74 @@
 ---
-title: Nemchenkova, Valentina
+title: 'Nemchenkova, Valentina'
 permalink: nemchenkova-valentina
 layout: default
+shortname: NEVA
+indexmod: Indexmod
+birth: '1983'
+age: '35'
+updateyear: '2018'
+city: Sverdlovsk
+facebook: '2916'
+instagram: '2680'
+youtube: '0,0'
+vimeo: '0,0'
+soundcloud: '180'
 published: true
 ---
 
-# {{page.title}}
+(Rus. Валентина Немченкова, born {{ page.birth }}, {{ page.city }}) is a Russian costume designer <span id="a1">[\[1\]](#f1)</span>, model <span id="a2">[\[2\]](#f2)</span>, stylist <span id="a3">[\[3\]](#f3)</span> and DJ <span id="a4">[\[4\]](#f4)</span>. Living and working in Moscow.
 
-(Est. 2013, city) is a --------- <span id="a1">[\[1\]](#f1)</span>.
+![(Image correspondent to the article of “{{ page.title }}”. To see an image try another browser!)]({{ site.url }}/images/{{ page.permalink }}.jpg)
 
-![](/encyclopedia/images/image-name.jpg)
+**Valentina Nemchenkova by Rachel Chandler Guinness for Midland Agency at China Town, Manhattan, New York City**
 
-**Image title**
+*Photo: [Rachel Chandler Guinness](guinness-rachel-chandler) / [Facebook](https://www.facebook.com/photo.php?fbid=10211530962375381&set=a.1644315753467.84893.1404071175&type=3&theater)*
 
-*Photo: [Name](index) / [Source](index)*
-
-# {{page.title}} Expositions
-Biorobots (2014), Antimuseum
-Dancing in St. Petersburg (2015),  Antimuseum
-La Primavera, Spring, Весна (2014), Antimuseum
+## Conspectus  
 
 |Year|City|
 |-|-|
-|2017|Moscow|
+|2003|Chanel catwalks|
+|2017|Ritz Carlton Moscow DJ sets|
 
-# {{page.title}} Indexmod
+## Marriage and family  
 
-|Year|Facebook|Instagram|YouTube|Age|Indexmod|
-|-|-|-|-|-|
-|2018|000 <span id="a3">[\[3\]](#f3)</span>|000 <span id="a4">[\[4\]](#f4)</span>|000 <span id="a5">[\[5\]](#f5)</span>|00|0,0000|
+|Year|Name, relation|
+|-|-|
+|1999-2000|Eugeny Nemchinov (Smyslovye galutsinatsii), husband|
 
+## Indexmod [*](indexmod)
 
-# See also
+|Variables|2018|2019|
+|-|-|-|
+|YouTube <span id="a5">[\[5\]](#f5)</span>|{{ page.youtube }}||
+|Soundcloud <span id="a6">[\[6\]](#f6)</span>|{{ page.soundcloud }}||
+|Facebook <span id="a7">[\[7\]](#f7)</span>|{{ page.facebook }}||
+|Instagram <span id="a8">[\[8\]](#f8)</span>|{{ page.instagram }}||
+|Age|{{ page.age }}||
+|Indexmod|{{ page.content | number_of_words }}||
+|Total|{{ page.indexmod }}||
 
-+ [About {{page.title}}](index)
-+ [{{page.title}} at Wikipedia](index)
+## See also
 
-# Footnotes
++ [Vitali Kozak](kozak-vitali)
++ [Denis Simachev](simachev-denis)
++ [Anna Yaroshenko](yaroshenko-anna)
 
-[[3]](#a3) <span id="f3"></span> [{{page.title}} (Facebook)](index)
+## Footnotes
 
-[[4]](#a4) <span id="f4"></span> [{{page.title}} (Instagram)](index)
+[[1]](#a1) <span id="f1"></span> [Moscow based costume designer Valentina Nemchenkova (Yooying.com)](https://www.yooying.com/valentina.nemchenkova)
 
-[[5]](#a5) <span id="f5"></span> [{{page.title}} (YouTube)](index)
+[[2]](#a2) <span id="f2"></span> [Valentina Nemchenkova (Midland)](http://midland.agency/)
 
-`Updated Mar. 2018 (Andrei Dei)`
+[[3]](#a3) <span id="f3"></span> [Soviet Souls by Anastasia Ivanova (Nasty Magazine)](http://www.nastymagazine.com/fashion/soviet-souls-by-anastasia-ivanova/)
+
+[[4]](#a4) <span id="f4"></span> [Valentina Nemchenkova at Скотный двор, СПб (Party Beep)](https://www.facebook.com/valentina.nemchenkova)
+
+[[5]](#a5) <span id="f5"></span> [{{page.title}} (YouTube)](https://www.youtube.com/channel/UC6M17lpY_HsrWdlHsZlYOpw)
+
+[[6]](#a6) <span id="f6"></span> [Santa Valentina (Sound Cloud)](https://soundcloud.com/santavalentina)
+
+[[7]](#a7) <span id="f7"></span> [{{page.title}} (Facebook)](https://www.facebook.com/valentina.nemchenkova)
+
+[[8]](#a8) <span id="f8"></span> [{{page.title}} (Instagram)](https://www.instagram.com/valentina.nemchenkova/?hl=en)

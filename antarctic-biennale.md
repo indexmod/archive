@@ -3,66 +3,46 @@ title: Antarctic Biennale
 permalink: antarctic-biennale
 layout: default
 published: true
+shortname: ATBN
 ---
+(Rus. Первая антарктическая биенале, est. {{ page.birth }}, {{ page.city }}) is a initiated by curator Nadim Samman and Russian artist Alexander Ponomarev at the 14th Venice Architecture Biennale (June 7 November 23, 2014) where was first presented pavilion of Antarctica <span id="a1">[\[1\]](#f1)</span>.
 
-(Est. 2013, city) Antarctic Biennale (Rus. Первая антарктическая биенале)—initiated by curator Nadim Samman1 and Russian artist Alexander Ponomarev2 at the 14th Venice Architecture Biennale (June 7—November 23, 2014) where was first presented pavilion of Antarctica. <span id="a1">[\[1\]](#f1)</span>, description-two <span id="a2">[\[2\]](#f2).
+![(Image correspondent to the article of “{{ page.title }}”. To see an image try another browser!)]({{ site.url }}/images/{{ page.permalink }}.jpg)
 
-![](/images/image-name.jpg)
+**The Arctic Poppy Orangery in Antarctica**
 
-*Image caption*
+*Photo: [Alexy Kozyr](index) / [Art Radar](index)*
 
-“The Arctic Poppy Orangery in Antarctica”
-Photo: Alexy Kozyr / Art Radar
+## {{page.title}} conspectus
 
-*Photo: [Photographer name](http://example.net/) / [Source name](http://example.net/)*
+|Year|City|
+|-|-|
+|2017|Moscow|
 
-# XXX Indexmod
+## {{page.title}} Indexmod [*](indexmod)
 
-|Year|Facebook|Instagram|Age|XXX|
-|-|-|-|-|-|
-|2018|ХХ <span id="a3">[\[3\]](#f3)</span>||ХХ <span id="a4">[\[4\]](#f4)</span>|Х,ХХ|
-|2019|||ХХ||
+|Variables|2018|2019|
+|-|-|-|
+|Facebook <span id="a3">[\[3\]](#f3)</span>|{{ page.facebook }}||
+|Instagram <span id="a4">[\[4\]](#f4)</span>|{{ page.instagram }}||
+|YouTube <span id="a5">[\[5\]](#f5)</span>|{{ page.youtube }}||
+|Twitter <span id="a6">[\[6\]](#f6)</span>|{{ page.twitter }}||
+|Age|{{ page.age }}||
+|Indexmod|{{ page.content | number_of_words }}||
+|Total|{{ page.indexmod }}||
 
-# See also update in Feb. 2018
+## See also
 
-+ [Ilia Varegin](varegin-ilia)
-+ [Vetements](vetements)
-+ [Vemina](vemina)
-+ [Romanyuk Lisa](romanyuk-lisa)
-+ [Raare Fashion Days](raare-fashion-days)
-+ [Nina Donis](nina-donis)
-+ [Moscow Fashion House Slava Zaitsev](moscow-fashion-house-slava-zaitsev)
-+ [Infundibulum](infundibulum)
-+ [Griby](griby)
-+ [Gosha Gazinskaya](gosha-gazinskaya)
-+ [Gazinskaya Vika](gazinskaya-vika)
-+ [Galetsky Moscow](galetsky-moscow)
-+ [Galetsky Anton](galetsky-anton)
-+ [Deinichenko Andrei](deinichenko-andrei)
-+ [Indexmod Encyclopedia](indexmod-encyclopedia)
 + [Antimuseum](antimuseum)
-+ [Antimuseum-2](antimuseum-2)
-+ [Antarctic Biennale](antarctic-biennale)
-+ [APXL](apxl)
 + [Art Athina](art-athina)
-+ [Firm](firm)
 + [Tamkovich Friske Ian](tamkovich-friske-ian)
-+ [Zaitsev Vyacheslav](zaitsev-vyacheslav)
-+ [Alexander Ponomarev]
-+ [Nadim Samman]
-+ [Basel]
-+ [Ikona Mag]
-+ [São Paulo Art Biennial]
-+ [Street Art Museum of St. PetersburgVenice Architecture Biennale]
 
-# Footnotes
+## Footnotes
 
-`Links update wanted!`
+[[3]](#a3) <span id="f3"></span> [{{page.title}} (Facebook)](index)
 
-[[1]](#a1) <span id="f1"></span> [First floating Antarctic Biennale to be held in 2016 (Author name)](http://example.net/article)
+[[4]](#a4) <span id="f4"></span> [{{page.title}} (Instagram)](index)
 
-[[2]](#a2) <span id="f2"></span> [“Alexander Ponomarev: The exhibition of contemporary art on the frozen continent” (Author name)](http://example.net/article)
+[[5]](#a5) <span id="f5"></span> [{{page.title}} (YouTube)](index)
 
-[[3]](#a3) <span id="f3"></span> [Name (Facebook)](http://example.net/article)
-
-[[4]](#a4) <span id="f4"></span> [Name (Instagram)](http://example.net/article)
+[[6]](#a6) <span id="f6"></span> [{{page.title}} (Twitter)](index)

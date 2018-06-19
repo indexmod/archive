@@ -3,36 +3,43 @@ title: Aberdeen Fashion Week
 permalink: aberdeen-fashion-week
 layout: default
 published: true
+birth: '2013'
+city: Aberdeen
+shortname: ABFW
+indexmod: Indexmod
+age: '5'
 ---
-(Est. 2013, Aberdeen) is a fashion event in Scotland founded by Lydia Cutler, the world’s only platform promoting and showcasing Kids Wear collections, hosted in Aberdeen, once a year in April followed by AFW sponsored fashion show. In 2018 anounced as Aberdeen Fashion & Art Week <span id="a1">[\[1\]](#f1)</span>.
 
-![](/encyclopedia/images/afw-sooz.jpg)
+(Est. {{ page.birth }}, {{ page.city }}) is a fashion event in Scotland founded by Lydia Cutler, the world’s only platform promoting and showcasing Kids Wear collections, hosted in Aberdeen, once a year in April followed by AFW sponsored fashion show. In 2018 anounced as Aberdeen Fashion & Art Week <span id="a1">[\[1\]](#f1)</span>.
+
+![](/images/afw-sooz.jpg)
+
+![(Image correspondent to the article of “{{ page.title }}”. To see an image try another browser!)]({{ site.url }}/images/{{ page.permalink }}.jpg)
 
 **Sooz / Candy Belle Vintiques Festive Frolics <br> at St Mark's Church**
 
 *Photo: [Aberdeen Street Fashion](aberdeen-street-fashion.md) / [Blogspot](blogspot.md)*
 
-# Conspectus
+## Conspectus
 
 |Year|Milestone|
-|----|---------|
+|-|-|
 |2013|Founded by Lydia Cutler|
 |2018|Transforming to Aberdeen Fashion & Art Week|
 
 
-# {{page.title}} Indexmod [*](indexmod)
+## {{page.title}} Indexmod [*](indexmod)
 
 ||2018|2019|
 |-|-|-|
-|Facebook <span id="a3">[\[3\]](#f3)</span>|000||
-|Instagram <span id="a4">[\[4\]](#f4)</span>|000||
-|YouTube <span id="a5">[\[5\]](#f5)</span>|000||
-|Age|000|000|
-|Page Value|{{ page.content | number_of_words }}||
-|Indexmod|0,0000||
+|Facebook <span id="a3">[\[3\]](#f3)</span>|||
+|Instagram <span id="a4">[\[4\]](#f4)</span>|||
+|YouTube <span id="a5">[\[5\]](#f5)</span>|||
+|Age|{{page.age}}||
+|Indexmod|{{ page.content | number_of_words }}||
+|Total|0,0||
 
-
-# See also
+## See also
 
 + [Andrei Abolenkin](abolenkin-andrei)
 + [Copthorne Hotel Aberdeen](copthorne-hotel-aberdeen)
@@ -40,6 +47,6 @@ published: true
 + [London Fashion Week](london-fashion-week)
 + [London](london)
 
-# Footnotes
+## Footnotes
 
 [[1]](#a1) <span id="f1"></span> [Facebook event Aberdeen Fashion & Art Week (AFAW)](index)

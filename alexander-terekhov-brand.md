@@ -2,6 +2,7 @@
 title: Alexander Terekhov (brand)
 permalink: alexander-terekhov-brand
 layout: default
+shortname: ALTR
 ---
 
 (est. 2012, Moscow) is brand founded by Russian designer Alexander Terekhov <span id="a1">[\[1\]](#f1)</span>, description-two <span id="a2">[\[2\]](#f2)</span> description-3 <span id="a3">[\[3\]](#f3)</span>, extra text.
