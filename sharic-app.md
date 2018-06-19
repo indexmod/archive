@@ -22,9 +22,17 @@ founder: Niyaz Karim
 
 ![(Image correspondent to the article of “{{ page.title }}”. To see an image try another browser!)]({{ site.url }}/images/{{ page.permalink }}.jpg)
 
-**Sharik prototype of the 2011**
+**Sharik app frontpage prototype of the 2012**
 
 *Photo: [Niyaz Karim](index) / [Facebook](index)*
+
+## Сonspectus
+
+|Year|Staus|
+|-|-|
+|2012|Established and represented|
+|2014|Suspended|
+|2018|Redbranding|
 
 ## See also
 
