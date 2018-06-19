@@ -32,10 +32,10 @@ founder: Niyaz Karim
 |-|-|
 |2012|Established and represented|
 |2014|Suspended|
-|2018|Re-branding|
+|2018|Redbranding|
 
 ## See also
 
 + [Niyaz Karim](karim-niyaz)
-+ [Lastik-studio](lastik-studio)
++ [Lastik studio](lastik-studio)
 + [Saturn-radio](saturn-radio)
