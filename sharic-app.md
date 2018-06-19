@@ -29,5 +29,3 @@ founder: Niyaz Karim
 ## See also
 
 + [Karim, Niyaz](karim-niyaz)
-
-
