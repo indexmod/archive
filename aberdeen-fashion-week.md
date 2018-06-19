@@ -14,6 +14,8 @@ age: '5'
 
 ![](/images/afw-sooz.jpg)
 
+![(Image correspondent to the article of “{{ page.title }}”. To see an image try another browser!)]({{ site.url }}/images/{{ page.permalink }}.jpg)
+
 **Sooz / Candy Belle Vintiques Festive Frolics <br> at St Mark's Church**
 
 *Photo: [Aberdeen Street Fashion](aberdeen-street-fashion.md) / [Blogspot](blogspot.md)*
