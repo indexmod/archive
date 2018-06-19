@@ -32,7 +32,7 @@ founder: Niyaz Karim
 |-|-|
 |2012|Established and represented|
 |2014|Suspended|
-|2018|Red-randing|
+|2018|Re-branding|
 
 ## See also
 
