@@ -1,8 +1,9 @@
 ---
 title: Cannes-Nice Fashion Week
 permalink: cannes-nice-fashion-week
-position:
+position: null
 layout: default
+published: true
 ---
 
 # Cannes-Nice Fashion Week
