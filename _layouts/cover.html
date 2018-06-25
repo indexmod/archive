@@ -23,13 +23,23 @@
 	<meta content="/ms-icon-144x144.png" name="msapplication-TileImage">
 	<meta content="#ffffff" name="theme-color">
 	<meta name="yandex-verification" content="20004fe24d47ca4d" />
-	<meta property="fb:app_id" content="173711889938607" />
 
 	<style>
 	@import url('https://fonts.googleapis.com/css?family=Old+Standard+TT');
 	</style>
 	<meta content="bd6cadbefee34d7e" name="yandex-verification">
 	<title>{{ site.title }}</title>
+	
+	<!-- Indexmod blockchainpedia browser and facebook presentation -->
+
+	<meta content="{{page.title}} | {{page.shortname}} ({{ page.content | number_of_words }})" property="og:title">
+	<meta content="{{site.url}}/images/{{page.permalink}}.jpg" property="og:image">
+	<meta content="Indexmod" property="og:site_name">
+	<meta content="Indexmod is a fashion and art blockchainpedia. Updated on {{ site.time | date_to_long_string }}. This is an article of the “{{page.title}}” at {{site.title}}" property="og:description">
+	<meta property="fb:app_id" content="173711889938607" />
+
+
+	<!-- Indexmod blockchainpedia browser and facebook presentation -->
 </head>
 <body>
 	{% seo %}
