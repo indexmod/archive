@@ -2,7 +2,7 @@
 title: 'Bazhenov, Alexey'
 permalink: bazhenov-alexey
 layout: default
-shortname: BAAL
+shortname: BAZHENOV
 indexmod: Indexmod
 birth: 19XX
 age: XX
