@@ -2,7 +2,7 @@
 title: Be In Open
 permalink: be-in-open
 layout: default
-shortname: BIOP
+shortname: BEINOPEN
 indexmod: Indexmod
 birth: '2015'
 age: '3'
