@@ -54,7 +54,7 @@ founder: Alexey Bazhenov
 
 ## Footnotes
 
-[[1]](#a1) <span id="f1"></span> [Чего ждать от форума новой модной индустрии BE IN OPEN? (Sobaka)](http://www.sobaka.ru/fashion/heroes/58078)
+[[1]](#a1) <span id="f1"></span> [Чего ждать от форума новой модной индустрии Be In Open? (Sobaka)](http://www.sobaka.ru/fashion/heroes/58078)
 
 [[2]](#a2) <span id="f2"></span> [Алексей Баженов, основатель Be-in.ru: «Мы уже скопировали все, что можно, и теперь начинаем искать самобытность» (New Retail)](http://www.sobaka.ru/fashion/heroes/58078)
 
