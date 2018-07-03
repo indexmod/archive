@@ -22,18 +22,18 @@ founder: Alexey Bazhenov
 
 ![(Image correspondent to the article of “{{ page.title }}”. To see an image try another browser!)]({{ site.url }}/images/{{ page.permalink }}.jpg)
 
-**Be In Open 2017**
+**Be In Open 2017 in Moscow**
 
 *Photo: [Youlia Kalmykova](index) / [District-f.org](https://district-f.org/2017/06/07/be-in-open-2017/)*
 
 ## Сonspectus
 
 |Year|Location|City|
-|-|-|http://stieglitz.academy/
-|2015|Stieglitz Academy|
-|2016||
-|2017|Хлебозавод №9|
-|2018 <span id="a2">[\[2\]](#f2)</span>|Хлебозавод №9|
+|-|-|-|
+|2015|Stieglitz Academy|Saint Petersburg|
+|2016|Stieglitz Academy|Saint Petersburg|
+|2017|Хлебозавод №9|Moscow
+|2018 <span id="a2">[\[2\]](#f2)</span>|Хлебозавод №9|Moscow|
 
 ## Indexmod [*](indexmod)
 
