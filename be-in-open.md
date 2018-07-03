@@ -28,8 +28,9 @@ founder: Alexey Bazhenov
 
 ## Сonspectus
 
-|Year|Location|
-|-|-|
+|Year|Location|City|
+|-|-|http://stieglitz.academy/
+|2015|Stieglitz Academy|
 |2016||
 |2017|Хлебозавод №9|
 |2018 <span id="a2">[\[2\]](#f2)</span>|Хлебозавод №9|
