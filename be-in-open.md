@@ -3,7 +3,7 @@ title: Be In Open
 permalink: be-in-open
 layout: default
 shortname: BEINOPEN
-indexmod: Indexmod
+indexmod: '7,1'
 birth: '2015'
 age: '3'
 updateyear: '2018'
