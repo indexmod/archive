@@ -31,7 +31,7 @@ founder: Alexey Bazhenov
 |Year|Location|City|
 |-|-|-|
 |2015|Stieglitz Academy|Saint Petersburg|
-|2016|Stieglitz Academy|Saint Petersburg|
+|2016|ZIL|Moscow|
 |2017|Хлебозавод №9|Moscow
 |2018|Хлебозавод №9|Moscow <span id="a2">[\[2\]](#f2)</span>|
 
