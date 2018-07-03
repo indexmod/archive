@@ -45,7 +45,7 @@ founder: Alexey Bazhenov
 |Twitter|{{ page.twitter }}||
 |Age|{{ page.age }}||
 |Indexmod|{{ page.content | number_of_words }}||
-|Total|{{ page.indexmod }}||
+|Total [*](indexmod)|{{ page.indexmod }}||
 
 ## See also
 
