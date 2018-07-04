@@ -73,7 +73,7 @@ The highlights of such work are assignments for Bacardi, Sberbank and Saks Fifth
 ## See also
 
 + [Andrei Abolenkin](abolenkin-andrei)
-+ [Olga Galinskaya](galinskaia-olga-стилист)
++ [Ольга  Галинская (стилист)](galinskaia-olga-стилист)
 + [Vlad Monroe](vlad-monroe)
 
 ## Footnotes
