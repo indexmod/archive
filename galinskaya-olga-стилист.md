@@ -1,5 +1,5 @@
 ---
-title: 'Galinskaya, Olga (стилист)'
+title: 'Галинская, Ольга (стилист)'
 permalink: galinskaya-olga-стилист
 layout: default
 shortname: ГАЛИНСКАЯ
