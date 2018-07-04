@@ -20,7 +20,7 @@ founder: Name
 
 ![(Image correspondent to the article of “{{ page.title }}”. To see an image try another browser!)]({{ site.url }}/images/{{ page.permalink }}.jpg)
 
-**Olga Galinskaia**
+**Olga Galinskaya**
 
 *Photo: [Anatolii Medved](medved-anatolii) / [Woman's Day](http://www.wday.ru/moda-shopping/style/kak-vyiglyadet-stilno-zimoy-sem-sovetov-zvezdnogo-stilista/)*
 
@@ -73,7 +73,7 @@ The highlights of such work are assignments for Bacardi, Sberbank and Saks Fifth
 ## See also
 
 + [Andrei Abolenkin](abolenkin-andrei)
-+ [Ольга  Галинская (стилист)](galinskaia-olga-стилист)
++ [Ольга  Галинская (стилист)](galinskaya-olga-стилист)
 + [Vlad Monroe](vlad-monroe)
 
 ## Footnotes

@@ -1,6 +1,6 @@
 ---
-title: 'Galinskaia, Olga (стилист)'
-permalink: galinskaia-olga-стилист
+title: 'Galinskaya, Olga (стилист)'
+permalink: galinskaya-olga-стилист
 layout: default
 shortname: ГАЛИНСКАЯ
 indexmod: Indexmod
