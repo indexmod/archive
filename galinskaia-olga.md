@@ -2,13 +2,23 @@
 title: 'Galinskaia, Olga'
 permalink: galinskaia-olga
 layout: default
-published: true
-shortname: GAOL
+shortname: GALINSKAIA
+indexmod: Indexmod
+birth: '1973'
+age: '45'
+updateyear: '2018'
+city: Temirtau
+facebook: '0,0'
+instagram: '0,0'
+youtube: '0,0'
+vimeo: '0,0'
+twitter: '0,0'
+tumblr: '0,0'
+founder: Name
 ---
+(Rus. Ольга Галинская, born {{ page.birth }}, {{ page.city }}) Russian artist of film costume, stylists, image consultant living and working in Moscow <span id="a1">[\[1\]](#f1)</span>.
 
-(Rus. Ольга Галинская, born 1973, Temirtau) Russian artist of film costume, stylists, image consultant living and working in Moscow.
-
-![](http://n1s2.hsmedia.ru/57/2e/6e/572e6e8090d11b50b244d80bb2e90130/660x441_1_424da837200d57f9906dee18bf9c3714@785x525_0xc0a839a2_825769041477674984.jpeg)
+![(Image correspondent to the article of “{{ page.title }}”. To see an image try another browser!)]({{ site.url }}/images/{{ page.permalink }}.jpg)
 
 **Olga Galinskaia**
 
@@ -19,7 +29,7 @@ shortname: GAOL
 Olga began her career as a stylist in the 2001 Condé Nast stylist for GQ, AD, Vogue, Glamour, Gala, as well as Afisha Mir Magazine. Then in 2005 continued to improve the profession as leading stylist on NTV Channel and projects at ShanDesign, and as Chief Stylist on “Home” Channel in Moscow <span id="a1">[\[1\]](#f1)</span>. In 2005, Olga expended into TV working as the in-house stylist for 20 shows including top-ranked shows and talk shows dedicated to fashion with national channels. Her responsibilities included working with fashion related content, styling shows hosts and characters. The highlights of such work are styling of Russian editions of international formats What Not To Wear and Next Top-Model. At the same period Olga worked at creating costumes concepts for advertising shoots and music videos, look books and fashion performances.
 
 
-![](https://i.ytimg.com/vi/uezoSg6QpvE/hqdefault.jpg)
+![(Image correspondent to the article of “{{ page.title }}”. To see an image try another browser!)]({{ site.url }}/images/{{ page.permalink }}-1.jpg)
 
 **Still cover of the interview with Olga Galinskaia (YouTube)**
 
