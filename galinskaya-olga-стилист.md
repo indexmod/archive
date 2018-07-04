@@ -3,11 +3,11 @@ title: 'Галинская, Ольга (стилист)'
 permalink: galinskaya-olga-стилист
 layout: default
 shortname: ГАЛИНСКАЯ
-indexmod: Indexmod
+indexmod: ...
 birth: '1973'
 age: '45'
 updateyear: '2018'
-city: Temirtau
+city: Темиртау
 facebook: '1034'
 instagram: '0,0'
 youtube: '0,0'
@@ -15,6 +15,7 @@ vimeo: '0,0'
 twitter: '0,0'
 tumblr: '0,0'
 founder: Name
+published: true
 ---
 
 (Англ. Olga Galinskaya, род. {{ page.birth }}, {{ page.city }}) российский художник по костюмам в кино, стилист, консультант по имиджу, живёт и работает в Москве <span id="a1">[\[1\]](#f1)</span>.
