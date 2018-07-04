@@ -80,6 +80,6 @@ The highlights of such work are assignments for Bacardi, Sberbank and Saks Fifth
 
 [[1]](#a1) <span id="f1"></span> [Как выглядеть стильно зимой: семь советов звездного стилиста (Woman's Day)](http://www.wday.ru/moda-shopping/style/kak-vyiglyadet-stilno-zimoy-sem-sovetov-zvezdnogo-stilista/)
 
-[[3]](#a3) <span id="f3"></span> [{{page.title}} (Facebook)](index)
+[[3]](#a3) <span id="f3"></span> [{{page.title}} (Facebook)](https://www.facebook.com/ogalinskaya)
 
 [[4]](#a4) <span id="f4"></span> [{{page.title}} (Instagram)](https://www.instagram.com/galinskaya/)
