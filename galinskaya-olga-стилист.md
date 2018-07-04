@@ -9,7 +9,7 @@ age: '45'
 updateyear: '2018'
 city: Темиртау
 facebook: '1034'
-instagram: '0,0'
+instagram: '809'
 youtube: '0,0'
 vimeo: '0,0'
 twitter: '0,0'
