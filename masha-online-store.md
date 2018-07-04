@@ -18,7 +18,7 @@ published: true
 founder: Masha
 ---
 
-(Rus. Маша Москва м. Парк Победы, est. {{ page.birth }}, {{ page.city }}) is a book and fashion items store in Russia founded by {{ page.founder }} based on classified advertisements website with sections devoted to general good for sale, jobs, real estate, personals, cars for sale, and services <span id="a1">[\[1\]](#f1)</span>. At the present there is 59 new and 37 closed positions at Masha's account <span id="a2">[\[2\]](#f2)</span>.
+(Rus. Маша, est. {{ page.birth }}, {{ page.city }}) is a book and fashion items store in Russia founded by {{ page.founder }} based on classified advertisements website with sections devoted to general good for sale, jobs, real estate, personals, cars for sale, and services <span id="a1">[\[1\]](#f1)</span>. At the present there are 59 new and 37 closed items at Masha's account <span id="a2">[\[2\]](#f2)</span>.
 
 ![(Image correspondent to the article of “{{ page.title }}”. To see an image try another browser!)]({{ site.url }}/images/{{ page.permalink }}.jpg)
 
