@@ -15,9 +15,10 @@ vimeo: '0,0'
 twitter: '1'
 vkontakte: '6152'
 founder: Yuliya Chernoivan
+published: true
 ---
 
-(Est. {{ page.birth }}, {{ page.city }}) is a Russian glossy magazine founded by {{ page.founder }} supporten many sashion and selebrity events in Moscow <span id="a1">[\[1\]](#f1)</span>.
+(Est. {{ page.birth }}, {{ page.city }}) is a Russian glossy magazine founded by {{ page.founder }} supporten many sashion and selebrity events in Moscow <span id="a1">[\[1\]](#f1)</span>, and registered with headquarters at Mahé island of Republic of Seychelles.
 
 ![(Image correspondent to the article of “{{ page.title }}”. To see an image try another browser!)]({{ site.url }}/images/{{ page.permalink }}.jpg)
 
