@@ -33,7 +33,6 @@ published: true
 |Editor-In-Chief|Beatris Malakhova|
 |Publisher|Yuliya Chernoivan|
 |Kids Fashion Editor|Christina Sobyanina|
-|2017|Moscow|
 
 
 ## Indexmod [*](indexmod)
