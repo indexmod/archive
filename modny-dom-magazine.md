@@ -17,13 +17,13 @@ vkontakte: '6152'
 founder: Yuliya Chernoivan
 ---
 
-(Est. {{ page.birth }}, {{ page.city }}) is a ---  <span id="a1">[\[1\]](#f1)</span>.
+(Est. {{ page.birth }}, {{ page.city }}) is a Russian glossy magazine founded by {{ page.founder }} supporten many sashion and selebrity events in Moscow <span id="a1">[\[1\]](#f1)</span>.
 
 ![(Image correspondent to the article of “{{ page.title }}”. To see an image try another browser!)]({{ site.url }}/images/{{ page.permalink }}.jpg)
 
 **Editor-In-Chief Beatris Malakhova**
 
-*Photo: [Not specified](index) / [Source](index)*
+*Photo: [Not specified](index) / [M-dom.info](http://m-dom.info/redaktsiya/item/371-beatris-malakhova)*
 
 ## Editorial
 
