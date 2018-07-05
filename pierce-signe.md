@@ -21,16 +21,14 @@ founder: Name
 
 ![(Image correspondent to the article of “{{ page.title }}”. To see an image try another browser!)]({{ site.url }}/images/{{ page.permalink }}.jpg)
 
+**A fragment of American Reflexxx**
+
+*Photo: [Dir. Alli Coates](index) / [Tumblr](http://allicoates.tumblr.com/)*
+
 
 ## American Reflexxx 
 
 Signe Pierce rose with the 2014 short film, American Reflexxx, in collaboration with director Alli Coates. The film shows masked and portraying a hyper-sexualized personage, becoming an object of derision and then attacked.
-
-![(Image correspondent to the article of “{{ page.title }}”. To see an image try another browser!)]({{ site.url }}/images/{{ page.permalink }}.jpg)
-
-**A fragment of American Reflexxx**
-
-*Photo: [Dir. Alli Coates](index) / [Tumblr](http://allicoates.tumblr.com/)*
 
 ## Indexmod [*](indexmod)
 
