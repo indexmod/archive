@@ -15,9 +15,10 @@ vimeo: '0,0'
 twitter: '1'
 vkontakte: '6152'
 founder: Yuliya Chernoivan
+published: true
 ---
 
-(Est. {{ page.birth }}, {{ page.city }}) is a Russian glossy magazine founded by {{ page.founder }} supporten many sashion and selebrity events in Moscow <span id="a1">[\[1\]](#f1)</span>.
+(Est. {{ page.birth }}, {{ page.city }}) is a Russian glossy magazine founded by {{ page.founder }} supporten many sashion and selebrity events in Moscow <span id="a1">[\[1\]](#f1)</span>, and registered as "Orange-Sky Ltd." <span id="a2">[\[2\]](#f2)</span> with headquarters at Mahé island of Republic of Seychelles.
 
 ![(Image correspondent to the article of “{{ page.title }}”. To see an image try another browser!)]({{ site.url }}/images/{{ page.permalink }}.jpg)
 
@@ -32,7 +33,6 @@ founder: Yuliya Chernoivan
 |Editor-In-Chief|Beatris Malakhova|
 |Publisher|Yuliya Chernoivan|
 |Kids Fashion Editor|Christina Sobyanina|
-|2017|Moscow|
 
 
 ## Indexmod [*](indexmod)
@@ -53,12 +53,14 @@ founder: Yuliya Chernoivan
 
 ## Footnotes
 
-[[1]](#a1) <span id="f1"></span> [Интервью Беатрис Малаховой (YouTube, "TV Shans")](https://www.youtube.com/watch?v=zyJWSQky7Bg)
+[[1]](#a1) <span id="f1"></span> [Интервью c Беатрис Малаховой (YouTube, "TV Shans")](https://www.youtube.com/watch?v=zyJWSQky7Bg)
 
-[[3]](#a3) <span id="f3"></span> [{{page.title}} (Facebook)](https://www.facebook.com/groups/1689023337815322/about/)
+[[2]](#a2) <span id="f2"></span> [Modny dom / Contact (M-dom.info)](http://m-dom.info/contakt)
 
-[[4]](#a4) <span id="f4"></span> [{{page.title}} (Instagram)](https://www.instagram.com/modny.do/)
+[[3]](#a3) <span id="f3"></span> [Modny dom (Facebook)](https://www.facebook.com/groups/1689023337815322/about/)
 
-[[5]](#a5) <span id="f5"></span> [{{page.title}} (Twitter)](https://twitter.com/MODNY_DOM?lang=ru)
+[[4]](#a4) <span id="f4"></span> [Modny dom (Instagram)](https://www.instagram.com/modny.do/)
 
-[[6]](#a6) <span id="f6"></span> [{{page.title}} (Vkontakte)](index)
+[[5]](#a5) <span id="f5"></span> [Modny dom (Twitter)](https://twitter.com/MODNY_DOM?lang=ru)
+
+[[6]](#a6) <span id="f6"></span> [Modny dom (Vkontakte)](index)
