@@ -32,37 +32,28 @@ Signe Pierce rose with the 2014 short film, American Reflexxx, in collaboration 
 
 *Photo: [Dir. Alli Coates](index) / [Tumblr](http://allicoates.tumblr.com/)*
 
+## Indexmod [*](indexmod)
+
+|Variables|2018|2019|
+|-|-|-|
+|Facebook <span id="a3">[\[3\]](#f3)</span>|{{ page.facebook }}||
+|Instagram <span id="a4">[\[4\]](#f4)</span>|{{ page.instagram }}||
+|YouTube <span id="a5">[\[5\]](#f5)</span>|{{ page.youtube }}||
+|Twitter <span id="a6">[\[6\]](#f6)</span>|{{ page.twitter }}||
+|Age|{{ page.age }}||
+|Indexmod|{{ page.content | number_of_words }}||
+|Total [*](indexmod)|{{ page.indexmod }}||
 
 
+## See also
 
-Photo: Dir. Alli Coates / Tumblr
-*Photo: [Name](index) / [Source](index)*
-
-# {{page.title}} Conspectus
-
-|Year|City|
-|-|-|
-|2017|Moscow|
-
-# {{page.title}} Indexmod
-
-|Year|Facebook|Instagram|YouTube|Age|Indexmod|
-|-|-|-|-|-|
-|2018|000 <span id="a3">[\[3\]](#f3)</span>|000 <span id="a4">[\[4\]](#f4)</span>|000 <span id="a5">[\[5\]](#f5)</span>|00|0,0000|
++ [Corsa Musical Project](index)
++ [Alli Coates](index)
 
 
-# See also
+## Footnotes
 
-+ [About {{page.title}}](index)
-+ [{{page.title}} at Wikipedia](index)
-Corsa Musical Project
-Alli Coates
-Hiding in love
-
-# Footnotes
-
-1, 2 Signe Pierce—From Wikipedia, the free encyclopedia
-3 American Reflexxx / Hiding in love—Corsa 
+[[1, 2]](#a1) <span id="f1"></span> [{{page.title}} (Wikipedia)](index)
 
 [[3]](#a3) <span id="f3"></span> [{{page.title}} (Facebook)](index)
 
