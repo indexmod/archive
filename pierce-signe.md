@@ -5,8 +5,8 @@ layout: default
 published: true
 shortname: PIERCESIGNE
 indexmod: Indexmod
-birth: '2010'
-age: '8'
+birth: '1988'
+age: '30'
 updateyear: '2018'
 city: Tucson
 facebook: '0,0'
@@ -17,7 +17,7 @@ twitter: '0,0'
 tumblr: '0,0'
 founder: Name
 ---
-(Est. {{ page.birth }}, {{ page.city }}) is a is a Signe Kristine Pierce born 1988, Tucson is an American multimedia artist and performer. Pierce studied at the School of Visual Arts in Manhattan, where she received a BFA in Photography with a focus on performance art in 2011. During her time at the School of Visual Arts, Signe interned for Saturday Night Live and the Metropolitan Museum of Art in New York.1 Sign in to edit Signe Pierce   <span id="a1">[\[1\]](#f1)</span>.
+(Born {{ page.birth }}, {{ page.city }}) also Signe Kristine Pierce is an American multimedia artist and performer. Pierce studied at the School of Visual Arts in Manhattan, where she received a BFA in Photography with a focus on performance art in 2011. During her time at the School of Visual Arts, Signe interned for Saturday Night Live and the Metropolitan Museum of Art in New York <span id="a1">[\[1\]](#f1)</span>.
 
 ![(Image correspondent to the article of “{{ page.title }}”. To see an image try another browser!)]({{ site.url }}/images/{{ page.permalink }}.jpg)
 
