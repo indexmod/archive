@@ -55,12 +55,12 @@ published: true
 
 [[1]](#a1) <span id="f1"></span> [Интервью c Беатрис Малаховой (YouTube, "TV Shans")](https://www.youtube.com/watch?v=zyJWSQky7Bg)
 
-[[2]](#a2) <span id="f2"></span> [Modny dom - Contacts (M-dom.info)](http://m-dom.info/contakt)
+[[2]](#a2) <span id="f2"></span> [Modny dom / Contact (M-dom.info)](http://m-dom.info/contakt)
 
-[[3]](#a3) <span id="f3"></span> [{{page.title}} (Facebook)](https://www.facebook.com/groups/1689023337815322/about/)
+[[3]](#a3) <span id="f3"></span> [Modny dom (Facebook)](https://www.facebook.com/groups/1689023337815322/about/)
 
-[[4]](#a4) <span id="f4"></span> [{{page.title}} (Instagram)](https://www.instagram.com/modny.do/)
+[[4]](#a4) <span id="f4"></span> [Modny dom (Instagram)](https://www.instagram.com/modny.do/)
 
-[[5]](#a5) <span id="f5"></span> [{{page.title}} (Twitter)](https://twitter.com/MODNY_DOM?lang=ru)
+[[5]](#a5) <span id="f5"></span> [Modny dom (Twitter)](https://twitter.com/MODNY_DOM?lang=ru)
 
-[[6]](#a6) <span id="f6"></span> [{{page.title}} (Vkontakte)](index)
+[[6]](#a6) <span id="f6"></span> [Modny dom (Vkontakte)](index)
