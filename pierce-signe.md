@@ -17,7 +17,14 @@ twitter: '0,0'
 tumblr: '0,0'
 founder: Name
 ---
-(Est. 2013, city) is a Signe Kristine Pierce born 1988, Tucson is an American multimedia artist and performer. Pierce studied at the School of Visual Arts in Manhattan, where she received a BFA in Photography with a focus on performance art in 2011. During her time at the School of Visual Arts, Signe interned for Saturday Night Live and the Metropolitan Museum of Art in New York.1 Sign in to edit Signe Pierce <span id="a1">[\[1\]](#f1)</span>. American Reflexxx
+(Est. {{ page.birth }}, {{ page.city }}) is a is a Signe Kristine Pierce born 1988, Tucson is an American multimedia artist and performer. Pierce studied at the School of Visual Arts in Manhattan, where she received a BFA in Photography with a focus on performance art in 2011. During her time at the School of Visual Arts, Signe interned for Saturday Night Live and the Metropolitan Museum of Art in New York.1 Sign in to edit Signe Pierce   <span id="a1">[\[1\]](#f1)</span>.
+
+![(Image correspondent to the article of “{{ page.title }}”. To see an image try another browser!)]({{ site.url }}/images/{{ page.permalink }}.jpg)
+
+(Est. 2013, city) is a Signe Kristine Pierce born 1988, Tucson is an American multimedia artist and performer. Pierce studied at the School of Visual Arts in Manhattan, where she received a BFA in Photography with a focus on performance art in 2011. During her time at the School of Visual Arts, Signe interned for Saturday Night Live and the Metropolitan Museum of Art in New York.1 Sign in to edit Signe Pierce <span id="a1">[\[1\]](#f1)</span>. 
+
+## American Reflexxx 
+
 Signe Pierce rose with the 2014 short film, American Reflexxx, in collaboration with director Alli Coates. The film shows masked and portraying a hyper-sexualized personage, becoming an object of derision and then attacked.2
 
 ![](/encyclopedia/images/image-name.jpg)
