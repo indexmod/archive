@@ -254,7 +254,7 @@ Lumpen (agency)~~
 
 `18 March 2018`
 
-Machine of Memories, The (2014)  
+~~Machine of Memories, The (2014)  
 Machine Vision  
 Mademuaselle, Sasha  
 Maksimov, Maksim (designer)  
@@ -283,9 +283,9 @@ Muhadin, Kishev  
 Mukhina, Ekaterina  
 Musaeva, Nazrin Adyl (Marmot)  
 Mutasov, Gennady  
-~~Muzeon Park of Arts~~
+Muzeon Park of Arts~~
 
-~~Panika Derevya (brand)  ~~
+~~Panika Derevya (brand)  
 Paradromnye Sviazi (2015)  
 Parfenova, Tatiana  
 Park, Jene (designer)  
@@ -320,9 +320,9 @@ Prokhorova, Youlia  
 Propaganda (2016)  
 Prudko, Julia  
 Pupis, Donis  
-Putyatin, Roman
+Putyatin, Roman~~
 
-Quoris Art  
+~~Quoris Art  
 R.E.D.  
 R/m Design School  
 Radost Creative Group  
@@ -344,4 +344,4 @@ Ruslan Yusipov  
 Rusmoda  
 Russia Cola  
 Russian Fashion Indexmod RGB Chart  
-Réserve De Beaulieu, La
+Réserve De Beaulieu, La~~
