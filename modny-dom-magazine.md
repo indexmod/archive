@@ -18,7 +18,7 @@ founder: Yuliya Chernoivan
 published: true
 ---
 
-(Est. {{ page.birth }}, {{ page.city }}) is a Russian glossy magazine founded by {{ page.founder }} supporten many sashion and selebrity events in Moscow <span id="a1">[\[1\]](#f1)</span>, and registered with headquarters at Mahé island of Republic of Seychelles.
+(Est. {{ page.birth }}, {{ page.city }}) is a Russian glossy magazine founded by {{ page.founder }} supporten many sashion and selebrity events in Moscow <span id="a1">[\[1\]](#f1)</span>, and registered as "Orange-Sky Ltd." <span id="a2">[\[2\]](#f2)</span> with headquarters at Mahé island of Republic of Seychelles.
 
 ![(Image correspondent to the article of “{{ page.title }}”. To see an image try another browser!)]({{ site.url }}/images/{{ page.permalink }}.jpg)
 
@@ -54,7 +54,9 @@ published: true
 
 ## Footnotes
 
-[[1]](#a1) <span id="f1"></span> [Интервью Беатрис Малаховой (YouTube, "TV Shans")](https://www.youtube.com/watch?v=zyJWSQky7Bg)
+[[1]](#a1) <span id="f1"></span> [Интервью c Беатрис Малаховой (YouTube, "TV Shans")](https://www.youtube.com/watch?v=zyJWSQky7Bg)
+
+[[2]](#a2) <span id="f2"></span> [Modny dom - Contacts (M-dom.info)](http://m-dom.info/contakt)
 
 [[3]](#a3) <span id="f3"></span> [{{page.title}} (Facebook)](https://www.facebook.com/groups/1689023337815322/about/)
 
