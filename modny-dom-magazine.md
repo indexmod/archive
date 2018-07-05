@@ -25,7 +25,7 @@ founder: Yuliya Chernoivan
 
 *Photo: [Not specified](index) / [M-dom.info](http://m-dom.info/redaktsiya/item/371-beatris-malakhova)*
 
-## Editorial
+## Editorial (selection)
 
 |Position|Name|
 |-|-|
@@ -41,8 +41,8 @@ founder: Yuliya Chernoivan
 |-|-|-|
 |Facebook <span id="a3">[\[3\]](#f3)</span>|{{ page.facebook }}||
 |Instagram <span id="a4">[\[4\]](#f4)</span>|{{ page.instagram }}||
-|YouTube <span id="a5">[\[5\]](#f5)</span>|{{ page.youtube }}||
-|Twitter <span id="a6">[\[6\]](#f6)</span>|{{ page.twitter }}||
+|Twitter <span id="a5">[\[5\]](#f5)</span>|{{ page.youtube }}||
+|Vkontakte <span id="a6">[\[6\]](#f6)</span>|{{ page.vkontakte }}||
 |Age|{{ page.age }}||
 |Indexmod|{{ page.content | number_of_words }}||
 |Total [*](indexmod)|{{ page.indexmod }}||
@@ -59,6 +59,6 @@ founder: Yuliya Chernoivan
 
 [[4]](#a4) <span id="f4"></span> [{{page.title}} (Instagram)](https://www.instagram.com/modny.do/)
 
-[[5]](#a5) <span id="f5"></span> [{{page.title}} (YouTube)](index)
+[[5]](#a5) <span id="f5"></span> [{{page.title}} (Twitter)](https://twitter.com/MODNY_DOM?lang=ru)
 
 [[6]](#a6) <span id="f6"></span> [{{page.title}} (Vkontakte)](index)
