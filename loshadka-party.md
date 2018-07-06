@@ -6,9 +6,11 @@ layout: default
 shortname: LPRT
 ---
 
+![(Image correspondent to the article of “{{ page.title }}”. To see an image try another browser)]({{ site.url }}/images/{{ page.permalink }}-2.jpg)
+
 (Рус. Лошадка-пати, еst. 2009, Saint Petersburg) is a series of parties in Moscow, St. Petersburg,  Kiev and Odessa founded by Dmitri Estrin (Дима Эстрин). The event is known for its freak shows, contrast music program and "the loud bring-ups" <span id="a1">[\[1\]](#f1)</span>.
 
-![(Image correspondent to the article of “{{ page.title }}”. To see an image try another browser!)]({{ site.url }}/images/{{ page.permalink }}.jpg)
+![(Image correspondent to the article of “{{ page.title }}”. To see an image try another browser)]({{ site.url }}/images/{{ page.permalink }}.jpg)
 
 **Dmitri Estrin (left), founder of Loshadka Prty at discussion by Be-in.ru in 2010**
 
@@ -22,7 +24,7 @@ shortname: LPRT
 |2017|||
 |2018|Moscow|Squat 3/4 <span id="a2">[\[2\]](#f1)</span>|
 
-![](http://www.sobaka.ru/images/image/00/70/40/41/_normal.jpeg)
+![(Image correspondent to the article of “{{ page.title }}”. To see an image try another browser)]({{ site.url }}/images/{{ page.permalink }}.jpg)
 
 **Bodybuilder Alexander Shpack on a cover of Loshadka Prty 2016 announcement in Central Station Club in Saint Petersburg**
 
