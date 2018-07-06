@@ -21,9 +21,9 @@ founder: Name
 
 ![(Image correspondent to the article of “{{ page.title }}”. To see an image try another browser)]({{ site.url }}/images/{{ page.permalink }}.jpg)
 
-**Image title**
+**Alena Akhmadullina in 2014**
 
-*Photo: [Katerina Alekseeva](index) / [Source](index)*
+*Photo: [Katerina Alekseeva](alekseeva-кaterina) / [Wikipedia](index)*
 
 
 ## Indexmod [*](indexmod)
