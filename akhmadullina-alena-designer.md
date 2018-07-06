@@ -2,8 +2,20 @@
 title: 'Akhmadullina, Alena (designer)'
 permalink: akhmadullina-alena-designer
 layout: default
-shortname: AKHM
+shortname: AKHMADULLINA
 published: true
+indexmod: Indexmod
+birth: '2010'
+age: '8'
+updateyear: '2018'
+city: Moscow
+facebook: '0,0'
+instagram: '0,0'
+youtube: '0,0'
+vimeo: '0,0'
+twitter: '0,0'
+tumblr: '0,0'
+founder: Name
 ---
 (Est. {{ page.birth }}, {{ page.city }}) is a ---  <span id="a1">[\[1\]](#f1)</span>.
 
@@ -11,7 +23,6 @@ published: true
 
 (Rus. Алёна Ахмадуллина, born 1978, Sosnovy Bor) Russian fashion designer, founder of the brand Alena Akhmadullina, participant of various Russian and international competitions in the field of fashion, мember of "Snob" from April 2009 <span id="a1">[\[1\]](#f1)</span>.
 
-![](/encyclopedia/images/{{page.permalink}}.jpg)
 
 **Image title**
 
