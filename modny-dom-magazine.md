@@ -17,13 +17,7 @@ vkontakte: '6152'
 founder: Yuliya Chernoivan
 published: true
 ---
-{% capture words %}
-  {{ content | number_of_words | minus: 180 }}
-{% endcapture %}
-{% unless words contains “-” %}
-  {{ words | plus: 180 | divided_by: 180 | 
-     append: “ minutes to read” }}
-{% endunless %}
+
 
 
 (Est. {{ page.birth }}, {{ page.city }}) is a Russian glossy magazine founded by {{ page.founder }}, acts as an information partner of the event of fashion and secular life in Moscow <span id="a1">[\[1\]](#f1)</span>, and registered as "Orange-Sky Ltd." <span id="a2">[\[2\]](#f2)</span> with headquarters at Mahé island of Republic of Seychelles.
