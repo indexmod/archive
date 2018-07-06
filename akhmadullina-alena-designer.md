@@ -41,8 +41,7 @@ founder: Name
 
 ## See also
 
-+ [About {{page.title}}](index)
-+ [{{page.title}} at Wikipedia](index)
++ [Cirque du Soleil](index)
 
 ## Footnotes
 
