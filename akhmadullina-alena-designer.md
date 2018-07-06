@@ -5,10 +5,10 @@ layout: default
 shortname: AKHMADULLINA
 published: true
 indexmod: Indexmod
-birth: '2010'
-age: '8'
+birth: '1978'
+age: '40'
 updateyear: '2018'
-city: Moscow
+city: Sosnovy Bor
 facebook: '0,0'
 instagram: '0,0'
 youtube: '0,0'
