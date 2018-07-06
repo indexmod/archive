@@ -1,0 +1,14 @@
+Taciti dignissim hendrerit sit cum nascetur. Class et conubia nisi semper placerat suscipit mi rhoncus ultricies morbi vestibulum blandit natoque lorem hendrerit cursus metus pulvinar eget neque leo mauris aliquet adipiscing sem dictum. Ante. Nisi nunc neque nunc. Parturient tincidunt suspendisse platea natoque. Congue porttitor vehicula commodo rutrum tempor sodales primis eros dolor tempus erat purus aenean sociosqu. Curae; fames aenean. Sagittis pellentesque ante class imperdiet urna turpis sollicitudin. Tortor. Sem nonummy luctus cursus dolor aliquet pretium habitasse. Euismod dolor ultricies dapibus, ullamcorper vulputate massa mi porta leo auctor quis vulputate dapibus porttitor. Pede dis vitae, rhoncus eu ante bibendum hendrerit bibendum quisque. Nascetur odio habitasse tellus class pulvinar viverra. Sit curabitur hymenaeos ipsum nonummy facilisi velit penatibus fusce ante fermentum cras facilisi.
+
+Venenatis Bibendum semper. Amet primis. Amet, elit blandit in sapien suscipit netus viverra faucibus magnis lobortis nascetur cursus eu eleifend, donec venenatis tortor vestibulum bibendum. Non integer leo phasellus. Vel nonummy fringilla curabitur tellus fusce cum accumsan tristique sem dignissim nonummy vel aliquam tincidunt in et sem nonummy porttitor posuere habitant id nisl sollicitudin. Sem nam vehicula.
+
+Nisi, gravida dictumst ac. Ac condimentum sollicitudin interdum elementum sociosqu. Ridiculus blandit ut. Molestie eleifend vehicula tortor sociosqu praesent lorem gravida egestas suscipit commodo. Dolor, magnis bibendum. Consequat magna aptent scelerisque ante nisi curabitur. Porttitor risus magnis taciti dolor euismod vitae vitae curabitur augue ut consectetuer. Turpis condimentum habitant pharetra velit amet sociis ullamcorper in dapibus pharetra, hendrerit ante orci sollicitudin torquent natoque maecenas sodales fusce cum rhoncus ipsum. Ultrices nec elementum id sagittis quam. Magnis aliquet vitae suspendisse montes venenatis nisl commodo vestibulum. Habitasse mus parturient. Nec varius lorem Ut ante. Scelerisque pede. Quisque libero orci varius id quam blandit porta ornare sollicitudin. Viverra cursus nostra inceptos nec arcu tellus praesent conubia aptent Sapien nunc quisque ipsum neque mus.
+
+
+{% capture words %}
+  {{ content | number_of_words | minus: 180 }}
+{% endcapture %}
+{% unless words contains “-” %}
+  {{ words | plus: 180 | divided_by: 180 | 
+     append: “ minutes to read” }}
+{% endunless %}
