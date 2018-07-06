@@ -49,6 +49,14 @@ published: true
 |Indexmod|{{ page.content | number_of_words }}||
 |Total [*](indexmod)|{{ page.indexmod }}||
 
+{% capture words %}
+  {{ content | number_of_words | minus: 180 }}
+{% endcapture %}
+{% unless words contains “-” %}
+  {{ words | plus: 180 | divided_by: 180 | 
+     append: “ minutes to read” }}
+{% endunless %}
+
 ## See also
 
 + [Fashion collection (magazine)](fashion-collection-magazine)
