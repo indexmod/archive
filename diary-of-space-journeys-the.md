@@ -3,7 +3,7 @@ title: 'Diary of Space Journeys, The (project)'
 permalink: diary-of-space-journeys-the
 layout: default
 published: true
-shortname: DSPJ
+shortname: DIARYSPACEJOURN
 ---
 
 (Rus. Альбом космических путешествий, 2016, Moscow) an art project by Russian artists Anna Kurbatova, Alia Sadretdinova, Veronika Zlobina <span id="a1">[\[1\]](#f1)</span>.
