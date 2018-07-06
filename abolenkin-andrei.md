@@ -18,7 +18,7 @@ tumblr: '0,0'
 founder: Name
 ---
 
-(Rus. Андрей Аболенкин, {{ page.birth }}, age {{ site.time | date: "%Y" | minus: {{ page.birth }}, {{ page.city }}) is a Russian style and fashion expert <span id="a1">[\[1\]](#f1)</span>, consultant and promoter. Andrei working and living in Moscow.
+(Rus. Андрей Аболенкин, {{ page.birth }}, age {{ site.time | date: "%Y" | minus: page.birth }}, {{ page.city }}) is a Russian style and fashion expert <span id="a1">[\[1\]](#f1)</span>, consultant and promoter. Andrei working and living in Moscow.
 
 ![(Andrei Abolenkin in 2014. To see an image try another browser.)]({{ site.url }}/images/{{ page.permalink }}.jpg)
 
