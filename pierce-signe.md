@@ -1,51 +1,60 @@
 ---
-title: Pierce, Signe
+title: 'Pierce, Signe'
 permalink: pierce-signe
 layout: default
+published: true
+shortname: PIERCESIGNE
+indexmod: Indexmod
+birth: '1988'
+age: '30'
+updateyear: '2018'
+city: Tucson
+facebook: '0,0'
+instagram: '0,0'
+youtube: '0,0'
+vimeo: '0,0'
+twitter: '0,0'
+tumblr: '0,0'
+founder: Name
 ---
+(Born {{ page.birth }}, {{ page.city }}) also Signe Kristine Pierce is an American multimedia artist and performer. Pierce studied at the School of Visual Arts in Manhattan, where she received a BFA in Photography with a focus on performance art in 2011. During her time at the School of Visual Arts, Signe interned for Saturday Night Live and the Metropolitan Museum of Art in New York <span id="a1">[\[1\]](#f1)</span>.
 
-# {{page.title}}
+![(Image correspondent to the article of “{{ page.title }}”. To see an image try another browser!)]({{ site.url }}/images/{{ page.permalink }}.jpg)
 
-(Est. 2013, city) is a Signe Kristine Pierce born 1988, Tucson— is an American multimedia artist and performer. Pierce studied at the School of Visual Arts in Manhattan, where she received a BFA in Photography with a focus on performance art in 2011. During her time at the School of Visual Arts, Signe interned for Saturday Night Live and the Metropolitan Museum of Art in New York.1 Sign in to edit Signe Pierce <span id="a1">[\[1\]](#f1)</span>. American Reflexxx
-Signe Pierce rose with the 2014 short film, American Reflexxx, in collaboration with director Alli Coates. The film shows masked and portraying a hyper-sexualized personage, becoming an object of derision and then attacked.2
+**A fragment of American Reflexxx**
 
-![](/encyclopedia/images/image-name.jpg)
-
-**Image title**
-A fragment of American Reflexxx
-Photo: Dir. Alli Coates / Tumblr
-*Photo: [Name](index) / [Source](index)*
-
-# {{page.title}} Conspectus
-
-|Year|City|
-|-|-|
-|2017|Moscow|
-
-# {{page.title}} Indexmod
-
-|Year|Facebook|Instagram|YouTube|Age|Indexmod|
-|-|-|-|-|-|
-|2018|000 <span id="a3">[\[3\]](#f3)</span>|000 <span id="a4">[\[4\]](#f4)</span>|000 <span id="a5">[\[5\]](#f5)</span>|00|0,0000|
+*Photo: [Dir. Alli Coates](index) / [Tumblr](http://allicoates.tumblr.com/)*
 
 
-# See also
+## American Reflexxx 
 
-+ [About {{page.title}}](index)
-+ [{{page.title}} at Wikipedia](index)
-Corsa Musical Project
-Alli Coates
-Hiding in love
+Signe Pierce rose with the 2014 short film, American Reflexxx, in collaboration with director Alli Coates. The film shows masked and portraying a hyper-sexualized personage, becoming an object of derision and then attacked.
 
-# Footnotes
+## Indexmod [*](indexmod)
 
-1, 2 Signe Pierce—From Wikipedia, the free encyclopedia
-3 American Reflexxx / Hiding in love—Corsa 
+|Variables|2018|2019|
+|-|-|-|
+|Facebook <span id="a3">[\[3\]](#f3)</span>|{{ page.facebook }}||
+|Instagram <span id="a4">[\[4\]](#f4)</span>|{{ page.instagram }}||
+|YouTube <span id="a5">[\[5\]](#f5)</span>|{{ page.youtube }}||
+|Twitter <span id="a6">[\[6\]](#f6)</span>|{{ page.twitter }}||
+|Age|{{ page.age }}||
+|Indexmod|{{ page.content | number_of_words }}||
+|Total [*](indexmod)|{{ page.indexmod }}||
+
+
+## See also
+
++ [Corsa Musical Project](index)
++ [Alli Coates](index)
+
+
+## Footnotes
+
+[[1, 2]](#a1) <span id="f1"></span> [{{page.title}} (Wikipedia)](index)
 
 [[3]](#a3) <span id="f3"></span> [{{page.title}} (Facebook)](index)
 
 [[4]](#a4) <span id="f4"></span> [{{page.title}} (Instagram)](index)
 
 [[5]](#a5) <span id="f5"></span> [{{page.title}} (YouTube)](index)
-
-`Updated Mar. 2018 (Andrei Dei)`
