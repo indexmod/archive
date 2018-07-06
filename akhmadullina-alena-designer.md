@@ -17,16 +17,13 @@ twitter: '0,0'
 tumblr: '0,0'
 founder: Name
 ---
-(Est. {{ page.birth }}, {{ page.city }}) is a ---  <span id="a1">[\[1\]](#f1)</span>.
+(Rus. Алёна Ахмадуллина, born {{ page.birth }}, {{ page.city }}) is a Russian fashion designer, founder of the brand Alena Akhmadullina, participant of various Russian and international competitions in the field of fashion, мember of "Snob" from April 2009 <span id="a1">[\[1\]](#f1)</span>.
 
 ![(Image correspondent to the article of “{{ page.title }}”. To see an image try another browser)]({{ site.url }}/images/{{ page.permalink }}.jpg)
 
-(Rus. Алёна Ахмадуллина, born 1978, Sosnovy Bor) Russian fashion designer, founder of the brand Alena Akhmadullina, participant of various Russian and international competitions in the field of fashion, мember of "Snob" from April 2009 <span id="a1">[\[1\]](#f1)</span>.
-
-
 **Image title**
 
-*Photo: [Name](index) / [Source](index)*
+*Photo: [Katerina Alekseeva](index) / [Source](index)*
 
 
 ## Indexmod [*](indexmod)
