@@ -8,7 +8,7 @@ indexmod: Indexmod
 birth: '2013'
 age: '8'
 updateyear: '2018'
-city: Moscow
+city: Izhevsk
 facebook: '0,0'
 instagram: '0,0'
 youtube: '0,0'
