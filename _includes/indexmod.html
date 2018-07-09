@@ -1,9 +1,8 @@
-{% assign number_of_words = content | strip_html | number_of_words %}
+{% assign number_of_words = content | strip_html | number_of_words %} 
 {% assign social = page.facebook | plus: page.instagram %}
 
-{% comment %}Two lines for readability, but can be chained on one line{% endcomment %}
-{% assign index = social | times: page.age | divided_by: 1000000.0 %}
+{% assign index = social | times: page.age | divided_by: 1000000.0 %} 
 {% assign indexmod = index | times: number_of_words | divided_by: 100 %}
   
-{{ indexmod | round: }}
+{{ indexmod | round: 1 }}
 
