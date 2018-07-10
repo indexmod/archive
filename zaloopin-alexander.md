@@ -3,7 +3,6 @@ title: 'Zaloopin, Aleksander'
 permalink: zaloopin-aleksander
 layout: default
 shortname: ZALOOPIN
-
 pagelang: En
 originlang: Rus.
 originspell: Александр Залупин
@@ -18,16 +17,22 @@ twitter: '0,0'
 vkontakte: '974'
 founder: NA
 origin: Russian
-profession: 'singer, musician, performance artist, "the first and so far the only open gay-chansonnier of Russia", creator of "texts of the life stories, written from the first person", "the father of the gay chanson, bard, voice of the generation, genius of the madmen, a favorite of women, men and not-a-men, singer of the endless snow-covered field, the King of a multi-layered messages, the most modern in art", person by judgments of various journalists'
+profession: >-
+  singer, musician, performance artist, the first and so far the only open
+  gay-chansonnier of Russia, creator of texts of the life stories, written from
+  the first person, the father of the gay chanson, bard, voice of the
+  generation, genius of the madmen, a favorite of women, men and not-a-men,
+  singer of the endless snow-covered field, the King of a multi-layered
+  messages, the most modern in art, person by judgments of various journalists
 workingin: working in Moscow
 livingin: living in Moscow
 photo: Aleksander Zaloopin in 2012
 photographer: Sergei Misenko
 photographerurl: misenko-sergei
 source: Sobaka
-sourceurl: http://www.sobaka.ru/city/portrety/13779
+sourceurl: 'http://www.sobaka.ru/city/portrety/13779'
 updateyear: '2018'
-
+published: true
 ---
 
 ## Singles and albums
