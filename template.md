@@ -10,15 +10,13 @@ originspell: Шаблон
 appearing: born/est.
 birth: '2000'
 city: Moscow
-working: Moscow
-living: Moscow
-facebook: '10000'
-instagram: '10000'
-youtube: '10000'
-vimeo: '10000'
-twitter: '10000'
-tumblr: '10000'
-founder: Maria Ivanovna
+facebook: '0,0'
+instagram: '0,0'
+youtube: '0,0'
+vimeo: '0,0'
+twitter: '0,0'
+tumblr: '0,0'
+founder: NA
 origin: Russian
 profession: 'profession'
 workingin: working in Moscow
