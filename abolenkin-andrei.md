@@ -3,6 +3,7 @@ title: 'Abolenkin, Andrei'
 permalink: abolenkin-andrei
 layout: default
 shortname: ABOLENKIN
+
 pagelang: En
 originlang: Rus.
 originspell: Андрей Аболенкин
@@ -28,6 +29,7 @@ photo: Andrei in 2014
 photographer: Igor Vasiliadis
 source: Indexmod
 ---
+
 ## See also
 
 + [Aberdeen Fashion Week](aberdeen-fashion-week)

@@ -2,7 +2,8 @@
 title: 'Template'
 permalink: template
 layout: default
-shortname: Template
+shortname: TEMP
+
 pagelang: En
 originlang: Rus.
 originspell: Шаблон
@@ -19,12 +20,12 @@ twitter: '10000'
 tumblr: '10000'
 founder: Maria Ivanovna
 origin: Russian
-profession: 'style and fashion expert, consultant and promoter'
+profession: 'profession'
 workingin: working in Moscow
 livingin: living in Moscow
-photo: Andrei in 2014
-photographer: Igor Vasiliadis
-source: Vogue
+photo: Name in 2014
+photographer: Name
+source: Name
 updateyear: '2018'
 ---
 
