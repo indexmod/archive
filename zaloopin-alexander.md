@@ -11,11 +11,11 @@ appearing: born
 birth: '1969'
 city: Rostov-on-Don
 facebook: '974'
-instagram: '0,0'
-youtube: '0,0'
+instagram: '313'
+youtube: '75840'
 vimeo: '0,0'
 twitter: '0,0'
-tumblr: '0,0'
+vkontakte: '974'
 founder: NA
 origin: Russian
 profession: 'singer, musician, performance artist, "the first and so far the only open gay-chansonnier of Russia", creator of "texts of the life stories, written from the first person", "the father of the gay chanson, bard, voice of the generation, genius of the madmen, a favorite of women, men and not-a-men, singer of the endless snow-covered field, the King of a multi-layered messages, the most modern in art", person by judgments of various journalists'
@@ -40,7 +40,6 @@ updateyear: '2018'
 ## Performances
 
 + “Chinese Pilot Jao Da” Club Moscow (2018)
-
 
 ## See also
 
