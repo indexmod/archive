@@ -80,6 +80,15 @@
 						"https://prose.io/#indexmod/encyclopedia/edit/master/{{page.path}}"><u>E</u>dit</a>
 					</p>
 				</div>
+				
+				<p>({{ page.lang }} {{ page.namespell }}, born/est {{ page.birth }} (age {{ site.time | date: "%Y" | minus: page.birth }}), {{ page.city }}) is a {{ page.origine}} {{ page.professon}} working {{ page.working }} and living in {{ page.livingin }} .</p>
+				
+![(Andrei Abolenkin in 2014. To see an image try another browser.)]({{ site.url }}/images/{{ page.permalink }}.jpg)
+				
+<p><strong>{{ page.photo }}</strong></p>
+<p><em>{{ page.photographer }} / {{ page.source }}</em></p>
+	
+				
 				{{ content | toc }}
 				<div>
 					<p>
