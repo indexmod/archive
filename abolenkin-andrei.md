@@ -6,6 +6,7 @@ shortname: ABOLENKIN
 pagelang: En
 originlang: Rus.
 originspell: Андрей Аболенкин
+appearing: born
 birth: '1972'
 age: '8'
 updateyear: '2018'

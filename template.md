@@ -6,6 +6,7 @@ shortname: Template
 pagelang: En
 originlang: Rus.
 originspell: Шаблон
+appearing: born/est.
 birth: '2000'
 city: Moscow
 working: Moscow
