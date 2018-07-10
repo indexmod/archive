@@ -17,8 +17,7 @@ twitter: '0,0'
 vkontakte: '974'
 founder: NA
 origin: Russian
-profession: >-
-  singer, musician, performance artist, the first and so far the only open
+profession: singer, musician, performance artist, the first and so far the only open
   gay-chansonnier of Russia, creator of texts of the life stories, written from
   the first person, the father of the gay chanson, bard, voice of the
   generation, genius of the madmen, a favorite of women, men and not-a-men,
