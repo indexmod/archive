@@ -24,6 +24,9 @@ origin: Russian
 profession: 'style, fashion expert, consultant and promoter'
 workingin: working in Moscow
 livingin: living in Moscow
+photo: Andrei in 2014
+photographer: Igor Vasiliadis
+source: Indexmod
 ---
 ## See also
 
