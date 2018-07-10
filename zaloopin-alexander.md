@@ -17,7 +17,7 @@ twitter: '0,0'
 vkontakte: '974'
 founder: NA
 origin: Russian
-profession: singer, musician, performance artist
+profession: 'singer, musician, performance artist'
 workingin: working in Moscow
 livingin: living in Moscow
 photo: Aleksander Zaloopin in 2012
@@ -57,7 +57,7 @@ The first and so far the only open gay-chansonnier of Russia, creator of texts o
 [[2]](#a2) <span id="f2"></span> [Александр Залупин. Биография (LastFm)](http://www.jao-da.ru/afisha/23-02-2018-aleksandr-zalupin)
 
 [[3]](#a3) <span id="f3"></span> [Александр Залупин
-23.02 2018 (“Chinese Pilot Jao Da” Club Moscow )](http://www.jao-da.ru/afisha/23-02-2018-aleksandr-zalupin)
+23.02 2018 (“Chinese Pilot Jao Da” Club Moscow)](http://www.jao-da.ru/afisha/23-02-2018-aleksandr-zalupin)
 
 [[4, 5]](#a4) <span id="f4"></span> [Alexander Zaloopin, Tracks, Albums (SoundCloud ®)](https://soundcloud.com/alexander-zaloopin)
 
