@@ -25,17 +25,6 @@ profession: 'style, fashion expert, consultant and promoter'
 workingin: working in Moscow
 livingin: living in Moscow
 ---
-
-(Rus. Андрей Аболенкин, born {{ page.birth }} (age {{ site.time | date: "%Y" | minus: page.birth }}), {{ page.city }}) is a Russian style and fashion expert <span id="a1">[\[1\]](#f1)</span>, consultant and promoter. Andrei working and living in Moscow.
-
-![(Andrei Abolenkin in 2014. To see an image try another browser.)]({{ site.url }}/images/{{ page.permalink }}.jpg)
-
-
-**Andrei Abolenkin in 2014**
-
-*Photo: [Igor Vasiliadis](igor-vasiliadis) / [Indexmod Encyclopedia](index)*
-
-
 ## See also
 
 + [Aberdeen Fashion Week](aberdeen-fashion-week)
