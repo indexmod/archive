@@ -1,21 +1,30 @@
 ---
-title: Template
+title: 'Template'
 permalink: template
 layout: default
-shortname: TMPL
-indexmod: Indexmod
-birth: '2010'
-age: '8'
-updateyear: '2018'
+shortname: Template
+pagelang: En
+originlang: Rus.
+originspell: Шаблон
+birth: '2000'
 city: Moscow
-facebook: '0,0'
-instagram: '0,0'
-youtube: '0,0'
-vimeo: '0,0'
-twitter: '0,0'
-tumblr: '0,0'
-published: true
-founder: Name
+working: Moscow
+living: Moscow
+facebook: '10000'
+instagram: '10000'
+youtube: '10000'
+vimeo: '10000'
+twitter: '10000'
+tumblr: '10000'
+founder: Maria Ivanovna
+origin: Russian
+profession: 'style and fashion expert, consultant and promoter'
+workingin: working in Moscow
+livingin: living in Moscow
+photo: Andrei in 2014
+photographer: Igor Vasiliadis
+source: Vogue
+updateyear: '2018'
 ---
 
 (Est. {{ page.birth }}, {{ page.city }}) is a ---  <span id="a1">[\[1\]](#f1)</span>.

@@ -19,7 +19,6 @@ vimeo: '30'
 twitter: '100'
 tumblr: '19'
 founder: Maria Ivanovna
-published: true
 origin: Russian
 profession: 'style, fashion expert, consultant and promoter'
 workingin: working in Moscow
