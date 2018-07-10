@@ -33,6 +33,10 @@ published: true
 
 The first and so far the only open gay-chansonnier of Russia, creator of texts of the life stories, written from the first person, the father of the gay chanson, bard, voice of the generation, genius of the madmen, a favorite of women, men and not-a-men, singer of the endless snow-covered field, the King of a multi-layered messages, the most modern in art, person by judgments of various journalists <span id="a4">[\[1, 2, 3\]](#f4)</span>.
 
+## Conflict with Facebook
+
+July 10, 2018, Alexander asked a Facebook audience with a request for support in connection with the requirement of the administration to confirm its real name.
+
 ## Singles and albums
 
 |Year|Name|
