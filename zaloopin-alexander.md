@@ -12,12 +12,12 @@ city: Rostov-on-Don
 facebook: '974'
 instagram: '313'
 youtube: '75840'
-vimeo: '0,0'
+vimeo: '300000'
 twitter: '0,0'
 vkontakte: '974'
 founder: NA
 origin: Russian
-profession: singer, musician, performance artist
+profession: 'singer, musician, performance artist'
 workingin: working in Moscow
 livingin: living in Moscow
 photo: Aleksander Zaloopin in 2012
@@ -32,6 +32,10 @@ published: true
 ## Aleksander Zaloopin
 
 The first and so far the only open gay-chansonnier of Russia, creator of texts of the life stories, written from the first person, the father of the gay chanson, bard, voice of the generation, genius of the madmen, a favorite of women, men and not-a-men, singer of the endless snow-covered field, the King of a multi-layered messages, the most modern in art, person by judgments of various journalists <span id="a4">[\[1, 2, 3\]](#f4)</span>.
+
+## Conflict with Facebook
+
+July 10, 2018, Alexander asked a Facebook audience with a request for support in connection with the requirement of the administration to confirm its real name.
 
 ## Singles and albums
 
@@ -57,7 +61,7 @@ The first and so far the only open gay-chansonnier of Russia, creator of texts o
 [[2]](#a2) <span id="f2"></span> [Александр Залупин. Биография (LastFm)](http://www.jao-da.ru/afisha/23-02-2018-aleksandr-zalupin)
 
 [[3]](#a3) <span id="f3"></span> [Александр Залупин
-23.02 2018 (“Chinese Pilot Jao Da” Club Moscow )](http://www.jao-da.ru/afisha/23-02-2018-aleksandr-zalupin)
+23.02 2018 (“Chinese Pilot Jao Da” Club Moscow)](http://www.jao-da.ru/afisha/23-02-2018-aleksandr-zalupin)
 
 [[4, 5]](#a4) <span id="f4"></span> [Alexander Zaloopin, Tracks, Albums (SoundCloud ®)](https://soundcloud.com/alexander-zaloopin)
 
