@@ -10,7 +10,7 @@ age: '8'
 updateyear: '2018'
 city: Moscow
 facebook: '10000000'
-instagram: '0,0'
+instagram: '12000'
 youtube: '0,0'
 vimeo: '0,0'
 twitter: '0,0'
