@@ -16,6 +16,8 @@ vimeo: '0,0'
 twitter: '0,0'
 tumblr: '0,0'
 founder: Name
+photographer: Igor Vasiliadis
+source: null
 ---
 
 (Rus. Андрей Аболенкин, born {{ page.birth }} (age {{ site.time | date: "%Y" | minus: page.birth }}), {{ page.city }}) is a Russian style and fashion expert <span id="a1">[\[1\]](#f1)</span>, consultant and promoter. Andrei working and living in Moscow.
