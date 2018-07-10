@@ -17,7 +17,6 @@ tumblr: '0,0'
 published: true
 founder: Name
 ---
-`Remove Template tag. Go Edit.`
 
 (Est. {{ page.birth }}, {{ page.city }}) is a ---  <span id="a1">[\[1\]](#f1)</span>.
 
