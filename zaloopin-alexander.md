@@ -22,7 +22,7 @@ workingin: working in Moscow
 livingin: living in Moscow
 photo: Aleksander Zaloopin in 2012
 photographer: Sergei Misenko
-photographerurl: misenko-sergei
+photographerurl: zaloopin-aleksander
 source: Sobaka
 sourceurl: 'http://www.sobaka.ru/city/portrety/13779'
 updateyear: '2018'
