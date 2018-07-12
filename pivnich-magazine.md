@@ -4,25 +4,25 @@ permalink: pivnich-magazine
 layout: default
 published: true
 shortname: PIVNICH
-originlang: Rus or En
-originspell: Spell
-appearing: born  or est
-birth: year
-city: city
+originlang: Ukr.
+originspell: Північ Mегезин
+appearing: est.
+birth: '2106'
+city: Kiev
 facebook: '10000000'
 instagram: '10000000'
 youtube: '10000000'
 vimeo: '10000000'
 twitter: '10000000'
 tumblr: '10000000'
-founder: name
-origin: country
-profession: profession
-workingin: working in location
-livingin: living in location
-photo: description
-photographer: name
-source: name
+founder: null
+origin: Ukrainian
+profession: music magazine
+workingin: null
+livingin: null
+photo: Magazin logo
+photographer: Vasia
+source: Vice
 photographerurl: index.html
 sourceurl: index.html
 updateyear: '2018'
