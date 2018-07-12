@@ -7,7 +7,7 @@ shortname: PIVNICH
 originlang: Ukr.
 originspell: Північ Mегезин
 appearing: est.
-birth: '2106'
+birth: '2016'
 city: Kiev
 facebook: '10000000'
 instagram: '10000000'
