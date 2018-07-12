@@ -2,7 +2,6 @@
 title: Template
 permalink: template
 layout: default
-published: true
 shortname: TEMP
 originlang: Remove inappropriate (Rus. or En.)
 originspell: Edit (origin spell оригинальное написание)
@@ -15,16 +14,6 @@ youtube: '0,0'
 vimeo: '0,0'
 twitter: '0,0'
 tumblr: '0,0'
-<<<<<<< HEAD
-founder: «edit founder name»
-origin: «edit origin country»
-profession: «profession»
-workingin: working in «edit location»
-livingin: living in «edit location»
-photo: «Edit photo description»
-photographer: «edit photographer name»
-source: «edit source name»
-=======
 founder: edit (founder name)
 origin: edit (origin country)
 profession: edit (profession)
@@ -33,7 +22,6 @@ livingin: edit (living in location)
 photo: Edit (photo description)
 photographer: edit (Photographer name)
 source: edit (Source name)
->>>>>>> 026d4aee5463db3cfe96fa60d6d7580b09b43431
 photographerurl: index.html
 sourceurl: index.html
 updateyear: '2018'
