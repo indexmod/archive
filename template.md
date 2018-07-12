@@ -3,25 +3,25 @@ title: Template
 permalink: template
 layout: default
 shortname: TEMP
-originlang: Remove inappropriate (Rus. or En.)
-originspell: Edit (origin spell оригинальное написание)
-appearing: remove the inappropriate (born  or est.)
-birth: edit (birth year)
-city: edit (birth city)
-facebook: '0,0'
-instagram: '0,0'
-youtube: '0,0'
-vimeo: '0,0'
-twitter: '0,0'
-tumblr: '0,0'
-founder: edit (founder name)
-origin: edit (origin country)
-profession: edit (profession)
-workingin: edit (working in location)
-livingin: edit (living in location)
-photo: Edit (photo description)
-photographer: edit (Photographer name)
-source: edit (Source name)
+originlang: Rus or En
+originspell: Spell
+appearing: born  or est
+birth: year
+city: city
+facebook: '10000000'
+instagram: '10000000'
+youtube: '10000000'
+vimeo: '10000000'
+twitter: '10000000'
+tumblr: '10000000'
+founder: name
+origin: country
+profession: profession
+workingin: working in location)
+livingin: living in location)
+photo: description
+photographer: name
+source: name
 photographerurl: index.html
 sourceurl: index.html
 updateyear: '2018'
