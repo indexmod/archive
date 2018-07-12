@@ -13,12 +13,12 @@ updateyear: '2018'
 city: Moscow
 working: Moscow
 living: Moscow
-facebook: '900000'
-instagram: '4500000'
-youtube: '50000'
-vimeo: '30'
-twitter: '100'
-tumblr: '19'
+facebook: '10000000'
+instagram: '10000000'
+youtube: '10000000'
+vimeo: '10000000'
+twitter: '10000000'
+tumblr: '10000000'
 founder: Maria Ivanovna
 origin: Russian
 profession: 'style, fashion expert, consultant and promoter'
