@@ -10,7 +10,7 @@ updateyear: 2018
 city: Калгари
 facebook: 1645
 instagram: 45000
-youtube: null
+youtube: 3630605
 vimeo: null
 twitter: 1860000
 tumblr: null
