@@ -15,6 +15,7 @@ youtube: '0,0'
 vimeo: '0,0'
 twitter: '0,0'
 tumblr: '0,0'
+<<<<<<< HEAD
 founder: «edit founder name»
 origin: «edit origin country»
 profession: «profession»
