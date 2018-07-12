@@ -1,4 +1,5 @@
 ---
+
 title: Template
 permalink: template
 layout: default
@@ -24,6 +25,7 @@ photo: «Edit photo description»
 photographer: «edit photographer's name»
 source: «edit source's name»
 updateyear: '2018'
+
 ---
 
 `This is template`
