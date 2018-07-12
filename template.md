@@ -6,7 +6,7 @@ shortname: TEMP
 originlang: Rus or En
 originspell: Spell
 appearing: born  or est
-birth: year
+birth: 0
 city: city
 facebook: '10000000'
 instagram: '10000000'
