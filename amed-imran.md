@@ -25,7 +25,7 @@ profession: блогер
 workingin: живет и работает в Лондоне
 livingin: living in location
 photo: description
-photographer: name
+photographer: Getty
 source: name
 photographerurl: index.html
 sourceurl: index.html
