@@ -4,25 +4,25 @@ permalink: pivnich-magazine
 layout: default
 published: true
 shortname: PIVNICH
-originlang: Remove inappropriate (Rus. or En.)
-originspell: Edit (origin spell оригинальное написание)
-appearing: remove the inappropriate (born  or est.)
-birth: 2000
-city: edit (birth city)
-facebook: '1000000000'
-instagram: '1000000000'
-youtube: '1000000000'
-vimeo: '1000000000'
-twitter: '1000000000'
-tumblr: '1000000000'
-founder: edit (founder name)
-origin: edit (origin country)
-profession: edit (profession)
-workingin: edit (working in location)
-livingin: edit (living in location)
-photo: Edit (photo description)
-photographer: edit (Photographer name)
-source: edit (Source name)
+originlang: Rus or En
+originspell: Spell
+appearing: born  or est
+birth: year
+city: city
+facebook: '10000000'
+instagram: '10000000'
+youtube: '10000000'
+vimeo: '10000000'
+twitter: '10000000'
+tumblr: '10000000'
+founder: name
+origin: country
+profession: profession
+workingin: working in location
+livingin: living in location
+photo: description
+photographer: name
+source: name
 photographerurl: index.html
 sourceurl: index.html
 updateyear: '2018'
