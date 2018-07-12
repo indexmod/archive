@@ -3,7 +3,28 @@ title: Zaragoza Fashion Week
 permalink: zaragoza-fashion-week
 layout: default
 published: true
-shortname: ZAFW
+shortname: ZELENKOVA
+pagelang: En
+originlang: (remove the inappropriate: Rus. / En.)
+originspell: (edit origin spell)
+appearing: (remove the inappropriate: born / est.)
+birth: (edit birth year)
+city: (edit birth city)
+facebook: '0,0'
+instagram: '0,0'
+youtube: '0,0'
+vimeo: '0,0'
+twitter: '0,0'
+tumblr: '0,0'
+founder: (founder's name)
+origin: (edit origin's country)
+profession: 'profession'
+workingin: working in (edit location)
+livingin: living in (edit location)
+photo: (edit photo description)
+photographer: (edit photographer's name)
+source: (edit source's name)
+updateyear: '2018'
 ---
 (Spa. Semana de la Moda de Zaragoza, est. 2011 <span id="a1">[\[1\]](#f1)</span>, Zaragoza) is a fashion event in Spain.
 
