@@ -4,7 +4,7 @@ permalink: amed-imran
 layout: default
 shortname: AMED
 indexmod: Indexmod
-birth: '2000'
+birth: 1975
 age: '18'
 updateyear: 2018
 city: Калгари
