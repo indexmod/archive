@@ -7,14 +7,14 @@ shortname: PIVNICH
 originlang: Remove inappropriate (Rus. or En.)
 originspell: Edit (origin spell оригинальное написание)
 appearing: remove the inappropriate (born  or est.)
-birth: edit (birth year)
+birth: 2000
 city: edit (birth city)
-facebook: '0,0'
-instagram: '0,0'
-youtube: '0,0'
-vimeo: '0,0'
-twitter: '0,0'
-tumblr: '0,0'
+facebook: '1000000000'
+instagram: '1000000000'
+youtube: '1000000000'
+vimeo: '1000000000'
+twitter: '1000000000'
+tumblr: '1000000000'
 founder: edit (founder name)
 origin: edit (origin country)
 profession: edit (profession)
