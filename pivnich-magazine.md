@@ -5,14 +5,7 @@ layout: default
 published: true
 shortname: PIVNICH
 ---
-(Est. 2013, city) is a Pivnich Magazine (Ukr. Північ Mегезин) est. 2016, Kiev, is an online edition about places, people and events, a chronicle of independent electronic scene in Ukraine and neighboring countries in reports, releases and directly from the events. Sign in to edit Pivnich Magazine
- <span id="a1">[\[1\]](#f1)</span>.
-
-![](/encyclopedia/images/image-name.jpg)
-
-**Image title**
-
-*Photo: [Name](index) / [Source](index)*
+(Est. 2013, city) is a Pivnich Magazine (Ukr. Північ Mегезин) est. 2016, Kiev, is an online edition about places, people and events, a chronicle of independent electronic scene in Ukraine and neighboring countries in reports, releases and directly from the events. Sign in to edit Pivnich Magazine <span id="a1">[\[1\]](#f1)</span>.
 
 # {{page.title}} Conspectus
 
