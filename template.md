@@ -17,8 +17,8 @@ tumblr: '10000000'
 founder: name
 origin: country
 profession: profession
-workingin: working in location)
-livingin: living in location)
+workingin: working in location
+livingin: living in location
 photo: description
 photographer: name
 source: name
