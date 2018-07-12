@@ -3,8 +3,30 @@ title: Lecharlatan (靴下)
 permalink: lecharlatan-靴下
 layout: default
 published: true
-shortname: LECHARLATAN-靴下
+shortname: LECHARLATAN
 indexmod: '9,50'
+originlang: Rus.
+originspell: Le Charlatan
+appearing: est.
+birth: 2015
+city: モスクワ
+facebook: '719'
+instagram: '4235'
+youtube: '3380'
+vimeo: '0,0'
+twitter: '0,0'
+tumblr: '0,0'
+founder: アンドレイ・ボジエフ
+origin: ロシア語
+profession: ストリートウェアブランド
+workingin: モスクワ
+livingin: モスクワ
+photo: Olly AlexanderがLecharlatanソックスを着用
+photographer: トム・ジャミソン
+source: ニューヨークタイムズ
+photographerurl: index.html
+sourceurl: index.html
+updateyear: '2018'
 ---
 (設立	2016年, モスクワ) 衣料品ブランドです、ロシアストリートウェアブランド <span id="a1">[\[1\]](#f1)</span>、アンレイ・ボジエフによるル・シャラタンを設立した高品質のソックスを提供する独立したレーベル <span id="a2">[\[2\]](#f2)</span> そして マリア・アルダロワ <span id="a3">[\[3\]](#f3)</span>, 後で共同設立者から購入した Andrey Bozhyev（2015）によってLecharlatanとして登録されました。TEDxサドーヴェリングのパートナー <span id="a4">[\[4\]](#f4)</span>。
 

@@ -25,6 +25,7 @@ source: edit (Source name)
 photographerurl: index.html
 sourceurl: index.html
 updateyear: '2018'
+published: true
 ---
 
 `This is template`
