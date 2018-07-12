@@ -47,17 +47,6 @@ sourceurl: index.html
 |2015|Почётный профессор модного бизнеса Каледонский университет Глазго|
 |2016|Совет дизайнеров Америки номинант премии Медиа имени Евгении Шеппард|
 
-## {{page.title}} Indexmod [*](indexmod)
-
-||2018|2019|
-|-|-|-|
-|Facebook <span id="a3">[\[3\]](#f3)</span>|{{ page.facebook }}||
-|Instagram <span id="a4">[\[4\]](#f4)</span>|{{ page.instagram }}||
-|YouTube <span id="a5">[\[5\]](#f5)</span>|{{ page.youtube }}||
-|Twitter <span id="a6">[\[6\]](#f6)</span>|{{ page.twitter }}||
-|Age|{{ page.age }}||
-|Article Value|{{ page.content | number_of_words }}||
-|Indexmod|{{ page.indexmod }}||
 
 ## Cм. также
 
