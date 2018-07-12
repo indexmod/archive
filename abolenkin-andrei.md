@@ -22,8 +22,8 @@ tumblr: '10000000'
 founder: Maria Ivanovna
 origin: Russian
 profession: 'style, fashion expert, consultant and promoter'
-workingin: working in Moscow
-livingin: living in Moscow
+workingin: working and living in Moscow
+livingin: null
 photo: Andrei in 2014
 photographer: Igor Vasiliadis
 source: Indexmod
