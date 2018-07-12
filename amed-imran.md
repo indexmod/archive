@@ -26,7 +26,7 @@ workingin: живет и работает в Лондоне
 livingin: living in location
 photo: description
 photographer: Getty
-source: name
+source: GQ Австралия
 photographerurl: index.html
 sourceurl: index.html
 ---
