@@ -4,7 +4,28 @@ permalink: template
 layout: default
 published: true
 shortname: TEMP
-originlang: remove inappropriate Rus En
+originlang: «remove inappropriate Rus. / En.»
+originspell: «edit origin spell»
+appearing: «remove the inappropriate born / est.»
+birth: «edit birth year»
+city: «edit birth city»
+facebook: '0,0'
+instagram: '0,0'
+youtube: '0,0'
+vimeo: '0,0'
+twitter: '0,0'
+tumblr: '0,0'
+founder: «edit founder name»
+origin: «edit origin country»
+profession: «profession»
+workingin: working in «edit location»
+livingin: living in «edit location»
+photo: «Edit photo description»
+photographer: «edit photographer name»
+source: «edit source name»
+photographerurl: index
+sourceurl: index
+updateyear: '2018'
 ---
 
 `This is template`
