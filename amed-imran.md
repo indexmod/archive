@@ -6,14 +6,14 @@ shortname: AMED
 indexmod: Indexmod
 birth: '2000'
 age: '18'
-updateyear: '2018'
+updateyear: 2018
 city: Калгари
-facebook: '10000000'
-instagram: '10000000'
-youtube: '10000000'
-vimeo: '10000000'
-twitter: '10000000'
-tumblr: '10000000'
+facebook: 10000000
+instagram: 10000000
+youtube: 10000000
+vimeo: 10000000
+twitter: 10000000
+tumblr: 10000000
 published: true
 originlang: En.
 originspell: Imran Amed
@@ -24,7 +24,9 @@ origin: канадский
 profession: блогер
 workingin: живет и работает в Лондоне
 livingin: living in location
-photo: description
+photo: >-
+  Имран Амед выступает во время презентации BoF Голоса в Сиднейском оперном
+  театре
 photographer: Getty
 source: GQ Австралия
 photographerurl: index.html
