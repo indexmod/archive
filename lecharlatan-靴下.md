@@ -3,8 +3,30 @@ title: Lecharlatan (靴下)
 permalink: lecharlatan-靴下
 layout: default
 published: true
-shortname: LECHARLATAN-靴下
+shortname: LECHARLATAN
 indexmod: '9,50'
+originlang: Remove inappropriate (Rus. or En.)
+originspell: Edit (origin spell оригинальное написание)
+appearing: remove the inappropriate (born  or est.)
+birth: edit (birth year)
+city: edit (birth city)
+facebook: '0,0'
+instagram: '0,0'
+youtube: '0,0'
+vimeo: '0,0'
+twitter: '0,0'
+tumblr: '0,0'
+founder: edit (founder name)
+origin: edit (origin country)
+profession: edit (profession)
+workingin: edit (working in location)
+livingin: edit (living in location)
+photo: Edit (photo description)
+photographer: edit (Photographer name)
+source: edit (Source name)
+photographerurl: index.html
+sourceurl: index.html
+updateyear: '2018'
 ---
 (設立	2016年, モスクワ) 衣料品ブランドです、ロシアストリートウェアブランド <span id="a1">[\[1\]](#f1)</span>、アンレイ・ボジエフによるル・シャラタンを設立した高品質のソックスを提供する独立したレーベル <span id="a2">[\[2\]](#f2)</span> そして マリア・アルダロワ <span id="a3">[\[3\]](#f3)</span>, 後で共同設立者から購入した Andrey Bozhyev（2015）によってLecharlatanとして登録されました。TEDxサドーヴェリングのパートナー <span id="a4">[\[4\]](#f4)</span>。
 
