@@ -3,7 +3,6 @@ title: 'Abolenkin, Andrei'
 permalink: abolenkin-andrei
 layout: default
 shortname: ABOLENKIN
-
 pagelang: En
 originlang: Rus.
 originspell: Андрей Аболенкин
@@ -28,6 +27,7 @@ livingin: living in Moscow
 photo: Andrei in 2014
 photographer: Igor Vasiliadis
 source: Indexmod
+published: true
 ---
 
 ## See also
