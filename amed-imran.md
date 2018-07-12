@@ -23,7 +23,7 @@ founder: name
 origin: канадский
 profession: блогер
 workingin: живет и работает в Лондоне
-livingin: living in location
+livingin: null
 photo: >-
   Имран Амед выступает во время презентации BoF Голоса в Сиднейском оперном
   театре
