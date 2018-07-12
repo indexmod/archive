@@ -2,8 +2,7 @@
 title: 'Template'
 permalink: template
 layout: default
-shortname:
-
+shortname: TEMP
 pagelang: En
 originlang: (remove the inappropriate: Rus. / En.)
 originspell: (edit origin spell)
@@ -25,14 +24,27 @@ photo: (edit photo description)
 photographer: (edit photographer's name)
 source: (edit source's name)
 updateyear: '2018'
-
 ---
+
+`This is template`
 
 ## Сonspectus
 
 |Year|City|
 |-|-|
 |2017|Moscow|
+
+## Indexmod [*](indexmod)
+
+|Variables|2018|2019|
+|-|-|-|
+|Facebook <span id="a3">[\[3\]](#f3)</span>|{{ page.facebook }}||
+|Instagram <span id="a4">[\[4\]](#f4)</span>|{{ page.instagram }}||
+|YouTube <span id="a5">[\[5\]](#f5)</span>|{{ page.youtube }}||
+|Twitter <span id="a6">[\[6\]](#f6)</span>|{{ page.twitter }}||
+|Age|{{ page.age }}||
+|Indexmod|{{ page.content | number_of_words }}||
+|Total [*](indexmod)|{{ page.indexmod }}||
 
 ## See also
 
