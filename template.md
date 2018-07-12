@@ -23,8 +23,8 @@ livingin: living in «edit location»
 photo: «Edit photo description»
 photographer: «edit photographer name»
 source: «edit source name»
-photographerurl: index
-sourceurl: index
+photographerurl: index.html
+sourceurl: index.html
 updateyear: '2018'
 ---
 
