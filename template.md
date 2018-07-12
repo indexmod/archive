@@ -1,9 +1,9 @@
 ---
-
 title: Template
 permalink: template
 layout: default
-
+published: true
+shortname: TEMP
 ---
 
 `This is template`
