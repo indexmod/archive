@@ -2,19 +2,33 @@
 title: 'Амед, Имран (блогер)'
 permalink: amed-imran
 layout: default
-shortname: AMIM
+shortname: AMED
 indexmod: Indexmod
 birth: '2000'
 age: '18'
 updateyear: '2018'
 city: Калгари
-facebook: '0,0'
-instagram: '0,0'
-youtube: '0,0'
-vimeo: '0,0'
-twitter: '0,0'
-tumblr: '0,0'
+facebook: '10000000'
+instagram: '10000000'
+youtube: '10000000'
+vimeo: '10000000'
+twitter: '10000000'
+tumblr: '10000000'
 published: true
+originlang: En.
+originspell: Imran Amed
+appearing: род.
+born: 1975
+founder: name
+origin: канадский
+profession: блогер
+workingin: живет и работает в Лондоне
+livingin: living in location
+photo: description
+photographer: name
+source: name
+photographerurl: index.html
+sourceurl: index.html
 ---
 
 (Англ. Imran Amed, род. {{ page.birth }} <span id="a1">[\[1\]](#f1)</span>, {{ page.city }})  британский и канадский предприниматель, основатель и генеральный директор “The Business of Fashion” (Бизнес моды), основатель проекта "BoF Голоса" <span id="a2">[\[2\]](#f2)</span>, живёт и работает в Лондоне.
