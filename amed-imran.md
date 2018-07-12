@@ -8,12 +8,12 @@ birth: 1975
 age: '18'
 updateyear: 2018
 city: Калгари
-facebook: 10000000
-instagram: 10000000
-youtube: 10000000
-vimeo: 10000000
-twitter: 10000000
-tumblr: 10000000
+facebook: 1645
+instagram: 45000
+youtube: null
+vimeo: null
+twitter: 1860000
+tumblr: null
 published: true
 originlang: En.
 originspell: Imran Amed
