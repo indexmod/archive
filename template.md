@@ -4,7 +4,7 @@ permalink: template
 layout: default
 published: true
 shortname: TEMP
-originlang: «remove inappropriate Rus. / En.»
+originlang: remove inappropriate Rus En
 ---
 
 `This is template`
