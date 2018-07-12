@@ -52,4 +52,3 @@ updateyear: '2018'
 [[4]](#a4) <span id="f4"></span> [{{page.title}} (Instagram)](index)
 
 [[5]](#a5) <span id="f5"></span> [{{page.title}} (YouTube)](index)
-
