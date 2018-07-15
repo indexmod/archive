@@ -13,8 +13,8 @@ updateyear: '2018'
 city: Moscow
 working: Moscow
 living: Moscow
-facebook: '10000000'
-instagram: '10000000'
+facebook: '0,0'
+instagram: '0,0'
 youtube: '10000000'
 vimeo: '10000000'
 twitter: '10000000'
@@ -28,6 +28,7 @@ photo: Andrei in 2014
 photographer: Igor Vasiliadis
 source: Indexmod
 published: true
+worklive: working in Moscow
 ---
 
 ## See also
