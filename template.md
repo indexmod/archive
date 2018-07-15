@@ -3,11 +3,11 @@ title: Template
 permalink: template
 layout: default
 shortname: TEMP
-originlang: Rus or En
-originspell: Spell
-appearing: born  or est
-birth: 0
-city: city
+originlang: En.
+originspell: Template
+appearing: born
+birth: 1980
+city: Moscow
 facebook: '10000000'
 instagram: '10000000'
 youtube: '10000000'
@@ -15,17 +15,18 @@ vimeo: '10000000'
 twitter: '10000000'
 tumblr: '10000000'
 founder: name
-origin: country
-profession: profession
+origin: Russian
+profession: artist
 workingin: working in location
 livingin: living in location
-photo: description
-photographer: name
-source: name
+photo: This is template image
+photographer: Karl Marx
+source: Times
 photographerurl: index.html
 sourceurl: index.html
 updateyear: '2018'
 published: true
+worklive: working and living in London
 ---
 
 `This is template`
