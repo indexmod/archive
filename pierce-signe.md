@@ -3,19 +3,27 @@ title: 'Pierce, Signe'
 permalink: pierce-signe
 layout: default
 published: true
-shortname: PIERCESIGNE
-indexmod: Indexmod
-birth: '1988'
-age: '30'
-updateyear: '2018'
-city: Tucson
-facebook: '0,0'
-instagram: '0,0'
-youtube: '0,0'
-vimeo: '0,0'
-twitter: '0,0'
-tumblr: '0,0'
-founder: Name
+shortname: TEMPLATE
+originlang: Rus
+originspell: Шаблон
+appearing: born
+birth: 2006
+city: Moscow
+facebook: '123456789'
+instagram: '123456789'
+youtube: '123456789'
+vimeo: '123456789'
+twitter: '123456789'
+tumblr: '123456789'
+founder: Anderi Dei
+origin: Russian
+profession: artist
+workingin: working in location
+photo: Description of the photo
+photographer: Linda Color
+source: name
+photographerurl: index.html
+sourceurl: index.html
 ---
 (Born {{ page.birth }}, {{ page.city }}) also Signe Kristine Pierce is an American multimedia artist and performer. Pierce studied at the School of Visual Arts in Manhattan, where she received a BFA in Photography with a focus on performance art in 2011. During her time at the School of Visual Arts, Signe interned for Saturday Night Live and the Metropolitan Museum of Art in New York <span id="a1">[\[1\]](#f1)</span>.
 
@@ -26,7 +34,7 @@ founder: Name
 *Photo: [Dir. Alli Coates](index) / [Tumblr](http://allicoates.tumblr.com/)*
 
 
-## American Reflexxx 
+## American Reflexxx
 
 Signe Pierce rose with the 2014 short film, American Reflexxx, in collaboration with director Alli Coates. The film shows masked and portraying a hyper-sexualized personage, becoming an object of derision and then attacked.
 

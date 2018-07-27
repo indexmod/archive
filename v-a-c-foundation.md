@@ -2,8 +2,27 @@
 title: V-A-C Foundation
 permalink: v-a-c-foundation
 layout: default
-published: true
-shortname: VACF
+shortname: V-A-C
+originlang: Rus
+originspell: Шаблон
+appearing: born
+birth: 2006
+city: Moscow
+facebook: '123456789'
+instagram: '123456789'
+youtube: '123456789'
+vimeo: '123456789'
+twitter: '123456789'
+tumblr: '123456789'
+founder: Anderi Dei
+origin: Russian
+profession: artist
+workingin: working in location
+photo: Description of the photo
+photographer: Linda Color
+source: name
+photographerurl: index.html
+sourceurl: index.html
 ---
 (Rus. Фонд «Виктория—искусство быть современным», est. 2009, Moscow) founded and headed by Leonid Mikhelson <span id="a1">[\[1\]](#f1)</span>, and dedicated to the international presentation, production and development of Russian contemporary art, focusing on supporting and expanding the platform for home-grown talent, giving artists the opportunity to experience, engage with and interrogate international cultural practices whilst developing an authentic and autonomous artistic language <span id="a2">[\[2\]](#f2)</span>.
 

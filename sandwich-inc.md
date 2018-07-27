@@ -3,19 +3,26 @@ title: Sandwich Inc.
 permalink: sandwich-inc
 layout: default
 shortname: SANDWICH
-indexmod: Indexmod
-birth: '2009'
-age: '11'
-updateyear: '2018'
+originlang: Rus
+originspell: Шаблон
+appearing: born
+birth: 2011
 city: Kyoto
-facebook: '0,0'
-instagram: '0,0'
-youtube: '0,0'
-vimeo: '0,0'
-twitter: '0,0'
-tumblr: '0,0'
-published: true
+facebook: '123456789'
+instagram: '123456789'
+youtube: '123456789'
+vimeo: '123456789'
+twitter: '123456789'
+tumblr: '123456789'
 founder: Kohei Nawa
+origin: Japanese
+profession: artist
+workingin: working in location
+photo: Description of the photo
+photographer: Linda Color
+source: name
+photographerurl: index.html
+sourceurl: index.html
 ---
 
 (Est. {{ page.birth }}, {{ page.city }}) is a platform based in the renovated property of a former sandwich factory along the Uji River in Fushimi Ward, Kyoto foubded by {{ page.founder }}. Creators from an array of fields, such as art, architecture and design, gather here to formulate new expressions. The architecture team established by Nawa, Yoshitaka Lee and Yuichi Kodai explores spatial expressions that involve soft and hard aspects, using contemporary art as a foundation and employing a sculptural vocabulary. Based on these concepts and primal images, the design team creates studies digitally, after which the production team creates innovative uses of materials and methods. The collaboration of the different teams is key to materializing each project. Young creators from Japan and abroad stay at the studio regularly. Weekend projects are developed with art school students. Thus, SANDWICH keeps creating and presenting novel expressions from Kyoto to the world  <span id="a1">[\[1\]](#f1)</span>.

@@ -2,6 +2,27 @@
 title: Stolie, Ilona
 permalink: stolie-ilona
 layout: default
+shortname: STOLIE
+originlang: Rus
+originspell: Шаблон
+appearing: born
+birth: 2006
+city: Moscow
+facebook: '123456789'
+instagram: '123456789'
+youtube: '123456789'
+vimeo: '123456789'
+twitter: '123456789'
+tumblr: '123456789'
+founder: Anderi Dei
+origin: Russian
+profession: artist
+workingin: working in location
+photo: Description of the photo
+photographer: Linda Color
+source: name
+photographerurl: index.html
+sourceurl: index.html
 ---
 
 (Est. 2013, city) is a Ilona Stolie  082  SNC (Rus. Илона Столье) born 1981, Daugavpils, Latvia—a Russian actress, singer, model and photographer of Latvian origin, icon of style1 in Russia. She graduated from music school in piano and studied at the Art School named after Jan Rozentals. She received a law degree from the University of Latvia. Since 2000 lives in Moscow and works for the Russian editions of Vogue and Tatler <span id="a1">[\[1\]](#f1)</span>.

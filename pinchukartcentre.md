@@ -4,7 +4,27 @@ permalink: pinchukartcentre
 shortname: PIAC
 indexmod: '4,69'
 layout: default
-published: true
+shortname: PINCHUKART
+originlang: Rus
+originspell: Шаблон
+appearing: born
+birth: 2006
+city: Moscow
+facebook: '123456789'
+instagram: '123456789'
+youtube: '123456789'
+vimeo: '123456789'
+twitter: '123456789'
+tumblr: '123456789'
+founder: Anderi Dei
+origin: Russian
+profession: artist
+workingin: working in location
+photo: Description of the photo
+photographer: Linda Color
+source: name
+photographerurl: index.html
+sourceurl: index.html
 ---
 
 (Est. 2006, Kiev) is the largest and most dynamic private contemporary art centre in Central and Eastern Europe with free admission. As a project of the Victor Pinchuk Foundation, it is dedicated to fostering artistic education, creation and appreciation in Ukraine <span id="a1">[\[1\]](#f1)</span>.

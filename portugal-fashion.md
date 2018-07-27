@@ -1,7 +1,7 @@
 ---
 title: Portugal Fashion
 permalink: portugal-fashion
-layout: default
+layout: cover
 ---
 # {{page.title}}
 

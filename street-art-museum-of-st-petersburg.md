@@ -2,6 +2,27 @@
 title: Street Art Museum of St. Petersburg
 permalink: street-art-museum-of-st-petersburg
 layout: default
+shortname: SAMSPB
+originlang: Rus
+originspell: Шаблон
+appearing: born
+birth: 2006
+city: Moscow
+facebook: '123456789'
+instagram: '123456789'
+youtube: '123456789'
+vimeo: '123456789'
+twitter: '123456789'
+tumblr: '123456789'
+founder: Anderi Dei
+origin: Russian
+profession: artist
+workingin: working in location
+photo: Description of the photo
+photographer: Linda Color
+source: name
+photographerurl: index.html
+sourceurl: index.html
 ---
 
 (Est. 2013, city) is a Street Art Museum (Street Art Museum of St. Petersburg; Rus. Музей уличного искусства в Санкт Петербурге), is a private institution established in 2012 by Dmitry Zaitsev Chairman of the Advisory Board of the Museum1, a contemporary cultural phenomenon2 of the suburban Krasnogvardeyskiy area of St. Petersburg is divided into two separate zones “Permanent exposition” and “Open public space” <span id="a1">[\[1\]](#f1)</span>.

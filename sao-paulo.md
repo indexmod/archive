@@ -2,6 +2,27 @@
 title: São Paulo
 permalink: sao-paulo
 layout: default
+shortname: SAOPAULO
+originlang: Rus
+originspell: Шаблон
+appearing: born
+birth: 2006
+city: Moscow
+facebook: '123456789'
+instagram: '123456789'
+youtube: '123456789'
+vimeo: '123456789'
+twitter: '123456789'
+tumblr: '123456789'
+founder: Anderi Dei
+origin: Russian
+profession: artist
+workingin: working in location
+photo: Description of the photo
+photographer: Linda Color
+source: name
+photographerurl: index.html
+sourceurl: index.html
 ---
 
 (Eng. Saint Paul) is a cosmopolitan, melting pot city, home to the largest Italian, Arab and Japanese diasporas, with examples including ethnic neighborhoods of Bixiga, Mercado and Liberdade respectively. Sign in to edit São Paulo

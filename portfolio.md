@@ -1,6 +1,6 @@
 ---
 permalink: portfolio
-layout: default
+layout: cover
 title: Portfolio
 ---
 

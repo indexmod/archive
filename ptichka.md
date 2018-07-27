@@ -2,18 +2,27 @@
 title: Ptichka (宅配便)
 permalink: ptichka-宅配便
 layout: default
-shortname: PTKA
-indexmod: '0,0'
-birth: '2017'
-age: '1'
-updateyear: '2018'
-facebook: '0,0'
-instagram: '0,0'
-youtube: '0,0'
-vimeo: '0,0'
-twitter: '0,0'
-tumblr: '0,0'
-published: true
+shortname: PTICHKA
+originlang: Rus
+originspell: Шаблон
+appearing: born
+birth: 2006
+city: Moscow
+facebook: '123456789'
+instagram: '123456789'
+youtube: '123456789'
+vimeo: '123456789'
+twitter: '123456789'
+tumblr: '123456789'
+founder: Anderi Dei
+origin: Russian
+profession: artist
+workingin: working in location
+photo: Description of the photo
+photographer: Linda Color
+source: name
+photographerurl: index.html
+sourceurl: index.html
 ---
 (設立	2017年, モスクワ) サービスはUberの原則に取り組んでモスクワで宅配便を呼び出します <span id="a1">[\[1\]](#f1)</span>。
 

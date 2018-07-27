@@ -2,6 +2,27 @@
 title: Tegin, Svetlana (designer)
 permalink: tegin-svetlana-designer
 layout: default
+shortname: TEGIN
+originlang: Rus
+originspell: Шаблон
+appearing: born
+birth: 2006
+city: Moscow
+facebook: '123456789'
+instagram: '123456789'
+youtube: '123456789'
+vimeo: '123456789'
+twitter: '123456789'
+tumblr: '123456789'
+founder: Anderi Dei
+origin: Russian
+profession: artist
+workingin: working in location
+photo: Description of the photo
+photographer: Linda Color
+source: name
+photographerurl: index.html
+sourceurl: index.html
 ---
 
 (Est. 2013, city) Svetlana Tegin (Rus. Светлана Тегин) 1971, Kiev, is a Russian-Ukrainian designer, founder of Tegin Fashion House living and working in Moscow. Sign in to edit Svetlana Tegin

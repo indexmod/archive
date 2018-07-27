@@ -2,6 +2,27 @@
 title: Stravinsky, Daria
 permalink: stravinsky-daria
 layout: default
+shortname: STRAVINSKY
+originlang: Rus
+originspell: Шаблон
+appearing: born
+birth: 2006
+city: Moscow
+facebook: '123456789'
+instagram: '123456789'
+youtube: '123456789'
+vimeo: '123456789'
+twitter: '123456789'
+tumblr: '123456789'
+founder: Anderi Dei
+origin: Russian
+profession: artist
+workingin: working in location
+photo: Description of the photo
+photographer: Linda Color
+source: name
+photographerurl: index.html
+sourceurl: index.html
 ---
 
 (Est. 2013, city) is a Daria Stravinsky  730  FB (Rus. Дарья Стравински) born 1990, Moscow—Russian designer, founder of LLC “Slashdotdash”, brand of “Dasha Stravinsky”1 and same name online store powered on Squarespace <span id="a1">[\[1\]](#f1)</span>.

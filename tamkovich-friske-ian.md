@@ -7,7 +7,26 @@ shortname: TAFR
 indexmod: '0,002'
 birth: '1993'
 age: '26'
-updateyear: '2018'
+originlang: Rus
+originspell: Шаблон
+appearing: born
+birth: 2006
+city: Moscow
+facebook: '123456789'
+instagram: '123456789'
+youtube: '123456789'
+vimeo: '123456789'
+twitter: '123456789'
+tumblr: '123456789'
+founder: Anderi Dei
+origin: Russian
+profession: artist
+workingin: working in location
+photo: Description of the photo
+photographer: Linda Color
+source: name
+photographerurl: index.html
+sourceurl: index.html
 
 ---
 
@@ -20,17 +39,6 @@ updateyear: '2018'
 
 *Photo: [Afisha.yuga.ru](Afisha.yuga.ru)*
 
-# {{page.title}} Indexmod [*](indexmod)
-
-||2018|2019|
-|-|-|-|
-|Facebook <span id="a3">[\[3\]](#f3)</span>|761||
-|Instagram <span id="a4">[\[4\]](#f4)</span>|372||
-|YouTube <span id="a5">[\[5\]](#f5)</span>|1||
-|Twitter|||
-|Age|26||
-|Indexmod|{{ page.content | number_of_words }}||
-|Total|0,002||
 
 
 # See also update in Feb. 2018

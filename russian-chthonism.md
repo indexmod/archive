@@ -3,8 +3,27 @@ title: Russian сhthonism
 permalink: russian-chthonism
 layout: default
 shortname: RUCH
-indexmod: Indexmod
-published: true
+shortname: TEMPLATE
+originlang: Rus
+originspell: Шаблон
+appearing: born
+birth: 2006
+city: Moscow
+facebook: '123456789'
+instagram: '123456789'
+youtube: '123456789'
+vimeo: '123456789'
+twitter: '123456789'
+tumblr: '123456789'
+founder: Anderi Dei
+origin: Russian
+profession: artist
+workingin: working in location
+photo: Description of the photo
+photographer: Linda Color
+source: name
+photographerurl: index.html
+sourceurl: index.html
 ---
 
 (Est. 2016 Moscow) is an art movement in Russia, focused on dead, mummified displays of the tradition of culture in contemporary art based on metaphor of the  Ancient "subterranean" <span id="a1">[\[1\]](#f1)</span> deities or spirits of the underworld, or refers to anything which is under the earth, described by Michael Klimin and group of artists and based at headquarters in Tsentr Krasny <span id="a2">[\[2\]](#f2)</span> in Moscow.

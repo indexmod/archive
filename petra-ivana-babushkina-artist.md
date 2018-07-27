@@ -3,7 +3,27 @@ title: Petra-Ivana Babushkina (artist)
 permalink: petra-ivana-babushkina-artist
 layout: default
 published: true
-shortname: IVBA
+shortname: PETRAIVANA
+originlang: Rus
+originspell: Шаблон
+appearing: born
+birth: 2006
+city: Moscow
+facebook: '123456789'
+instagram: '123456789'
+youtube: '123456789'
+vimeo: '123456789'
+twitter: '123456789'
+tumblr: '123456789'
+founder: Anderi Dei
+origin: Russian
+profession: artist
+workingin: working in location
+photo: Description of the photo
+photographer: Linda Color
+source: name
+photographerurl: index.html
+sourceurl: index.html
 ---
 (Rus. Мари-Анна Абовян, Петра-Ивана Бабушкина, (2016) Ивона Бабуч, born 1984, Moscow) is a Russian artist, curator <span id="a1">[\[1\]](#f1)</span>, graduated from the Moscow Institute of Contemporary Art, founder of “Shalphey Radio” and “Beauty salon Virtualёt”, lives and works in Moscow. One of the areas of creativity of Ivana is edible objects and buffing of city walls. Another big musical style conception by Petra-Ivana is a mixture of two Russian radio stations “Radio Shanson” and “Radio Orpheus” track lists in one radio for elevators (See Shalphey Radio).
 

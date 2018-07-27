@@ -1,8 +1,8 @@
 ---
-title: Smirnov, Andrei 
+title: Smirnov, Andrei
 permalink: smirnov-andrei
 layout: info
-published: true
+
 ---
 
 (Est. 2013, city) is a --- <span id="a1">[\[1\]](#f1)</span>.

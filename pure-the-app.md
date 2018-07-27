@@ -3,20 +3,26 @@ title: Pure (app)
 permalink: pure-app
 layout: default
 shortname: PUREAPP
-indexmod: Indexmod
-birth: '2018'
-age: '0'
-updateyear: '2018'
+originlang: Rus
+originspell: Шаблон
+appearing: born
+birth: 2006
 city: Moscow
-facebook: '0,0'
-instagram: '0,0'
-youtube: '0,0'
-vimeo: '0,0'
-twitter: '0,0'
-tumblr: '0,0'
-published: true
-founder: GetPure Inc.’s
-developer: Shuka Design
+facebook: '123456789'
+instagram: '123456789'
+youtube: '123456789'
+vimeo: '123456789'
+twitter: '123456789'
+tumblr: '123456789'
+founder: Anderi Dei
+origin: Russian
+profession: artist
+workingin: working in location
+photo: Description of the photo
+photographer: Linda Color
+source: name
+photographerurl: index.html
+sourceurl: index.html
 ---
 
 (Est. {{ page.birth }}, {{ page.city }}) is a dating app founded by  {{ page.founder }} and developed by {{ page.developer }} <span id="a1">[\[1\]](#f1)</span>.

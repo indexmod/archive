@@ -2,6 +2,27 @@
 title: Swims (brand)
 permalink: swims-brand
 layout: default
+shortname: SWIMS
+originlang: Rus
+originspell: Шаблон
+appearing: born
+birth: 2006
+city: Moscow
+facebook: '123456789'
+instagram: '123456789'
+youtube: '123456789'
+vimeo: '123456789'
+twitter: '123456789'
+tumblr: '123456789'
+founder: Anderi Dei
+origin: Russian
+profession: artist
+workingin: working in location
+photo: Description of the photo
+photographer: Linda Color
+source: name
+photographerurl: index.html
+sourceurl: index.html
 ---
 
 (Est. 2013, city) is a Norwegian brand (footwear and casual wear) founded by Johan Ringdal. In 10 years brand of Swims became popular because of interest of media to new contemporary galoshes. Sign in to edit Swims <span id="a1">[\[1\]](#f1)</span>.

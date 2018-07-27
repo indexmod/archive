@@ -1,7 +1,28 @@
 ---
-title: Sochi
-permalink: sochi
+title: Sochi Fashion Week
+permalink: sochi-fashion-week
 layout: default
+shortname: SOCHI
+originlang: Rus
+originspell: Шаблон
+appearing: born
+birth: 2006
+city: Moscow
+facebook: '123456789'
+instagram: '123456789'
+youtube: '123456789'
+vimeo: '123456789'
+twitter: '123456789'
+tumblr: '123456789'
+founder: Anderi Dei
+origin: Russian
+profession: artist
+workingin: working in location
+photo: Description of the photo
+photographer: Linda Color
+source: name
+photographerurl: index.html
+sourceurl: index.html
 ---
 
 (Est. 2013, city) is a Sochi (Rus. Сочи) is a city in Russian Federation on the Black Sea coast near the border of Abkhazia. The Greater Sochi area is 3,526 square kilometers sprawls for 145 kilometers along the shores of the Black Sea near the Caucasus Mountains, is a Russia's largest resort city, part of the Caucasian Riviera, one of the few places in Russia with a subtropical climate <span id="a1">[\[1\]](#f1)</span>.

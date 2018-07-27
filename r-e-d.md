@@ -2,10 +2,29 @@
 title: R.E.D.
 permalink: r-e-d
 layout: default
-published: true
+shortname: RED
+originlang: Rus
+originspell: Шаблон
+appearing: born
+birth: 2006
+city: Moscow
+facebook: '123456789'
+instagram: '123456789'
+youtube: '123456789'
+vimeo: '123456789'
+twitter: '123456789'
+tumblr: '123456789'
+founder: Anderi Dei
+origin: Russian
+profession: artist
+workingin: working in location
+photo: Description of the photo
+photographer: Linda Color
+source: name
+photographerurl: index.html
+sourceurl: index.html
 ---
 
-# {{page.title}}
 
 (Est. 2013, city) is a (Rus. Рэд, бывш. Четвертый этаж) est. in 2010, Moscow—an innovative online platform, till 2015 known as “fourth floor” aimed of promoting designers from Russia and CIS countries, includes services of PR-support and promotion of brands, the development of sales channels, the formation of a professional environment and communication between all the professional market, provides its users with an optimized access to constantly updated archive collections of designers including lookbooks, photos of the shows, video soundtracks and press releases.  <span id="a1">[\[1\]](#f1)</span>. Stylists and fashion editors, in turn, have the opportunity to book models from the collection for shooting, download hi-resolution photo from shows and layout for publication in the media, bypassing the communication with the press-service brand. For bloggers and journalists in a virtual showroom, an additional option as interactive tool for online purchases commercially successful collections of Russian designers of buyers from Moscow, regions and CIS countries. The site gives you the opportunity to order without leaving the desk.1
 

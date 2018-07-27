@@ -2,6 +2,27 @@
 title: St. Radost
 permalink: st-radost
 layout: default
+shortname: STRADOST
+originlang: Rus
+originspell: Шаблон
+appearing: born
+birth: 2006
+city: Moscow
+facebook: '123456789'
+instagram: '123456789'
+youtube: '123456789'
+vimeo: '123456789'
+twitter: '123456789'
+tumblr: '123456789'
+founder: Anderi Dei
+origin: Russian
+profession: artist
+workingin: working in location
+photo: Description of the photo
+photographer: Linda Color
+source: name
+photographerurl: index.html
+sourceurl: index.html
 ---
 (Est. 2013, city) is a St. Radost—a Russian fashion label produced at Atelier Radost’ under Radost Creative Group <span id="a1">[\[1\]](#f1)</span>.
 

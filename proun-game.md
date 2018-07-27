@@ -2,9 +2,27 @@
 title: Проун (игра)
 permalink: proun-game
 layout: default
-published: true
-shortname: PROUN
-indexmod: Indexmod
+shortname: PROUNGAME
+originlang: Rus
+originspell: Шаблон
+appearing: born
+birth: 2006
+city: Moscow
+facebook: '123456789'
+instagram: '123456789'
+youtube: '123456789'
+vimeo: '123456789'
+twitter: '123456789'
+tumblr: '123456789'
+founder: Anderi Dei
+origin: Russian
+profession: artist
+workingin: working in location
+photo: Description of the photo
+photographer: Linda Color
+source: name
+photographerurl: index.html
+sourceurl: index.html
 ---
 
 (Созд. 2011, Амстердам) независимая игра-гонка для платформ PC и Mac, созданная голландским девелопером Юстом ван Донгеном <span id="a1">[\[1\]](#f1)</span>, с абстрактным игровым пространством напоминающим по стилю супрематческие [прауны](proun-visual-concept) Эль Лисицкого, в котором нет понятий вверха и низа, в которой шарик-игрок движется по кабелю пронизывающему мир геометрических объектов и больших цветных поверхностей, с целью избегать препятствия вращаясь вокруг поверхности кабеля и разогнаться как можно быстрее <span id="a2">[\[2\]](#f2)</span>.

@@ -2,20 +2,27 @@
 title: Strasbourg Fashion Week (EM Fashion Week)
 permalink: strasbourg-fashion-week-em-fashion-week
 layout: default
-shortname: TMPL
-indexmod: Indexmod
-birth: '2010'
-age: '8'
-updateyear: '2018'
+shortname: STRASBOURG
+originlang: Rus
+originspell: Шаблон
+appearing: born
+birth: 2006
 city: Moscow
-facebook: '0,0'
-instagram: '0,0'
-youtube: '0,0'
-vimeo: '0,0'
-twitter: '0,0'
-tumblr: '0,0'
-published: true
-founder: Name
+facebook: '123456789'
+instagram: '123456789'
+youtube: '123456789'
+vimeo: '123456789'
+twitter: '123456789'
+tumblr: '123456789'
+founder: Anderi Dei
+origin: Russian
+profession: artist
+workingin: working in location
+photo: Description of the photo
+photographer: Linda Color
+source: name
+photographerurl: index.html
+sourceurl: index.html
 ---
 `Remove Template tag: go Edit`
 

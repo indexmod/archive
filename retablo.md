@@ -4,6 +4,26 @@ permalink: retablos
 layout: default
 published: true
 shortname: RTBL
+originlang: Rus
+originspell: Шаблон
+appearing: born
+birth: 2006
+city: Moscow
+facebook: '123456789'
+instagram: '123456789'
+youtube: '123456789'
+vimeo: '123456789'
+twitter: '123456789'
+tumblr: '123456789'
+founder: Anderi Dei
+origin: Russian
+profession: artist
+workingin: working in location
+photo: Description of the photo
+photographer: Linda Color
+source: name
+photographerurl: index.html
+sourceurl: index.html
 ---
 (Ок. 1780, Мексика) религиозные картины в стиле наив, с помощью которых мексиканцы благодарят своих небесных покровителей за удачу в жизни. В 20-м веке появились своеобразные ретаблы с криминальными сюжетами из жизни наркоторговцев <span id="a1">[\[1\]](#f1)</span>.
 
@@ -28,4 +48,3 @@ shortname: RTBL
 ## Сноски
 
 [[1]](#a1) <span id="f1"></span> [Ретаблос — безумные иконы наркоторговцев из Мексики (Отвратительные мужики)](https://disgustingmen.com/art/retablos)
-

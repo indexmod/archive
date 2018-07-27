@@ -2,6 +2,27 @@
 title: Temporary Autonomous Art
 permalink: temporary-autonomous-art
 layout: default
+shortname: TAA
+originlang: Rus
+originspell: Шаблон
+appearing: born
+birth: 2006
+city: Moscow
+facebook: '123456789'
+instagram: '123456789'
+youtube: '123456789'
+vimeo: '123456789'
+twitter: '123456789'
+tumblr: '123456789'
+founder: Anderi Dei
+origin: Russian
+profession: artist
+workingin: working in location
+photo: Description of the photo
+photographer: Linda Color
+source: name
+photographerurl: index.html
+sourceurl: index.html
 ---
 
 (Est. 2013, city) Temporary Autonomous Art (born in squatted venues in London)—an exhibition that are organised and constructed by the artists themselves to present photography, painting, mixed media and sculpture, mash-up, spoken word, short films, live performance and live music. They operate under an open-access policy, everyone is free to exhibit their work or perform. Time-honoured art forms sit comfortably amongst digital work, sculptures, installations, films, performance and music, encouraging artists and audience to find their own level of creative involvement <span id="a1">[\[1\]](#f1)</span> extra text.

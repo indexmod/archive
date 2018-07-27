@@ -4,18 +4,27 @@ permalink: ponosov-igor
 layout: default
 published: true
 shortname: PONOSOV
-indexmod: Indexmod
-birth: '1980'
-age: '38'
-updateyear: '2018'
+shortname: TEMPLATE
+originlang: Rus
+originspell: Шаблон
+appearing: born
+birth: 1980
 city: Moscow
-facebook: '0,0'
-instagram: '0,0'
-youtube: '0,0'
-vimeo: '0,0'
-twitter: '0,0'
-tumblr: '0,0'
-founder: Name
+facebook: '123456789'
+instagram: '123456789'
+youtube: '123456789'
+vimeo: '123456789'
+twitter: '123456789'
+tumblr: '123456789'
+founder: Anderi Dei
+origin: Russian
+profession: artist
+workingin: working in location
+photo: Description of the photo
+photographer: Linda Color
+source: name
+photographerurl: index.html
+sourceurl: index.html
 ---
 (Born {{ page.birth }}, {{ page.city }}) is a Russian artist, curator, writer, programmer and hacker, co-founder of Partizaning living and working in Moscow <span id="a1">[\[1\]](#f1)</span>.
 

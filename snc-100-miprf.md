@@ -2,6 +2,27 @@
 title: SNC 100 MIPRF
 permalink: snc-100-miprf
 layout: default
+shortname: TEMPLATE
+originlang: Rus
+originspell: Шаблон
+appearing: born
+birth: 2006
+city: Moscow
+facebook: '123456789'
+instagram: '123456789'
+youtube: '123456789'
+vimeo: '123456789'
+twitter: '123456789'
+tumblr: '123456789'
+founder: Anderi Dei
+origin: Russian
+profession: artist
+workingin: working in location
+photo: Description of the photo
+photographer: Linda Color
+source: name
+photographerurl: index.html
+sourceurl: index.html
 ---
 
 (Est. 2013, city) is a 100 most influential people in Russian fashion (Rus. 100 самых влиятельных персон русской моды) est. 2014—an annual ranking conducted by Russian edition SNC <span id="a1">[\[1\]](#f1)</span>.

@@ -2,30 +2,27 @@
 title: Template
 permalink: template
 layout: default
-shortname: TEMP
-originlang: Rus or En
-originspell: Spell
-appearing: born  or est
-birth: 0
-city: city
-facebook: '10000000'
-instagram: '10000000'
-youtube: '10000000'
-vimeo: '10000000'
-twitter: '10000000'
-tumblr: '10000000'
-founder: name
-origin: country
-profession: profession
+shortname: TEMPLATE
+originlang: Rus
+originspell: Шаблон
+appearing: born
+birth: 2006
+city: Moscow
+facebook: '123456789'
+instagram: '123456789'
+youtube: '123456789'
+vimeo: '123456789'
+twitter: '123456789'
+tumblr: '123456789'
+founder: Anderi Dei
+origin: Russian
+profession: artist
 workingin: working in location
-livingin: living in location
-photo: description
-photographer: name
+photo: Description of the photo
+photographer: Linda Color
 source: name
 photographerurl: index.html
 sourceurl: index.html
-updateyear: '2018'
-published: true
 ---
 
 `This is template`

@@ -2,6 +2,27 @@
 title: Turchin, Valeriy
 permalink: turchin-valeriy
 layout: default
+shortname: TEMPLATE
+originlang: Rus
+originspell: Шаблон
+appearing: born
+birth: 2006
+city: Moscow
+facebook: '123456789'
+instagram: '123456789'
+youtube: '123456789'
+vimeo: '123456789'
+twitter: '123456789'
+tumblr: '123456789'
+founder: Anderi Dei
+origin: Russian
+profession: artist
+workingin: working in location
+photo: Description of the photo
+photographer: Linda Color
+source: name
+photographerurl: index.html
+sourceurl: index.html
 ---
 
 Valeriy Turchin (Rus. Валeрий Турчин) born 1941, Leningrad, death 2015, Moscow — Soviet and Russian art critic, art historian, Head of the Department of History of Russian art in the history department of MGU, Doctor of Arts, Professor, a specialist in the history of art XIX-XX centuries, the author of 321 scientific works, including 22 books and book-albums. Sign in to edit Valeriy Turchin

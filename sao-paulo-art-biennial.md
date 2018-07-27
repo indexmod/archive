@@ -2,6 +2,27 @@
 title: São Paulo Art Biennial
 permalink: sao-paulo-art-biennial
 layout: default
+shortname: SPAB
+originlang: Rus
+originspell: Шаблон
+appearing: born
+birth: 2006
+city: Moscow
+facebook: '123456789'
+instagram: '123456789'
+youtube: '123456789'
+vimeo: '123456789'
+twitter: '123456789'
+tumblr: '123456789'
+founder: Anderi Dei
+origin: Russian
+profession: artist
+workingin: working in location
+photo: Description of the photo
+photographer: Linda Color
+source: name
+photographerurl: index.html
+sourceurl: index.html
 ---
 
 São Paulo Art Biennial (Pg. Bienal Internacional de Arte de São Paulo) founded in 1951, second oldest art biennial in the world after the Venice Biennale.1 Sign in to edit São Paulo Art Biennial

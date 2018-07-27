@@ -2,20 +2,27 @@
 title: Peru Fashion Week
 permalink: peru-fashion-week
 layout: default
-shortname: PUFW
-indexmod: Indexmod
-birth: '2000'
-age: '18'
-updateyear: '2018'
+shortname: PERU
+originlang: Rus
+originspell: Шаблон
+appearing: born
+birth: 2012
 city: Moscow
-facebook: '104'
-instagram: '0,0'
-youtube: '0,0'
-vimeo: '0,0'
-twitter: '14'
-tumblr: '0,0'
-published: true
-founder: Name
+facebook: '123456789'
+instagram: '123456789'
+youtube: '123456789'
+vimeo: '123456789'
+twitter: '123456789'
+tumblr: '123456789'
+founder: Anderi Dei
+origin: Russian
+profession: artist
+workingin: working in location
+photo: Description of the photo
+photographer: Linda Color
+source: name
+photographerurl: index.html
+sourceurl: index.html
 ---
 
 (Est. {{ page.birth }}, {{ page.city }}) is a fashion event in Peru positioning country internationally in the world fashion market and being “protagonists of a true creative concept” <span id="a1">[\[1\]](#f1)</span>.

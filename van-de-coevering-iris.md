@@ -5,7 +5,25 @@ layout: default
 shortname: VDCI
 birth: 1974
 city: Baku
-title: Iris Van de Coevering
+shortname: TEMPLATE
+originlang: Rus
+originspell: Шаблон
+appearing: born
+facebook: '123456789'
+instagram: '123456789'
+youtube: '123456789'
+vimeo: '123456789'
+twitter: '123456789'
+tumblr: '123456789'
+founder: Anderi Dei
+origin: Russian
+profession: artist
+workingin: working in location
+photo: Description of the photo
+photographer: Linda Color
+source: name
+photographerurl: index.html
+sourceurl: index.html
 ---
 (Born {{ page.birth }}, {{ page.city }}), also Uma Kumari is a Russian designer, founder of the brands of Spa 101 and Uma Kumari <span id="a1">[\[1\]](#f1)</span>. Living in Denpasar.
 
