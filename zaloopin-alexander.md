@@ -12,8 +12,8 @@ city: Rostov-on-Don
 facebook: '974'
 instagram: '313'
 youtube: '75840'
-vimeo: '1'
-twitter: '1'
+vimeo: '30000000'
+twitter: '10000'
 vkontakte: '974'
 founder: NA
 origin: Russian
