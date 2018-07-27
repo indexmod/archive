@@ -2,7 +2,6 @@
 title: Template
 permalink: template
 layout: default
-<<<<<<< HEAD
 shortname: TEMPLATE
 originlang: Rus
 originspell: Шаблон
@@ -24,33 +23,6 @@ photographer: Linda Color
 source: name
 photographerurl: index.html
 sourceurl: index.html
-=======
-shortname: TEMP
-originlang: En.
-originspell: Template
-appearing: born
-birth: 1980
-city: Moscow
-facebook: '10000000'
-instagram: '10000000'
-youtube: '10000000'
-vimeo: '10000000'
-twitter: '10000000'
-tumblr: '10000000'
-founder: name
-origin: Russian
-profession: artist
-workingin: working in location
-livingin: living in location
-photo: This is template image
-photographer: Karl Marx
-source: Times
-photographerurl: index.html
-sourceurl: index.html
-updateyear: '2018'
-published: true
-worklive: working and living in London
->>>>>>> 2964195ae0db7d51467818487bdcd40282ad58b3
 ---
 
 `This is template`
