@@ -26,8 +26,6 @@ sourceurl: index
 footnote: 1.
 ---
 
-## About
-
 Art group formed by Tatiana Arzamasova, Lev Evzovich and Evgeny Svyatsky, and than expanded with the addition of the photographer Vladimir Fridkes in 1995  <span id="a2">[\[2\]](#f2)</span>.
 
 ## Short Biography
