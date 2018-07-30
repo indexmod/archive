@@ -5,8 +5,8 @@ layout: default
 birth: 2013
 city: Adelaide
 shortname: Adelaide
-originlang:
-originspell:
+originlang: Esperanto
+originspell: Adelaide Moda Festivalo
 appearing: est.
 birth: 2006
 origin: Australian
