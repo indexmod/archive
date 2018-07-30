@@ -5,9 +5,9 @@ layout: default
 published: true
 shortname: AES+F
 shortname: TEMPLATE
-originlang: Rus
+originlang: Rus.:
 originspell: АЕС+Ф
-appearing: born
+appearing: est.
 birth: 2006
 city: Moscow
 facebook: '13353'
@@ -24,6 +24,7 @@ photographer: Egor Zaika
 source: Wallpaper
 photographerurl: zaika-egor
 sourceurl: index
+footnote: <span id="a1">[\[1\]](#f1)</span>.
 ---
 
 (Rus. АЕС+Ф, est. 1987, Moscow) is a Russian art group formed by Tatiana Arzamasova, Lev Evzovich and Evgeny Svyatsky, and than expanded with the addition of the photographer Vladimir Fridkes in 1995 <span id="a1">[\[1\]](#f1)</span>.
