@@ -24,7 +24,7 @@ photographer: Photographer
 source: Source
 photographerurl: index
 sourceurl: index
-footnote: <span id="a2">[\[2\]](#f2)</span>.
+footnote: <span id="a1">[\[1\]](#f1)</span>.
 ---
 
 ## About {{page.givenname}}
