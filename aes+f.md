@@ -3,8 +3,7 @@ title: AES+F
 permalink: aes+f
 layout: default
 published: true
-shortname: AES+F
-shortname: TEMPLATE
+shortname: AESF
 originlang: Rus.:
 originspell: АЕС+Ф
 appearing: est.
