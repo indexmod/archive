@@ -4,6 +4,27 @@ permalink: apxl
 layout: default
 published: true
 shortname: APXL
+shortname: TEMPLATE
+originlang: Rus
+originspell: Шаблон
+appearing: born
+birth: 2006
+city: Moscow
+facebook: '123456789'
+instagram: '123456789'
+youtube: '123456789'
+vimeo: '123456789'
+twitter: '123456789'
+tumblr: '123456789'
+founder: Anderi Dei
+origin: Russian
+profession: artist
+workingin: working in location
+photo: Description of the photo
+photographer: Linda Color
+source: name
+photographerurl: index.html
+sourceurl: index.html
 ---
 
 (Est. 2013, city) Apxl (APXL) re-pres. 2016, Moscow—is a set of magnets by 4S4R made for the Internet Yami-Ichi1 as basic particle constructor of graphic information <span id="a1">[\[1\]](#f1)</span>.

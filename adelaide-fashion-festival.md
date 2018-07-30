@@ -2,13 +2,22 @@
 title: Adelaide Fashion Festival
 permalink: adelaide-fashion-festival
 layout: default
-published: true
-shortname: ADFF
-indexmod: '0,34'
 birth: '2013'
 age: '5'
 city: Adelaide
-updateyear: '2018'
+shortname: Adelaide
+originlang: Rus
+originspell: Шаблон
+appearing: born
+birth: 2006
+origin: Australian
+profession: event
+workingin:
+photo: Description of the photo
+photographer: Linda Color
+source: name
+photographerurl: index.html
+sourceurl: index.html
 facebook: '14231'
 instagram: '28200'
 youtube: '261'

@@ -4,6 +4,27 @@ permalink: aes+f
 layout: default
 published: true
 shortname: AES+F
+shortname: TEMPLATE
+originlang: Rus
+originspell: Шаблон
+appearing: born
+birth: 2006
+city: Moscow
+facebook: '123456789'
+instagram: '123456789'
+youtube: '123456789'
+vimeo: '123456789'
+twitter: '123456789'
+tumblr: '123456789'
+founder: Anderi Dei
+origin: Russian
+profession: artist
+workingin: working in location
+photo: Description of the photo
+photographer: Linda Color
+source: name
+photographerurl: index.html
+sourceurl: index.html
 ---
 
 (Rus. АЕС+Ф, est. 1987, Moscow) is a Russian art group formed by Tatiana Arzamasova, Lev Evzovich and Evgeny Svyatsky, and than expanded with the addition of the photographer Vladimir Fridkes in 1995 <span id="a1">[\[1\]](#f1)</span>.
@@ -2006,7 +2027,7 @@ University, Philadelphia (April 3-May 31), AIGA National Design Center, New York
 
 + Lectures in University Saint Denis Paris 8, 1999
 
-+ Lectures in Rutgers University, Mason Gross 
++ Lectures in Rutgers University, Mason Gross
 School of Arts, 1998
 
 + Lectures in Columbia University, Harvard University, 1989

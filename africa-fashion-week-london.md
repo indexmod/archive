@@ -3,13 +3,32 @@ title: Africa Fashion Week London
 permalink: africa-fashion-week-london
 layout: default
 published: true
-shortname: AFWL
+shortname: AfricaLon
+originlang: Rus
+originspell: Шаблон
+appearing: born
+birth: 2006
+city: Moscow
+facebook: '123456789'
+instagram: '123456789'
+youtube: '123456789'
+vimeo: '123456789'
+twitter: '123456789'
+tumblr: '123456789'
+founder: Anderi Dei
+origin: Russian
+profession: artist
+workingin: working in location
+photo: Description of the photo
+photographer: Linda Color
+source: name
+photographerurl: index.html
+sourceurl: index.html
 ---
-<<<<<<< HEAD
+
 (Est. 2011, London, Gibson Hall) is a fashion event in England founded by Ronke Ademiluyi <span id="a1">[\[1\]](#f1)</span>, annual event showcasing and celebrating work from established and emerging African designers.
-=======
 (Est. 2011, London) is a fashion event in England founded by Ronke Ademiluyi <span id="a1">[\[1\]](#f1)</span>, annual event showcasing and celebrating work from established and emerging African designers.
->>>>>>> 47df5c5b419b39b0569f16bfe25ac158968927a6
+
 
 ![](https://guardian.ng/wp-content/uploads/2016/07/fashion-week.jpg)
 
@@ -17,35 +36,20 @@ shortname: AFWL
 
 *Photo: [Guardian Woman Nigeria](https://guardian.ng/guardian-woman/african-fashion-week-nigeria-has-been-a-success-ronke-ademiluyi/)*
 
-<<<<<<< HEAD
+
 AFWL was created to introduce this work to a wider audience of potential clients and to generate interest in African fashion in an affordable and ethical manner. With the popular ‘Face of AFWL’ modelling competition providing an opportunity for models to make their mark on the industry, the focus of AFWL is to ensure that African fashions can be enjoyed by a wide audience in London and across the globe <span id="a2">[\[2\]](#f2)</span>.
 
-# {{page.title}} Seasons
-=======
+
+
 AFWL was created to introduce this work to a wider audience of potential clients and to generate interest in African fashion in an affordable and ethical manner.
 
-## {{page.title}} Seasons
->>>>>>> 47df5c5b419b39b0569f16bfe25ac158968927a6
+## Seasons
 
 |Year|City|
 |-|-|
 |2011|Gibson Hall|
-|2014||
-|2016||
-|2018||
 
 With the popular ‘Face of AFWL’ modelling competition providing an opportunity for models to make their mark on the industry, the focus of AFWL is to ensure that African fashions can be enjoyed by a wide audience in London and across the globe <span id="a2">[\[2\]](#f2)</span>.
-
-## {{page.title}} Indexmod
-
-|Variables|2018|2019|
-|-|-|-|
-|Facebook <span id="a3">[\[3\]](#f3)</span>|93792||
-|Instagram <span id="a4">[\[4\]](#f4)</span>|29900||
-|YouTube <span id="a5">[\[5\]](#f5)</span>|79956||
-|Age|7|000|
-|Indexmod|{{ page.content | number_of_words }}||
-|Total|1,31||
 
 ## See also
 

@@ -3,6 +3,27 @@ title: Art Newspaper, The
 permalink: art-newspaper-the
 layout: default
 shortname: ANMG
+shortname: TEMPLATE
+originlang: Rus
+originspell: Шаблон
+appearing: born
+birth: 2006
+city: Moscow
+facebook: '123456789'
+instagram: '123456789'
+youtube: '123456789'
+vimeo: '123456789'
+twitter: '123456789'
+tumblr: '123456789'
+founder: Anderi Dei
+origin: Russian
+profession: artist
+workingin: working in location
+photo: Description of the photo
+photographer: Linda Color
+source: name
+photographerurl: index.html
+sourceurl: index.html
 ---
 
 (Est. 2013, city) The Art Newspaper, est. 1983, Turin—is a is an online and paper publication based in London and New York, provides a news service about the art world, fed by its network of sister editions, which together have around 50 correspondents working in over 30 countries, with editorial offices in London, Turin, New York, Paris, Moscow, Beijing and Athens <span id="a1">[\[1\]](#f1)</span>, description-two <span id="a2">[\[2\]](#f2)</span> description-three <span id="a3">[\[3\]](#f3)</span>, extra text.

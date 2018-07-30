@@ -3,6 +3,27 @@ title: Artomat (site)
 permalink: artomat-site
 layout: default
 shortname: ARMT
+shortname: TEMPLATE
+originlang: Rus
+originspell: Шаблон
+appearing: born
+birth: 2006
+city: Moscow
+facebook: '123456789'
+instagram: '123456789'
+youtube: '123456789'
+vimeo: '123456789'
+twitter: '123456789'
+tumblr: '123456789'
+founder: Anderi Dei
+origin: Russian
+profession: artist
+workingin: working in location
+photo: Description of the photo
+photographer: Linda Color
+source: name
+photographerurl: index.html
+sourceurl: index.html
 ---
 
 (Est. 2013, city) Artomat, artomat.pro (Rus. Артомат) re-pres. 2016, Moscow—is a system of automated production of art located as site by Electroboutique and presented at the Internet Yami-Ichi,1 working on algorithms and generates the art in automatic or semi-automatic mode,  the viewer becomes a user-artist, creating works of art <span id="a1">[\[1\]](#f1)</span>, description-two <span id="a2">[\[2\]](#f2)</span> description-3 <span id="a3">[\[3\]](#f3)</span>, extra text.

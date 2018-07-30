@@ -24,7 +24,7 @@ origin: канадский
 profession: блогер
 workingin: живет и работает в Лондоне
 livingin: null
-photo: >-
+photo:
   Имран Амед выступает во время презентации BoF Голоса в Сиднейском оперном
   театре
 photographer: Getty

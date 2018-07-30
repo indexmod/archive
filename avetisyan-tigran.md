@@ -1,21 +1,32 @@
 ---
-title: 'Avetisyan, Tigran'
+title: Avetisyan, Tigran
 permalink: avetisyan-tigran
 layout: default
-shortname: AVTI
+shortname: AVETISYAN
 indexmod: Indexmod
 birth: '1989'
 age: '29'
-updateyear: '2018'
-city: Georgia
-facebook: '0,0'
-instagram: '0,0'
-youtube: '0,0'
-vimeo: '0,0'
-twitter: '0,0'
-tumblr: '0,0'
-published: true
-founder: Name
+shortname: TEMPLATE
+originlang: Rus
+originspell: Шаблон
+appearing: born
+birth: 2006
+city: Moscow
+facebook: '123456789'
+instagram: '123456789'
+youtube: '123456789'
+vimeo: '123456789'
+twitter: '123456789'
+tumblr: '123456789'
+founder: Anderi Dei
+origin: Russian
+profession: artist
+workingin: working in location
+photo: Description of the photo
+photographer: Linda Color
+source: name
+photographerurl: index.html
+sourceurl: index.html
 ---
 (Est. {{ page.birth }}, {{ page.city }}) is a is the 29-year old Russian-Armenian designer who’s making fashion with a critical edge. Having previously worked for Acne and Lanvin, the Saint Martins graduate moved back to Moscow to distance himself from the fashion world and focus on his own label.  <span id="a1">[\[1\]](#f1)</span>.
 

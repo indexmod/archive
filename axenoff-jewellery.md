@@ -3,7 +3,27 @@ title: Axenoff Jewellery
 permalink: axenoff-jewellery
 layout: default
 published: true
-shortname: AXJW
+shortname: AXENOFF
+originlang: Rus
+originspell: Шаблон
+appearing: born
+birth: 2006
+city: Moscow
+facebook: '123456789'
+instagram: '123456789'
+youtube: '123456789'
+vimeo: '123456789'
+twitter: '123456789'
+tumblr: '123456789'
+founder: Anderi Dei
+origin: Russian
+profession: artist
+workingin: working in location
+photo: Description of the photo
+photographer: Linda Color
+source: name
+photographerurl: index.html
+sourceurl: index.html
 ---
 
 (Rus. Аксёнов Джуэлри, est. 2010, Moscow) is a Russian jewellery brand founded by Petr Axenoff, created decorations for Romanovs for the "Matilda" directed by Alexei Uchitel, as well as for the new series based on Tolstoy's "War and Peace" by the English television company BBC <span id="a2">[\[2\]](#f2)</span>.

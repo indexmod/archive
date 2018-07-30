@@ -3,7 +3,26 @@ title: About (clothing)
 permalink: about-clothing
 layout: default
 shortname: ABOUT
-published: true
+originlang: Rus
+originspell: Шаблон
+appearing: born
+birth: 2006
+city: Moscow
+facebook: '123456789'
+instagram: '123456789'
+youtube: '123456789'
+vimeo: '123456789'
+twitter: '123456789'
+tumblr: '123456789'
+founder: Anderi Dei
+origin: Russian
+profession: artist
+workingin: working in location
+photo: Description of the photo
+photographer: Linda Color
+source: name
+photographerurl: index.html
+sourceurl: index.html
 ---
 
 (Est. 2012, Utena) is a Lithuanian innovative underwear and leisurewear brand with the latest technological possibilities with the sense of zeitgeist in design trends, with locally developed fabrics enriched with extra skin-care textile finishing, based on aloe vera, beeswax, silk proteins and antibacterial silver.
