@@ -14,8 +14,27 @@ youtube: '0,0'
 vimeo: '0,0'
 twitter: '0,0'
 tumblr: '0,0'
-published: true
-founder: Name
+shortname: TEMPLATE
+originlang: Rus
+originspell: Шаблон
+appearing: born
+birth: 2006
+city: Moscow
+facebook: '123456789'
+instagram: '123456789'
+youtube: '123456789'
+vimeo: '123456789'
+twitter: '123456789'
+tumblr: '123456789'
+founder: Anderi Dei
+origin: Russian
+profession: artist
+workingin: working in location
+photo: Description of the photo
+photographer: Linda Color
+source: name
+photographerurl: index.html
+sourceurl: index.html
 ---
 
 (Est. {{ page.birth }}, {{ page.city }}) is a Japanese sculptor who in 2009, established Sandwich Inc., a platform for his creative work, in Kyoto. He has held solo exhibitions in Japan and abroad, including Kohei Nawa: Synthesis at the Museum of Contemporary Art Tokyo in 2011 and Force at Pace London. He is a professor in the Graduate School of Art and Design at Kyoto University of Art and Design. Based on his original portmanteau PixCell, which combines pixel, the smallest digital image unit, with cell, Nawa uses a range of materials and technologies including beads, prisms, polyurethane foam and silicon oil, to explore new possibilities in sculpture <span id="a1">[\[1\]](#f1)</span>.

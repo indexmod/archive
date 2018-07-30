@@ -4,7 +4,26 @@ permalink: oh-my-brand
 layout: default
 published: true
 shortname: OHMY
-indexmod: '0,80'
+originlang: Rus
+originspell: Шаблон
+appearing: born
+birth: 2006
+city: Moscow
+facebook: '123456789'
+instagram: '123456789'
+youtube: '123456789'
+vimeo: '123456789'
+twitter: '123456789'
+tumblr: '123456789'
+founder: Anderi Dei
+origin: Russian
+profession: artist
+workingin: working in location
+photo: Description of the photo
+photographer: Linda Color
+source: name
+photographerurl: index.html
+sourceurl: index.html
 ---
 
 (Est. 2010, Saint Petersburg) is a Russian brand of basic clothes with moto "Bread, salt and matches" <span id="a1">[\[1\]](#f1)</span> founded by Sergei Kovelenov (Сергей Ковеленов), positioning itself as a competitor of Uniqlo, Gap, Benetton, H&M <span id="a2">[\[2\]](#f2)</span>.
@@ -17,7 +36,7 @@ indexmod: '0,80'
 
 The assortment of "Oh, my" has all the necessary female and male basic models of clothing: dresses, sweaters, sweaters, T-shirts, sweatshirts, and underwear. Clothing "Oh, my" is in three colors only: white, gray and black. Only natural materials are used in sewing imported from Estonia <span id="a3">[\[3\]](#f3)</span>.
 
-# {{page.title}} Conspectus
+## Conspectus
 
 |Year|City|
 |-|-|
@@ -35,17 +54,6 @@ The assortment of "Oh, my" has all the necessary female and male basic models of
 | |Vladivostok|
 | |Volgograd|
 | |Yaroslavl|
-
-# {{page.title}} Indexmod [*](indexmod)
-
-||2018|2019|
-|-|-|-|
-|Facebook <span id="a4">[\[4\]](#f4)</span>|35926||
-|Instagram <span id="a5">[\[5\]](#f5)</span>|45100||
-|YouTube|||
-|Age|8||
-|Article Value|{{ page.content | number_of_words }}||
-|Indexmod|0,80932104||
 
 # See also
 

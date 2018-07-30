@@ -4,18 +4,26 @@ permalink: nina-donis
 layout: default
 published: true
 shortname: NIDO
-indexmod: '0,26'
-birth: '2000'
-age: '18'
-updateyear: '2018'
+originlang: Rus
+originspell: Шаблон
+appearing: born
+birth: 2006
 city: Moscow
-facebook: '0,0'
-instagram: '0,0'
-youtube: '0,0'
-vimeo: '0,0'
-twitter: '0,0'
-tumblr: '0,0'
-founder: 'Nina Neretina, Donis Pupis'
+facebook: '123456789'
+instagram: '123456789'
+youtube: '123456789'
+vimeo: '123456789'
+twitter: '123456789'
+tumblr: '123456789'
+founder: Anderi Dei
+origin: Russian
+profession: artist
+workingin: working in location
+photo: Description of the photo
+photographer: Linda Color
+source: name
+photographerurl: index.html
+sourceurl: index.html
 ---
 
 (Rus. Нина Донис Москва, est. {{ page.birth }}, {{ page.city }}) is a fashion brand founded in Moscow by Nina Neretina and Donis Pupis in several years after graduate Kosygin Moscow Textile Academy <span id="a1">[\[1\]](#f1)</span>. Until 2000 working as a stylist (TV, musicians), creating conceptual clothes mini-collection, and since 2000 Nina and Donis creating regular seasonal collections, participating Fashion Exhibition London (London Fashion Week, 2000-03); Best Mix Collection (International competition, Hyere, France, 2001); Designer of The Year (Harpess Bazar Russia, 2001); 150 of the Most Influential Designers of the Present (ID London, Tashen, 2003); Designer of the Year (GQ Russia, 2003); Daniele Ghiselli Diffusione show-room (2004-07); Runway of A/W 2005/06 collection at (with sup. British Fashion Council, London Fashion Week, 2005); Show-roomed for world retailers (Studio Zeta Milan, from 2007); Switching from runway shows to fashion films <span id="a2">[\[2\]](#f2)</span> and presentation campaigns (from 2009); Including unificated design in official moodpboard every seasonal campaign (from 2012).

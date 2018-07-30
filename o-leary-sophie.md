@@ -1,9 +1,29 @@
 ---
-title: 'O''Leary, Sophie'
+title: O'Leary, Sophie
 permalink: o-leary-sophie
 layout: default
 published: true
-shortname: OLSO
+shortname: O'Leary
+originlang: Rus
+originspell: Шаблон
+appearing: born
+birth: 2006
+city: Moscow
+facebook: '123456789'
+instagram: '123456789'
+youtube: '123456789'
+vimeo: '123456789'
+twitter: '123456789'
+tumblr: '123456789'
+founder: Anderi Dei
+origin: Russian
+profession: artist
+workingin: working in location
+photo: Description of the photo
+photographer: Linda Color
+source: name
+photographerurl: index.html
+sourceurl: index.html
 ---
 
 (Aka Sophichka, born. 1973, Hampshire) is an UK British artist, founder of “Sophie O'Leary Art", The Curator at Indexmod Encyclopedia in London, living and working in London <span id="a1">[\[1\]](#f1)</span>.

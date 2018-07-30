@@ -5,15 +5,24 @@ layout: default
 shortname: NEVA
 indexmod: Indexmod
 birth: '1983'
-age: '35'
-updateyear: '2018'
 city: Sverdlovsk
 facebook: '2916'
 instagram: '2680'
 youtube: '0,0'
-vimeo: '0,0'
 soundcloud: '180'
-published: true
+originlang: Rus
+originspell: Шаблон
+appearing: born
+birth: 2006
+city: Moscow
+origin: Russian
+profession: artist
+workingin: working in location
+photo: Description of the photo
+photographer: Linda Color
+source: name
+photographerurl: index.html
+sourceurl: index.html
 ---
 
 (Rus. Валентина Немченкова, born {{ page.birth }}, {{ page.city }}) is a Russian costume designer <span id="a1">[\[1\]](#f1)</span>, model <span id="a2">[\[2\]](#f2)</span>, stylist <span id="a3">[\[3\]](#f3)</span> and DJ <span id="a4">[\[4\]](#f4)</span>. Living and working in Moscow.

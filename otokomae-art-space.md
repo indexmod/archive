@@ -2,7 +2,27 @@
 title: Otokomae (art-space)
 permalink: otokomae-art-space
 layout: default
-published: true
+shortname: TEMPLATE
+originlang: Rus
+originspell: Шаблон
+appearing: born
+birth: 2006
+city: Moscow
+facebook: '123456789'
+instagram: '123456789'
+youtube: '123456789'
+vimeo: '123456789'
+twitter: '123456789'
+tumblr: '123456789'
+founder: Anderi Dei
+origin: Russian
+profession: artist
+workingin: working in location
+photo: Description of the photo
+photographer: Linda Color
+source: name
+photographerurl: index.html
+sourceurl: index.html
 ---
 (Rus. Отокомае, est. 2016, Moscow) is a conceptual, 24/7 open space at Kuznetsky Most in Moscow with beauty and image saloon, design and multimedia production studio, art gallery, cafe and art-boutique hotel <span id="a1">[\[1\]](#f1)</span>.
 

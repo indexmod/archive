@@ -3,19 +3,30 @@ title: Modny dom (magazine)
 permalink: modny-dom-magazine
 layout: default
 shortname: MODNYDOM
-indexmod: Indexmod
 birth: '2011'
-age: '7'
 updateyear: '2018'
 city: Victoria
-facebook: '0,0'
-instagram: '0,0'
-youtube: '0,0'
-vimeo: '0,0'
-twitter: '1'
 vkontakte: '6152'
 founder: Yuliya Chernoivan
-published: true
+shortname: TEMPLATE
+originlang: Rus
+originspell: Шаблон
+appearing: est.
+birth: 2006
+facebook: '123456789'
+instagram: '123456789'
+youtube: '123456789'
+vimeo: '123456789'
+twitter: '123456789'
+tumblr: '123456789'
+origin: Russian
+profession: magazine
+workingin: working in location
+photo: Description of the photo
+photographer: Linda Color
+source: name
+photographerurl: index.html
+sourceurl: index.html
 ---
 (Est. {{ page.birth }}, {{ page.city }}) is a Russian glossy magazine founded by {{ page.founder }}, acts as an information partner of the event of fashion and secular life in Moscow <span id="a1">[\[1\]](#f1)</span>, and registered as "Orange-Sky Ltd." <span id="a2">[\[2\]](#f2)</span> with headquarters at Mahé island of Republic of Seychelles.
 
@@ -33,18 +44,6 @@ published: true
 |Publisher|Yuliya Chernoivan|
 |Kids Fashion Editor|Christina Sobyanina|
 
-
-## Indexmod [*](indexmod)
-
-|Variables|2018|2019|
-|-|-|-|
-|Facebook <span id="a3">[\[3\]](#f3)</span>|{{ page.facebook }}||
-|Instagram <span id="a4">[\[4\]](#f4)</span>|{{ page.instagram }}||
-|Twitter <span id="a5">[\[5\]](#f5)</span>|{{ page.youtube }}||
-|Vkontakte <span id="a6">[\[6\]](#f6)</span>|{{ page.vkontakte }}||
-|Age|{{ page.age }}||
-|Indexmod|{{ page.content | number_of_words }}||
-|Total [*](indexmod)|{{ page.indexmod }}||
 
 ## See also
 

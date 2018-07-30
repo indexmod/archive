@@ -25,8 +25,6 @@ photographerurl: index.html
 sourceurl: index.html
 ---
 
-`This is template`
-
 ## Сonspectus
 
 |Year|City|
