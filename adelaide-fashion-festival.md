@@ -2,51 +2,34 @@
 title: Adelaide Fashion Festival
 permalink: adelaide-fashion-festival
 layout: default
-birth: '2013'
-age: '5'
+birth: 2013
 city: Adelaide
 shortname: Adelaide
-originlang: Rus
-originspell: Шаблон
-appearing: born
+originlang:
+originspell:
+appearing: est.
 birth: 2006
 origin: Australian
-profession: event
+profession: event founded by the Government of South Australia
 workingin:
-photo: Description of the photo
-photographer: Linda Color
-source: name
-photographerurl: index.html
-sourceurl: index.html
+photo: Marie Totsikas, Stavroula Mountzouris and Julie White at the AFF opening night at Government House
+photographer: PerthNow
+source: The Sunday Times
+photographerurl: perthnow
+sourceurl: https://www.perthnow.com.au/entertainment/confidential/gallery-fashion-fest-takes-adelaide-ng-60a65860e5142597fa09d257aafd08db
 facebook: '14231'
 instagram: '28200'
 youtube: '261'
-vimeo: '0,0'
+vimeo:
 twitter: '1888'
-tumblr: '0,0'
+tumblr:
 ---
 
-(Est. 2013, Government of South Australia) is fashion event in Australia, nurtured by the City of Norwood, Payneham and St Peters, the festival was elevated onto the international stage in 2015 under the ownership of the South Australian Government and management of Events South Australia, the state’s major events arm.
+## About
 
-![](https://images.perthnow.com.au/publication/60A65860E5142597FA09D257AAFD08DB/9d445e7458df1e2f00581ba4374e9a5c.jpeg)
+Nurtured by the City of Norwood, Payneham and St Peters, the festival was elevated onto the international stage in 2015 under the ownership of the South Australian Government and management of Events South Australia, the state’s major events arm.
 
-**Marie Totsikas, Stavroula Mountzouris and Julie White at the AFF opening night at Government House**
-
-*Photo: [PerthNow](perthnow) / [The Sunday Times](https://www.perthnow.com.au/entertainment/confidential/gallery-fashion-fest-takes-adelaide-ng-60a65860e5142597fa09d257aafd08db)*
-
-# {{page.title}} Indexmod [*](indexmod)
-
-||2018|2019|
-|-|-|-|
-|Facebook <span id="a3">[\[3\]](#f3)</span>|{{ page.facebook }}||
-|Instagram <span id="a4">[\[4\]](#f4)</span>|{{ page.instagram }}||
-|YouTube <span id="a5">[\[5\]](#f5)</span>|{{ page.youtube }}||
-|Twitter <span id="a6">[\[6\]](#f6)</span>|{{ page.twitter }}||
-|Age|5||
-|Page Value|{{ page.content | number_of_words }}||
-|Indexmod|{{ page.indexmod }}||
-
-# See also
+## See also
 
 + [Adjara Fashion Week](adjara-fashion-week)
 + [Acid Noodles](acid-noodles)
@@ -57,7 +40,7 @@ tumblr: '0,0'
 + [St. Peters](st-peters)
 + [Stavroula Mountzouris](stavroula-mountzouris)
 
-# Footnotes
+## Footnotes
 
 [[3]](#a3) <span id="f3"></span> [{{page.title}} (Facebook)](https://www.facebook.com/pg/AdlFashionFest/community/?ref=page_internal)
 
