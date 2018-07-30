@@ -27,8 +27,6 @@ sourceurl: index
 footnote: 1.
 ---
 
-## About {{page.givenname}}
-
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua <span id="a2">[\[2\]](#f2)</span>.
 
 ## Сonspectus
