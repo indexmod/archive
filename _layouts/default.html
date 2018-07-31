@@ -1,5 +1,6 @@
 <!DOCTYPE html>
 <html lang="{{ site.lang | default: EN }}">
+<<<<<<< HEAD
 <head>
 	<title>{% include shortname.html %} | {% include indexmod.html %}</title>
 	<meta content="Indexmod blockchainpedia" name="description">
@@ -65,34 +66,141 @@
 	</div>
 	<script src="{{%20'/assets/js/scale.fix.js'%20|%20relative_url%20}}">
 	</script> {% if site.google_analytics %} <!-- Yandex.Metrika counter -->
+=======
+	<head>
+		<title>
+			{% include shortname.html %} | {% include indexmod.html %}
+		</title>
+		<meta content="Indexmod blockchainpedia" name="description">
+		<meta charset="utf-8">
+		<meta content="chrome=1">
+		<link href="favicon.ico" rel="shortcut icon" type="image/x-icon">
+		<link href="/apple-icon-57x57.png" rel="apple-touch-icon" sizes="57x57">
+		<link href="/apple-icon-60x60.png" rel="apple-touch-icon" sizes="60x60">
+		<link href="/apple-icon-72x72.png" rel="apple-touch-icon" sizes="72x72">
+		<link href="/apple-icon-76x76.png" rel="apple-touch-icon" sizes="76x76">
+		<link href="/apple-icon-114x114.png" rel="apple-touch-icon" sizes="114x114">
+		<link href="/apple-icon-120x120.png" rel="apple-touch-icon" sizes="120x120">
+		<link href="/apple-icon-144x144.png" rel="apple-touch-icon" sizes="144x144">
+		<link href="/apple-icon-152x152.png" rel="apple-touch-icon" sizes="152x152">
+		<link href="/apple-icon-180x180.png" rel="apple-touch-icon" sizes="180x180">
+		<link href="/android-icon-192x192.png" rel="icon" sizes="192x192" type=
+		"image/png">
+		<link href="/favicon-32x32.png" rel="icon" sizes="32x32" type="image/png">
+		<link href="/favicon-96x96.png" rel="icon" sizes="96x96" type="image/png">
+		<link href="/favicon-16x16.png" rel="icon" sizes="16x16" type="image/png">
+		<link href="/manifest.json" rel="manifest">
+		<meta content="20004fe24d47ca4d" name="yandex-verification">
+		<meta content="#ffffff" name="msapplication-TileColor">
+		<meta content="/ms-icon-144x144.png" name="msapplication-TileImage">
+		<meta content="#ffffff" name="theme-color">
+		<meta content="bd6cadbefee34d7e" name="yandex-verification">
+		<meta content="HnrT2NSmVB_2fsV9rS25TEMeTKJSkBfqer0xKAkTBak" name=
+		"google-site-verification">
+		<!-- Indexmod blockchainpedia browser and facebook presentation -->
+		<meta content="{{site.url}}/images/{{page.permalink}}.html" property=
+		"og:url">
+		<meta content="{{page.pagetype}}" property="og:type">
+		<meta content=
+		"{{page.title}} | {% include shortname.html %}{% include indexmod.html %}"
+		property="og:title">
+		<meta content="{{site.url}}/images/{{page.permalink}}.jpg" property=
+		"og:image">
+		<meta content="Indexmod" property="og:site_name">
+		<meta content=
+		"Indexmod is a fashion and art blockchainpedia. Updated on {{ site.time | date_to_long_string }}. This is an article of the “{{page.title}}” at {{site.title}}"
+		property="og:description">
+		<meta content="173711889938607" property="fb:app_id">
+		<style>
+		                                 @import url('https://fonts.googleapis.com/css?family=Old+Standard+TT');
+		</style>
+		<link href=
+		"{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}"
+		rel="stylesheet">
+		<meta content="width=device-width, initial-scale=1" name="viewport">
+		<!--[if lt IE 9]>
+    <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+    <![endif]-->
+	</head>
+	<body>
+		<div class="wrapper">
+			<header>
+				<div class="container">
+					<a href="index"><img alt="Indexmod" src="/indexmod-eye.gif" style=
+					"width:auto;height:auto;border:0;"></a><br>
+				</div>
+			</header>
 
-	<script type="text/javascript">
-	                     (function (d, w, c) {
-	                         (w[c] = w[c] || []).push(function() {
-	                             try {
-	                                 w.yaCounter48876245 = new Ya.Metrika({
-	                                     id:48876245,
-	                                     clickmap:true,
-	                                     trackLinks:true,
-	                                     accurateTrackBounce:true,
-	                                     webvisor:true
-	                                 });
-	                             } catch(e) { }
-	                         });
+			<section>
+				<h1>
+					{{page.title}}
+				</h1>
+				<br>
+				<br>
+				<br>
 
-	                         var n = d.getElementsByTagName("script")[0],
-	                             s = d.createElement("script"),
-	                             f = function () { n.parentNode.insertBefore(s, n); };
-	                         s.type = "text/javascript";
-	                         s.async = true;
-	                         s.src = "https://mc.yandex.ru/metrika/watch.js";
+				<div>
+					<p>
+						<a class="one" href=
+						"https://www.facebook.com/sharer/sharer.php?u=https%3A//indexmod.github.io/encyclopedia/{{page.permalink}}">
+						<u>Sh</u>are</a>&nbsp;&nbsp;&nbsp;&nbsp;<a class="one" href=
+						"https://prose.io/#indexmod/encyclopedia/edit/master/{{page.path}}"><u>Ed</u>it</a>
+					</p>
+				</div>
+				{% include topblock.html %} {{ content | toc }}
+				<div>
+					<p>
+						<a class="one" href=
+						"https://www.facebook.com/sharer/sharer.php?u=https%3A//indexmod.github.io/encyclopedia/{{page.permalink}}">
+						<u>Sh</u>are</a>&nbsp;&nbsp;&nbsp;&nbsp;<a class="one" href=
+						"https://prose.io/#indexmod/encyclopedia/edit/master/{{page.path}}"><u>Ed</u>it</a>
+					</p>
+				</div>
 
-	                         if (w.opera == "[object Opera]") {
-	                             d.addEventListener("DOMContentLoaded", f, false);
-	                         } else { f(); }
-	                     })(document, window, "yandex_metrika_callbacks");
-	</script> <noscript>
-	<div><img alt="" src="https://mc.yandex.ru/watch/48876245" style="position:absolute; left:-9999px;"></div></noscript> <!-- End of Yandex.Metrika counter -->
-	 {% endif %}
-</body>
+				<p class="wrapper">
+					{{ site.time | date: "%Y" }} © Indexmod
+				</p>
+			</section>
+			<br>
+>>>>>>> e686912fe1d6ead60d3bfc72467e69d1cf64063c
+
+			<footer>
+				{% include footer.html %}
+			</footer>
+		</div>
+		<script src="{{%20'/assets/js/scale.fix.js'%20|%20relative_url%20}}">
+		</script> {% if site.google_analytics %} <!-- Yandex.Metrika counter -->
+
+		<script type="text/javascript">
+		                             (function (d, w, c) {
+		                                 (w[c] = w[c] || []).push(function() {
+		                                     try {
+		                                         w.yaCounter48876245 = new Ya.Metrika({
+		                                             id:48876245,
+		                                             clickmap:true,
+		                                             trackLinks:true,
+		                                             accurateTrackBounce:true,
+		                                             webvisor:true
+		                                         });
+		                                     } catch(e) { }
+		                                 });
+
+		                                 var n = d.getElementsByTagName("script")[0],
+		                                     s = d.createElement("script"),
+		                                     f = function () { n.parentNode.insertBefore(s, n); };
+		                                 s.type = "text/javascript";
+		                                 s.async = true;
+		                                 s.src = "https://mc.yandex.ru/metrika/watch.js";
+
+		                                 if (w.opera == "[object Opera]") {
+		                                     d.addEventListener("DOMContentLoaded", f, false);
+		                                 } else { f(); }
+		                             })(document, window, "yandex_metrika_callbacks");
+		</script> <noscript>
+		<div>
+			<img alt="" src="https://mc.yandex.ru/watch/48876245" style=
+			"position:absolute; left:-9999px;">
+		</div></noscript> <!-- End of Yandex.Metrika counter -->
+		 {% endif %}
+	</body>
 </html>

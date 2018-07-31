@@ -1,10 +1,11 @@
 ---
+
 title: AES+F
 permalink: aes+f
 layout: default
 published: true
 shortname: AESPLUSF
-originlang: Rus.:
+originlang: Rus.
 originspell: АЕС+Ф
 appearing: est.
 birth: 1987
@@ -23,7 +24,7 @@ photographer: Egor Zaika
 source: Wallpaper
 photographerurl: zaika-egor
 sourceurl: index
-footnote: 1.
+
 ---
 
 Art group formed by Tatiana Arzamasova, Lev Evzovich and Evgeny Svyatsky, and than expanded with the addition of the photographer Vladimir Fridkes in 1995  <span id="a2">[\[2\]](#f2)</span>.

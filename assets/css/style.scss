@@ -123,6 +123,43 @@ td {
 tr:hover {
 	background-color: #f5f5f5;
 }
+
+
+table.top {
+	font-family: 'Old Standard TT', serif;
+	font-size: 18px;
+	line-height: 1em;
+	font-weight: 900;
+	color: #454343;
+	border-collapse: collapse;
+}
+
+td {
+	background-color: inherit;
+	color: #454343;
+	font-weight: 900;
+	padding: 10px;
+	text-align: left;
+	height: auto;
+	vertical-align: top;
+	border: 0px solid white;
+}
+
+.highlighter-rouge {
+	font-family: 'Monaco';
+	font-size: 19px;
+	line-height: 4em;
+	font-weight: 900;
+	color: #4e80d8;
+	border: solid 0.1px #e0e0e0;
+	background-color: #f5f5f5;
+	-moz-border-radius: 5px;
+	-webkit-border-radius: 5px;
+	border-radius: 5px;
+	padding: 9px 9px;
+}
+
+
 .highlighter-rouge {
 	font-family: 'Monaco';
 	font-size: 19px;

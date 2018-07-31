@@ -4,6 +4,6 @@
 <p><a class="one" href="edit">How to</a></p>
 <p><a class="one" href="qa">QA</a></p>
 <p><a class="one" href="https://www.facebook.com/groups/1827319437559156/about/">Facebook</a></p>
-<p class="one">#<u><a href="https://www.google.com?q={{ page.shortname }}"><span class="string">{{ page.shortname }}</span></a></u> {% include indexmod.html %}</b><br>is an Indexmod of the “{{ page.title }}”<br> at the <a href="index">{{ site.title }}</a><br>{{ site.time | date_to_long_string }}</p>
+<p class="one"><a href="https://www.google.com?q={% include searchshortname.html %}"{% include shortname.html %}</a> {% include indexmod.html %}</b><br>is an Indexmod of the “{{ page.title }}”<br> at the <a href="index">{{ site.title }}</a><br>{{ site.time | date_to_long_string }}</p>
 </body>
 </html>
