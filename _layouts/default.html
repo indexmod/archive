@@ -1,71 +1,61 @@
 <!DOCTYPE html>
 <html lang="{{ site.lang | default: EN }}">
-<head>
-	<title>{% include shortname.html %} | {% include indexmod.html %}</title>
-	<meta content="Indexmod blockchainpedia" name="description">
-	<meta charset="utf-8">
-	<meta content="chrome=1">
-	<link href="favicon.ico" rel="shortcut icon" type="image/x-icon">
-	<link href="/apple-icon-57x57.png" rel="apple-touch-icon" sizes="57x57">
-	<link href="/apple-icon-60x60.png" rel="apple-touch-icon" sizes="60x60">
-	<link href="/apple-icon-72x72.png" rel="apple-touch-icon" sizes="72x72">
-	<link href="/apple-icon-76x76.png" rel="apple-touch-icon" sizes="76x76">
-	<link href="/apple-icon-114x114.png" rel="apple-touch-icon" sizes="114x114">
-	<link href="/apple-icon-120x120.png" rel="apple-touch-icon" sizes="120x120">
-	<link href="/apple-icon-144x144.png" rel="apple-touch-icon" sizes="144x144">
-	<link href="/apple-icon-152x152.png" rel="apple-touch-icon" sizes="152x152">
-	<link href="/apple-icon-180x180.png" rel="apple-touch-icon" sizes="180x180">
-	<link href="/android-icon-192x192.png" rel="icon" sizes="192x192" type="image/png">
-	<link href="/favicon-32x32.png" rel="icon" sizes="32x32" type="image/png">
-	<link href="/favicon-96x96.png" rel="icon" sizes="96x96" type="image/png">
-	<link href="/favicon-16x16.png" rel="icon" sizes="16x16" type="image/png">
-	<link href="/manifest.json" rel="manifest">
-	<meta content="20004fe24d47ca4d" name="yandex-verification">
-	<meta content="#ffffff" name="msapplication-TileColor">
-	<meta content="/ms-icon-144x144.png" name="msapplication-TileImage">
-	<meta content="#ffffff" name="theme-color">
-	<meta content="bd6cadbefee34d7e" name="yandex-verification">
-	<meta content="HnrT2NSmVB_2fsV9rS25TEMeTKJSkBfqer0xKAkTBak" name="google-site-verification">
-	<!-- Indexmod blockchainpedia browser and facebook presentation -->
-	<meta content="" property="og:url">
-	<meta content="{{page.pagetype}}" property="og:type">
+	<head>
+		<title>
+			{% include shortname.html %} | {% include indexmod.html %}
+		</title>
+		<meta content="Indexmod blockchainpedia" name="description">
+		<meta charset="utf-8">
+		<meta content="chrome=1"><!-- Indexmod blockchainpedia browser and facebook presentation -->
+		<meta content="{{site.url}}/images/{{page.permalink}}.html" property="og:url">
+		<meta content="{{page.pagetype}}" property="og:type">
+		<meta content="{{site.url}}/images/{{page.permalink}}.jpg" property="og:image">
+		<meta content="Indexmod" property="og:site_name">
+		<meta content="Indexmod. Updated {{ site.time | date_to_long_string }}. An article of the “{{page.title}}” at {{site.title}}" property="og:description">
+		<meta content="173711889938607" property="fb:app_id">
+		<link href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}" rel="stylesheet">
+		<meta content="width=device-width, initial-scale=1" name="viewport">
+		<style>
+		      @import url('https://fonts.googleapis.com/css?family=Old+Standard+TT');
+		</style>
+	</head>
+	<body>
+		<div class="wrapper">
+			<header>
+				<div class="container">
+					<a href="index"><img alt="Indexmod" src="/indexmod-eye.gif" style="width:auto;height:auto;border:0;"></a><br>
+				</div>
+			</header>
 
-	<meta content="{% include shortname.html %} {% include indexmod.html %}" property="og:title">
+			<section>
+				<h1>
+					{{page.title}}
+				</h1>
+				<br>
+				<br>
+				<br>
 
-	<meta content="{{site.url}}/images/{{page.permalink}}.jpg" property="og:image">
-	<meta content="Indexmod" property="og:site_name">
-	<meta content="Indexmod. Updated {{ site.time | date_to_long_string }}. An article of the “{{page.title}}” at {{site.title}}" property="og:description">
-	<meta content="173711889938607" property="fb:app_id">
-	<link href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}" rel="stylesheet">
-	<meta content="width=device-width, initial-scale=1" name="viewport">
-				<style>@import url('https://fonts.googleapis.com/css?family=Old+Standard+TT');</style>
-</head>
-<body>
-	<div class="wrapper">
-		<header>
-			<div class="container">
-				<a href="index"><img alt="Indexmod" src="/indexmod-eye.gif" style="width:auto;height:auto;border:0;"></a><br>
-			</div>
-		</header>
-		<section>
-			<h1>{{page.title}}</h1><br>
+				<div>
+					<p>
+						<a class="one" href="https://www.facebook.com/sharer/sharer.php?u=https%3A//indexmod.github.io/encyclopedia/{{page.permalink}}"><u>Sh</u>are</a>&nbsp;&nbsp;&nbsp;&nbsp;<a class="one" href="https://prose.io/#indexmod/encyclopedia/edit/master/{{page.path}}"><u>Ed</u>it</a>
+					</p>
+				</div>
+				{% include topblock.html %} {{ content | toc }}
+				<div>
+					<p>
+						<a class="one" href="https://www.facebook.com/sharer/sharer.php?u=https%3A//indexmod.github.io/encyclopedia/{{page.permalink}}"><u>Sh</u>are</a>&nbsp;&nbsp;&nbsp;&nbsp;<a class="one" href="https://prose.io/#indexmod/encyclopedia/edit/master/{{page.path}}"><u>Ed</u>it</a>
+					</p>
+				</div>
+
+				<p class="wrapper">
+					{{ site.time | date: "%Y" }} © Indexmod
+				</p>
+			</section>
 			<br>
-			<br>
-			<div>
-				<p><a class="one" href="https://www.facebook.com/sharer/sharer.php?u=https%3A//indexmod.github.io/encyclopedia/{{page.permalink}}"><u>Sh</u>are</a>&nbsp;&nbsp;&nbsp;&nbsp;<a class="one" href="https://prose.io/#indexmod/encyclopedia/edit/master/{{page.path}}"><u>Ed</u>it</a></p>
-			</div>{% include topblock.html %} {{ content | toc }}
-			<div>
-				<p><a class="one" href="https://www.facebook.com/sharer/sharer.php?u=https%3A//indexmod.github.io/encyclopedia/{{page.permalink}}"><u>Sh</u>are</a>&nbsp;&nbsp;&nbsp;&nbsp;<a class="one" href="https://prose.io/#indexmod/encyclopedia/edit/master/{{page.path}}"><u>Ed</u>it</a></p>
-			</div>
-			<p class="wrapper">{{ site.time | date: "%Y" }} © Indexmod</p>
-		</section><br>
-		<footer>
-			{% include footer-1.html %} {% include footer-1.html %}
-		</footer>
-	</div>
-	
 
-		
-
+			<footer>
+				{% include footer-1.html %} {% include footer-2.html %}
+			</footer>
+		</div>
 	</body>
 </html>
