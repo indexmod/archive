@@ -34,4 +34,4 @@ Schiller leaves the end open, dancing, going into the night, it becomes a follow
 
 ## See also
 
-+ [Antimuseum](index)
++ [Antimuseum](antimuseum)
