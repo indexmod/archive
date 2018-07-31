@@ -26,25 +26,21 @@
 	<meta content="#ffffff" name="theme-color">
 	<meta content="bd6cadbefee34d7e" name="yandex-verification">
 	<meta content="HnrT2NSmVB_2fsV9rS25TEMeTKJSkBfqer0xKAkTBak" name="google-site-verification">
-	<style>
-	                         @import url('https://fonts.googleapis.com/css?family=Old+Standard+TT');
-	</style>
-
- <!-- Indexmod blockchainpedia browser and facebook presentation -->
-
+	<!-- Indexmod blockchainpedia browser and facebook presentation -->
 	<meta content="" property="og:url">
 	<meta content="{{page.pagetype}}" property="og:type">
-	<meta content="{{page.title}} | {% include shortname.html %} {% include indexmod.html %}" property="og:title">
+
+	<meta content="{% include shortname.html %} {% include indexmod.html %}" property="og:title">
+
 	<meta content="{{site.url}}/images/{{page.permalink}}.jpg" property="og:image">
 	<meta content="Indexmod" property="og:site_name">
-	<meta content="Indexmod is a fashion and art blockchainpedia. Updated on {{ site.time | date_to_long_string }}. This is an article of the “{{page.title}}” at {{site.title}}" property="og:description">
+	<meta content="Indexmod. Updated {{ site.time | date_to_long_string }}. An article of the “{{page.title}}” at {{site.title}}" property="og:description">
 	<meta content="173711889938607" property="fb:app_id">
+	<link href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}" rel="stylesheet">
+	<meta content="width=device-width, initial-scale=1" name="viewport">
+				<style>@import url('https://fonts.googleapis.com/css?family=Old+Standard+TT');</style>
 </head>
 <body>
-	<link href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}" rel="stylesheet">
-	<meta content="width=device-width, initial-scale=1" name="viewport"><!--[if lt IE 9]>
-    <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
-    <![endif]-->
 	<div class="wrapper">
 		<header>
 			<div class="container">
@@ -64,7 +60,7 @@
 			<p class="wrapper">{{ site.time | date: "%Y" }} © Indexmod</p>
 		</section><br>
 		<footer>
-			{% include footer.html %}
+			{% include footer-1.html %} {% include footer-1.html %}
 		</footer>
 	</div>
 	<script src="{{%20'/assets/js/scale.fix.js'%20|%20relative_url%20}}">
