@@ -93,7 +93,7 @@ h2, h3, h4, h5, h6 {
 	color: #454343;
 }
 table {
-	font-family: 'Monaco', serif;
+	font-family: 'Verdana', serif;
 	font-size: 18px;
 	line-height: 1em;
 	font-weight: 900;
@@ -101,7 +101,7 @@ table {
 	border-collapse: collapse;
 }
 th {
-	font-family: 'Monaco', serif;
+	font-family: 'Verdana', serif;
 	;
 	background-color: #f5f5f5;
 	color: red;
@@ -146,8 +146,8 @@ td {
 }
 
 .highlighter-rouge {
-	font-family: 'Monaco';
-	font-size: 19px;
+	font-family: 'Verdana';
+	font-size: 12px;
 	line-height: 4em;
 	font-weight: 900;
 	color: #4e80d8;
@@ -161,8 +161,8 @@ td {
 
 
 .highlighter-rouge {
-	font-family: 'Monaco';
-	font-size: 19px;
+	font-family: 'Verdana';
+	font-size: 12px;
 	line-height: 4em;
 	font-weight: 900;
 	color: #4e80d8;
@@ -259,4 +259,9 @@ img {
 	display: block;
 	width: 100%;
 	height: auto;
+}
+
+.tech {
+	font-family: 'Verdana', serif;
+	
 }
