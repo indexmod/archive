@@ -231,11 +231,11 @@ a:active {
 }
 img {
 	max-width: 100%;
-	min-width: 100%;
+	min-width: 50%;
 	height: auto;
 	margin: 0em 0em 0em 0em;
-	-webkit-filter: grayscale(50%);
-	filter: grayscale(50%);
+	-webkit-filter: grayscale(100%);
+	filter: grayscale(100%);
 }
 .container {
 	width: 50px;
