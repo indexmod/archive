@@ -1,30 +1,13 @@
----
----
-
-@import "jekyll-theme-minimal";
-
+--- --- @import "jekyll-theme-minimal";
 .indexmod {
 	float: right;
-	align: right;
-
 }
-
-
-
 .string {
-
 	text-transform: uppercase;
-
 }
-
-title.tab
-
-{
-
+title.tab {
 	text-transform: uppercase;
-
 }
-
 .intro {
 	font-family: 'Helvetica Neue';
 	font-size: 24px;
@@ -93,18 +76,17 @@ h2, h3, h4, h5, h6 {
 }
 table {
 	font-family: 'Verdana', serif;
-	font-size: 18px;
+	font-size: 15px;
 	line-height: 1em;
-	font-weight: 900;
+	font-weight: 100;
 	color: #454343;
 	border-collapse: collapse;
 }
 th {
 	font-family: 'Verdana', serif;
-	;
 	background-color: #f5f5f5;
-	color: red;
-	font-weight: 900;
+	color: green;
+	font-weight: 100;
 	padding: 9px;
 	text-align: left;
 	height: auto;
@@ -114,7 +96,9 @@ th {
 td {
 	padding: 9px;
 	text-align: left;
-	font-weight: 900;
+	font-size: 15px;
+	line-height: 1em;
+	font-weight: 100;
 	height: auto;
 	vertical-align: top;
 	border: 0.1px solid #e0e0e0;
@@ -122,37 +106,34 @@ td {
 tr:hover {
 	background-color: white;
 }
-
-
 table.top {
 	font-family: 'Old Standard TT', serif;
-	font-size: 18px;
+	font-size: 15px;
 	line-height: 1em;
-	font-weight: 900;
+	font-weight: 100;
 	color: #454343;
 	border-collapse: collapse;
 }
-
 td {
 	background-color: inherit;
 	color: #454343;
-	font-weight: 900;
+	font-size: 15px;
+	line-height: 1em;
+	font-weight: 100;
 	padding: 10px;
 	text-align: left;
 	height: auto;
 	vertical-align: top;
 	border: 0px solid white;
 }
-
 tr.top:hover {
-	background-color: white;
+	background-color: none;
 }
-
 .highlighter-rouge {
 	font-family: 'Verdana';
-	font-size: 12px;
+	font-size: 15px;
 	line-height: 4em;
-	font-weight: 900;
+	font-weight: 100;
 	color: #4e80d8;
 	border: solid 0.1px #e0e0e0;
 	background-color: #f5f5f5;
@@ -161,13 +142,11 @@ tr.top:hover {
 	border-radius: 5px;
 	padding: 9px 9px;
 }
-
-
 .highlighter-rouge {
 	font-family: 'Verdana';
-	font-size: 12px;
+	font-size: 15px;
 	line-height: 4em;
-	font-weight: 900;
+	font-weight: 100;
 	color: #4e80d8;
 	border: solid 0.1px #e0e0e0;
 	background-color: #f5f5f5;
@@ -263,8 +242,6 @@ img {
 	width: 100%;
 	height: auto;
 }
-
 .tech {
 	font-family: 'Verdana', serif;
-
 }
