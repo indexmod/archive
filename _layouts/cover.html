@@ -47,7 +47,6 @@
 			<span class="string"><marquee behavior="scroll" direction="left" height="80px" loop="-1" onmouseout="this.start();" onmouseover="this.stop();" scrollamount="10" style="border:0px" width="90%">{% assign mypages = site.pages | sort: "order" %} {% for page in mypages %}</marquee></span>
 			<div class="tooltip">
 				<span class="string"><marquee behavior="scroll" direction="left" height="80px" loop="-1" onmouseout="this.start();" onmouseover="this.stop();" scrollamount="10" style="border:0px" width="90%"><a href="{{page.url|absolute_url}}">{{ page.shortname }}</a> <span class="tooltiptext">{{ page.content | number_of_words }}</span></marquee></span>
-			</div><span class="string">{% endfor %}</span>
 		</header>
 		<section>
 			{{ content }}
