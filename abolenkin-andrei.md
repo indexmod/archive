@@ -6,6 +6,8 @@ layout: default
 shortname: ABOLENKIN
 originlang: Rus.
 originspell: Андрей Аболенкин
+familyname: Family name
+givenname: Given name
 appearing: born
 birth: '1972'
 city: Moscow

@@ -121,7 +121,7 @@ td {
 	border: 0.1px solid #e0e0e0;
 }
 tr:hover {
-	background-color: #f5f5f5;
+	background-color: white;
 }
 
 
@@ -143,6 +143,10 @@ td {
 	height: auto;
 	vertical-align: top;
 	border: 0px solid white;
+}
+
+tr.top:hover {
+	background-color: white;
 }
 
 .highlighter-rouge {
