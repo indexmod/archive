@@ -24,7 +24,6 @@ photographer: Photographer
 source: Source
 photographerurl: index
 sourceurl: index
-footnote: 1.
 ---
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua <span id="a2">[\[2\]](#f2)</span>.
