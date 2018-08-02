@@ -1,6 +1,5 @@
----
----
-
+--- 
+--- 
 @import "jekyll-theme-minimal";
 
 @import url('https://fonts.googleapis.com/css?family=Old+Standard+TT');
@@ -12,19 +11,10 @@
 }
 
 
+>>>>>>> 53ccc70f839efc3311b78f6c3b3b9964e41f0a3f
 
 .string {
-
 	text-transform: uppercase;
-
-}
-
-title.tab
-
-{
-
-	text-transform: uppercase;
-
 }
 
 .intro {
@@ -95,50 +85,38 @@ h2, h3, h4, h5, h6 {
 }
 table {
 	font-family: 'Verdana', serif;
-	font-size: 18px;
+	font-size: 15px;
 	line-height: 1em;
-	font-weight: 900;
-	color: #454343;
+	font-weight: 100;
+	color: black;
 	border-collapse: collapse;
 }
 th {
 	font-family: 'Verdana', serif;
-	;
-	background-color: #f5f5f5;
-	color: red;
-	font-weight: 900;
+	color: black;
+	font-weight: 200;
 	padding: 9px;
 	text-align: left;
 	height: auto;
 	vertical-align: top;
 	border: 0.1px solid #e0e0e0;
 }
-td {
-	padding: 9px;
-	text-align: left;
-	font-weight: 900;
-	height: auto;
-	vertical-align: top;
-	border: 0.1px solid #e0e0e0;
-}
-tr:hover {
-	background-color: white;
-}
 
-
+}
 table.top {
-	font-family: 'Old Standard TT', serif;
-	font-size: 18px;
+	font-family: 'Verdana', serif;
+	font-size: 15px;
 	line-height: 1em;
-	font-weight: 900;
-	color: #454343;
+	font-weight: 100;
+	color: black;
 	border-collapse: collapse;
 }
-
-td {
+td.top {
 	background-color: inherit;
-	color: #454343;
-	font-weight: 900;
+	color: black;
+	font-size: 15px;
+	line-height: 1em;
+	font-weight: 100;
 	padding: 10px;
 	text-align: left;
 	height: auto;
@@ -146,15 +124,11 @@ td {
 	border: 0px solid white;
 }
 
-tr.top:hover {
-	background-color: white;
-}
-
 .highlighter-rouge {
 	font-family: 'Verdana';
-	font-size: 12px;
+	font-size: 15px;
 	line-height: 4em;
-	font-weight: 900;
+	font-weight: 100;
 	color: #4e80d8;
 	border: solid 0.1px #e0e0e0;
 	background-color: #f5f5f5;
@@ -163,13 +137,11 @@ tr.top:hover {
 	border-radius: 5px;
 	padding: 9px 9px;
 }
-
-
 .highlighter-rouge {
 	font-family: 'Verdana';
-	font-size: 12px;
+	font-size: 15px;
 	line-height: 4em;
-	font-weight: 900;
+	font-weight: 100;
 	color: #4e80d8;
 	border: solid 0.1px #e0e0e0;
 	background-color: #f5f5f5;
@@ -251,11 +223,11 @@ a:active {
 }
 img {
 	max-width: 100%;
-	min-width: 100%;
+	min-width: 50%;
 	height: auto;
 	margin: 0em 0em 0em 0em;
-	-webkit-filter: grayscale(95%);
-	filter: grayscale(95%);
+	-webkit-filter: grayscale(100%);
+	filter: grayscale(100%);
 }
 .container {
 	width: 50px;
@@ -265,8 +237,6 @@ img {
 	width: 100%;
 	height: auto;
 }
-
 .tech {
 	font-family: 'Verdana', serif;
-
 }
