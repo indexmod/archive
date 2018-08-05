@@ -2,4 +2,4 @@
 
 🛬 [Welcome to the new repository](https://github.com/indexmod/blockchainpedia)
 
-🗼 [Web URL stay same!](https://indexmod.gq/) 😀
+🗼 [A Web URL stays same!](https://indexmod.gq/) 😀
