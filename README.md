@@ -1,5 +1,5 @@
 # 🚛 Indexmod encyclopedia repository moved to blockchainpedia repository! 🛫
 
-🛬 [Welcome](https://github.com/indexmod/blockchainpedia)
+🛬 [Welcome to the new repository](https://github.com/indexmod/blockchainpedia)
 
-🗼 [Web URL also same!](https://indexmod.gq/) 😀
+🗼 [Web URL stay same!](https://indexmod.gq/) 😀
