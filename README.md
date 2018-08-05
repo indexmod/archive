@@ -1,4 +1,4 @@
-# 🚛 Indexmod encyclopedia repository moved to blockchainpedia repository! 🛫
+# 🚛 Indexmod repository moved to "blockchainpedia" repository! 🛫
 
 🛬 [Welcome to the new repository](https://github.com/indexmod/blockchainpedia)
 
