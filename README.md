@@ -2,4 +2,4 @@
 
 🛬 [Welcome](https://github.com/indexmod/blockchainpedia)
 
-🗼 [Web URL also same!] (https://indexmod.gq/) 😀
+🗼 [Web URL also same!](https://indexmod.gq/) 😀
